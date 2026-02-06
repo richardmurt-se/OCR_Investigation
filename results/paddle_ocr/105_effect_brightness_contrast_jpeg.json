@@ -1,0 +1,8 @@
+{
+  "filename": "105_effect_brightness_contrast.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "Wilson-Jones\nINVOICE\n688C ar Tunpike Ao846|JefferylandMN 88126\nNoINV/62177044\nDate:06/03/2024\nDue:03/08/2026\nFROM\nBILLTO\nWilson-Jones\nKing Group\n688 C ar<Tunpike Aot.840\n047 S mon Squae Suite 587\nJeffery ard.MN88120\nJllianmouth.PR72700\nDescription\nQuantity\nUnit Price\nAmount\nDown-sized nang be model\n2.00\n304.07\n608.14\n2\nStand-a ore rybrd appication\n5.00\n11.38\n59.40\n3\nMulti-lateralbfurcatec database\n2.00\n308.76\n617.50\nrple-ouferec faut-toleranta\n4.00\n407.86\n1871.44\n)\nCorfgurable ccnes ve stroture\n7.00\n300.12\n2100.34\nSubictal\n5257.32\nTax10%)\n525.73\n-202.37\nTotal Due\n5520.18\nPAYMENT INFORMATION\nBank:Woods LLC Crecit Unor",
+  "processing_time_seconds": 2.68,
+  "file_size_bytes": 46143,
+  "success": true
+}

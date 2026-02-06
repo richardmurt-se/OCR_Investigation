@@ -1,0 +1,8 @@
+{
+  "filename": "107_effect_low_dpi.png",
+  "model_name": "paddleocr",
+  "raw_text": "Mann PLC\nINVOICE\nNFAC/ETT\nFROM\nLT0\nMann PLC\nSanchet Group\n romey e 212\nDersorigdiors\nQuandly\nPr\nAdt\n1\nr\n2.00\n7824\n158.45\n4.00\n40.80\n1005\nDoe-  \n1.00\n1450\nCarewowt-we a\n3.00\n1.38.70\n400.10\n1.00\n48.51\n451\nT (80%)\nPAYMEN INFORMACTION\nMethoEAO4",
+  "processing_time_seconds": 2.459,
+  "file_size_bytes": 112188,
+  "success": true
+}

@@ -1,0 +1,8 @@
+{
+  "filename": "046_heavy_punctuation_quotes.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "<Vaughn-Williams>\n,INVOICE\"\nExcellence in Every Detail-Your Trusted Partner\n144 Robert Summit .WallacetonFM 38763\nNo.FAC-8520138\nDate03/20/2025\nFrom:\nBill Tos:\n\"Vaughn-Williams\"\n'Duran-Villanueva'\n144 Robert Summit\n792 Christina Brooks\nWallaceton,FM38763\nWest DanaRI 36305\nDescription>/'Details\n\"Qty\"\n'Price'\n\"Total\"\n\" Multi-lateral fault-tolerant methodology #Rated @ 8% discount\n7.00\nModel:MDL-oioo'<Premium Quality\n400.20\n2801.40\nNEW:Right-sized 6thgeneration pricing structure Inc.SKU:ri-3409\nModel: MDL-o200'<Premium Quality\n3.00\n370.20\n1110.60\nNEw:Polarized well-modulated collaboration-Special Model: QBa-395\n3\nModel:MDL-ogoo'<Premium Quality\n8.00\n160.41\n1283.28\nPremium Quality\n> Assimilated mobile emulation; Deluxe @ 27% discount\"Model: MDL-0400\n7.00\n438.73\n3071.11\n5\nPremium Quality\n2.00\n\"432.36\n864.72\n6\nOptimized transitional benchmark{Limited}-Ref.#63555-Model: MDL\n2.00\no60oPremiumQuality\n223.64\n447.2\nNEW:Stand-alone 4thgeneration Local Area Network-SpecialSize:L\nModel: MDL-0700Premium Quality\n1.00\n231.97\n231.97\nSALE!Upgradable motivating toolset Inc.SKUkD-3221Model:MDL\n8\n800Premium Quality\n7.00\n3149.8\nSubtotal>:\n12960.22\nTax(10%\n1296.02\n\"Discount\":\n1296.02\n12 960.22\nNotes&Terms\"\nPayment is due within30 days of invoice date. All items are sold as-is withstandard warranty.For questions, contact us at <support@company.com> or call(555) 123-4567\nVaughn-williams-Your satisfaction is our priority-Thank you",
+  "processing_time_seconds": 5.376,
+  "file_size_bytes": 120660,
+  "success": true
+}

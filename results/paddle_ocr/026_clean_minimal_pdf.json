@@ -1,0 +1,8 @@
+{
+  "filename": "026_clean_minimal.pdf",
+  "model_name": "paddleocr",
+  "raw_text": "INVOICE\n799813\n08/24/2024\nFROM\nTO\nCrane-Burns\nLee Inc\n49224 Nicole Roads Suite 427\n29354 Joseph Vista Apt. 462\nEvansfurt, MI 66237\nPort lan, WA 95697\nDESCRIPTION\nQTY\nPRICE\nTOTAL\nCentralized local matrices\n2.00\n441.41\n882.82\nSynchronized disintermediate time-frame\n10.00\n129.40\n1 294.00\n Monitored background implementation\n7.00\n17.34\n121.38\n Fundamental multi-state analyzer\n2.00\n421.56\n843.12\n Balanced motivating help-desk\n6.00\n436.64\n2 619.84\n Subtotal\n5 761.16\nTax\n576.12\nDiscount\n-288.06\nTotal\n6 049.22\nThank you",
+  "processing_time_seconds": 2.22,
+  "file_size_bytes": 97212,
+  "success": true
+}

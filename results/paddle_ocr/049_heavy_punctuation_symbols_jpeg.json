@@ -1,0 +1,8 @@
+{
+  "filename": "049_heavy_punctuation_symbols.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "SHEPARD, CAMERON AND NORRIS TM\nQuality&Excellence_Since1985\n(555) 123-4567 |  info@company.com |  2865 Lee Curve Suite 006 North Timothy, WA 52236\nINVOICE DETAILS SSS:\nBILL TO\nPAYMENT INFOS\nNo.#BILL/180500\nLewis, Wright and Richardson\nBank8Williams-Thomas Financial\nDateTM03/03/2024\nPSC9068Box 6622/APOAA69960\nAcct#:AGUL65871086081631\nRef@REF-180500\nMethod: Wire Transfer\nDescription(w/specs &notes\nQty\n$/Unit\n$$Total\n**Function-based grid-enabled service-desk-Special-Ref.#96512-SKU=01000\n47%0ffNEW!\n1.00\n$235.53\n$235.53\nSALE!Synergized even-keeled data-warehouse Limited@21% discount\n2\nSKU=02000@29%0ffNEW!*\n5.00x\n$196.95\n$984.75\nNEW:Digitized exuding hub SSS (SKUeI-3867SKU#03000 @28% off*NEW]\n3.\n***\n9.00\n$320.43\n$2883.87*\n4\n3.00\n$135.65\n$406.95\nS\n>Intuitive cohesive approach***Model:ENj-658SKU#05000@30% off\n2.00\n$381.65\n[NEW!**\n$763.30**\nSALETotal even-keeled definitionInc.ModelOnI-954SKU#06000 @19% off\n3.00\n$320.30\n[NEW!**\n$960.90\nSubtotalS:\n$6235.30\nTax @10%\n$623.53\nTOTAL$$$\n$6858.83\n   \n***Total includes all applicable fees & taxesShepardCame\nThank you for your business**\nShepard.Cameron and NorrisInvoice=BILL/180500 Page 1/1 2024",
+  "processing_time_seconds": 4.544,
+  "file_size_bytes": 115824,
+  "success": true
+}

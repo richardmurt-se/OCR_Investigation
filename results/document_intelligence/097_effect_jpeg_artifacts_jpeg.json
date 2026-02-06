@@ -1,0 +1,63 @@
+{
+  "filename": "097_effect_jpeg_artifacts.jpeg",
+  "invoice": {
+    "client_name": "Larsen-Young",
+    "client_address": "",
+    "seller_name": "Vazquez-Martin",
+    "seller_address": "8771 Colleen Manor Suite @71\nAnthonystad, NJ 70381",
+    "invoice_number": "66345743",
+    "invoice_date": "28/01/2025",
+    "due_date": "17/02/2026"
+  },
+  "items": [
+    {
+      "description": "Inverse impactful function",
+      "quantity": "4.00",
+      "unit_price": "315.03",
+      "total_price": "1 280.12",
+      "category": null
+    },
+    {
+      "description": "Multi-channeled zero tolerance analyzer",
+      "quantity": "1.00",
+      "unit_price": "229.12",
+      "total_price": "229.12",
+      "category": null
+    },
+    {
+      "description": "Grass-roots motivating flexibility",
+      "quantity": "0.00",
+      "unit_price": "161.27",
+      "total_price": "1 451.43",
+      "category": null
+    },
+    {
+      "description": "Implemented uniform database",
+      "quantity": "10.00",
+      "unit_price": "366.21",
+      "total_price": "3 682.10",
+      "category": null
+    },
+    {
+      "description": "Configurable tangible initiative",
+      "quantity": "8.00",
+      "unit_price": "324.48",
+      "total_price": "2 595.84",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "9 198.61",
+    "tax": "919.86",
+    "discount": "",
+    "total": "10 118.47"
+  },
+  "payment_instructions": {
+    "due_date": "17/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.811,
+  "file_size_bytes": 55547
+}

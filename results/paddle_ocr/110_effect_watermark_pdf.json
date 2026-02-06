@@ -1,0 +1,8 @@
+{
+  "filename": "110_effect_watermark.pdf",
+  "model_name": "paddleocr",
+  "raw_text": "Phillips-Kidd\nINVOICE\n36587 Nicole Stream Suite 644 | North Olivia, CA 38958\nNo: INV3176967\nDate: 12/17/2024\nDue: 03/11/2026\nFROM\nBILL TO\nPhillips-Kidd\nHunter, Garcia and Jones\n36587 Nicole Stream Suite 644\n02597 Foster Drives Suite 390\nNorth Olivia, CA 38958\nHortonfort, GU 58607\nDescription\n Quantity\nUnit Price\nAmount\nOptimized solution-oriented migration\n5.00\n428.88\n2 144.40\n2\n Sharable uniform projecte\n1.00\n334.51\n334.51\n3\nRe-engineered directional benchmarke\n5.00\n128.75\n643.75\n Re-engineered needs-based open system\n7.00\n393.90\n2 757.30\nSAMPLE\nSubtotal\n5 879.96\nTax (10%)\n588.00\nDiscount\n-588.00\nTotal Due\n5 879.96\nPAYMENT INFORMATION\nBank: Lewis, Flores and Rivera Financial\nAccount: ROON06759146617752\nMethod: Check\nThank you for y",
+  "processing_time_seconds": 2.587,
+  "file_size_bytes": 58036,
+  "success": true
+}

@@ -1,0 +1,70 @@
+{
+  "filename": "055_unusual_format_sidebar.png",
+  "invoice": {
+    "client_name": "Johnson, Kelly and Bailey",
+    "client_address": "643 Gibson Branch Apt. 067\nNorth Rebeccaton, AR 65932",
+    "seller_name": "Curtis-Adams",
+    "seller_address": "8533 Scott Islands Apt. 716\nEast Herbertview, FL 03414",
+    "invoice_number": "INV/247501",
+    "invoice_date": "09/03/2025",
+    "due_date": "14/02/2026"
+  },
+  "items": [
+    {
+      "description": "Focused heuristic process improvement",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 431.63",
+      "category": null
+    },
+    {
+      "description": "Profit-focused 3rdgeneration forecast",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "91.75",
+      "category": null
+    },
+    {
+      "description": "Diverse radical software",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "388.86",
+      "category": null
+    },
+    {
+      "description": "Organized next generation focus group",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 969.75",
+      "category": null
+    },
+    {
+      "description": "Switchable logistical policy",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "3 826.40",
+      "category": null
+    },
+    {
+      "description": "Business-focused optimizing database",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2 209.30",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "9 917.69",
+    "tax": "",
+    "discount": "",
+    "total": "10 413.58"
+  },
+  "payment_instructions": {
+    "due_date": "14/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.728,
+  "file_size_bytes": 34977
+}

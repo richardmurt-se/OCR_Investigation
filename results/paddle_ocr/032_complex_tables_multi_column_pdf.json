@@ -1,0 +1,8 @@
+{
+  "filename": "032_complex_tables_multi_column.pdf",
+  "model_name": "paddleocr",
+  "raw_text": "Nelson-Munoz\nINVOICE\n2049 Swanson Center | East Lucas, TN 47109\n BILL/9257937422\nSeller\nBuyer\n Invoice Details\nNelson-Munoz\nReyes, Vazquez and Burgess\nNo: BILL/9257937422\n2049 Swanson Center, East Lucas, TN 47109\n5696 Timothy Tumpike, West Adam, NY 13240\nDate: 05/24/2025\nDue: 02/15/2026\nDescription\nCal\nQt\nUnit\nPric\nDisc%\nDisc$\nTax%\nTax$\nNe\nTotal\nSK0100\nCons\n2.00\nEA\n54.84\n 6%\n2.70\n10%\n10.97\n109.68\n109.68\nSK0200\nQuality-focused next generation so.l..\nMain\n7.00\nEA\n58.07\n8%\n4.90\n10%\n40.65\n406.49\n406.49\nSK0300\nDown-sized clear-thinking monitorin...\n Serv\n7.00\nEA\n588EE\n 6%\n0.40\n10%\n237.19\n2 371.95\n2 371.95\nSK0400\nProgressive context-sensitive colla..\n7.00\nEA\n24.94\n 4%\n2.10\n10%\n17.46\n174.58\n174.58\nSK0500\nUser-centric mobile implementation\n Equi\n9.00\nEA\n497.57\n2%\n0.80\n10%\n447.81\n4 478.13\n4 478.13\nSK0600\nObject-based full-range middleware .\nAcce\n6.00\nEA\n79.92\n9%\n2.50\n10%\n47.95\n479.52\n479.52\nSK0700\nPre-emptive systemic alliance\nFurn\n6.00\n190.97\n13%\n3.80\n10%\n114.58\n1 145.82\n1 145.82\nSK0800\nReactive clear-thinking paradigm |\n Elec\n2.00\nEA\n282.13\n10%\n3.10\n10%\n56.43\n564.26\n564.26\nSubtotal:\n9 730.43\nTotal Discount:\n486.52\nTotal Tax:\n973.04\nShipping:\n0.00\n10 216.95\nPayment: Hanson, Jackson and Powers Bank | Acct: AlUZ05699420991206\nTerms: Net 30 | Nelson-Munoz | Invoice #BILL/9257937422",
+  "processing_time_seconds": 5.986,
+  "file_size_bytes": 96884,
+  "success": true
+}

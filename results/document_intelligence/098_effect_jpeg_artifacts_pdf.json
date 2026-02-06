@@ -1,0 +1,49 @@
+{
+  "filename": "098_effect_jpeg_artifacts.pdf",
+  "invoice": {
+    "client_name": "Parks-Briggs",
+    "client_address": "",
+    "seller_name": "Roberts-Rogers",
+    "seller_address": "2010 Smith Clun\nSusanberg, DE 75876",
+    "invoice_number": "348305",
+    "invoice_date": "07/10/2024",
+    "due_date": "26/02/2026"
+  },
+  "items": [
+    {
+      "description": "Upgradable multi-state parallelism",
+      "quantity": "7.00",
+      "unit_price": "450.42",
+      "total_price": "3 152.94",
+      "category": null
+    },
+    {
+      "description": "Implemented secondary knowledgebase",
+      "quantity": "7.00",
+      "unit_price": "157.08",
+      "total_price": "1 103.83",
+      "category": null
+    },
+    {
+      "description": "Devolved actuating concept",
+      "quantity": "6.00",
+      "unit_price": "166.71",
+      "total_price": "1 000.26",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "5 257.03",
+    "tax": "555.00",
+    "discount": "",
+    "total": "5 782.73"
+  },
+  "payment_instructions": {
+    "due_date": "26/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.01,
+  "file_size_bytes": 109286
+}

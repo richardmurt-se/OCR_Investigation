@@ -1,0 +1,84 @@
+{
+  "filename": "009_clean_standard.jpeg",
+  "invoice": {
+    "client_name": "Joyce, White and Anderson",
+    "client_address": "",
+    "seller_name": "Hendrix-Ortiz",
+    "seller_address": "2199 Maria Inlet Apt. 843\nNorth Laurenborough, IL 54314",
+    "invoice_number": "INV/835484",
+    "invoice_date": "03/11/2024",
+    "due_date": "28/02/2026"
+  },
+  "items": [
+    {
+      "description": "Sharable neutral groupware",
+      "quantity": "6.00",
+      "unit_price": "315.03",
+      "total_price": "1 890.18",
+      "category": null
+    },
+    {
+      "description": "Persevering multimedia data-warehouse",
+      "quantity": "5.00",
+      "unit_price": "391.51",
+      "total_price": "1 957.55",
+      "category": null
+    },
+    {
+      "description": "Configurable incremental artificial intelligence",
+      "quantity": "4.00",
+      "unit_price": "405.93",
+      "total_price": "1 623.72",
+      "category": null
+    },
+    {
+      "description": "Versatile asynchronous conglomeration",
+      "quantity": "5.00",
+      "unit_price": "436.50",
+      "total_price": "2 182.50",
+      "category": null
+    },
+    {
+      "description": "Multi-tiered incremental instruction set",
+      "quantity": "5.00",
+      "unit_price": "482.71",
+      "total_price": "2 413.55",
+      "category": null
+    },
+    {
+      "description": "Progressive fault-tolerant parallelism",
+      "quantity": "8.00",
+      "unit_price": "274.15",
+      "total_price": "2 193.20",
+      "category": null
+    },
+    {
+      "description": "Cross-platform non-volatile capacity",
+      "quantity": "3.00",
+      "unit_price": "49.59",
+      "total_price": "148.77",
+      "category": null
+    },
+    {
+      "description": "Horizontal regional application",
+      "quantity": "3.00",
+      "unit_price": "33.24",
+      "total_price": "99.72",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "12 509.19",
+    "tax": "1 250.92",
+    "discount": "",
+    "total": "13 760.11"
+  },
+  "payment_instructions": {
+    "due_date": "28/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.115,
+  "file_size_bytes": 73639
+}

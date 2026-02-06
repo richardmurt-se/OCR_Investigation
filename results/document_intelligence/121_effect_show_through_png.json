@@ -1,0 +1,77 @@
+{
+  "filename": "121_effect_show_through.png",
+  "invoice": {
+    "client_name": "Rojas, Bradley and Smith",
+    "client_address": "",
+    "seller_name": "Rice, Solis and Mitchell",
+    "seller_address": "727 Adam Drive Apt. 762\nEast Sarahstad, AZ 96558",
+    "invoice_number": "197382",
+    "invoice_date": "07/03/2024",
+    "due_date": "05/03/2026"
+  },
+  "items": [
+    {
+      "description": "Digitized fresh-thinking adapter",
+      "quantity": "9.00",
+      "unit_price": "216.60",
+      "total_price": "1 949.40",
+      "category": null
+    },
+    {
+      "description": "Face-to-face bottom-line architecture",
+      "quantity": "5.00",
+      "unit_price": "388.51",
+      "total_price": "1 942.55",
+      "category": null
+    },
+    {
+      "description": "Managed asymmetric hardware",
+      "quantity": "10.00",
+      "unit_price": "426.31",
+      "total_price": "4 263.10",
+      "category": null
+    },
+    {
+      "description": "Polarized zero-defect attitude",
+      "quantity": "7.00",
+      "unit_price": "415.80",
+      "total_price": "2 910.60",
+      "category": null
+    },
+    {
+      "description": "Team-oriented 24hour parallelism",
+      "quantity": "3.00",
+      "unit_price": "351.96",
+      "total_price": "1 055.88",
+      "category": null
+    },
+    {
+      "description": "Profit-focused optimal portal",
+      "quantity": "10.00",
+      "unit_price": "27.57",
+      "total_price": "275.70",
+      "category": null
+    },
+    {
+      "description": "Seamless actuating benchmark",
+      "quantity": "4.00",
+      "unit_price": "41.33",
+      "total_price": "165.32",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "12 562.55",
+    "tax": "1 256.26",
+    "discount": "",
+    "total": "13 190.68"
+  },
+  "payment_instructions": {
+    "due_date": "05/03/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.918,
+  "file_size_bytes": 96155
+}

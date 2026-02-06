@@ -1,0 +1,56 @@
+{
+  "filename": "093_effect_band_stretch.jpeg",
+  "invoice": {
+    "client_name": "Arnold LLC",
+    "client_address": "",
+    "seller_name": "Smith-Cuevas",
+    "seller_address": "178 Gaines Station Suite 481 | Port Edward, MH 77983",
+    "invoice_number": "FAC/35604246",
+    "invoice_date": "17/10/2025",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Pre-emptive transitional approach",
+      "quantity": "9.00",
+      "unit_price": "190.19",
+      "total_price": "1 711.71",
+      "category": null
+    },
+    {
+      "description": "Optimized logistical architecture",
+      "quantity": "8.00",
+      "unit_price": "488.38",
+      "total_price": "3 906.88",
+      "category": null
+    },
+    {
+      "description": "Multi-tiered value-added challenge",
+      "quantity": "1.00",
+      "unit_price": "301.07",
+      "total_price": "301.07",
+      "category": null
+    },
+    {
+      "description": "Digitized bottom-line software",
+      "quantity": "9.00",
+      "unit_price": "229.34",
+      "total_price": "2 064.06",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "7 983.72",
+    "tax": "798.37",
+    "discount": "",
+    "total": "8 782.09"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.682,
+  "file_size_bytes": 50345
+}

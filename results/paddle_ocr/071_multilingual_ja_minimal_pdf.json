@@ -1,0 +1,8 @@
+{
+  "filename": "071_multilingual_ja_minimal.pdf",
+  "model_name": "paddleocr",
+  "raw_text": "599252884\n07/20/202402/21/2026\nAk \n35269\n20T1115\n/ P9/P E Jl3# 7988\n232\n 9\nAat\nVisionary clear-thinking matrix\n7.00\n248.80\n1 741.60\nReduced background capacity\n10.00\n258.21\n2 582.10\nRobust web-enabled neural-net\n6.00\n444.20\n2 665.20\n6 988.90\n698.89\nAt\n7 687.79\nAEZA94835941872901",
+  "processing_time_seconds": 2.085,
+  "file_size_bytes": 79255,
+  "success": true
+}

@@ -1,0 +1,42 @@
+{
+  "filename": "106_effect_low_dpi.png",
+  "invoice": {
+    "client_name": "Kim Tran",
+    "client_address": "",
+    "seller_name": "Ruiz LLC",
+    "seller_address": "25421 Cordova Mission | Elizabethbury: NJ 56002",
+    "invoice_number": "BILL-453970554",
+    "invoice_date": "15/10/2025",
+    "due_date": "02/14/0-00%"
+  },
+  "items": [
+    {
+      "description": "Down-sized zero administration open architecture",
+      "quantity": "1.00",
+      "unit_price": "267.37",
+      "total_price": "267.37",
+      "category": null
+    },
+    {
+      "description": "Advanced interactive amade",
+      "quantity": "2.50",
+      "unit_price": "333.77",
+      "total_price": "687.54",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "1 547.04"
+  },
+  "payment_instructions": {
+    "due_date": "02/14/0-00%",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.792,
+  "file_size_bytes": 102888
+}

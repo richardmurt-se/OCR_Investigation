@@ -1,0 +1,8 @@
+{
+  "filename": "020_clean_modern.pdf",
+  "model_name": "paddleocr",
+  "raw_text": "Moore LLC\nINVOICE\nUnit 1945 Box 2198 - DPO AP 40808\n556314353\n08/12/2025\nFROM\nBILL TO\nMoore LLC\nThomas-Brooks\nUnit 1945 Box 2198\n843 Carroll Islands Apt. 823\n DPO AP 40808\nWest Heatherburgh, IN 05757\nDESCRIPTION\nQTY\nRATE\nAMOUNT\nFunction-based empowering success\n4.00\n269.72\n1 078.88\nDe-engineered explicit projection\n8.00\n190.59\n1 524.72\n Progressive logistical toolset\n4.00\n457.19\n1 828.76\n Implemented heuristic benchmark\n1.00\n212.89\n212.89\nProfit-focused background benchmark\n2.00\n350.35\n700.70\nSubtotal\n5 345.95\nTax\n534.60\nTotal\n5 880.55\nPAYMeNT DETAILS\nBank: Lee PLC Financial\nAccount: BADA08838032197178\nDue: 03/11/2026\nThank You!\nMoore LLC",
+  "processing_time_seconds": 2.582,
+  "file_size_bytes": 125413,
+  "success": true
+}

@@ -1,0 +1,8 @@
+{
+  "filename": "012_clean_modern.png",
+  "model_name": "paddleocr",
+  "raw_text": "Wilson Group\nINVOICE\n86274 Michael Causeway - South Traci, AZ 97009\n INV919984\n10/26/2025\nFROM\nBILL TO\nWilson Group\nMueller, Liu and Holt\n86274 Michael Causeway\n243 Tiffany Rue Apt. 252\nSouth Traci, AZ 97009\nNorth Jason, FM 40640\nDESCRIPTION\nA1O\nRATE\nAMOUNT\nExclusive homogeneous middleware\n3.00\n274.76\n824.28\nSynergized neutral circuit\n6.00\n358.80\n2 152.80\nCompatible regional encryption\n8.00\n391.95\n3 135.60\nExclusive full-range budgetary management\n006\n205.03\n1 845.27\nSecured executive definition.\n6.00\n139.69\n838.14\nDistributed zero administration core\n3.00\n236.82\n710.46\nSubtotal\n9 506.55\nTax\n59056\nDiscount\n-950.65\nTotal\n9 506.55\nPAYMENT DETAILS\nBank: Doyle-Norris Financial.\nAccount: LYJL72696743068510\nDue: 02/17/2026\nThank You!\nWilson Group",
+  "processing_time_seconds": 2.719,
+  "file_size_bytes": 115973,
+  "success": true
+}

@@ -1,0 +1,42 @@
+{
+  "filename": "100_effect_salt_pepper_noise.jpeg",
+  "invoice": {
+    "client_name": "Taylor-Fleming.",
+    "client_address": "",
+    "seller_name": "Bishop, Price and Jordan",
+    "seller_address": ".3197 Stacy Stravenue Suite 082\nWest Geraldhaven, FM:2288-7",
+    "invoice_number": "BILL/43722995",
+    "invoice_date": "10/07/2024",
+    "due_date": "14/02/2026"
+  },
+  "items": [
+    {
+      "description": "Monitored grid-enabled instruction set\nStand-alone empowering support",
+      "quantity": "10.00",
+      "unit_price": "309.61",
+      "total_price": "96.10",
+      "category": null
+    },
+    {
+      "description": "Virtual system-worthy process improvement;",
+      "quantity": "4.00",
+      "unit_price": "382.21",
+      "total_price": "1 448.84",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "5 001.55",
+    "tax": "506.15",
+    "discount": "",
+    "total": "5 567.70"
+  },
+  "payment_instructions": {
+    "due_date": "14/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.456,
+  "file_size_bytes": 299809
+}

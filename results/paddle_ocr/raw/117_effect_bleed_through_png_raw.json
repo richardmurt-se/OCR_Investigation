@@ -1,0 +1,1325 @@
+{
+  "content": "French Ltd\nINVOICE\n127 Sharon Islands Suite 163 | Harrisbury, VI 82598\nNo: BILL34628406\nDate: 11/27/2024\nenoitibno? 8 emie7\nDue: 02/15/2026\noYc.f 6 of Jb9jdUa 9d y6m anumy6q 9J6.ay6b 08 miniw 9ub al numye9\nFROM\nni bisq litnu 19ll9a to yBILLTo nism91 aboo? .9p1sd5 95nsnit yIdtnom\nFrench Ltd\n9269l9 .pnitinw niHenderson-Banksto aa9lnu lsnit 916 29l6a llA .llut\n127 Sharon Islands Suite 163\nHarrisbury, VI 82598\nDescription\noc.r s ot t9jdua 9d ysm atnsmysq 9ts.aysb 08 nirtiw 9ub ai tnsmys9\nQuantity\nUnit Price\n16nit yininon\nAmount\nUpgradable demand-driven encoding\n9e59l9 .pnitinw ni b991ps 9aiwt.00o aa9lnu Isni356.68 29lse llA .Il`070.04\n9iovni airt ot bstsls1 anoitasup yns tot pnillid tostno\n2\nAdaptive homogeneous attitude\n3.00\n27.66\n82.98\n3\nSynchronized high-level solution\nni bisq linu 19llseto-yh9qoiq rism9t\nSnsnit yininom\n4\nTotal upward-trending Local Area Network\n5\nDevolved background model\n6\nUser-centric mission-critical hardware\n7\nCompatible discrete instruction set\n8\nEnterprise-wide solution-oriented framework\no\\C.t s ot to9jdua 9d ysm atnsmysq 9t6.aysb 08 nirsubtotavb ai tnsmys5 397.71\n98sel9.pnitinwnib99aps 9aiw\nTotal Due\n5 937.48\n9iovni aidt ot betsl\nPAYMENT INFORMATION\noc.r s ot tosjdua 9d ysm atnsmysq 9ts.aysb 08 nidtiw sub ai tnsmys9\nBank: Martinez-Brown Credit Union\nni bisq litnu 19ll9a to yh9qoiq nisme1 abood 9pisd5 9ansnit yldtnom\nAccount: QIKH52653200146992\n9a69l9.pnitinw ni b991ps 9aiwisdto aa9lnu lsnit 916 a9l6a llA .llut\nMethod: Credit Card\nni bisq litnu 1ell9a to yhsqoiq nisme1 aboo.9pisda 9nsnit yldtnom\n9269l9.pnitinw ni b991p6 9aiwi9dto a29lnu lsnit 916 29l6a llA .llut\n9iovni aidt ot betsle1 anoitasup yns 1ot pnillid tostno\nc.r s ottosjdua 9d ysm atnsmysq sts.aysb 08 nintiw sub aitnsmys9\nni bisq litnu 19ll9a to yhsqoiq nisme1 abood .9pisd5 95nsnit yldtnom\n9269l9.pmnw nI b991p6 92lwento 229lnu lsnt 916 29l62 llA .llui",
+  "detections": [
+    {
+      "text": "French Ltd",
+      "confidence": 0.9998494386672974,
+      "bbox": [
+        [
+          20.0,
+          22.0
+        ],
+        [
+          135.0,
+          22.0
+        ],
+        [
+          135.0,
+          42.0
+        ],
+        [
+          20.0,
+          42.0
+        ]
+      ]
+    },
+    {
+      "text": "INVOICE",
+      "confidence": 0.9990419745445251,
+      "bbox": [
+        [
+          658.0,
+          22.0
+        ],
+        [
+          775.0,
+          22.0
+        ],
+        [
+          775.0,
+          47.0
+        ],
+        [
+          658.0,
+          47.0
+        ]
+      ]
+    },
+    {
+      "text": "127 Sharon Islands Suite 163 | Harrisbury, VI 82598",
+      "confidence": 0.9749600291252136,
+      "bbox": [
+        [
+          19.0,
+          49.0
+        ],
+        [
+          252.0,
+          49.0
+        ],
+        [
+          252.0,
+          64.0
+        ],
+        [
+          19.0,
+          64.0
+        ]
+      ]
+    },
+    {
+      "text": "No: BILL34628406",
+      "confidence": 0.9982361197471619,
+      "bbox": [
+        [
+          679.0,
+          55.0
+        ],
+        [
+          776.0,
+          55.0
+        ],
+        [
+          776.0,
+          70.0
+        ],
+        [
+          679.0,
+          70.0
+        ]
+      ]
+    },
+    {
+      "text": "Date: 11/27/2024",
+      "confidence": 0.9999057054519653,
+      "bbox": [
+        [
+          689.0,
+          74.0
+        ],
+        [
+          775.0,
+          74.0
+        ],
+        [
+          775.0,
+          87.0
+        ],
+        [
+          689.0,
+          87.0
+        ]
+      ]
+    },
+    {
+      "text": "enoitibno? 8 emie7",
+      "confidence": 0.8095393776893616,
+      "bbox": [
+        [
+          565.0,
+          96.0
+        ],
+        [
+          734.0,
+          98.0
+        ],
+        [
+          734.0,
+          118.0
+        ],
+        [
+          565.0,
+          116.0
+        ]
+      ]
+    },
+    {
+      "text": "Due: 02/15/2026",
+      "confidence": 0.9989966154098511,
+      "bbox": [
+        [
+          690.0,
+          91.0
+        ],
+        [
+          775.0,
+          91.0
+        ],
+        [
+          775.0,
+          104.0
+        ],
+        [
+          690.0,
+          104.0
+        ]
+      ]
+    },
+    {
+      "text": "oYc.f 6 of Jb9jdUa 9d y6m anumy6q 9J6.ay6b 08 miniw 9ub al numye9",
+      "confidence": 0.5164735913276672,
+      "bbox": [
+        [
+          265.0,
+          130.0
+        ],
+        [
+          737.0,
+          130.0
+        ],
+        [
+          737.0,
+          142.0
+        ],
+        [
+          265.0,
+          142.0
+        ]
+      ]
+    },
+    {
+      "text": "FROM",
+      "confidence": 0.9988871216773987,
+      "bbox": [
+        [
+          18.0,
+          150.0
+        ],
+        [
+          54.0,
+          150.0
+        ],
+        [
+          54.0,
+          163.0
+        ],
+        [
+          18.0,
+          163.0
+        ]
+      ]
+    },
+    {
+      "text": "ni bisq litnu 19ll9a to yBILLTo nism91 aboo? .9p1sd5 95nsnit yIdtnom",
+      "confidence": 0.8334574103355408,
+      "bbox": [
+        [
+          293.0,
+          149.0
+        ],
+        [
+          738.0,
+          149.0
+        ],
+        [
+          738.0,
+          164.0
+        ],
+        [
+          293.0,
+          164.0
+        ]
+      ]
+    },
+    {
+      "text": "French Ltd",
+      "confidence": 0.9996010065078735,
+      "bbox": [
+        [
+          18.0,
+          168.0
+        ],
+        [
+          85.0,
+          168.0
+        ],
+        [
+          85.0,
+          185.0
+        ],
+        [
+          18.0,
+          185.0
+        ]
+      ]
+    },
+    {
+      "text": "9269l9 .pnitinw niHenderson-Banksto aa9lnu lsnit 916 29l6a llA .llut",
+      "confidence": 0.8997201919555664,
+      "bbox": [
+        [
+          323.0,
+          170.0
+        ],
+        [
+          738.0,
+          170.0
+        ],
+        [
+          738.0,
+          185.0
+        ],
+        [
+          323.0,
+          185.0
+        ]
+      ]
+    },
+    {
+      "text": "127 Sharon Islands Suite 163",
+      "confidence": 0.9994901418685913,
+      "bbox": [
+        [
+          19.0,
+          185.0
+        ],
+        [
+          154.0,
+          185.0
+        ],
+        [
+          154.0,
+          200.0
+        ],
+        [
+          19.0,
+          200.0
+        ]
+      ]
+    },
+    {
+      "text": "Harrisbury, VI 82598",
+      "confidence": 0.9824050664901733,
+      "bbox": [
+        [
+          19.0,
+          197.0
+        ],
+        [
+          113.0,
+          197.0
+        ],
+        [
+          113.0,
+          212.0
+        ],
+        [
+          19.0,
+          212.0
+        ]
+      ]
+    },
+    {
+      "text": "Description",
+      "confidence": 0.9581792950630188,
+      "bbox": [
+        [
+          63.0,
+          242.0
+        ],
+        [
+          123.0,
+          245.0
+        ],
+        [
+          122.0,
+          261.0
+        ],
+        [
+          62.0,
+          258.0
+        ]
+      ]
+    },
+    {
+      "text": "oc.r s ot t9jdua 9d ysm atnsmysq 9ts.aysb 08 nirtiw 9ub ai tnsmys9",
+      "confidence": 0.7573696374893188,
+      "bbox": [
+        [
+          263.0,
+          233.0
+        ],
+        [
+          738.0,
+          233.0
+        ],
+        [
+          738.0,
+          248.0
+        ],
+        [
+          263.0,
+          248.0
+        ]
+      ]
+    },
+    {
+      "text": "Quantity",
+      "confidence": 0.9977335333824158,
+      "bbox": [
+        [
+          497.0,
+          244.0
+        ],
+        [
+          543.0,
+          248.0
+        ],
+        [
+          542.0,
+          261.0
+        ],
+        [
+          496.0,
+          257.0
+        ]
+      ]
+    },
+    {
+      "text": "Unit Price",
+      "confidence": 0.9988836050033569,
+      "bbox": [
+        [
+          603.0,
+          244.0
+        ],
+        [
+          656.0,
+          247.0
+        ],
+        [
+          655.0,
+          260.0
+        ],
+        [
+          602.0,
+          257.0
+        ]
+      ]
+    },
+    {
+      "text": "16nit yininon",
+      "confidence": 0.7838153839111328,
+      "bbox": [
+        [
+          653.0,
+          255.0
+        ],
+        [
+          729.0,
+          255.0
+        ],
+        [
+          729.0,
+          267.0
+        ],
+        [
+          653.0,
+          267.0
+        ]
+      ]
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.999795138835907,
+      "bbox": [
+        [
+          727.0,
+          247.0
+        ],
+        [
+          769.0,
+          247.0
+        ],
+        [
+          769.0,
+          259.0
+        ],
+        [
+          727.0,
+          259.0
+        ]
+      ]
+    },
+    {
+      "text": "Upgradable demand-driven encoding",
+      "confidence": 0.9997690320014954,
+      "bbox": [
+        [
+          64.0,
+          278.0
+        ],
+        [
+          233.0,
+          278.0
+        ],
+        [
+          233.0,
+          294.0
+        ],
+        [
+          64.0,
+          294.0
+        ]
+      ]
+    },
+    {
+      "text": "9e59l9 .pnitinw ni b991ps 9aiwt.00o aa9lnu Isni356.68 29lse llA .Il`070.04",
+      "confidence": 0.8312660455703735,
+      "bbox": [
+        [
+          320.0,
+          271.0
+        ],
+        [
+          769.0,
+          274.0
+        ],
+        [
+          769.0,
+          294.0
+        ],
+        [
+          320.0,
+          291.0
+        ]
+      ]
+    },
+    {
+      "text": "9iovni airt ot bstsls1 anoitasup yns tot pnillid tostno",
+      "confidence": 0.8335668444633484,
+      "bbox": [
+        [
+          389.0,
+          296.0
+        ],
+        [
+          738.0,
+          296.0
+        ],
+        [
+          738.0,
+          311.0
+        ],
+        [
+          389.0,
+          311.0
+        ]
+      ]
+    },
+    {
+      "text": "2",
+      "confidence": 0.9994708895683289,
+      "bbox": [
+        [
+          26.0,
+          311.0
+        ],
+        [
+          37.0,
+          311.0
+        ],
+        [
+          37.0,
+          324.0
+        ],
+        [
+          26.0,
+          324.0
+        ]
+      ]
+    },
+    {
+      "text": "Adaptive homogeneous attitude",
+      "confidence": 0.9993299841880798,
+      "bbox": [
+        [
+          65.0,
+          311.0
+        ],
+        [
+          206.0,
+          311.0
+        ],
+        [
+          206.0,
+          323.0
+        ],
+        [
+          65.0,
+          323.0
+        ]
+      ]
+    },
+    {
+      "text": "3.00",
+      "confidence": 0.9997531175613403,
+      "bbox": [
+        [
+          518.0,
+          311.0
+        ],
+        [
+          542.0,
+          311.0
+        ],
+        [
+          542.0,
+          325.0
+        ],
+        [
+          518.0,
+          325.0
+        ]
+      ]
+    },
+    {
+      "text": "27.66",
+      "confidence": 0.9898909330368042,
+      "bbox": [
+        [
+          626.0,
+          311.0
+        ],
+        [
+          655.0,
+          311.0
+        ],
+        [
+          655.0,
+          325.0
+        ],
+        [
+          626.0,
+          325.0
+        ]
+      ]
+    },
+    {
+      "text": "82.98",
+      "confidence": 0.9988651275634766,
+      "bbox": [
+        [
+          738.0,
+          311.0
+        ],
+        [
+          768.0,
+          311.0
+        ],
+        [
+          768.0,
+          325.0
+        ],
+        [
+          738.0,
+          325.0
+        ]
+      ]
+    },
+    {
+      "text": "3",
+      "confidence": 0.9995939135551453,
+      "bbox": [
+        [
+          26.0,
+          344.0
+        ],
+        [
+          37.0,
+          344.0
+        ],
+        [
+          37.0,
+          357.0
+        ],
+        [
+          26.0,
+          357.0
+        ]
+      ]
+    },
+    {
+      "text": "Synchronized high-level solution",
+      "confidence": 0.9993027448654175,
+      "bbox": [
+        [
+          65.0,
+          343.0
+        ],
+        [
+          208.0,
+          343.0
+        ],
+        [
+          208.0,
+          354.0
+        ],
+        [
+          65.0,
+          354.0
+        ]
+      ]
+    },
+    {
+      "text": "ni bisq linu 19llseto-yh9qoiq rism9t",
+      "confidence": 0.700172483921051,
+      "bbox": [
+        [
+          292.0,
+          358.0
+        ],
+        [
+          531.0,
+          359.0
+        ],
+        [
+          530.0,
+          374.0
+        ],
+        [
+          292.0,
+          373.0
+        ]
+      ]
+    },
+    {
+      "text": "Snsnit yininom",
+      "confidence": 0.7164817452430725,
+      "bbox": [
+        [
+          639.0,
+          360.0
+        ],
+        [
+          740.0,
+          360.0
+        ],
+        [
+          740.0,
+          372.0
+        ],
+        [
+          639.0,
+          372.0
+        ]
+      ]
+    },
+    {
+      "text": "4",
+      "confidence": 0.9982134103775024,
+      "bbox": [
+        [
+          26.0,
+          376.0
+        ],
+        [
+          35.0,
+          376.0
+        ],
+        [
+          35.0,
+          387.0
+        ],
+        [
+          26.0,
+          387.0
+        ]
+      ]
+    },
+    {
+      "text": "Total upward-trending Local Area Network",
+      "confidence": 0.9988425970077515,
+      "bbox": [
+        [
+          65.0,
+          376.0
+        ],
+        [
+          252.0,
+          376.0
+        ],
+        [
+          252.0,
+          387.0
+        ],
+        [
+          65.0,
+          387.0
+        ]
+      ]
+    },
+    {
+      "text": "5",
+      "confidence": 0.9997753500938416,
+      "bbox": [
+        [
+          26.0,
+          407.0
+        ],
+        [
+          35.0,
+          407.0
+        ],
+        [
+          35.0,
+          420.0
+        ],
+        [
+          26.0,
+          420.0
+        ]
+      ]
+    },
+    {
+      "text": "Devolved background model",
+      "confidence": 0.9938547015190125,
+      "bbox": [
+        [
+          64.0,
+          405.0
+        ],
+        [
+          194.0,
+          406.0
+        ],
+        [
+          194.0,
+          421.0
+        ],
+        [
+          64.0,
+          420.0
+        ]
+      ]
+    },
+    {
+      "text": "6",
+      "confidence": 0.9884706735610962,
+      "bbox": [
+        [
+          26.0,
+          440.0
+        ],
+        [
+          35.0,
+          440.0
+        ],
+        [
+          35.0,
+          453.0
+        ],
+        [
+          26.0,
+          453.0
+        ]
+      ]
+    },
+    {
+      "text": "User-centric mission-critical hardware",
+      "confidence": 0.9809597134590149,
+      "bbox": [
+        [
+          64.0,
+          437.0
+        ],
+        [
+          235.0,
+          439.0
+        ],
+        [
+          235.0,
+          454.0
+        ],
+        [
+          64.0,
+          453.0
+        ]
+      ]
+    },
+    {
+      "text": "7",
+      "confidence": 0.9998244643211365,
+      "bbox": [
+        [
+          26.0,
+          471.0
+        ],
+        [
+          35.0,
+          471.0
+        ],
+        [
+          35.0,
+          483.0
+        ],
+        [
+          26.0,
+          483.0
+        ]
+      ]
+    },
+    {
+      "text": "Compatible discrete instruction set",
+      "confidence": 0.9768430590629578,
+      "bbox": [
+        [
+          65.0,
+          469.0
+        ],
+        [
+          220.0,
+          470.0
+        ],
+        [
+          220.0,
+          486.0
+        ],
+        [
+          65.0,
+          484.0
+        ]
+      ]
+    },
+    {
+      "text": "8",
+      "confidence": 0.995630145072937,
+      "bbox": [
+        [
+          26.0,
+          504.0
+        ],
+        [
+          37.0,
+          504.0
+        ],
+        [
+          37.0,
+          516.0
+        ],
+        [
+          26.0,
+          516.0
+        ]
+      ]
+    },
+    {
+      "text": "Enterprise-wide solution-oriented framework",
+      "confidence": 0.9995871186256409,
+      "bbox": [
+        [
+          65.0,
+          504.0
+        ],
+        [
+          262.0,
+          504.0
+        ],
+        [
+          262.0,
+          516.0
+        ],
+        [
+          65.0,
+          516.0
+        ]
+      ]
+    },
+    {
+      "text": "o\\C.t s ot to9jdua 9d ysm atnsmysq 9t6.aysb 08 nirsubtotavb ai tnsmys5 397.71",
+      "confidence": 0.8488319516181946,
+      "bbox": [
+        [
+          262.0,
+          545.0
+        ],
+        [
+          767.0,
+          549.0
+        ],
+        [
+          767.0,
+          565.0
+        ],
+        [
+          262.0,
+          561.0
+        ]
+      ]
+    },
+    {
+      "text": "98sel9.pnitinwnib99aps 9aiw",
+      "confidence": 0.6253685355186462,
+      "bbox": [
+        [
+          320.0,
+          588.0
+        ],
+        [
+          519.0,
+          591.0
+        ],
+        [
+          519.0,
+          606.0
+        ],
+        [
+          320.0,
+          604.0
+        ]
+      ]
+    },
+    {
+      "text": "Total Due",
+      "confidence": 0.9675918221473694,
+      "bbox": [
+        [
+          604.0,
+          600.0
+        ],
+        [
+          650.0,
+          603.0
+        ],
+        [
+          649.0,
+          616.0
+        ],
+        [
+          603.0,
+          613.0
+        ]
+      ]
+    },
+    {
+      "text": "5 937.48",
+      "confidence": 0.9995014667510986,
+      "bbox": [
+        [
+          725.0,
+          602.0
+        ],
+        [
+          767.0,
+          602.0
+        ],
+        [
+          767.0,
+          615.0
+        ],
+        [
+          725.0,
+          615.0
+        ]
+      ]
+    },
+    {
+      "text": "9iovni aidt ot betsl",
+      "confidence": 0.8727136850357056,
+      "bbox": [
+        [
+          389.0,
+          612.0
+        ],
+        [
+          519.0,
+          609.0
+        ],
+        [
+          519.0,
+          625.0
+        ],
+        [
+          389.0,
+          627.0
+        ]
+      ]
+    },
+    {
+      "text": "PAYMENT INFORMATION",
+      "confidence": 0.9960099458694458,
+      "bbox": [
+        [
+          31.0,
+          661.0
+        ],
+        [
+          152.0,
+          662.0
+        ],
+        [
+          152.0,
+          675.0
+        ],
+        [
+          31.0,
+          674.0
+        ]
+      ]
+    },
+    {
+      "text": "oc.r s ot tosjdua 9d ysm atnsmysq 9ts.aysb 08 nidtiw sub ai tnsmys9",
+      "confidence": 0.7617961168289185,
+      "bbox": [
+        [
+          263.0,
+          653.0
+        ],
+        [
+          738.0,
+          653.0
+        ],
+        [
+          738.0,
+          668.0
+        ],
+        [
+          263.0,
+          668.0
+        ]
+      ]
+    },
+    {
+      "text": "Bank: Martinez-Brown Credit Union",
+      "confidence": 0.9995632767677307,
+      "bbox": [
+        [
+          32.0,
+          681.0
+        ],
+        [
+          190.0,
+          681.0
+        ],
+        [
+          190.0,
+          693.0
+        ],
+        [
+          32.0,
+          693.0
+        ]
+      ]
+    },
+    {
+      "text": "ni bisq litnu 19ll9a to yh9qoiq nisme1 abood 9pisd5 9ansnit yldtnom",
+      "confidence": 0.8123465776443481,
+      "bbox": [
+        [
+          293.0,
+          674.0
+        ],
+        [
+          738.0,
+          674.0
+        ],
+        [
+          738.0,
+          689.0
+        ],
+        [
+          293.0,
+          689.0
+        ]
+      ]
+    },
+    {
+      "text": "Account: QIKH52653200146992",
+      "confidence": 0.9964701533317566,
+      "bbox": [
+        [
+          32.0,
+          696.0
+        ],
+        [
+          181.0,
+          696.0
+        ],
+        [
+          181.0,
+          708.0
+        ],
+        [
+          32.0,
+          708.0
+        ]
+      ]
+    },
+    {
+      "text": "9a69l9.pnitinw ni b991ps 9aiwisdto aa9lnu lsnit 916 a9l6a llA .llut",
+      "confidence": 0.7343447208404541,
+      "bbox": [
+        [
+          323.0,
+          695.0
+        ],
+        [
+          738.0,
+          695.0
+        ],
+        [
+          738.0,
+          710.0
+        ],
+        [
+          323.0,
+          710.0
+        ]
+      ]
+    },
+    {
+      "text": "Method: Credit Card",
+      "confidence": 0.9891847372055054,
+      "bbox": [
+        [
+          32.0,
+          710.0
+        ],
+        [
+          125.0,
+          710.0
+        ],
+        [
+          125.0,
+          722.0
+        ],
+        [
+          32.0,
+          722.0
+        ]
+      ]
+    },
+    {
+      "text": "ni bisq litnu 1ell9a to yhsqoiq nisme1 aboo.9pisda 9nsnit yldtnom",
+      "confidence": 0.7119856476783752,
+      "bbox": [
+        [
+          292.0,
+          778.0
+        ],
+        [
+          738.0,
+          779.0
+        ],
+        [
+          738.0,
+          794.0
+        ],
+        [
+          292.0,
+          793.0
+        ]
+      ]
+    },
+    {
+      "text": "9269l9.pnitinw ni b991p6 9aiwi9dto a29lnu lsnit 916 29l6a llA .llut",
+      "confidence": 0.8068576455116272,
+      "bbox": [
+        [
+          323.0,
+          800.0
+        ],
+        [
+          738.0,
+          800.0
+        ],
+        [
+          738.0,
+          815.0
+        ],
+        [
+          323.0,
+          815.0
+        ]
+      ]
+    },
+    {
+      "text": "9iovni aidt ot betsle1 anoitasup yns 1ot pnillid tostno",
+      "confidence": 0.8018617033958435,
+      "bbox": [
+        [
+          389.0,
+          821.0
+        ],
+        [
+          737.0,
+          822.0
+        ],
+        [
+          737.0,
+          835.0
+        ],
+        [
+          389.0,
+          834.0
+        ]
+      ]
+    },
+    {
+      "text": "c.r s ottosjdua 9d ysm atnsmysq sts.aysb 08 nintiw sub aitnsmys9",
+      "confidence": 0.6763367652893066,
+      "bbox": [
+        [
+          265.0,
+          863.0
+        ],
+        [
+          737.0,
+          864.0
+        ],
+        [
+          737.0,
+          877.0
+        ],
+        [
+          265.0,
+          876.0
+        ]
+      ]
+    },
+    {
+      "text": "ni bisq litnu 19ll9a to yhsqoiq nisme1 abood .9pisd5 95nsnit yldtnom",
+      "confidence": 0.8484342098236084,
+      "bbox": [
+        [
+          292.0,
+          884.0
+        ],
+        [
+          738.0,
+          884.0
+        ],
+        [
+          738.0,
+          900.0
+        ],
+        [
+          292.0,
+          900.0
+        ]
+      ]
+    },
+    {
+      "text": "9269l9.pmnw nI b991p6 92lwento 229lnu lsnt 916 29l62 llA .llui",
+      "confidence": 0.5192707777023315,
+      "bbox": [
+        [
+          324.0,
+          907.0
+        ],
+        [
+          737.0,
+          907.0
+        ],
+        [
+          737.0,
+          918.0
+        ],
+        [
+          324.0,
+          918.0
+        ]
+      ]
+    }
+  ]
+}

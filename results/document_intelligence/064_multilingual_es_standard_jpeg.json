@@ -1,0 +1,77 @@
+{
+  "filename": "064_multilingual_es_standard.jpeg",
+  "invoice": {
+    "client_name": "Palau y Alcalde S.L.N.E",
+    "client_address": "Alameda Magdalena Montero 947 Puerta 9\nValladolid, 08194",
+    "seller_name": "Alimentación Cabello S.Coop.",
+    "seller_address": "Cuesta de Jose Ignacio Rocha 419 Apt. 83\nHuelva, 47895",
+    "invoice_number": "FAC/2334280554",
+    "invoice_date": "18/01/2025",
+    "due_date": "13/02/2026"
+  },
+  "items": [
+    {
+      "description": "Quality-focused upward-trending portal",
+      "quantity": "2.00",
+      "unit_price": "195.09",
+      "total_price": "390.18",
+      "category": null
+    },
+    {
+      "description": "User-centric multi-tasking product",
+      "quantity": "7.00",
+      "unit_price": "401.70",
+      "total_price": "2 811.90",
+      "category": null
+    },
+    {
+      "description": "Decentralized composite matrix",
+      "quantity": "8.00",
+      "unit_price": "343.49",
+      "total_price": "2 747.92",
+      "category": null
+    },
+    {
+      "description": "Adaptive incremental intranet",
+      "quantity": "3.00",
+      "unit_price": "284.05",
+      "total_price": "852.15",
+      "category": null
+    },
+    {
+      "description": "Distributed disintermediate secured line",
+      "quantity": "9.00",
+      "unit_price": "200.04",
+      "total_price": "1 800.36",
+      "category": null
+    },
+    {
+      "description": "Distributed client-server process improvement",
+      "quantity": "5.00",
+      "unit_price": "435.67",
+      "total_price": "2 178.35",
+      "category": null
+    },
+    {
+      "description": "User-centric 6thgeneration system engine",
+      "quantity": "10.00",
+      "unit_price": "117.77",
+      "total_price": "1 177.70",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "11 958.56",
+    "tax": "1 195.86",
+    "discount": "",
+    "total": "13 154.42"
+  },
+  "payment_instructions": {
+    "due_date": "13/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.513,
+  "file_size_bytes": 75925
+}

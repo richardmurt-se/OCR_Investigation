@@ -1,0 +1,8 @@
+{
+  "filename": "079_multilingual_pt_standard.png",
+  "model_name": "paddleocr",
+  "raw_text": "Almeida\nFATURA\nDistrito Costela, 42 | Nova Esperanga | 73002-030 Sales Paulista / MG\nN: BILL/7275374034\nData: 04/21/2025\nDE\nCOBRAR DE\nAlmeida\nAlmeida Rocha S/A\nDistrito Costela, 42.\nPraia Caue Costela, 170.\nNova Esperanga\nUrca\n73002-030 Sales Paulista / MG\n89064-732 Rezende / AP\nDescrigao\n Quantidade\nPrego Unit.\nValor\nO prazer de concretizar seus projetos em estado puro\n008\n232.15\n1 857.20\n2\nO poder de concretizar seus projetos em estado puro\n9.00\n414.05\n3 726.45\nO conforto de conseguir sem preocupacao\n1.00\n26433\n26423\nO conforto de evoluir direto da fonte\n4.00\n88898\n1 472.92\nSubtotal\n7 321.50\nImposto (10%)\n732.15\nDesconto\n-366.08\nTotal a Pagar\n7 687.57\nObrigado pela preferencia.",
+  "processing_time_seconds": 2.484,
+  "file_size_bytes": 28578,
+  "success": true
+}

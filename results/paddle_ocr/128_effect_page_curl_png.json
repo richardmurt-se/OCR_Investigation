@@ -1,0 +1,8 @@
+{
+  "filename": "128_effect_page_curl.png",
+  "model_name": "paddleocr",
+  "raw_text": "Gonzalez Group\nINVOICE\n275 Rachel Comers Apt. 824 | Fullerhaven, UT 02296\nNo: 32635298\nDate: 12/25/2025\nDue: 02/12/2026\nFROM\nBILL TO\nGonzalez Groupe\nLee, Taylor and Moran\n275 Rachel Comers Apt. 824\n88135 Avery Lights\nFullerhaven, UT 02298.\nSherimouth, PR 69106\nDescription\n Quantity\nUnit Price\nAmount\nFully-configurable multi-tasking circuit\n10.00\n40894\n4 680.40\nN\nPre-emptive motivating successe\n3.00\n305.37\n916.11\n3\nRight-sized coherent circuit\n8.00\n157.26\n1 258.08\nSubtotal\n6 854.59\nTax (10%)\n685.46\nTotal Due\n7 540.05\nPAYMENT INFORMATION\nBank: Shaw, Morgan and Quinn Bank\nAccount: ELOK865931604497540\nMethod: Wire Transfer\nThank you for your business",
+  "processing_time_seconds": 2.228,
+  "file_size_bytes": 29959,
+  "success": true
+}

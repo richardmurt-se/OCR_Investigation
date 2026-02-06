@@ -1,0 +1,63 @@
+{
+  "filename": "099_effect_jpeg_artifacts.pdf",
+  "invoice": {
+    "client_name": "Ray, Abbott and Garrett",
+    "client_address": "",
+    "seller_name": "Anderson-Gibson",
+    "seller_address": "81034 Davis Masion | Amberland, VT 48366",
+    "invoice_number": "INV/3499450791",
+    "invoice_date": "22/11/2025",
+    "due_date": "16/02/2026"
+  },
+  "items": [
+    {
+      "description": "Compatible intangible workforce",
+      "quantity": "7.00",
+      "unit_price": "209.26",
+      "total_price": "1 484.82",
+      "category": null
+    },
+    {
+      "description": "Reactive needs-based data-warehouse",
+      "quantity": "6.00",
+      "unit_price": "58.94",
+      "total_price": "353.64",
+      "category": null
+    },
+    {
+      "description": "Down-sized motivating core",
+      "quantity": "4.00",
+      "unit_price": "216.90",
+      "total_price": "807.60",
+      "category": null
+    },
+    {
+      "description": "Vision-oriented 3rdgeneration software",
+      "quantity": "7.00",
+      "unit_price": "164.21",
+      "total_price": "1 149.47",
+      "category": null
+    },
+    {
+      "description": "Pre-emptive system-worthy model",
+      "quantity": "7.00",
+      "unit_price": "293.18",
+      "total_price": "2 052.12",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "5 887.65",
+    "tax": "588.76",
+    "discount": "",
+    "total": "6 476.41"
+  },
+  "payment_instructions": {
+    "due_date": "16/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.137,
+  "file_size_bytes": 133236
+}

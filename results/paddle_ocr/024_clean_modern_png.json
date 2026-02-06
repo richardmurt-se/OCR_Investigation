@@ -1,0 +1,8 @@
+{
+  "filename": "024_clean_modern.png",
+  "model_name": "paddleocr",
+  "raw_text": "Mayo-Clarke\nINVOICE\n9690 Scott Gateway - South Tracey, AZ 47009\nFAC116042\n04/06/2025\nFROM\nBILL TO\nMayo-Clarke\nKing, Stephens and Rubio.\n9690 Scott Gateway\n85919 Brown Forgese\nSouth Tracey, AZ 47009\nPort Jordan, AZ 27724\nDESCRIPTION\nQTY\nRATE\nAMOUNT\nSeamless multi-tasking producte\n7.00\n285.53\n1 998.71\nFace-to-face intermediate moderatol\n5.00\n283.32\n1 416.60\nPersevering asymmetric alliancee\n8.00\n198.53\n1 588.24\nMulti-layered next g\n2.00\n225.36\n450.72\nInverse asymmetric successe\n10.00\n187.83\n1 878.30\nDiverse Sthgeneration encryptione\n9.00\n106.62\n85656\nSubtotal\n8 292.15\nTax\n829.22\nTotal\n9 121.37\nThank You!\nMayo-Clarke",
+  "processing_time_seconds": 2.481,
+  "file_size_bytes": 107000,
+  "success": true
+}

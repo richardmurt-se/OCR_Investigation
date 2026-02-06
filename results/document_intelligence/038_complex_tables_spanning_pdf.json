@@ -1,0 +1,49 @@
+{
+  "filename": "038_complex_tables_spanning.pdf",
+  "invoice": {
+    "client_name": "Alexander-Tucker",
+    "client_address": "984 Michael Trafficway Apt. 623, Rhondafurt, SD 28376",
+    "seller_name": "Hunt, Olson and Hill",
+    "seller_address": "50166 Lori Port Apt. 066, Evansland, WA 61227",
+    "invoice_number": "FAC-1287205",
+    "invoice_date": "09/09/2024",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Reduced discrete throughput (Qty: 32 units/pack)",
+      "quantity": "9.00",
+      "unit_price": "170.49",
+      "total_price": "1 534.41",
+      "category": null
+    },
+    {
+      "description": "Multi-tiered motivating challenge - 177GB, 51\" display",
+      "quantity": "7.00",
+      "unit_price": "330.84",
+      "total_price": "2 315.88",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "31.90",
+      "unit_price": "319.00",
+      "total_price": "319.00",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "4 169.29",
+    "tax": "416.93",
+    "discount": "",
+    "total": "4 586.22"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.843,
+  "file_size_bytes": 126001
+}

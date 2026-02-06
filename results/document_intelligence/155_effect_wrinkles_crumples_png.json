@@ -1,0 +1,63 @@
+{
+  "filename": "155_effect_wrinkles_crumples.png",
+  "invoice": {
+    "client_name": "Moreno, Owens and Rich",
+    "client_address": "",
+    "seller_name": "Little, Vazquez and Bowman",
+    "seller_address": "46858 Anderson Field Suite 325 | North Richardmouth, CT 20815",
+    "invoice_number": "INV/648427",
+    "invoice_date": "08/08/2025",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Synergistic bi-directional moratorium",
+      "quantity": "6.00",
+      "unit_price": "183.80",
+      "total_price": "1 102.80",
+      "category": null
+    },
+    {
+      "description": "Mandatory discrete algorithm",
+      "quantity": "2.00",
+      "unit_price": "477.48",
+      "total_price": "954.96",
+      "category": null
+    },
+    {
+      "description": "Enterprise-wide holistic knowledgebase",
+      "quantity": "1.00",
+      "unit_price": "91.24",
+      "total_price": "91.24",
+      "category": null
+    },
+    {
+      "description": "Polarized actuating algorithm",
+      "quantity": "8.00",
+      "unit_price": "477.00",
+      "total_price": "3 816.00",
+      "category": null
+    },
+    {
+      "description": "Pre-emptive bottom-line intranet",
+      "quantity": "1.00",
+      "unit_price": "471.90",
+      "total_price": "471.90",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "6 438.90",
+    "tax": "843.00",
+    "discount": "",
+    "total": "7 080.59"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.211,
+  "file_size_bytes": 189960
+}

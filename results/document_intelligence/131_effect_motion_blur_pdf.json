@@ -1,0 +1,42 @@
+{
+  "filename": "131_effect_motion_blur.pdf",
+  "invoice": {
+    "client_name": "Clark PLC",
+    "client_address": "",
+    "seller_name": "Collins, Blevins and Sparks",
+    "seller_address": "@17 Alwitha Crossroad",
+    "invoice_number": "BN4:008348",
+    "invoice_date": "09/01/2028",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "",
+      "quantity": "3.00",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Triple buffered encompassing neuralnel",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "70.80",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "240.02",
+    "discount": "",
+    "total": "748.10"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.818,
+  "file_size_bytes": 87148
+}

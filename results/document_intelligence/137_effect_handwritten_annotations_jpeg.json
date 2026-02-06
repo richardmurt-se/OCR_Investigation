@@ -1,0 +1,63 @@
+{
+  "filename": "137_effect_handwritten_annotations.jpeg",
+  "invoice": {
+    "client_name": "Griffin, George and Obrien",
+    "client_address": "",
+    "seller_name": "Thornton-Ramirez",
+    "seller_address": "6435 Acosta Brook | Brownhaven, AL 70006",
+    "invoice_number": "INV83974837",
+    "invoice_date": "24/12/2024",
+    "due_date": "23/02/2026"
+  },
+  "items": [
+    {
+      "description": "Customer-focused full-range instruction set",
+      "quantity": "3.00",
+      "unit_price": "360.98",
+      "total_price": "1 082.88",
+      "category": null
+    },
+    {
+      "description": "Pre-emptive uniform throughput",
+      "quantity": "3.00",
+      "unit_price": "362.33",
+      "total_price": "1 086.99",
+      "category": null
+    },
+    {
+      "description": "Self-enabling leadingedge knowledge user",
+      "quantity": "8.00",
+      "unit_price": "282.34",
+      "total_price": "2 258.72",
+      "category": null
+    },
+    {
+      "description": "Distributed interactive infrastructure",
+      "quantity": "10.00",
+      "unit_price": "125.66",
+      "total_price": "1 256.60",
+      "category": null
+    },
+    {
+      "description": "Mandatory system-worthy instruction set",
+      "quantity": "5.00",
+      "unit_price": "165.22",
+      "total_price": "826.10",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "6 511.29",
+    "tax": "651.13",
+    "discount": "",
+    "total": "6 511.29"
+  },
+  "payment_instructions": {
+    "due_date": "23/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.809,
+  "file_size_bytes": 70692
+}

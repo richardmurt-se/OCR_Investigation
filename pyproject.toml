@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "ocr-investigation"
+version = "0.1.0"
+description = "A system for comparing OCR models using synthetic invoice datasets"
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+packages = [{include = "src"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+azure-ai-formrecognizer = "^3.3.0"
+python-dotenv = "^1.0.0"
+pandas = "^2.0.0"
+tqdm = "^4.65.0"
+jinja2 = "^3.1.0"
+rich = "^13.7.0"
+mlflow = "^2.0.0"
+
+[tool.poetry.group.dev.dependencies]
+# Add dev dependencies here as needed (pytest, black, etc.)
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

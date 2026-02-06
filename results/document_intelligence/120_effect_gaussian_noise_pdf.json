@@ -1,0 +1,56 @@
+{
+  "filename": "120_effect_gaussian_noise.pdf",
+  "invoice": {
+    "client_name": "Fisher, Montgomery and Lee",
+    "client_address": "",
+    "seller_name": "Jones PLC",
+    "seller_address": "211 Jennings Radial Apt. 464\nSouth Greggport, CA 27180",
+    "invoice_number": "9621276961",
+    "invoice_date": "05/09/2025",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Implemented web-enabled capability",
+      "quantity": "10.00",
+      "unit_price": "317.14",
+      "total_price": "3 171.40",
+      "category": null
+    },
+    {
+      "description": "Adaptive multi-tasking moratorium",
+      "quantity": "2.00",
+      "unit_price": "142.13",
+      "total_price": "284.26",
+      "category": null
+    },
+    {
+      "description": "Triple-buffered contextually-based benchmark",
+      "quantity": "4.00",
+      "unit_price": "131.81",
+      "total_price": "527.24",
+      "category": null
+    },
+    {
+      "description": "Grass-roots full-range initiative",
+      "quantity": "6.00",
+      "unit_price": "28.04",
+      "total_price": "168.24",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "4 151.14",
+    "tax": "415.11",
+    "discount": "",
+    "total": "4 566.25"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 12.374,
+  "file_size_bytes": 1561517
+}

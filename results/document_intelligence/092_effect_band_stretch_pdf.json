@@ -1,0 +1,49 @@
+{
+  "filename": "092_effect_band_stretch.pdf",
+  "invoice": {
+    "client_name": "Trujillo and Sons",
+    "client_address": "",
+    "seller_name": "Floyd Group",
+    "seller_address": "",
+    "invoice_number": "INV-8228964",
+    "invoice_date": "11/03/2025",
+    "due_date": "04/03/2026"
+  },
+  "items": [
+    {
+      "description": "uncu hun-vinner necardin read line",
+      "quantity": "o nn\nU.UU",
+      "unit_price": "210.02",
+      "total_price": "1.75",
+      "category": null
+    },
+    {
+      "description": "e-engineered systematic encryption",
+      "quantity": "6.00",
+      "unit_price": "",
+      "total_price": "350.67",
+      "category": null
+    },
+    {
+      "description": "and-alone national paradigm",
+      "quantity": "8.00",
+      "unit_price": "",
+      "total_price": "493.33",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "780.21",
+    "discount": "",
+    "total": "8 582.31"
+  },
+  "payment_instructions": {
+    "due_date": "04/03/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.601,
+  "file_size_bytes": 37253
+}

@@ -1,0 +1,77 @@
+{
+  "filename": "085_effect_patch_blur.png",
+  "invoice": {
+    "client_name": "Vargas-Cummings\nSpencer",
+    "client_address": "",
+    "seller_name": "Mills Inc",
+    "seller_address": "627 Kevin Mission\nPort John, KS 94603",
+    "invoice_number": "FAC-316408823",
+    "invoice_date": "05/12/2025",
+    "due_date": "18/02/2026"
+  },
+  "items": [
+    {
+      "description": "Focused executive encryption",
+      "quantity": "4.00",
+      "unit_price": "296.36",
+      "total_price": "1 185.44",
+      "category": null
+    },
+    {
+      "description": "Networked executive focus group",
+      "quantity": "2.00",
+      "unit_price": "79.06",
+      "total_price": "158.12",
+      "category": null
+    },
+    {
+      "description": "Customer-focused full-range conglomeration",
+      "quantity": "4.00",
+      "unit_price": "257.77",
+      "total_price": "1 031.08",
+      "category": null
+    },
+    {
+      "description": "Organic scalable knowledgebase",
+      "quantity": "6.00",
+      "unit_price": "266.57",
+      "total_price": "1 599.42",
+      "category": null
+    },
+    {
+      "description": "Front-line high-level solution",
+      "quantity": "4.00",
+      "unit_price": "97.07",
+      "total_price": "388.28",
+      "category": null
+    },
+    {
+      "description": "Organic optimal neural-net",
+      "quantity": "1.00",
+      "unit_price": "218.28",
+      "total_price": "218.28",
+      "category": null
+    },
+    {
+      "description": "Right-sized reciprocal contingency",
+      "quantity": "9.00",
+      "unit_price": "129.22",
+      "total_price": "1 162.98",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "5 743.60",
+    "tax": "574.36",
+    "discount": "",
+    "total": "6 317.96"
+  },
+  "payment_instructions": {
+    "due_date": "18/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.688,
+  "file_size_bytes": 52238
+}

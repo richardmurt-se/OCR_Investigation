@@ -1,0 +1,8 @@
+{
+  "filename": "005_clean_standard.pdf",
+  "model_name": "paddleocr",
+  "raw_text": "Mccoy-Ross\nINVOICE\n272 Gardner Court Apt. 153 | West Kimberly, PA 67824\nNo: INV-339046036\nDate: 01/09/2025\nDue: 03/08/2026\nFROM\nBILL TO\nMccoy-Ross\nSmith, Mcclure and Mclean\n272 Gardner Court Apt. 153\n7266 Smith Canyon Apt. 760\nWest Kimberly, PA 67824\nSouth Heatherbury, IN 81374\nDescription\nQuantity\nUnit Price\nAmount\n1\nHorizontal multi-state hierarchy.\n3.00\n363.77\n1 091.31\n2\nAdaptive fresh-thinking emulation\n5.00\n187.23\n936.15\n3\n Open-source leadingedge strategy\n2.00\n240.28\n480.56\n4\n Optional zero tolerance portal\n1.00\n211.43\n211.43\n5\nPhased zero-defect installation\n5.00\n393.08\n1 965.40\n6\nPersevering client-server model\n4.00\n337.06\n1 348.24\nSubtotal\n6 033.09\nTax (10%)\n603.31\nTotal Due\n6 636.40\nPAYMENT INFORMATION\nBank: Baker LLC Financial\nAccount: DRJX01016643398210\nMethod: ACH\nThank you for your business.",
+  "processing_time_seconds": 3.645,
+  "file_size_bytes": 115715,
+  "success": true
+}

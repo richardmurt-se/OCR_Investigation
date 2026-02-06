@@ -1,0 +1,21 @@
+.env
+secrets.txt
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Poetry (optional - remove if you want to commit poetry.lock)
+# poetry.lock
+
+
+docs/
+kernel-metadata.json
+
+# MLflow local artifacts
+mlruns/
+mlflow.db

@@ -1,0 +1,35 @@
+{
+  "filename": "107_effect_low_dpi.png",
+  "invoice": {
+    "client_name": "",
+    "client_address": "",
+    "seller_name": "Mann PLC",
+    "seller_address": "",
+    "invoice_number": "",
+    "invoice_date": "08/10/2025",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "",
+      "quantity": "2.00",
+      "unit_price": "",
+      "total_price": "158.46",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": ""
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.054,
+  "file_size_bytes": 112188
+}

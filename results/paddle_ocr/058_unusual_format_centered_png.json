@@ -1,0 +1,8 @@
+{
+  "filename": "058_unusual_format_centered.png",
+  "model_name": "paddleocr",
+  "raw_text": "ROBINSON, BELL AND MAYER\n941 Vickie Pine Suite 278 - East stanleyshire, AR 37500\nINVOICE\nFAC/571722727 - 02/03/2024 - Due: 02/28/2026\nFROM\nBILL TO\nRobinson, Bell and Mayer\nFisher-Martin\n941 Vickie Pine Suite 278\n303 sheryl Turnpike\nEost stanleyshire, AR 37500\nKendraside, MP 84351\nDESCRIPTION\nQUantity\nUNIT PRICE\nTOtAL\nSelf-enabling mobile hordware\n4.00\n267.04\n1 068.16\nStand-alone clear-thinking concept\n7.00\n280.73\n1 965.11\nStand-alone solution-oriented Grophic Interiace\n3.09\n75.23\n225.69\nSubtotal\n3 258.96\nTox (10%)\n325.90\nPAYMENT INFORMATION\n Bank: Fisner, Brown ond Mopheson Bank\nTotal Due\n3 584.86\nAccount: PJQA31561532602846\nThank You!\nRobinson, Bell and Mayer -Invoice #FAC/571722727",
+  "processing_time_seconds": 2.326,
+  "file_size_bytes": 36871,
+  "success": true
+}

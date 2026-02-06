@@ -1,0 +1,84 @@
+{
+  "filename": "047_heavy_punctuation_brackets.pdf",
+  "invoice": {
+    "client_name": "[Pruitt-Harris]",
+    "client_address": "(7127 Barry Harbors,\nLindseyberg, NY 83984)",
+    "seller_name": "[Hall Ltd]",
+    "seller_address": "(8412 Hughes Parkway,\nMollyhaven, TX 17325)",
+    "invoice_number": "[INV/77790513]",
+    "invoice_date": "22/01/2025",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "(NEW: Function-based motivating Graphic Interface - Special!\n- Ref. #80660) [Ref: REF-01000] {Cat: General}",
+      "quantity": "8.00",
+      "unit_price": "149.88",
+      "total_price": "-1 199.04",
+      "category": null
+    },
+    {
+      "description": "(NEW: Down-sized 4thgeneration firmware @ 50% off,\nModel: DPY-138) [Ref: REF-02000] {Cat: General}",
+      "quantity": "8.00",
+      "unit_price": "327.73",
+      "total_price": "-2 621.84",
+      "category": null
+    },
+    {
+      "description": "(> Implemented dedicated Internet solution - Special! | Size:\nM) [Ref: REF-03000] {Cat: General}",
+      "quantity": "6.00",
+      "unit_price": "217.37",
+      "total_price": "-1 304.22",
+      "category": null
+    },
+    {
+      "description": "(> Devolved global framework: Premium @ 19% discount)\n[Ref: REF-04000] {Cat: General}",
+      "quantity": "5.00",
+      "unit_price": "318.57",
+      "total_price": "-1 592.85",
+      "category": null
+    },
+    {
+      "description": "(> Automated bottom-line functionalities #1 Rated) [Ref:\nREF-05000] {Cat: General}",
+      "quantity": "10.00",
+      "unit_price": "197.23",
+      "total_price": "-1 972.30",
+      "category": null
+    },
+    {
+      "description": "( *** Right-sized optimal architecture - Special! | Size: XL) [Ref:\nREF-06000] {Cat: General}",
+      "quantity": "1.00",
+      "unit_price": "29.11",
+      "total_price": "-29.11",
+      "category": null
+    },
+    {
+      "description": "(SALE! Innovative modular utilization & Co.) [Ref: REF-07000]\n{Cat: General}",
+      "quantity": "1.00",
+      "unit_price": "83.27",
+      "total_price": "-83.27",
+      "category": null
+    },
+    {
+      "description": "( *** Upgradable human-resource methodology \"Pro\") [Ref:\nREF-08000] {Cat: General}",
+      "quantity": "2.00",
+      "unit_price": "284.74",
+      "total_price": "-569.48",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "-9 372.11",
+    "tax": "937.21",
+    "discount": "",
+    "total": "10 309.32"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.006,
+  "file_size_bytes": 100097
+}

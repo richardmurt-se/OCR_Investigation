@@ -1,0 +1,70 @@
+{
+  "filename": "045_heavy_punctuation_symbols.png",
+  "invoice": {
+    "client_name": "Grant and Sons&",
+    "client_address": "",
+    "seller_name": "RODGERS-WHITEHEAD ®TM",
+    "seller_address": "8372 Mcdowell Mountain . Williamsberg, OK 42696",
+    "invoice_number": "BILL/55188843",
+    "invoice_date": "05/12/2025",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Digitized non-volatile knowledgebase SSS | Size: MO - SKU#01000 @11% off*\n[NEW!] ***",
+      "quantity": "2.00",
+      "unit_price": "189.72",
+      "total_price": "379.44",
+      "category": null
+    },
+    {
+      "description": "Proactive context-sensitive analyzer ... more, Model: QIJ-7510 - SKU#02000 @33%\noff* [NEW!] ***",
+      "quantity": "8.00",
+      "unit_price": "282.93",
+      "total_price": "2 263.44",
+      "category": null
+    },
+    {
+      "description": "*** Advanced bandwidth-monitored concept {Limited} | Size: SO - SKU#03000\n@29% off* [NEW!] ***",
+      "quantity": "7.00",
+      "unit_price": "273.72",
+      "total_price": "1.00",
+      "category": null
+    },
+    {
+      "description": "*** Versatile zero administration customer loyalty ... more - Ref. #394220 -\nSKU#04000 @37% off* [NEW!] ***",
+      "quantity": "3.00",
+      "unit_price": "365.76",
+      "total_price": "1 097.28",
+      "category": null
+    },
+    {
+      "description": "Ameliorated explicit Internet solution $$$ - Ref. #419010 - SKU#05000 @32% off*\n[NEW!] ***",
+      "quantity": "10.00",
+      "unit_price": "90.38",
+      "total_price": "903.80",
+      "category": null
+    },
+    {
+      "description": "Adaptive 24hour knowledgebase & Co., Model: oXt-853 - SKU#06000 @35% off\"\n[NEW!] ***",
+      "quantity": "9.00",
+      "unit_price": "367.50",
+      "total_price": "3.00",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "9 867.50",
+    "tax": "986.75",
+    "discount": "",
+    "total": "9.00"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.78,
+  "file_size_bytes": 60509
+}

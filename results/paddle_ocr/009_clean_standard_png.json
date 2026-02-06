@@ -1,0 +1,8 @@
+{
+  "filename": "009_clean_standard.png",
+  "model_name": "paddleocr",
+  "raw_text": "Hendrix-Ortiz\nINVOICE\n2199 Maria Inlet Apt. 843 | North Laurenborough, IL 54314\nNo: INV/835484\nDate: 11/03/2024\nDue: 02/28/2026\nFROM\nBILL TO\nHendrix-Ortiz\nJoyce, White and Anderson\n2199 Maria Inlet Apt. 843\nPort Anitaburgh. GU 51487\n41666 Burns Lane\nNorth Laurenborough, IL 54314\nDescription\n Quantity\nUnit Price\nAmount\nSharable neutral groupware.\n6.00\n315.03\n1 890.18\n2\n Persevering multimedia data-warehouse\n5.00\n391.51\n1 957.55\n3\nConfigurable incremental artificial intelligencee\n4.00\n405.93\n1 623.72\n4\nVersatile asynchronous conglomeratione\n5.00\n436.50\n2 182.50\n5\n Multi-tiered incremental instruction set\n5.00\n482.71\n2 413.55\n6\nProgressive fault-tolerant parallelism\n008\n274.15\n2 193.20\n7\nCross-platform non-volatile capacity\n3.00\n49.59\n148.77\n8\nHorizontal regional application.\n3.00\n33.24\n99.72\nSubtotal\n12 509.19\nTax (10%)\n1 250.92\nTotal Due\n13 760.11\nPAYMENT INFORMATION\nBank: Cruz PLC Financial\nAccount: JMIJ87034528320676\nMethod: Wire Transfer.\nThank you for your business.",
+  "processing_time_seconds": 3.406,
+  "file_size_bytes": 36414,
+  "success": true
+}

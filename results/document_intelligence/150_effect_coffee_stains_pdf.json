@@ -1,0 +1,70 @@
+{
+  "filename": "150_effect_coffee_stains.pdf",
+  "invoice": {
+    "client_name": "Nguyen, Morgan and Warner",
+    "client_address": "",
+    "seller_name": "Harmon, Marks and Garcia",
+    "seller_address": "223 Denise Village Apt. 853 | Christophertown, DC 07600",
+    "invoice_number": "742159",
+    "invoice_date": "09/06/2024",
+    "due_date": "05/03/2026"
+  },
+  "items": [
+    {
+      "description": "Open-architected intangible open system",
+      "quantity": "6.00",
+      "unit_price": "138.30",
+      "total_price": "829.80",
+      "category": null
+    },
+    {
+      "description": "Innovative demand-driven infrastructure",
+      "quantity": "4.00",
+      "unit_price": "301.59",
+      "total_price": "1 206.36",
+      "category": null
+    },
+    {
+      "description": "De-engineered multi-state superstructure",
+      "quantity": "6.00",
+      "unit_price": "140.32",
+      "total_price": "841.92",
+      "category": null
+    },
+    {
+      "description": "Persevering value-added system engine",
+      "quantity": "1.00",
+      "unit_price": "308.46",
+      "total_price": "308.46",
+      "category": null
+    },
+    {
+      "description": "Integrated mobile encryption",
+      "quantity": "6.00",
+      "unit_price": "283.03",
+      "total_price": "1 698.18",
+      "category": null
+    },
+    {
+      "description": "Up-sized cohesive matrices",
+      "quantity": "1.00",
+      "unit_price": "301.43",
+      "total_price": "301.43",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "5 186.15",
+    "tax": "518.62",
+    "discount": "",
+    "total": "5 186.15"
+  },
+  "payment_instructions": {
+    "due_date": "05/03/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.261,
+  "file_size_bytes": 86727
+}

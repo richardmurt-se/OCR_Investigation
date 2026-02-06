@@ -1,0 +1,70 @@
+{
+  "filename": "012_clean_modern.jpeg",
+  "invoice": {
+    "client_name": "Mueller, Liu and Holt",
+    "client_address": "",
+    "seller_name": "Wilson Group",
+    "seller_address": "86274 Michael Causeway\nSouth Traci, AZ 97009",
+    "invoice_number": "INV919984",
+    "invoice_date": "26/10/2025",
+    "due_date": "17/02/2026"
+  },
+  "items": [
+    {
+      "description": "Exclusive homogeneous middleware",
+      "quantity": "3.00",
+      "unit_price": "274.76",
+      "total_price": "824.28",
+      "category": null
+    },
+    {
+      "description": "Synergized neutral circuit",
+      "quantity": "6.00",
+      "unit_price": "358.80",
+      "total_price": "2 152.80",
+      "category": null
+    },
+    {
+      "description": "Compatible regional encryption",
+      "quantity": "8.00",
+      "unit_price": "391.95",
+      "total_price": "3 135.60",
+      "category": null
+    },
+    {
+      "description": "Exclusive full-range budgetary management",
+      "quantity": "9.00",
+      "unit_price": "205.03",
+      "total_price": "1 845.27",
+      "category": null
+    },
+    {
+      "description": "Secured executive definition",
+      "quantity": "6.00",
+      "unit_price": "139.69",
+      "total_price": "838.14",
+      "category": null
+    },
+    {
+      "description": "Distributed zero administration core",
+      "quantity": "3.00",
+      "unit_price": "236.82",
+      "total_price": "710.46",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "9 506.55",
+    "tax": "950.65",
+    "discount": "",
+    "total": "9 506.55"
+  },
+  "payment_instructions": {
+    "due_date": "17/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.817,
+  "file_size_bytes": 63192
+}

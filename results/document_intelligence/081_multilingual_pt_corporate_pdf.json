@@ -1,0 +1,77 @@
+{
+  "filename": "081_multilingual_pt_corporate.pdf",
+  "invoice": {
+    "client_name": "Camargo",
+    "client_address": "Distrito Luan Andrade, 64\nUnião\n31508-617 Alves / SE",
+    "seller_name": "Cavalcante",
+    "seller_address": "Estação Vasconcelos\nMarmiteiros\n90473-972 Carvalho de Goiás / TO",
+    "invoice_number": "#BILL-8472774203",
+    "invoice_date": "07/05/2025",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "A simplicidade de ganhar direto da fonte",
+      "quantity": "7.00",
+      "unit_price": "125.80",
+      "total_price": "880.60",
+      "category": null
+    },
+    {
+      "description": "A certeza de inovar direto da fonte",
+      "quantity": "2.00",
+      "unit_price": "376.08",
+      "total_price": "752.16",
+      "category": null
+    },
+    {
+      "description": "A possibilidade de avançar com toda a tranquilidade",
+      "quantity": "10.00",
+      "unit_price": "285.40",
+      "total_price": "2 854.00",
+      "category": null
+    },
+    {
+      "description": "A segurança de mudar com força total",
+      "quantity": "7.00",
+      "unit_price": "421.07",
+      "total_price": "2 947.49",
+      "category": null
+    },
+    {
+      "description": "A arte de mudar mais rapidamente",
+      "quantity": "5.00",
+      "unit_price": "394.46",
+      "total_price": "1 972.30",
+      "category": null
+    },
+    {
+      "description": "A simplicidade de mudar direto da fonte",
+      "quantity": "1.00",
+      "unit_price": "360.67",
+      "total_price": "360.67",
+      "category": null
+    },
+    {
+      "description": "O prazer de realizar seus sonhos mais facilmente",
+      "quantity": "7.00",
+      "unit_price": "155.04",
+      "total_price": "1 085.28",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "10 852.50",
+    "tax": "1 085.25",
+    "discount": "",
+    "total": "11 937.75"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.985,
+  "file_size_bytes": 127821
+}

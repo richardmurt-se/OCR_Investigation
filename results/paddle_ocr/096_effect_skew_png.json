@@ -1,0 +1,8 @@
+{
+  "filename": "096_effect_skew.png",
+  "model_name": "paddleocr",
+  "raw_text": "INVOICE\nNo: FAC5170452\nDate: 09/20/2024\nake-Brandt\nDue: 03/07/2026\nPark Forge | Lake Tony, NY 86875\nBILL TO\nPerez Inc\nOM\n0244 Donaldson Falls Apt. 549\nake-Brandt\nLindsayport, FL 89669\n54 Park Forge\nUnit Price\nAmount\nke Tony, NY 86675\n Quantity\n2 491.70\n498.34\nDescription\n5.00\n120.34\n2.00\n60.17\n1\nStreamlined asymmetric artificial intelligence\n2 520.48\n421.58\n6.00\n2\nStand-alone systemic neural-net.\n350.80\n1 403.20\n4.00\n3\nNetworked impactful frame\n473.95\n2 369.75\n5.00\nExclusive systematic fiexibility\n8 914.47\n5\nPersevering mobile knowledge user\nSubtotal\n891.45\nTax (10%)\n-891.45\nDiscount\n8 914.47\nTotal Due\nPAYMENT INFORMATION\nBank: Moore, Harrison and Maldonado Credit Union\nAccount: YQUK62089483433198\nThank you for your business",
+  "processing_time_seconds": 2.702,
+  "file_size_bytes": 109361,
+  "success": true
+}

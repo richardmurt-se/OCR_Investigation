@@ -1,0 +1,63 @@
+{
+  "filename": "078_multilingual_zh_corporate.pdf",
+  "invoice": {
+    "client_name": "新格林耐特信息有限公司",
+    "client_address": "河南省斌县新城荆门路v座 286500",
+    "seller_name": "联通时科传媒有限公司",
+    "seller_address": "江苏省海门市长寿张街w座 848442",
+    "invoice_number": "#FAC/6932680559",
+    "invoice_date": "06/07/2025",
+    "due_date": "03/02/2026"
+  },
+  "items": [
+    {
+      "description": "Monitored web-enabled forecast",
+      "quantity": "3.00",
+      "unit_price": "316.02",
+      "total_price": "948.06",
+      "category": null
+    },
+    {
+      "description": "Total multimedia utilization",
+      "quantity": "4.00",
+      "unit_price": "467.08",
+      "total_price": "1 868.32",
+      "category": null
+    },
+    {
+      "description": "Devolved coherent initiative",
+      "quantity": "3.00",
+      "unit_price": "441.71",
+      "total_price": "1 325.13",
+      "category": null
+    },
+    {
+      "description": "Automated tangible service-desk",
+      "quantity": "1.00",
+      "unit_price": "52.79",
+      "total_price": "52.79",
+      "category": null
+    },
+    {
+      "description": "Function-based leadingedge open system",
+      "quantity": "2.00",
+      "unit_price": "353.86",
+      "total_price": "707.72",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "4 902.02",
+    "tax": "490.20",
+    "discount": "",
+    "total": "5 392.22"
+  },
+  "payment_instructions": {
+    "due_date": "03/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.085,
+  "file_size_bytes": 135544
+}

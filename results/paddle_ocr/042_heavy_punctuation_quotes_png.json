@@ -1,0 +1,8 @@
+{
+  "filename": "042_heavy_punctuation_quotes.png",
+  "model_name": "paddleocr",
+  "raw_text": "<Barker, Evans and Pope>\n,INVOICE\"\n\"Excellence in Every Detail\" - Your Trusted Partner'.\n02355 Holmes Expressway Apt. 254 . New Emilyhaven, FM 29641\n'No.': INV-192138\n\"Date\" 11/30/2025\nFrom>:\nBill Tos:\n\"Barker, Evans and Pope\"\n'Clark, Hatfield and Medina'\n02355 Holmes Expressway Apt. 254\n0187 Morgan Mews Apt. 648\nNew Emilyhaven, FM 29641\nWest Tracy, NM 88514\n<Description> / 'Details'\n\"Qty\"\n'Price'\n.Total\"\n'Persevering methodical paradigm #1 Rated (SKU: ev-o625)\" - 'Model: MDL-.\n'5.00'\n0100' xPremium Qualityx\n\"153.45\"\n767.25\n\"NEw: Implemented bottom-line intranet (Ltd.) @ 38% discount' - 'Model:.\nMDL-o200' Premium Qualitys\n'6.00'\n\"276.36\"\n1 659.16\n'Model: MDL-ogoo' Premium Qualityx\n'NEw: Progressive high-level Local Area Network & Co., Model: pjY-86o\" --\n'3.00'\n\"63.32\"\n189.96\n\" Up-sized analyzing policy $$s, Model: oeU-16g\" -- 'Model: MDL-0400'\nPremium Qualitys\n'8.00'\n\"145.69\"\n1 165.52\n\"NEw: Multi-channeled asymmetric architecture: Premium (SKU: Mm-4457)\" --\n5\n'Model: MDL-0500' Premium Qualitys\n'3.00'\n\"276.55\"\n829.65\n6\n\"NEw: Reverse-engineered local structure, Inc. @ 46% discount\" -- 'Model:\nMDL-o6oo' Premium Qualitys\n'7.00'\n\"491.01\"\n3 437.07\nSubtotal>:\n\"g 047.61\"\n;. (%01) xEL\n'804.76'\nuLE E98 8u\n,Notes & Terms\"\n or call (555) 123-4567'.\nBarker, Evans and Popex -- \"Your satisfaction is our priority\" - Thank you!.",
+  "processing_time_seconds": 4.029,
+  "file_size_bytes": 55571,
+  "success": true
+}

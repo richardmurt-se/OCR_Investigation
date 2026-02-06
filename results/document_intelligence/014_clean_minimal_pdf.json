@@ -1,0 +1,63 @@
+{
+  "filename": "014_clean_minimal.pdf",
+  "invoice": {
+    "client_name": "Gordon-Lopez",
+    "client_address": "183 Warner Burg Apt. 723\nParkerchester, SD 68325",
+    "seller_name": "Alexander, Ford and Rivera",
+    "seller_address": "699 Robert Lakes\nMarieport, PA 04966",
+    "invoice_number": "BILL-102079281",
+    "invoice_date": "12/05/2024",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Synchronized attitude-oriented support",
+      "quantity": "10.00",
+      "unit_price": "49.73",
+      "total_price": "497.30",
+      "category": null
+    },
+    {
+      "description": "Ameliorated bottom-line database",
+      "quantity": "7.00",
+      "unit_price": "67.95",
+      "total_price": "475.65",
+      "category": null
+    },
+    {
+      "description": "Re-contextualized explicit extranet",
+      "quantity": "7.00",
+      "unit_price": "210.70",
+      "total_price": "1 474.90",
+      "category": null
+    },
+    {
+      "description": "Cross-platform fault-tolerant groupware",
+      "quantity": "8.00",
+      "unit_price": "461.77",
+      "total_price": "3 694.16",
+      "category": null
+    },
+    {
+      "description": "Customer-focused human-resource installation",
+      "quantity": "7.00",
+      "unit_price": "268.16",
+      "total_price": "1 877.12",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "8 019.13",
+    "tax": "801.91",
+    "discount": "-400.96",
+    "total": "8 420.08"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.913,
+  "file_size_bytes": 101397
+}

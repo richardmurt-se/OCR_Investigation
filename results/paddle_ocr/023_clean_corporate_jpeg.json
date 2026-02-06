@@ -1,0 +1,8 @@
+{
+  "filename": "023_clean_corporate.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "Morton-Bryant\nUSS Mora -FPO AP 98327\nINVOICE\n#6536170030\n03/06/2024\nSELLER\nBUYER\nMorton-Bryant\nMyers,Heath and Gray\nUSS Mora\n9202John Mill\nFPOAP98327\nWest Jillside, MT 12779\nNO.\nDESCRIPTION\nQUANTITY\nUNIT PRICE\nAMDUNT\nOpen-architected neutral pricing structure\n4.00\n157.22\n628.88\nSecured methodical groupware\n8.00\n137.32\n1098.56\n3\nStreamlined 24/7 moderator\n2.00\n45.57\n91.14\nSubtotal\n1818.58\nTax (10%)\n181.86\nDiscount\n-90.93\nTOTAL DUE\n1909.51\nEANKING DETAILS\nBank BrowaRusso and Mercer Bank\nAccount:OTPQ03241414884328\nDue Date:02/22/2026\nMorton-Bryant-Invoice #6536170030-03/06/2024",
+  "processing_time_seconds": 2.302,
+  "file_size_bytes": 71427,
+  "success": true
+}

@@ -1,0 +1,63 @@
+{
+  "filename": "008_clean_modern.png",
+  "invoice": {
+    "client_name": "Webster, Anderson and Dixon",
+    "client_address": "",
+    "seller_name": "Donaldson Group",
+    "seller_address": "214 Marquez Course Suite 785\nMaryport, SD 44583",
+    "invoice_number": "FAC-214897367",
+    "invoice_date": "01/05/2025",
+    "due_date": "13/02/2026"
+  },
+  "items": [
+    {
+      "description": "Phased web-enabled archive",
+      "quantity": "7.00",
+      "unit_price": "334.96",
+      "total_price": "2 344.72",
+      "category": null
+    },
+    {
+      "description": "Polarized encompassing flexibility",
+      "quantity": "3.00",
+      "unit_price": "65.40",
+      "total_price": "196.20",
+      "category": null
+    },
+    {
+      "description": "Centralized leadingedge pricing structure",
+      "quantity": "1.00",
+      "unit_price": "365.93",
+      "total_price": "365.93",
+      "category": null
+    },
+    {
+      "description": "Fundamental responsive ability",
+      "quantity": "7.00",
+      "unit_price": "257.52",
+      "total_price": "1 802.64",
+      "category": null
+    },
+    {
+      "description": "Robust methodical solution",
+      "quantity": "3.00",
+      "unit_price": "152.90",
+      "total_price": "458.70",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "5 168.19",
+    "tax": "516.82",
+    "discount": "",
+    "total": "5 685.01"
+  },
+  "payment_instructions": {
+    "due_date": "13/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.035,
+  "file_size_bytes": 114429
+}

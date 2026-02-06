@@ -1,0 +1,84 @@
+{
+  "filename": "143_effect_fold_lines.pdf",
+  "invoice": {
+    "client_name": "Garza-Liu",
+    "client_address": "",
+    "seller_name": "Tucker Inc",
+    "seller_address": "62342 Cooley Cliffs\nNorth Rachael, NH 07008",
+    "invoice_number": "FAC6231649",
+    "invoice_date": "09/02/2024",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Persevering 4thgeneration policy",
+      "quantity": "7.00",
+      "unit_price": "482.25",
+      "total_price": "3 375.75",
+      "category": null
+    },
+    {
+      "description": "Function-based incremental array",
+      "quantity": "7.00",
+      "unit_price": "401.91",
+      "total_price": "2 813.37",
+      "category": null
+    },
+    {
+      "description": "Total context-sensitive knowledgebase",
+      "quantity": "7.00",
+      "unit_price": "253.26",
+      "total_price": "1 772.82",
+      "category": null
+    },
+    {
+      "description": "Mandatory radical standardization",
+      "quantity": "6.00",
+      "unit_price": "339.21",
+      "total_price": "2 035.26",
+      "category": null
+    },
+    {
+      "description": "Compatible clear-thinking policy",
+      "quantity": "7.00",
+      "unit_price": "382.34",
+      "total_price": "2 676.38",
+      "category": null
+    },
+    {
+      "description": "Grass-roots zero administration conglomeration",
+      "quantity": "1.00",
+      "unit_price": "82.19",
+      "total_price": "82.19",
+      "category": null
+    },
+    {
+      "description": "Centralized eco-centric Local Area Network",
+      "quantity": "9.00",
+      "unit_price": "253.61",
+      "total_price": "2 282.49",
+      "category": null
+    },
+    {
+      "description": "Cloned well-modulated instruction set",
+      "quantity": "3.00",
+      "unit_price": "87.59",
+      "total_price": "262.77",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "15 301.03",
+    "tax": "1 530.10",
+    "discount": "",
+    "total": "16 831.13"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.004,
+  "file_size_bytes": 34502
+}

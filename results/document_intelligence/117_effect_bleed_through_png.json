@@ -1,0 +1,84 @@
+{
+  "filename": "117_effect_bleed_through.png",
+  "invoice": {
+    "client_name": "",
+    "client_address": "",
+    "seller_name": "French Ltd",
+    "seller_address": "127 Sharon Islands Suite 163\nHarrisbury, VI 82598",
+    "invoice_number": "BILL34628406",
+    "invoice_date": "27/11/2024",
+    "due_date": "15/02/2026"
+  },
+  "items": [
+    {
+      "description": "Upgradable demand-driven encoding",
+      "quantity": "358.68",
+      "unit_price": "29 162.00",
+      "total_price": "11 070.04",
+      "category": null
+    },
+    {
+      "description": "Adaptive homogeneous attitude",
+      "quantity": "3.00",
+      "unit_price": "27.66",
+      "total_price": "82.98",
+      "category": null
+    },
+    {
+      "description": "Synchronized high-level solution",
+      "quantity": "",
+      "unit_price": "36.49",
+      "total_price": "364.90",
+      "category": null
+    },
+    {
+      "description": "Total upward-trending Local Area Network",
+      "quantity": "9.00",
+      "unit_price": "130.07",
+      "total_price": "1 170.63",
+      "category": null
+    },
+    {
+      "description": "Devolved background model",
+      "quantity": "",
+      "unit_price": "62.03",
+      "total_price": "82.03",
+      "category": null
+    },
+    {
+      "description": "User-centric mission-critical hardware",
+      "quantity": "5.00",
+      "unit_price": "463.18",
+      "total_price": "2 315.90",
+      "category": null
+    },
+    {
+      "description": "Compatible discrete instruction set",
+      "quantity": "",
+      "unit_price": "85.97",
+      "total_price": "85.97",
+      "category": null
+    },
+    {
+      "description": "Enterprise-wide solution-oriented framework",
+      "quantity": "3.00",
+      "unit_price": "88.42",
+      "total_price": "265.26",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "65 397.71",
+    "tax": "1 539.77",
+    "discount": "",
+    "total": "5 937.48"
+  },
+  "payment_instructions": {
+    "due_date": "15/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.808,
+  "file_size_bytes": 116876
+}

@@ -1,0 +1,8 @@
+{
+  "filename": "099_effect_jpeg_artifacts.pdf",
+  "model_name": "paddleocr",
+  "raw_text": "Anderson-Gibson\nINVOICE\n1034DavsMsion AmeandT48365\nNoNV/3499450791\nDate:11/22/2025\nDue:02/16/2026\nFROM\nBILL TO\nAnderson-Gibson\nRayAbbott and Garrett\n1634Davis Mission\n02086Haynes HarborApt 046\nAmberland.VT48385\nWestKe|seyside.LT2400\nDescription\nQuantity\nUnit Price\nAmount\n1\nCompatible intangible woridforce\n7.00\n209.26\n484.82\n2\nReactive needs-based data-warahouse\n6.00\n58.04\n353.64\n3\nDown-sized motivating core\n4.00\n216.00\n807.60\n4\nVision-onented 3rdgeneration software\n7.00\n184.21\n1149.47\n5\n7.00\n293.18\n2052.12\nSuototal\n5887.65\nTax10%\n588.76\n476.41\nPAYMENT INFORMATION\nBankSoott-Guferrez Financial\nAccount TM5855338324684931\nMethod:ACH\nwsghnkno",
+  "processing_time_seconds": 2.771,
+  "file_size_bytes": 133236,
+  "success": true
+}

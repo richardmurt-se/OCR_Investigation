@@ -1,0 +1,77 @@
+{
+  "filename": "041_heavy_punctuation_symbols.pdf",
+  "invoice": {
+    "client_name": "Smith, Ryan and Smith®",
+    "client_address": "",
+    "seller_name": "WILLIAMS, NICHOLSON AND AVILA ®TM",
+    "seller_address": "8021 Steele Neck . Janeburgh, CO 68010",
+    "invoice_number": "INV7239563",
+    "invoice_date": "15/12/2024",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "*** Customer-focused bi-directional paradigm ... more (SKU: PW-6293)®\n- SKU#01000 @38% off* [NEW!] ***",
+      "quantity": "3.00",
+      "unit_price": "402.71",
+      "total_price": "1.00",
+      "category": null
+    },
+    {
+      "description": "*** Re-engineered bi-directional toolset: Premium @ 10% discount®\nSKU#02000 @34% off* [NEW!] ***",
+      "quantity": "2.00",
+      "unit_price": "113.10",
+      "total_price": "226.20",
+      "category": null
+    },
+    {
+      "description": "> Cross-group well-modulated synergy $$$, Model: cCL-026®\nSKU#03000 @37% off* [NEW!] ***",
+      "quantity": "10.00",
+      "unit_price": "93.11",
+      "total_price": "931.10",
+      "category": null
+    },
+    {
+      "description": "NEW: Monitored static superstructure 'Elite' @ 38% discount®\nSKU#04000 @43% off* [NEW!] ***",
+      "quantity": "3.00",
+      "unit_price": "153.62",
+      "total_price": "460.86",
+      "category": null
+    },
+    {
+      "description": "Up-sized asymmetric paradigm & Co., Model: jDy-491® - SKU#05000\n@27% off* [NEW!] ***",
+      "quantity": "3.00",
+      "unit_price": "112.80",
+      "total_price": "338.40",
+      "category": null
+    },
+    {
+      "description": "NEW: Persevering regional paradigm: Premium® - SKU#06000@10%\noff* [NEW!] ***",
+      "quantity": "6.00",
+      "unit_price": "428.28",
+      "total_price": "2.00",
+      "category": null
+    },
+    {
+      "description": "> Synchronized hybrid encoding, Inc., Model: PyS-041® - SKU#07000\n@46% off* [NEW!] ***",
+      "quantity": "6.00",
+      "unit_price": "279.05",
+      "total_price": "1.00",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "7 408.67",
+    "tax": "740.87",
+    "discount": "",
+    "total": "8.00"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.387,
+  "file_size_bytes": 188970
+}

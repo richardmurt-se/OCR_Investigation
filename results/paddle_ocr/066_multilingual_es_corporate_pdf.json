@@ -1,0 +1,8 @@
+{
+  "filename": "066_multilingual_es_corporate.pdf",
+  "model_name": "paddleocr",
+  "raw_text": "Viviana Campoy Fabra S.A.\nFACTURA\nVia Aurelia Godoy 622 Puerta 6 - Ciudad, 46140\n#FAC/518262994\n10/13/2025\nVENDEDOR\nCOMPRADOR\nViviana Campoy Fabra S.A.\nHnos Canizares S.A.U\nVia Aurelia Godoy 622 Puerta 6\n Rambla Jeremias Casanovas 7 Apt. 26\nCiudad, 46140\nLleida, 52032\nDESCRIPCION\nCANTIDAD\nPRECIO UNIT.\nIMPORTE\nMandatory multi-state Internet solution\n5.00\n130.60\n653.00\nOperative zero tolerance initiative\n10.00\n2\n13.50\n135.00\n3\nExtended uniform productivity\n1.00\n306.54\n306.54\nReduced radical conglomeration\n7.00\n84.24\n589.68\n5\nRobust content-based contingency\n4.00\n40.56\n162.24\n6\nCloned mission-critical website\n3.00\n101.06\n303.18\n7\nCloned multi-tasking analyzer\n4.00\n208.62\n834.48\nSubtotal\n2 984.12\nIVA (10%)\n298.41\nDescuento\n-298.41\nTOTAL A PAGAR\n984.12\nDATOS BANCARIOS\nBanco: Nino y Ferrero S.A. Cooperativa de Credito\nCuenta: 91479082291738488411\nFecha de vencimiento: 03/11/2026\nViviana Campoy Fabra S.A.Factura #FAC/518262994-10/13/2025",
+  "processing_time_seconds": 3.562,
+  "file_size_bytes": 141548,
+  "success": true
+}

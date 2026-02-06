@@ -1,0 +1,8 @@
+{
+  "filename": "083_multilingual_hu_minimal.png",
+  "model_name": "paddleocr",
+  "raw_text": "INVOICE\nINV2411994133\n08/18/2025\nFROM\nTO\nBalogh Kht.\nTorok Kft.\nSzeknemetii ut 100..\nVactamasii ter 193..\nH-1162 Pusztahidhida\nH-4669 Budapest\nDESCRIPTION\nQTY\nPRICE\nTOTAL\nVision-\nnted3rdge\n2.00\n52.88\n105.76\nMandatory h\n5.00\n369.97\n1 849.85\nUnivers\n1.00\n253.30\n253.30\n3.00\n95.62\n286.86\nSubtotal\n2 495.77\nXEL\n249.58\nDiscount\n-249.58\nTotal\n2 495.77\nThank you",
+  "processing_time_seconds": 1.724,
+  "file_size_bytes": 22735,
+  "success": true
+}

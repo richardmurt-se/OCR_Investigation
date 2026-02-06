@@ -1,0 +1,8 @@
+{
+  "filename": "051_unusual_format_sidebar.png",
+  "model_name": "paddleocr",
+  "raw_text": "INVOICE\nFROH\nTL\nBoyd, Simmons and Smith.\nBrown-Edwards\n9447\nJohn Course\nUnit 8634 Box 3955\nPort I\nDawnshire, ID 49012\nDPO AP 72176\nBILL-68886577\n08/29/2025\nLINE ITEMS\n02/22/2026\n01\nDistributed coherent capacity\nx4.00\n328.56\nSUMMARY\n02\nSynergised human-resource intranet.\nx2.00\n556.96\nSubtotal\n3 024.47\nTax\n302.45\n03\nFundamental optimising implementation.\nx5.00\n2 138.95\nDiscount\n-151.22\nTELoL\n3 175.70\nTe uo Lls9eee9-nlIg aoqanu angonuy aouaaagax aaeata *adganaa uodn anp sy quawieg :oaon\ncorrespondence.\nGriffin,\n Robinson and\nBennett Financial\nIWLY16785305378653",
+  "processing_time_seconds": 2.648,
+  "file_size_bytes": 29620,
+  "success": true
+}

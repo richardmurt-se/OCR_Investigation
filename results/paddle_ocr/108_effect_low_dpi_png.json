@@ -1,0 +1,8 @@
+{
+  "filename": "108_effect_low_dpi.png",
+  "model_name": "paddleocr",
+  "raw_text": "Massey Group\nINVOICE\n \nCA4570\nLRLENANNN\nEede 04/162104\nFROM\nMassey Group\nBukr-L\ndady\nA \n2004\n10\na\n1404.00\nMEM\n17\nS (10%)\nTO3",
+  "processing_time_seconds": 2.457,
+  "file_size_bytes": 118307,
+  "success": true
+}

@@ -1,0 +1,49 @@
+{
+  "filename": "004_clean_modern.pdf",
+  "invoice": {
+    "client_name": "Brennan-Crawford",
+    "client_address": "",
+    "seller_name": "Cervantes, Gonzalez and Holt",
+    "seller_address": "37570 John Drives Apt. 708 · West Derek, PR 37135",
+    "invoice_number": "41999408",
+    "invoice_date": "12/05/2024",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Balanced composite parallelism",
+      "quantity": "4.00",
+      "unit_price": "78.09",
+      "total_price": "312.36",
+      "category": null
+    },
+    {
+      "description": "Monitored regional circuit",
+      "quantity": "2.00",
+      "unit_price": "450.49",
+      "total_price": "900.98",
+      "category": null
+    },
+    {
+      "description": "Advanced needs-based middleware",
+      "quantity": "6.00",
+      "unit_price": "253.24",
+      "total_price": "1 519.44",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "2 732.78",
+    "tax": "273.28",
+    "discount": "-136.64",
+    "total": "2 869.42"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.984,
+  "file_size_bytes": 101965
+}

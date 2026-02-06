@@ -1,0 +1,70 @@
+{
+  "filename": "069_multilingual_fr_corporate.png",
+  "invoice": {
+    "client_name": "Samson",
+    "client_address": "64, rue Margaux Gilbert\n78803 Hubert-sur-Mer",
+    "seller_name": "Leroux Grenier S.A.S.",
+    "seller_address": "590, chemin Jean\n31407 Guillou",
+    "invoice_number": "#INV/676112",
+    "invoice_date": "09/03/2025",
+    "due_date": "13/02/2026"
+  },
+  "items": [
+    {
+      "description": "La possibilité d'avancer de manière sûre",
+      "quantity": "2.00",
+      "unit_price": "343.87",
+      "total_price": "687.74",
+      "category": null
+    },
+    {
+      "description": "Le plaisir de louer a sa source",
+      "quantity": "4.00",
+      "unit_price": "344.53",
+      "total_price": "1 378.12",
+      "category": null
+    },
+    {
+      "description": "L'avantage de rouler en toute tranquilité",
+      "quantity": "5.00",
+      "unit_price": "380.79",
+      "total_price": "1 903.95",
+      "category": null
+    },
+    {
+      "description": "L'art d'atteindre vos buts de manière sûre",
+      "quantity": "3.00",
+      "unit_price": "318.91",
+      "total_price": "956.73",
+      "category": null
+    },
+    {
+      "description": "La possibilité d'innover plus rapidement",
+      "quantity": "3.00",
+      "unit_price": "167.60",
+      "total_price": "502.80",
+      "category": null
+    },
+    {
+      "description": "Le confort de rouler a la pointe",
+      "quantity": "7.00",
+      "unit_price": "46.00",
+      "total_price": "322.00",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "5 751.34",
+    "tax": "575.13",
+    "discount": "-575.13",
+    "total": "5 751.34"
+  },
+  "payment_instructions": {
+    "due_date": "13/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.717,
+  "file_size_bytes": 40748
+}

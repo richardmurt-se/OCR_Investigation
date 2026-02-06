@@ -1,0 +1,49 @@
+{
+  "filename": "027_clean_corporate.jpeg",
+  "invoice": {
+    "client_name": "Bailey-Robinson",
+    "client_address": "3046 Chavez Mount Suite 060\nEmilytown, SD 61524",
+    "seller_name": "Mayo, Marshall and Wilson",
+    "seller_address": "PSC 5068, Box 0003\nAPO AA 71336",
+    "invoice_number": "#FAC/7552188",
+    "invoice_date": "06/06/2024",
+    "due_date": "11/03/2026"
+  },
+  "items": [
+    {
+      "description": "Cross-platform zero tolerance core",
+      "quantity": "8.00",
+      "unit_price": "17.64",
+      "total_price": "141.12",
+      "category": null
+    },
+    {
+      "description": "Reverse-engineered directional middleware",
+      "quantity": "9.00",
+      "unit_price": "206.28",
+      "total_price": "1 856.52",
+      "category": null
+    },
+    {
+      "description": "User-friendly global project",
+      "quantity": "7.00",
+      "unit_price": "308.00",
+      "total_price": "2 156.00",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "4 153.64",
+    "tax": "415.36",
+    "discount": "",
+    "total": "4 361.32"
+  },
+  "payment_instructions": {
+    "due_date": "11/03/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.858,
+  "file_size_bytes": 75311
+}

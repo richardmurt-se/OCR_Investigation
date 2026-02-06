@@ -1,0 +1,8 @@
+{
+  "filename": "057_unusual_format_two_column.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "Lopez-Montgomery\n310 Estes Inlet West Richard, OR 50803\nINVOICE\nNo: INV96593360 | Date: 06/02/2025\nPARTIES\nSUMMARY &PAYMENT\nFROM (SELLER)\nInvoice Totals\nLopez-Montgomery\nSubtotal\n10 745.04\n310 Estes Inlet\nWest Richard, OR 50503\nTax (10%)\n1 074.50\nTOTAL DUE\n11 822.84\nTO (BUYER)\nYoung-Keller\n237 David Plain Suite 941\nITEMS (4-7)\nMichaelfort, TN 20278\nDescription\nQty\nTotal\nAdvanced demand-driven function\n2.00\n598.54\nITEMS (1-3)\n8.00\n1 533.04\nDesariptior\nCompatible realtime data-warehouse\n10.00\n3 427.80\nOperative 24hour moderator\n6.00\n1642.86\nInnovative stable time-frame\n9.00\n2 522.79\nExtended client-server solution\n1.00\n446.01\nFace-to-face grid-enabled utilization\n10.00\n577.00\n0/9009=\nThank you for your business!",
+  "processing_time_seconds": 2.656,
+  "file_size_bytes": 72802,
+  "success": true
+}

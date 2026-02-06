@@ -1,0 +1,8 @@
+{
+  "filename": "001_clean_standard.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "Melton PLC\nINVOICE\nPSC 7175.B0x4319APO AE 97006\nNoFAC/610612417\nDate:07/24/2025\nFROM\nBILL TO\nMelton PLC\nHernandez,White and Pierce\nPSC7175.Bx4319\nAPOAE97006\n7121 Tyler Burgs Apt.972\nEast Douglasburgh.lA 16832\nDescription\nQuantity\nUnit Price\nAmount\n1\nPre-emptive 6thgeneration architecture\n9.00\n400.98\n3 608.82\n2\nVisionary directional circuit\n3.00\n498.08\n1 494.24\n3\nEnhanced fresh-thinking policy\n1.00\n403.71\n403.71\n4\nTotal secondary Internet solution\n3.00\n27.84\n83.52\n5\nMandatory zero administration support\n4.00\n175.94\n703.76\nSubtotal\n6 294.05\nTax (10%)\n629.41\nTotal Due\n6923.46\nThank you for your business",
+  "processing_time_seconds": 2.264,
+  "file_size_bytes": 46224,
+  "success": true
+}

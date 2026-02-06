@@ -1,0 +1,8 @@
+{
+  "filename": "030_clean_minimal.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "INVOICE\nINV-288206\n04/01/2024\nFROM\nTO\nGutierrez-Cochran\nFletcher,Price and Silva\n9381 Rodney Prairie Suite 354\nUSNS Bryan\nNorth RyanportWY49572\nFPOAP54485\nDESCRIPTION\nQTY\nPRICE\nTOTAL\nPolarized zero tolerance focus group\n8.00\n458.46\n3 667.68\n6.00\n470.41\n2 822.46\nSynchronize\nondaryparallelisn\n10.00\n426.95\n4209.50\nMandatory directional strategy\n7.00\n311.66\n2181.62\n10.00\n110.05\n1100.50\nMulti-channeled heuristic throughput\n6.00\n333.70\n2002.20\nAmeliorated motivating toolset\n4.00\n137.24\n548.96\nSubtotal\n16 592.92\nTex\n1659.29\nTotal\n18252.21\nThank you",
+  "processing_time_seconds": 2.497,
+  "file_size_bytes": 50011,
+  "success": true
+}

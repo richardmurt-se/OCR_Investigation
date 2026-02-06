@@ -1,0 +1,8 @@
+{
+  "filename": "074_multilingual_ar_minimal.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "843919373\n11/15/2025\nLLC\nGreen9124\nCircles Suite 722513\nOK 05313West\nview.AL76079\n441.70\n441.70\n1.00\nProactive\nicated knowledge use\n357.60 4\n435.76\n10.00\n753.70 2\n275.37\n10.00\nOptii\n544.241\n193.03\n8.00\n686.12\n343.06\n2.00\n641.58\n320.78\n2.00\nFront-line radical leverage\n424.9210\n042.491\n467.4111",
+  "processing_time_seconds": 1.923,
+  "file_size_bytes": 42239,
+  "success": true
+}

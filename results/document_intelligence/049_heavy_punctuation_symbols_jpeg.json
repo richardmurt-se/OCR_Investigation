@@ -1,0 +1,70 @@
+{
+  "filename": "049_heavy_punctuation_symbols.jpeg",
+  "invoice": {
+    "client_name": "Lewis, Wright and Richardson&",
+    "client_address": "",
+    "seller_name": "SHEPARD, CAMERON AND NORRIS RTM",
+    "seller_address": "2865 Lee Curve Suite 006 . North Timothy, WA 52236",
+    "invoice_number": "BILL/180500",
+    "invoice_date": "03/03/2024",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "*** Function-based grid-enabled service-desk - Special! - Ref. #965120 - SKU#01000\n@47% off\" [NEW!] ***",
+      "quantity": "1.00",
+      "unit_price": "235.53",
+      "total_price": "235.53",
+      "category": null
+    },
+    {
+      "description": "SALE! Synergized even-keeled data-warehouse {Limited} @ 21% discount@ -\nSKU=02000 @29% off* [NEW!] ***",
+      "quantity": "5.00",
+      "unit_price": "196.95",
+      "total_price": "984.75",
+      "category": null
+    },
+    {
+      "description": "NEW: Digitized exuding hub SSS (SKU: el-3867)@ - SKU#03000 @28% off* [NEW!]\n***",
+      "quantity": "9.00",
+      "unit_price": "320.43",
+      "total_price": "2 883.87",
+      "category": null
+    },
+    {
+      "description": "*** Stand-alone regional support; Deluxe® - SKU#04000 @36% off* [NEW!] ***",
+      "quantity": "3.00",
+      "unit_price": "135.65",
+      "total_price": "406.95",
+      "category": null
+    },
+    {
+      "description": "> Intuitive cohesive approach +++, Model: ENj-6580 - SKU#05000 @30% off\"\n[NEW!] ***",
+      "quantity": "2.00",
+      "unit_price": "381.65",
+      "total_price": "763.30",
+      "category": null
+    },
+    {
+      "description": "SALE! Total even-keeled definition, Inc., Model: OnI-9540 - SKU#06000 @19% off+\n[NEW!] ***",
+      "quantity": "3.00",
+      "unit_price": "320.30",
+      "total_price": "960.90",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "6 235.30",
+    "tax": "623.53",
+    "discount": "",
+    "total": "6 858.83"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.959,
+  "file_size_bytes": 115824
+}

@@ -1,0 +1,56 @@
+{
+  "filename": "021_clean_standard.png",
+  "invoice": {
+    "client_name": "Kerr-Barker",
+    "client_address": "",
+    "seller_name": "Smith Inc",
+    "seller_address": "43046 Nicole Junctions\nLake Kristin, WV 76200",
+    "invoice_number": "INV-2421235532",
+    "invoice_date": "02/12/2024",
+    "due_date": "05/03/2026"
+  },
+  "items": [
+    {
+      "description": "Reverse-engineered logistical encryption",
+      "quantity": "8.00",
+      "unit_price": "159.47",
+      "total_price": "1 275.76",
+      "category": null
+    },
+    {
+      "description": "Quality-focused contextually-based solution",
+      "quantity": "5.00",
+      "unit_price": "334.00",
+      "total_price": "1 670.00",
+      "category": null
+    },
+    {
+      "description": "Realigned intangible solution",
+      "quantity": "7.00",
+      "unit_price": "449.23",
+      "total_price": "3 144.61",
+      "category": null
+    },
+    {
+      "description": "Fully-configurable zero administration matrix",
+      "quantity": "6.00",
+      "unit_price": "127.95",
+      "total_price": "767.70",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "6 858.07",
+    "tax": "685.81",
+    "discount": "",
+    "total": "7 543.88"
+  },
+  "payment_instructions": {
+    "due_date": "05/03/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.834,
+  "file_size_bytes": 30363
+}

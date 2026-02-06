@@ -1,0 +1,49 @@
+{
+  "filename": "040_complex_tables_multi_column.jpeg",
+  "invoice": {
+    "client_name": "Gonzalez and Sons",
+    "client_address": "00756 Kenneth Fort Apt. 645, Port Jessica, TN 23720",
+    "seller_name": "Campbell-Duncan",
+    "seller_address": "24713 Long Track, North Crystal, GU 98812",
+    "invoice_number": "INV/7878729425",
+    "invoice_date": "26/10/2024",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Multi tiered actuating Local Area N.",
+      "quantity": "0.08",
+      "unit_price": "169.51",
+      "total_price": "1 525.59",
+      "category": null
+    },
+    {
+      "description": "Up sized content based orchestratio ..",
+      "quantity": "6.88",
+      "unit_price": "5.98",
+      "total_price": "575.88",
+      "category": null
+    },
+    {
+      "description": "Configurable bifurcated moderator ( .-",
+      "quantity": "4.08",
+      "unit_price": "439.17",
+      "total_price": "1 756.68",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "3 858.15",
+    "tax": "385.81",
+    "discount": "0.00",
+    "total": "4 243.96"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "Not 30 | Campbell Duncan | Invoice MINV/7878725425",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.674,
+  "file_size_bytes": 51352
+}

@@ -1,0 +1,77 @@
+{
+  "filename": "066_multilingual_es_corporate.png",
+  "invoice": {
+    "client_name": "Hnos Cañizares S.A.U",
+    "client_address": "Rambla Jeremias Casanovas 7 Apt. 26\nLleida, 52032",
+    "seller_name": "Viviana Campoy Fabra S.A.",
+    "seller_address": "Via Aurelia Godoy 622 Puerta 6\nCiudad, 46140",
+    "invoice_number": "#FAC/518262994",
+    "invoice_date": "13/10/2025",
+    "due_date": "11/03/2026"
+  },
+  "items": [
+    {
+      "description": "Mandatory multi-state Internet solution",
+      "quantity": "5.00",
+      "unit_price": "130.60",
+      "total_price": "653.00",
+      "category": null
+    },
+    {
+      "description": "Operative zero tolerance initiative",
+      "quantity": "10.00",
+      "unit_price": "13.50",
+      "total_price": "135.00",
+      "category": null
+    },
+    {
+      "description": "Extended uniform productivity",
+      "quantity": "1.00",
+      "unit_price": "306.54",
+      "total_price": "306.54",
+      "category": null
+    },
+    {
+      "description": "Reduced radical conglomeration",
+      "quantity": "7.00",
+      "unit_price": "84.24",
+      "total_price": "589.68",
+      "category": null
+    },
+    {
+      "description": "Robust content-based contingency",
+      "quantity": "4.00",
+      "unit_price": "40.56",
+      "total_price": "162.24",
+      "category": null
+    },
+    {
+      "description": "Cloned mission-critical website",
+      "quantity": "3.00",
+      "unit_price": "101.06",
+      "total_price": "303.18",
+      "category": null
+    },
+    {
+      "description": "Cloned multi-tasking analyzer",
+      "quantity": "4.00",
+      "unit_price": "208.62",
+      "total_price": "834.48",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "2 984.12",
+    "tax": "298.41",
+    "discount": "-298.41",
+    "total": "2 984.12"
+  },
+  "payment_instructions": {
+    "due_date": "11/03/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.754,
+  "file_size_bytes": 44350
+}

@@ -1,0 +1,8 @@
+{
+  "filename": "145_effect_stamps.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "Andersen-Ward\nINVOICE\n61434 Humphrey Lodge |Tracyport.NV 74313\nNo:2508674769\nDate:12/04/2025\nDue:03/09/2026\nFROM\nBILL TO\nAndersen-Ward\nBriggs LLC\n61434 Humphrey Lodge\n0677 James Gardens Suite 403\nTracyport, NV 74313\nLake Sharon.OK48077\nDescription\nQuantity\nUnit Price\nAmount\nBalar\n next generation product\n2.00\n333.76\n687.52\nrammable.\nted benchmark\n9.00\n152.43\n1371.87\nVOID\n4.00\n140.87\n503.48\nSubtotal\n2602.87\nTax (10%\n280.29\nD. Taylor\nDiscount\n-280.29\nTotalDue\n2602.87\n07/01/25\nPAYMENT INP\nRMATION\nBank:Wiley-Prince\nnion\nAccount:RLQB288899215970\nMethod: Check\nThank you for your business",
+  "processing_time_seconds": 2.337,
+  "file_size_bytes": 86792,
+  "success": true
+}

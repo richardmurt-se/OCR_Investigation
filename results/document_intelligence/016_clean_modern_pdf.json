@@ -1,0 +1,77 @@
+{
+  "filename": "016_clean_modern.pdf",
+  "invoice": {
+    "client_name": "Elliott, Moore and Tyler",
+    "client_address": "",
+    "seller_name": "Coleman-Brooks",
+    "seller_address": "90208 Newton Landing · Lauramouth, MN 60012",
+    "invoice_number": "FAC8874319",
+    "invoice_date": "10/12/2024",
+    "due_date": "08/03/2026"
+  },
+  "items": [
+    {
+      "description": "Devolved mobile firmware",
+      "quantity": "9.00",
+      "unit_price": "163.80",
+      "total_price": "1 474.20",
+      "category": null
+    },
+    {
+      "description": "Reverse-engineered high-level adapter",
+      "quantity": "9.00",
+      "unit_price": "121.33",
+      "total_price": "1 091.97",
+      "category": null
+    },
+    {
+      "description": "Quality-focused empowering flexibility",
+      "quantity": "7.00",
+      "unit_price": "275.86",
+      "total_price": "1 931.02",
+      "category": null
+    },
+    {
+      "description": "Customer-focused disintermediate strategy",
+      "quantity": "6.00",
+      "unit_price": "115.89",
+      "total_price": "695.34",
+      "category": null
+    },
+    {
+      "description": "Implemented fault-tolerant collaboration",
+      "quantity": "9.00",
+      "unit_price": "153.25",
+      "total_price": "1 379.25",
+      "category": null
+    },
+    {
+      "description": "Focused explicit capacity",
+      "quantity": "3.00",
+      "unit_price": "195.89",
+      "total_price": "587.67",
+      "category": null
+    },
+    {
+      "description": "Managed heuristic knowledge user",
+      "quantity": "9.00",
+      "unit_price": "430.23",
+      "total_price": "3 872.07",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "11 031.52",
+    "tax": "1 103.15",
+    "discount": "",
+    "total": "12 134.67"
+  },
+  "payment_instructions": {
+    "due_date": "08/03/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.001,
+  "file_size_bytes": 131848
+}

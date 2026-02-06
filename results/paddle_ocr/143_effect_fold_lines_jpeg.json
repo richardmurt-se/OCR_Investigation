@@ -1,0 +1,8 @@
+{
+  "filename": "143_effect_fold_lines.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "Tucker Inc\nINVOICE\n62342 Cooley Cliffs |North RachaelNH 07008\nNo:FAC6231649\nDate:02/09/2024\nFROM\nBILL TO\nTucker Inc\nGarza-Liu\n62342 Cooley Cliffs\n450 Kaitlyn Glens\nNorth Rachael, NH 07008\nEast MarkvillePR 17603\nDescription\nQuantity\nUnit Price\nAmount\n1\nPersevering 4thgeneration policy\n7.00\n482.25\n3375.75\n2\nFunction-based incremental array\n7.00\n401.91\n2813.37\n3\nTotal context-sensitive knowledgebase\n7.00\n253.26\n1 772.82\n4\nMandatory radical standardization\n6.00\n339.21\n2 035.26\n5\nCompatible clear-thinking policy\n7.00\n382.34\n2676.38\n6\nGrass-roots zero administration conglomeration\n1.00\n82.19\n82.19\n7\nCentralized eco-centric Local Area Network\n9.00\n253.61\n2 282.49\n8\nCloned well-modulated instruction set\n3.00\n87.59\n282.77\nSubtotal\n15 301.03\nTax (10%)\n1 530.10\nTotal Due\n16831.13\nThank you for your bu",
+  "processing_time_seconds": 3.11,
+  "file_size_bytes": 65883,
+  "success": true
+}

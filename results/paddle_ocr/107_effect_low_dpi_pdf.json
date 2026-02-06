@@ -1,0 +1,8 @@
+{
+  "filename": "107_effect_low_dpi.pdf",
+  "model_name": "paddleocr",
+  "raw_text": "Mann PLC\nINVOICE\nN\nNFACA176039\nFROM\nLLT0\nMann PLC\nSancherGroup\n00 Thn Cane\n romeye 212\nEensoription\nQuandly\nh Priee\nAneet\n1\nr\n2.00\n7824\n150.40\nDeoe de e\n4.00\n40.80\n1005\nDoen-eed sorart-ted sapsly\n1.00\n3.00\n138.70\n410.10\n1.00\n404.10\nTar (80%)\nPEYMENT NFORMATION\nBank smoaneCe ",
+  "processing_time_seconds": 2.584,
+  "file_size_bytes": 113634,
+  "success": true
+}

@@ -1,0 +1,56 @@
+{
+  "filename": "090_effect_edge_blur.pdf",
+  "invoice": {
+    "client_name": "Jones, Bradford and Mcguire",
+    "client_address": "",
+    "seller_name": "Rivera-Hawkins",
+    "seller_address": "41309 Benson Isle\nNew Donaldstad, VA 15084",
+    "invoice_number": "FAC-2025953465",
+    "invoice_date": "31/08/2025",
+    "due_date": "18/02/2026"
+  },
+  "items": [
+    {
+      "description": "Future-proofed exuding strategy",
+      "quantity": "7.00",
+      "unit_price": "245.21",
+      "total_price": "1 716.47",
+      "category": null
+    },
+    {
+      "description": "Up-sized intermediate algorithm",
+      "quantity": "8.00",
+      "unit_price": "475.16",
+      "total_price": "3 801.28",
+      "category": null
+    },
+    {
+      "description": "Multi-tiered value-added core",
+      "quantity": "6.00",
+      "unit_price": "193.36",
+      "total_price": "1 160.16",
+      "category": null
+    },
+    {
+      "description": "Balanced 3rdgeneration moratorium",
+      "quantity": "2.00",
+      "unit_price": "158.42",
+      "total_price": "316.84",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "6 994.75",
+    "tax": "699.48",
+    "discount": "",
+    "total": "7 344.49"
+  },
+  "payment_instructions": {
+    "due_date": "18/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.845,
+  "file_size_bytes": 82172
+}

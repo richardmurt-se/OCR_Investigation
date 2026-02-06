@@ -1,0 +1,8 @@
+{
+  "filename": "010_clean_minimal.pdf",
+  "model_name": "paddleocr",
+  "raw_text": "INVOICE\nBILL-84279369\n07/26/2024  Due 02/28/2026\nFROM\nTO\nWilliams-Smith\n Martin PLC\n905 Alexandria Unions\n6227 Clarke Passage\nKerriburgh, MI 24633\nAmandashire, OK 62628\nDESCRIPTION\nQTY\nPRICE\nTOTAL\n Up-sized asynchronous benchmark.\n6.00\n101.35\n608.10\nOptional global installation.\n2.00\n366.59\n733.18\nUser-friendly human-resource utilization\n7.00\n212.69\n1 488.83\nOptimized solution-oriented Graphical User Interface\n9.00\n339.35\n3 054.15\n Inverse heuristic flexibility\n5.00\n311.96\n1 559.80\nVersatile disintermediate website\n1.00\n22.23\n22.23\nAdaptive fault-tolerant matrices.\n10.00\n254.19\n2 541.90\nSubtotal\n10 008.19\nTax\n1 000.82\nTotal\n11 009.01\nKlein Inc Credit Union\nEWZK20448158662225\nThank you",
+  "processing_time_seconds": 2.972,
+  "file_size_bytes": 106832,
+  "success": true
+}

@@ -1,0 +1,49 @@
+{
+  "filename": "151_effect_hole_punches.pdf",
+  "invoice": {
+    "client_name": "Warren, Turner and Gordon\nUSNS Schneider",
+    "client_address": "",
+    "seller_name": "Wiley, Anderson and Mendez",
+    "seller_address": "123 William Junctions Suite 230 | Ericmouth, HI 47792",
+    "invoice_number": "FAC823930",
+    "invoice_date": "05/12/2024",
+    "due_date": "06/03/2026"
+  },
+  "items": [
+    {
+      "description": "Universal content-based structure",
+      "quantity": "7.00",
+      "unit_price": "39.43",
+      "total_price": "276.01",
+      "category": null
+    },
+    {
+      "description": "Intuitive bandwidth-monitored ability",
+      "quantity": "1.00",
+      "unit_price": "428.83",
+      "total_price": "428.83",
+      "category": null
+    },
+    {
+      "description": "Total zero tolerance firmware",
+      "quantity": "2.00",
+      "unit_price": "372.84",
+      "total_price": "745.68",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "1 450.52",
+    "tax": "145.05",
+    "discount": "",
+    "total": "1 523.04"
+  },
+  "payment_instructions": {
+    "due_date": "06/03/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.013,
+  "file_size_bytes": 34370
+}

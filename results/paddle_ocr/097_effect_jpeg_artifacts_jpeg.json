@@ -1,0 +1,8 @@
+{
+  "filename": "097_effect_jpeg_artifacts.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "Vazquez-Martin\nINVOICE\n3771ColeenManor Suite 971 AnthonystadNJ70381\nNo:66345743\nDate:01/28/2025\nDue:02/17/2026\nFROM\nBILL TO\nVazquez-Martin\nLarsen-Young\n8771Colleen Manor Suite 971\n587Cindy Road\nAnthonystad.NJ70381\nWestJacqueline,NE24493\nDescription\nQuantity\nUnit Price\nAmount\nnverse impactul function\n4.00\n315.03\n1260.12\n2\nMult-channeled zero tolerance analyzer\n1.00\n229.12\n229.12\n3\nGrass-rootsmotivating fexibility\n9.00\n101.27\n1451.43\n4\nImplemented uniform database\n10.00\n306.21\n3602.10\n5\nConfigurable tangible initiative\n008\n324.48\n2595.84\n9188.01\nTax10%\n919.86\n10118.47\nPAYMENT INFORMATION\nBank:Madden and Sons Bank\nAccountPSCK93416019252750\nMethod: CreditCard\nThank you for your business",
+  "processing_time_seconds": 2.726,
+  "file_size_bytes": 55547,
+  "success": true
+}

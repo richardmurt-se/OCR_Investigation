@@ -1,0 +1,84 @@
+{
+  "filename": "007_clean_corporate.jpeg",
+  "invoice": {
+    "client_name": "Wheeler Inc",
+    "client_address": "3974 Shelly Underpass Apt. 636\nLeeville, ID 51840",
+    "seller_name": "Martinez, Gardner and Smith",
+    "seller_address": "0311 Jackson Drive\nNew Jamestown, NC 35296",
+    "invoice_number": "#FAC/158694",
+    "invoice_date": "10/11/2024",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Assin\nAssimilated executive Graphical User Interface",
+      "quantity": "3.00",
+      "unit_price": "483.79",
+      "total_price": "1 451.37",
+      "category": null
+    },
+    {
+      "description": "Optional dedicated product",
+      "quantity": "7.00",
+      "unit_price": "202.41",
+      "total_price": "1 416.87",
+      "category": null
+    },
+    {
+      "description": "Devolved intangible encryption",
+      "quantity": "7.00",
+      "unit_price": "381.45",
+      "total_price": "2 670.15",
+      "category": null
+    },
+    {
+      "description": "Horizontal bandwidth-monitored algorithm",
+      "quantity": "10.00",
+      "unit_price": "131.47",
+      "total_price": "1 314.70",
+      "category": null
+    },
+    {
+      "description": "User\nUser-centric modular productivity",
+      "quantity": "2.00",
+      "unit_price": "244.04",
+      "total_price": "488.08",
+      "category": null
+    },
+    {
+      "description": "Object-based upward-trending conglomeration",
+      "quantity": "8.00",
+      "unit_price": "197.40",
+      "total_price": "1 579.20",
+      "category": null
+    },
+    {
+      "description": "Function-based contextually-based Graphic Interface",
+      "quantity": "8.00",
+      "unit_price": "338.75",
+      "total_price": "2 710.00",
+      "category": null
+    },
+    {
+      "description": "Balanced neutral capacity",
+      "quantity": "8.00",
+      "unit_price": "106.19",
+      "total_price": "849.52",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "12 479.89",
+    "tax": "1 247.99",
+    "discount": "",
+    "total": "13 727.88"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.915,
+  "file_size_bytes": 90106
+}

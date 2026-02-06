@@ -1,0 +1,63 @@
+{
+  "filename": "087_effect_patch_blur.pdf",
+  "invoice": {
+    "client_name": "Brown, Obrien and Ortiz",
+    "client_address": "",
+    "seller_name": "James-Smith",
+    "seller_address": "18447 Cassidy Fork Apt. 873 | Raymondburgh, VA 55330",
+    "invoice_number": "INV855413006",
+    "invoice_date": "29/11/2025",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Customizable attitude-oriented neural-net",
+      "quantity": "5.00",
+      "unit_price": "107.16",
+      "total_price": "535.80",
+      "category": null
+    },
+    {
+      "description": "Future-proofed upward-trending time-frame",
+      "quantity": "5.00",
+      "unit_price": "319.28",
+      "total_price": "1 596.40",
+      "category": null
+    },
+    {
+      "description": "Organic neutral superstructure",
+      "quantity": "8.00",
+      "unit_price": "127.47",
+      "total_price": "1 019.76",
+      "category": null
+    },
+    {
+      "description": "Decentralized value-added help-desk",
+      "quantity": "4.00",
+      "unit_price": "394.59",
+      "total_price": "1 578.36",
+      "category": null
+    },
+    {
+      "description": "Reverse-engineered analyzing middleware",
+      "quantity": "5.00",
+      "unit_price": "25.12",
+      "total_price": "125.60",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "4 855.92",
+    "tax": "485.59",
+    "discount": "",
+    "total": "5 098.71"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.637,
+  "file_size_bytes": 50201
+}

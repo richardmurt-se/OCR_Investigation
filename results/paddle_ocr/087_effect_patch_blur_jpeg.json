@@ -1,0 +1,8 @@
+{
+  "filename": "087_effect_patch_blur.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "James-Smith\nINVOICE\n18447 Cassidy Fork Apt.873 | Raymondburgh.VA 55330\nNo:INV855413006\nDate:11/29/2025\nFROM\nBILL TO\nJames-Smith\nBrown, Obrien and Ortiz\n18447 Cassidy Fork Apt.873\n5308 Rodriguez Dale Suite 402\nRaymondburgh.VA55330\nLake Cindy,GU 89667\nDescription\nQuantity\nUnit Price\nAmount\nCustomizable attitude-oriented neural-net\n5.00\n107.16\n535.80\n2\nFuture-proofed upward-trending time-frame\n5.00\n319.28\n1 596.40\n3\nOrganic neutral superstructure\n8.00\n127.47\n1 019.76\n4\nDecentralized value-added help-desk\n4.00\n394.59\n1 578.36\n5\nReverse-engineered analyzing middleware\n5.00\n25.12\n125.60\nSubtotal\n4 855.92\nTax (10%)\n485.59\nDiscount\n242.80\nTotal Due\n5098.71",
+  "processing_time_seconds": 2.649,
+  "file_size_bytes": 56292,
+  "success": true
+}

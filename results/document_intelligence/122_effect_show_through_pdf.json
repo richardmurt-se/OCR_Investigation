@@ -1,0 +1,77 @@
+{
+  "filename": "122_effect_show_through.pdf",
+  "invoice": {
+    "client_name": "Palmer-Martinez",
+    "client_address": "",
+    "seller_name": "Flores LLC",
+    "seller_address": "92506 Colin Gardens Apt. 000\nBrittneymouth, AR 56356",
+    "invoice_number": "BILL-15717396",
+    "invoice_date": "08/02/2024",
+    "due_date": "20/02/2026"
+  },
+  "items": [
+    {
+      "description": "Centralized encompassing data-warehouse",
+      "quantity": "2.00",
+      "unit_price": "422.91",
+      "total_price": "845.82",
+      "category": null
+    },
+    {
+      "description": "Phased responsive projection",
+      "quantity": "2.00",
+      "unit_price": "333.52",
+      "total_price": "687.04",
+      "category": null
+    },
+    {
+      "description": "Synergistic actuating structure",
+      "quantity": "7.00",
+      "unit_price": "167.76",
+      "total_price": "1 174.32",
+      "category": null
+    },
+    {
+      "description": "Synergistic real-time architecture",
+      "quantity": "2.00",
+      "unit_price": "129.27",
+      "total_price": "258.54",
+      "category": null
+    },
+    {
+      "description": "Intuitive background concept",
+      "quantity": "6.00",
+      "unit_price": "26.35",
+      "total_price": "158.10",
+      "category": null
+    },
+    {
+      "description": "Future-proofed heuristic interface",
+      "quantity": "10.00",
+      "unit_price": "290.79",
+      "total_price": "2 907.90",
+      "category": null
+    },
+    {
+      "description": "Extended analyzing alliance",
+      "quantity": "3.00",
+      "unit_price": "393.36",
+      "total_price": "1 180.08",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "7 191.80",
+    "tax": "719.18",
+    "discount": "",
+    "total": "7 910.98"
+  },
+  "payment_instructions": {
+    "due_date": "20/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.796,
+  "file_size_bytes": 92448
+}

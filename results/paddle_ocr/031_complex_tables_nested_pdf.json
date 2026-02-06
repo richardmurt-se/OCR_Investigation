@@ -1,0 +1,8 @@
+{
+  "filename": "031_complex_tables_nested.pdf",
+  "model_name": "paddleocr",
+  "raw_text": "Brooks-Henry\nINVOICE\n875 Fisher Rue | North Crystal, OR 92489\nNo: 279023679\nDate: 02/28/2025\nBILL TO:\nSHIP TO:\nFrancis Inc\nFrancis Inc\n370 Tina Fords Suite 321\n370 Tina Fords Suite 321\nKennedyfort, AL 86687\nKennedyfort, AL 86687\nSKU\nDescription & Details\nCategory\nQty\nUnit\nTax\nTotal\nSection 1: Products\nSKU-01000\nNetworked transitional moratorium | Model: xJj-1554, Serial:\nFurniture\n2.00\n28.98\n10%\n57.96\n9172842164\nSpec\nValue\nNote\nModel\nMDL-0100\nStandard\nSerial\n SN00010000\nVerified\n2\nSKU-02000\nIntuitive intermediate approach\nHardware\n7.00\n281.38\n10%\n1 969.66\nSpec\nValue\nNote\nModel\nMDL-0200\nStandard\nSerial\n SN00020000\nVerified\n3\nSKU-03000\nMulti-channeled stable projection (Qty: 90 units/pack)\nAccessories\n8.00\n289.53\n10%\n2 316.24\nSpec\nValue\nNote\nModel\nMDL-0300\nStandard\nSerial\n SN00030000\nVerified\nSection Subtotal:\nSection 2: Services\nSKU-04000\nUser-friendly bandwidth-monitored software - 189GB, 47\" displayEquipment\n9.00\n154.69\n10%\n1 392.21\nSpec\nValue\nNote\nModel\nMDL-0400\nStandard\nSerial\nSN00040000\nVerified\n5\nSKU-05000\nVirtual tertiary definition\nSoftware\n4.00\n103.29\n10%\n413.16\nSpec\nValue\nNote\nModel\nMDL-0500\nStandard\nSerial\n00009000NS\nVerified\nSection Subtotal:\nSubtotal:\n6 149.23\nTax (10%):\n614.92\nDiscount:\n-614.92\nShipping:\n0.00\n TOTAL DUE:\n6 149.23",
+  "processing_time_seconds": 5.412,
+  "file_size_bytes": 140781,
+  "success": true
+}

@@ -1,0 +1,8 @@
+{
+  "filename": "036_complex_tables_multi_column.pdf",
+  "model_name": "paddleocr",
+  "raw_text": "Payne and Sons\nINVOICE\n1880 Sarah Views | Phillipschester, SD 01486\nBILL4588304762\nSeller\nBuyer\nInvoice Details\nPayne and Sons\nHutchinson LLC\nNo: BILL4588304762\n1880 Sarah Views, Phillipschester, SD 01486\nUnit 0687 Box 7182, DPO AA 03471\nDate: 08/23/2025\nDue: 02/14/2026\nDescription\nCal\nQt\nUnit\nPric\nDise%\nDisc$\nTax%\nTax$\nNe\nTotal\nSK0100\nPre-emptive multi-state projection ...\nServ\n1.00\nEA\n380.71\n13%\n3.50\n10%\n38.07\n380.71\nT08E\nSK0200\nManaged explicit emulation | Model:.\nAcce\n2.00\nEA\n371.15\n%6\n3.80\n10%\n74.23\n742.30\n742.30\nSK0300\nOpen-architected national encoding ...\nSoft\n4.00\nEA\n202.60\n 7%\n4.90\n10%\n81.04\n810.40\n810.40\nSK0400\nCross-platform methodical solution...\nFurn\n2.00\nEA\n472.99\n 3%\n4.10\n10%\n94.60\n945.98\n945.98\nSK0500\nRealigned uniform open architecture..\nMain\n8.00\nEA\n444.59\n 0%\n0.50\n10%\n355.67\n3 556.72\n3 556.72\nSK0600\nIntuitive bottom-line solution (Qty..\nElec\n7.00\nEA\n309.64\n 0%\n1.30\n10%\n216.75\n2 167.48\n2 167.48\nSK0700\nAcce\n2.00\nEA\n25.71\n13%\n0.00\n10%\n5.14\n51.42\n51.42\nSubtotal:\n8 655.01\nTotal Discount:\n0.00\nTotal Tax:\n865.50\nShipping:\n0.00\n9 520.51\nPayment: Hartman, Brown and Miller Credit Union | Acct: AFTT13897489917912 | Wire Transfer\nTerms: Net 30 | Payne and Sons | Invoice #BILL4588304762",
+  "processing_time_seconds": 5.554,
+  "file_size_bytes": 96137,
+  "success": true
+}

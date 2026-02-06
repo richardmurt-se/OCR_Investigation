@@ -1,0 +1,8 @@
+{
+  "filename": "058_unusual_format_centered.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "ROBINSON,BELL AND MAYER\n941 Vicie Pine Suite 278East stanieysnireAR 37500\nINVOICE\nFAC/57172272702/03/2024Due:02/28/2026\nFROM\nBILLTO\nRobinson, Bell and Mayer\nFisher-Martin\n941 Vickie Pine Suite 278\n303 sheryl Turnpike\nEast stanleyshire, AR 37500\nKendraside, MP 84351\nDESCRIPTION\nQUANTITY\nUNIT PRICE\nTOTAL\nSelf-enabling mobile hardware\n4.00\n267.04\n1068.16\nStand-alone cleor-thinking concept\n7.00\n280.73\n1965.11\nStond-alone solution-oriented Graphic Interface\n3.00\n75.23\n225.69\nSubtotal\n3258.96\nTax [10%\n325.90\nPAYMENTINFORMATION\nBank isner rown and Mcpnerson Bank\nTotal Due\n3584.86\nAccount: PJQA31561532602846\nThank You!\nRobinson, Bell and Mayer  Invoice #FAC/571722727",
+  "processing_time_seconds": 2.408,
+  "file_size_bytes": 58395,
+  "success": true
+}

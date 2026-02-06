@@ -1,0 +1,56 @@
+{
+  "filename": "018_clean_minimal.png",
+  "invoice": {
+    "client_name": "Knight LLC",
+    "client_address": "991 Calderon Loaf Suite 887\nBillychester, MA 48141",
+    "seller_name": "Martinez and Sons",
+    "seller_address": "677 Walker Unions Suite 689\nJulieborough, GU 54942",
+    "invoice_number": "BILL-84967192",
+    "invoice_date": "26/01/2026",
+    "due_date": "19/02/2026"
+  },
+  "items": [
+    {
+      "description": "Digitized radical support",
+      "quantity": "4.00",
+      "unit_price": "446.10",
+      "total_price": "1 784.40",
+      "category": null
+    },
+    {
+      "description": "Fully-configurable attitude-oriented service-desk",
+      "quantity": "3.00",
+      "unit_price": "449.72",
+      "total_price": "1 349.16",
+      "category": null
+    },
+    {
+      "description": "Secured zero administration orchestration",
+      "quantity": "10.00",
+      "unit_price": "294.28",
+      "total_price": "2 942.80",
+      "category": null
+    },
+    {
+      "description": "Adaptive high-level emulation",
+      "quantity": "3.00",
+      "unit_price": "80.81",
+      "total_price": "242.43",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "6 318.79",
+    "tax": "631.88",
+    "discount": "",
+    "total": "6 950.67"
+  },
+  "payment_instructions": {
+    "due_date": "19/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.65,
+  "file_size_bytes": 25714
+}

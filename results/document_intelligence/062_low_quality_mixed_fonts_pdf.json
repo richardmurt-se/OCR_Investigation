@@ -1,0 +1,84 @@
+{
+  "filename": "062_low_quality_mixed_fonts.pdf",
+  "invoice": {
+    "client_name": "Barton and Sons",
+    "client_address": "02568 Colleen Coves\nMillerborough, MO 61997",
+    "seller_name": "Williams, Powell and Vang",
+    "seller_address": "72003 Abbott Dam Apt. 429 | West Josephview, HI 41522",
+    "invoice_number": "FAC426547494",
+    "invoice_date": "07/03/2025",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Profound demand-driven project",
+      "quantity": "3.00",
+      "unit_price": "281.31",
+      "total_price": "843.93",
+      "category": null
+    },
+    {
+      "description": "Optional asynchronous time-frame",
+      "quantity": "7.00",
+      "unit_price": "61.11",
+      "total_price": "427.77",
+      "category": null
+    },
+    {
+      "description": "Inverse tangible firmware",
+      "quantity": "6.00",
+      "unit_price": "308.48",
+      "total_price": "1 850.88",
+      "category": null
+    },
+    {
+      "description": "Phased transitional core",
+      "quantity": "5.00",
+      "unit_price": "368.62",
+      "total_price": "1 843.10",
+      "category": null
+    },
+    {
+      "description": "Versatile global solution",
+      "quantity": "5.00",
+      "unit_price": "96.14",
+      "total_price": "480.70",
+      "category": null
+    },
+    {
+      "description": "Decentralized human-resource utilization",
+      "quantity": "8.00",
+      "unit_price": "273.97",
+      "total_price": "2 191.76",
+      "category": null
+    },
+    {
+      "description": "Reactive solution-oriented attitude",
+      "quantity": "7.00",
+      "unit_price": "14.29",
+      "total_price": "100.03",
+      "category": null
+    },
+    {
+      "description": "Grass-roots directional archive",
+      "quantity": "1.00",
+      "unit_price": "473.08",
+      "total_price": "473.08",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "8 211.25",
+    "tax": "821.12",
+    "discount": "",
+    "total": "8 211.25"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.518,
+  "file_size_bytes": 189805
+}

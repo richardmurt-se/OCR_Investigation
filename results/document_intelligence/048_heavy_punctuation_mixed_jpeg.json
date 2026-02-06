@@ -1,0 +1,49 @@
+{
+  "filename": "048_heavy_punctuation_mixed.jpeg",
+  "invoice": {
+    "client_name": "\"Barker-Acevedo\"@",
+    "client_address": "",
+    "seller_name": "«POOLE, ROLLINS AND MORROW>®",
+    "seller_address": "[8384 Gregory Flat Suite 907] . [Danielshire, MP 86686]",
+    "invoice_number": "\"INV-9707290\"",
+    "invoice_date": "23/07/2025",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "\"SALE! Universal scalable methodology; Deluxe, Model: icQ-424%) - Model:\n[MDL-010]' -NEW !- @39% off* *",
+      "quantity": "3.00",
+      "unit_price": "368.03",
+      "total_price": "1 104.09",
+      "category": null
+    },
+    {
+      "description": "\"SALE! Distributed object-oriented circuit (Ltd.) @ 20% discount@ - Model:\n[MDL-020]' -NEW !- @14% off* *",
+      "quantity": "10.00",
+      "unit_price": "22.50",
+      "total_price": "225.00",
+      "category": null
+    },
+    {
+      "description": "\"SALE! Public-key high-level algorithm #1 Rated, Model: zEx-898\"@ - 'Model:\n[MDL-030]' -NEW !- @37% off* *",
+      "quantity": "9.00",
+      "unit_price": "270.58",
+      "total_price": "2 435.22",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "3 764.31",
+    "tax": "376.43",
+    "discount": "",
+    "total": "4.00"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.983,
+  "file_size_bytes": 93017
+}

@@ -1,0 +1,8 @@
+{
+  "filename": "056_unusual_format_horizontal.pdf",
+  "model_name": "paddleocr",
+  "raw_text": "Williams, Jimenez and Hanson\nINVOICE\n8965 Jennings Burg | Cassandraill, SD 34179\n BILL-2828204733\n08/05/2024\nSELLER\nBUYER\nSHIP TO\nDETAILS\nWilliams, Jimenez and Hanson\n Stuart-Anderson\nStuart-Anderson\nInvoice: BILL-2828204733\n8965 Jennings Burg, Cassandraville, SD 34179\n63310 Mccullough Wells Suite 991, Deborahport\n63310 Mccullough Wells Suite 991, Deborahport,\nDate: 08/05/2024\nFM 30960\nFM 30960\nDue: 03/09/2026\nSKU\n Item Description\nCategory\nQty\nwon\nUnit Price\n Line Total\nSKU00100\nDiverse client-server analyzer\nGeneral\n9.00 EA\n494.09\n10%\n4 446.81\n2\nSKU00200\nBalanced client-server adapter\nGeneral\n10.00\n37.46\n10%\n374.60\n3\nSKU00300\nTeam-oriented analyzing intranet\nGeneral\n5.00\nEA\n22.36\n10%\n111.80\n4\nSKU00400\nCompatible solution-oriented Local Area Network\nGeneral\n4.00\nEA\n217.85\n10%\n871.40\nSKU00500\nRe-engineered responsive algorithm\nGeneral\n10.00\n218.09\n10%\n2 180.90\nPayment: Campos LLC Credit Union | Acct: VARE71883912663340 | ACH\n7 985.51\n798.55\n-798.55\n7 985.51",
+  "processing_time_seconds": 3.557,
+  "file_size_bytes": 127572,
+  "success": true
+}

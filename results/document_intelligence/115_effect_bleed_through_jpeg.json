@@ -1,0 +1,84 @@
+{
+  "filename": "115_effect_bleed_through.jpeg",
+  "invoice": {
+    "client_name": "Glenn-Fleming",
+    "client_address": "",
+    "seller_name": "French, Oneill and Rogers",
+    "seller_address": "32301 Carrie Parkways Apt. 890 | North Amyport, MS 93971",
+    "invoice_number": "INV203976",
+    "invoice_date": "12/09/2025",
+    "due_date": "11/02/2026"
+  },
+  "items": [
+    {
+      "description": "Customizable local capacity",
+      "quantity": "7.00",
+      "unit_price": "64.08",
+      "total_price": "448.56",
+      "category": null
+    },
+    {
+      "description": "Multi-lateral disintermediate workforce",
+      "quantity": "3.00",
+      "unit_price": "445.97",
+      "total_price": "1 337.91",
+      "category": null
+    },
+    {
+      "description": "Mandatory neutral parallelism",
+      "quantity": "3.00",
+      "unit_price": "354.74",
+      "total_price": "1 064.22",
+      "category": null
+    },
+    {
+      "description": "Monitored system-worthy installation",
+      "quantity": "3.00",
+      "unit_price": "170.65",
+      "total_price": "511.95",
+      "category": null
+    },
+    {
+      "description": "Ameliorated 3rdgeneration workforce",
+      "quantity": "6.00",
+      "unit_price": "344.16",
+      "total_price": "2 064.96",
+      "category": null
+    },
+    {
+      "description": "Team-oriented optimal archive",
+      "quantity": "3.00",
+      "unit_price": "325.68",
+      "total_price": "977.04",
+      "category": null
+    },
+    {
+      "description": "Ergonomic value-added installation",
+      "quantity": "3.00",
+      "unit_price": "27.69",
+      "total_price": "83.07",
+      "category": null
+    },
+    {
+      "description": "Assimilated contextually-based focus group",
+      "quantity": "",
+      "unit_price": "299.02",
+      "total_price": "1 794.12",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "8 281.83",
+    "tax": "828.18",
+    "discount": "",
+    "total": "9 110.01"
+  },
+  "payment_instructions": {
+    "due_date": "11/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.877,
+  "file_size_bytes": 122737
+}

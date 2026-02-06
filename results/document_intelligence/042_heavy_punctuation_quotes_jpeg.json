@@ -1,0 +1,70 @@
+{
+  "filename": "042_heavy_punctuation_quotes.jpeg",
+  "invoice": {
+    "client_name": "'Clark, Hatfield and Medina'",
+    "client_address": "",
+    "seller_name": "«Barker, Evans and Pope»",
+    "seller_address": "02355 Holmes Expressway Apt. 254 . New Emilyhaven, FM 29641",
+    "invoice_number": "INV-192138",
+    "invoice_date": "30/11/2025",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "\"Persevering methodical paradigm #1 Rated (SKU: ev-0625)\" - 'Model: MDL-\n0100' «Premium Quality\"",
+      "quantity": "5.00",
+      "unit_price": "153.45",
+      "total_price": "767.25",
+      "category": null
+    },
+    {
+      "description": "\"NEW: Implemented bottom-line intranet (Ltd.) @ 38% discount\" - 'Model:\nMDL-0200' «Premium Quality»",
+      "quantity": "6.00",
+      "unit_price": "276.36",
+      "total_price": "1 658.16",
+      "category": null
+    },
+    {
+      "description": "\"NEW: Progressive high-level Local Area Network & Co., Model: pjY-860\" -\n\"Model: MDL-0300' «Premium Quality\"",
+      "quantity": "3.00",
+      "unit_price": "63.32",
+      "total_price": "189.96",
+      "category": null
+    },
+    {
+      "description": "\" *** Up-sized analyzing policy $$$, Model: oeU-163\" - 'Model: MDL-0400'\n«Premium Quality»",
+      "quantity": "8.00",
+      "unit_price": "145.69",
+      "total_price": "1 165.52",
+      "category": null
+    },
+    {
+      "description": "\"NEW: Multi-channeled asymmetric architecture: Premium (SKU: Mm-4457)\" -\n'Model: MDL-0500' «Premium Quality\"",
+      "quantity": "3.00",
+      "unit_price": "276.55",
+      "total_price": "829.65",
+      "category": null
+    },
+    {
+      "description": "\"NEW: Reverse-engineered local structure, Inc. @ 46% discount\" - 'Model:\nMDL-0600' «Premium Quality»",
+      "quantity": "7.00",
+      "unit_price": "491.01",
+      "total_price": "3 437.07",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "8 047.61",
+    "tax": "804.76",
+    "discount": "",
+    "total": "8 852.37"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.032,
+  "file_size_bytes": 104634
+}

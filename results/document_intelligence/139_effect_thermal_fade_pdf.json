@@ -1,0 +1,77 @@
+{
+  "filename": "139_effect_thermal_fade.pdf",
+  "invoice": {
+    "client_name": "Lawson-Marks",
+    "client_address": "",
+    "seller_name": "Fisher Ltd",
+    "seller_address": "Unit 97 17 Box 8204\nDPO AA 50435",
+    "invoice_number": "INV/8189303234",
+    "invoice_date": "17/11/2024",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Focused full-range neural-net",
+      "quantity": "6.00",
+      "unit_price": "374.03",
+      "total_price": "2 244.18",
+      "category": null
+    },
+    {
+      "description": "Balanced fresh-thinking customer loyalty",
+      "quantity": "8.00",
+      "unit_price": "111.39",
+      "total_price": "891.12",
+      "category": null
+    },
+    {
+      "description": "Grass-roots object-oriented system engine",
+      "quantity": "9.00",
+      "unit_price": "148.11",
+      "total_price": "1 332.99",
+      "category": null
+    },
+    {
+      "description": "Proactive holistic alliance",
+      "quantity": "1.00",
+      "unit_price": "432.92",
+      "total_price": "432.92",
+      "category": null
+    },
+    {
+      "description": "Profound hybrid capability",
+      "quantity": "3.00",
+      "unit_price": "324.34",
+      "total_price": "973.02",
+      "category": null
+    },
+    {
+      "description": "Pre-emptive eco-centric emulation",
+      "quantity": "4.00",
+      "unit_price": "43.41",
+      "total_price": "173.64",
+      "category": null
+    },
+    {
+      "description": "Organic mission-critical toolset",
+      "quantity": "1.00",
+      "unit_price": "256.56",
+      "total_price": "256.56",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "6 304.43",
+    "tax": "630.44",
+    "discount": "",
+    "total": "6 934.87"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 12.428,
+  "file_size_bytes": 1217771
+}

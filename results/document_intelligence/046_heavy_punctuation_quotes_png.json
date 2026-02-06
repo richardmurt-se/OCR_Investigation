@@ -1,0 +1,84 @@
+{
+  "filename": "046_heavy_punctuation_quotes.png",
+  "invoice": {
+    "client_name": "'Duran-Villanueva'",
+    "client_address": "",
+    "seller_name": "«Vaughn-Williams>",
+    "seller_address": "144 Robert Summit , Wallaceton, FM 38763",
+    "invoice_number": "FAC-8520138",
+    "invoice_date": "20/03/2025",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "\" *** Multi-lateral fault-tolerant methodology #1 Rated @ 18% discount\" -\n\"Model: MDL-0100' «Premium Quality\"",
+      "quantity": "7.00",
+      "unit_price": "400.20",
+      "total_price": "2 801.40",
+      "category": null
+    },
+    {
+      "description": "\"NEW: Right-sized 6thgeneration pricing structure, Inc. (SKU: ri-3409)\" -\n\"Model: MDL-0200' «Premium Quality'?",
+      "quantity": "3.00",
+      "unit_price": "370.20",
+      "total_price": "1 110.60",
+      "category": null
+    },
+    {
+      "description": "\"NEW: Polarized well-modulated collaboration - Special!, Model: QBa-395\" -\n\"Model: MDL-0300' «Premium Quality?",
+      "quantity": "8.00",
+      "unit_price": "160.41",
+      "total_price": "1 283.28",
+      "category": null
+    },
+    {
+      "description": "\"> Assimilated mobile emulation; Deluxe @ 27% discount\" - \"Model: MDL-0400'\n«Premium Quality»",
+      "quantity": "7.00",
+      "unit_price": "438.73",
+      "total_price": "3 071.11",
+      "category": null
+    },
+    {
+      "description": "\"SALE! Cross-platform static initiative {Limited}\" - 'Model: MDL-0500'\n«Premium Quality»",
+      "quantity": "2.00",
+      "unit_price": "432.36",
+      "total_price": "864.72",
+      "category": null
+    },
+    {
+      "description": "\"Optimized transitional benchmark {Limited} - Ref. #63555\" - \"Model: MDL-\no600' «Premium Quality\"",
+      "quantity": "2.00",
+      "unit_price": "223.64",
+      "total_price": "447.28",
+      "category": null
+    },
+    {
+      "description": "\"NEW: Stand-alone 4thgeneration Local Area Network - Special! | Size: L\" -\n\"Model: MDL-0700' «Premium Quality»",
+      "quantity": "1.00",
+      "unit_price": "231.97",
+      "total_price": "231.97",
+      "category": null
+    },
+    {
+      "description": "\"SALE! Upgradable motivating toolset, Inc. (SKU: kD-3221)\" - 'Model: MDL-\n0800' «Premium Qualitys",
+      "quantity": "7.00",
+      "unit_price": "449.98",
+      "total_price": "3 149.86",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "12 960.22",
+    "tax": "1 296.02",
+    "discount": "",
+    "total": "12 960.22"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.737,
+  "file_size_bytes": 62822
+}

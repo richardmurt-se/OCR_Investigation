@@ -1,0 +1,8 @@
+{
+  "filename": "061_low_quality_mixed_fonts.png",
+  "model_name": "paddleocr",
+  "raw_text": "Smith LLC\n03785 Dorothy Lodge I Brownland, IA 11619\nINVOICE\nNo: INV/6101357022 1 Date: 02/06/2024\nFrom (Seller)\nTo (Buyer)\nInvoice Details\nSmith LLC\n Cohen-Briggs\nNumber: .INV/6101357022\nDate: 02/06/2024\n40732\nDue: 02/24/2026\nDescription\nQty\nPrice\nTotal\nErgonomic regional application\n8.00\n158.73\n2\nOrganic heuristic paralleliam\n10.00\n128.19\n1281.90\nE\n4.00\n410.54\n1 642.16\n4\nDigitized interactive frame\n10.00\n47.75\n477.50\nSubtotal:\n4 671.40\nTax (10%):\n467.14\nDiscount:\n233.57\nTOTAL DUE:\n4 904.97\nPayment Information:\nAccount: DSMz01599927139785\nBank: Pollard LLC Financial\nMethod: ACH\nThank you for your business!\nSmith LLC | Invoice AINV/6101357022 | 02/06/2024",
+  "processing_time_seconds": 2.552,
+  "file_size_bytes": 35163,
+  "success": true
+}

@@ -1,0 +1,8 @@
+{
+  "filename": "111_effect_watermark.png",
+  "model_name": "paddleocr",
+  "raw_text": "Woods-Hayes\nINVOICE\n2105 Winters Rue | South Ashley, SC 97131\nNo: BILL-770407\nDate: 10/21/2024\nDue: 02/11/2026\nFROM\nBILL TO\nWoods-Hayes\n Robinson Inc\n2105 Winters Rue\n1972 Reynolds Row\nSouth Ashley, SC 97131\n Port Zachary, NY 52685\nDescription\nQuantity\nUnit Price\nAmount\nPersistent clear-thinking extranet\n2.00\n455.55\n911.10\n2\nCustomizable empowering flexibility.\n009\n274.97\n1 649.82\n3\nOpen-architected directional system engine\n4.00\n328.84\n1 315.36\nManaged regional alliance\n1.00\n265.29\n265.29\nDRAFT\nSubtotal\n4 141.57\nTax (10%)\n414.16\nTotal Due\n4 555.73\nPAYMENT INFORMATION\nBank: Lee, Weaver and Burton Financial\nAccount: THSS24413988865343\nMethod: ACH",
+  "processing_time_seconds": 2.284,
+  "file_size_bytes": 46988,
+  "success": true
+}

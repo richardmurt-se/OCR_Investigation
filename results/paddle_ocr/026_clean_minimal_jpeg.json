@@ -1,0 +1,8 @@
+{
+  "filename": "026_clean_minimal.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "INVOICE\n799813\n08/24/2024\nFROM\nTO\nCrane-Burns\nLee Inc\n49224 Nicole Roads Suite 427\n29354 Joseph Vista Apt. 462\nEvansfurt.MI66237\nPort lan.WA95697\nDESCRIPTION\nQTY\nPRICE\nTOTAL\nCentralized local matrices\n2.00\n441.41\n882.82\nSynchn\n10.00\n129.40\n1 294.00\nMonitored background impl\n7.00\n17.34\n121.38\nFundamental multi-state analyzer\n2.00\n421.56\n843.12\nBalanced motivating help-desk\n6.00\n436.64\n2619.84\nSubtotal\n5 761.16\nTaL\n576.12\nDiscount\n-288.06\nTotal\n6049.22\nThank you",
+  "processing_time_seconds": 2.129,
+  "file_size_bytes": 40350,
+  "success": true
+}

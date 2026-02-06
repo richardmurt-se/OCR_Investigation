@@ -1,0 +1,70 @@
+{
+  "filename": "022_clean_minimal.jpeg",
+  "invoice": {
+    "client_name": "Tyler and Sons",
+    "client_address": "99897 Webb Village\nPort Anthony, KS 19546",
+    "seller_name": "Alvarez, Kelly and Morris",
+    "seller_address": "188 Vanessa Keys\nLoganville, ME 35474",
+    "invoice_number": "INV863393",
+    "invoice_date": "15/11/2024",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Object-based static archive",
+      "quantity": "8.00",
+      "unit_price": "96.99",
+      "total_price": "775.92",
+      "category": null
+    },
+    {
+      "description": "Upgradable client-server utilization",
+      "quantity": "5.00",
+      "unit_price": "447.62",
+      "total_price": "2 238.10",
+      "category": null
+    },
+    {
+      "description": "Focused attitude-oriented middleware",
+      "quantity": "9.00",
+      "unit_price": "373.31",
+      "total_price": "3 359.79",
+      "category": null
+    },
+    {
+      "description": "Vision-oriented exuding knowledge user",
+      "quantity": "3.00",
+      "unit_price": "178.99",
+      "total_price": "536.97",
+      "category": null
+    },
+    {
+      "description": "Robust cohesive monitoring",
+      "quantity": "9.00",
+      "unit_price": "167.35",
+      "total_price": "1 506.15",
+      "category": null
+    },
+    {
+      "description": "Devolved incremental array",
+      "quantity": "4.00",
+      "unit_price": "220.92",
+      "total_price": "883.68",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "9 300.61",
+    "tax": "930.06",
+    "discount": "",
+    "total": "10 230.67"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.79,
+  "file_size_bytes": 44575
+}

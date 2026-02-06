@@ -1,0 +1,8 @@
+{
+  "filename": "035_complex_tables_nested.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "Barnes,Morales and Stevens\nINVOICE\n615 Tara Roads Apt.269 | West Jennifer,WV 37865\nNo:58098395\nDate: 08/26/2024\nBILL TO:\nSHIP TO:\nDavis Group\nDavis Group\nAPOAE 26466\nPSC 5024.Box 0709\nPSC5024.Box0709\nAPOAE 26466\nSKU\nDesecrlpton & Detalle\nCategory\nQty\nunt\nTax\nTotal\nSectlon 1:Products\nSKU-01000\nRight-sized modular benchmark | Model: Ehb-1626, Serial: 8813172316\nServices\n10.00\n466.40\n10%\n4 664.00\n8peo\nValue\nNots\nMocel\nMDL-0100\nStandard\nSerial\nSN00010000\nVerifed\nSKU-02000\n5384151600\neous strategy / Model: Mcw-2887, Serial:\nConsulting\n4.00\n14.77\n10%\n59.08\nBpeo\nValue\nNote\nMocel\nMDL-0200\nStandard\nSerial\nSN00020000\nVerified\nSKU-03000\nSeamless cohesive projection - 693GB, 5 display\nServices\n5.00\n186.94\n10%\n934.70\n8peo\nValue\nNote\nMocel\nMDL-0300\nStandard\nSerial\nSN00030000\nVarfed\nSection Subtotal:\nSubtotal:\n5657.78\nTax (10%):\n565.78\n0.00\nTOTAL DUE:\n6223.56\nPaymentPaulOlsen Financial |Account HJXV75518130769748",
+  "processing_time_seconds": 4.165,
+  "file_size_bytes": 69775,
+  "success": true
+}

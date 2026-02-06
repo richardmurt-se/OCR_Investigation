@@ -1,0 +1,8 @@
+{
+  "filename": "135_effect_moire_patterns.png",
+  "model_name": "paddleocr",
+  "raw_text": "Hurst-Byrd\nINVOICE\n488 Steven Ford Suite 383 | South Abigail, SC 52431\nNo: 213563603\nDate: 02/14/2025\nFROM\nBILL TO\nHurst-Byrd\nOrtega-Perez\n488 Steven Ford Suite 383\n646 Wilson Spurs\nSouth Abigail, SC 52431\n Henrychester, OR 68568\nDescription\n Quantity\nUnit Price\nAmount\nEnterprise-wide solution-oriented alliance\n008\n447.81\n3 582.48\n2\nVision-oriented methodical concept\n3.00\n75.39\n226.17\nMulti-lateral uniform artificial intelligence\n2.00\n388.73\n777.46\nReverse-engineered background product\n10.00\n285.69\n2 856.90\nSubtotal\n7 443.01\nTax (10%)\n744.30\nTotal Due\n8 187.31\nThank you for your business",
+  "processing_time_seconds": 2.058,
+  "file_size_bytes": 183633,
+  "success": true
+}

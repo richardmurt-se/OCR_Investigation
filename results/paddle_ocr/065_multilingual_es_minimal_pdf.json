@@ -1,0 +1,8 @@
+{
+  "filename": "065_multilingual_es_minimal.pdf",
+  "model_name": "paddleocr",
+  "raw_text": "FACTURA\nFAC-80090268\n 03/16/2024 : Vence 02/17/2026\nDE\nPARA\nInmobiliaria Aroca S.L.\nFamilia Arellano S.L.\n Plaza Ruperta Valdes 3 Apt. 72\nRonda de Eloy Cortina 16\nLas Palmas, 07959\nGirona, 34064\nDESCRIPCION\nCANT.\nPRECIO\nTOTAL\nIntegrated asymmetric hardware\n6.00\n345.43\n2 072.58\nDevolved even-keeled focus group\n3.00\n37.14\n111.42\n Synergized homogeneous application\n2.00\n213.96\n427.92\nHorizontal methodical structure\n10.00\n67.62\n676.20\n Managed regional pricing structure\n1.00\n181.34\n181.34\nRobust real-time methodology\n8.00\n256.99\n2 055.92\nCustomer-focused upward-trending system engine\n6.00\n471.26\n2 827.56\nSubtotal\n8 352.94\nImpuesto\n835.29\nTotal\n9 188.23\nHnos Molina S.Coop. Cooperativa de Credito\n00993557471646978582",
+  "processing_time_seconds": 2.917,
+  "file_size_bytes": 104363,
+  "success": true
+}

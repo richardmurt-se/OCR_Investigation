@@ -1,0 +1,8 @@
+{
+  "filename": "007_clean_corporate.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "Martinez,Gardner and Smith\n0311 Jackson Drive - New Jamestown, NC35296\nINVOICE\n#FAC/158694\n11/10/2024\nSELLER\nBUYER\nMartinez, Gardner and Smith\nWheeler Inc\n0311 Jackson Drive\n3974 Shelly Underpass Apt. 636\nNew Jamestown,NC 35296\nLeeville, ID51840\nNO.\nDESCRIPTION\nQUANTITY\nUNIT PRICE\nAMDUNT\nAssimilated executive Graphical User Interface\n3.00\n483.79\n1451.37\nOptional dedicated product\n7.00\n202.41\n1416.87\n3\nDevolved intangible encryption\n7.00\n381.45\n2670.15\n4\nHorizontal bandwidth-monitored algorithm\n10.00\n131.47\n1314.70\n5\nUser-centric modular productivity\n2.00\n244.04\n488.09\n6\nObject-based upward-trending conglomeration\n8.00\n197.40\n1579.20\n7\nFunction-based contextually-based Graphic Interface\n8.00\n338.75\n2710.00\n8\nBalanced neutral capacity\n8.00\n106.19\n849.52\nSubtotal\n12479.89\nTax (10%)\n1247.99\nTOTAL DUE\n13727.88\nMartinez Gardner and SmithInvoice #FAC/158694-11/10/2024",
+  "processing_time_seconds": 3.29,
+  "file_size_bytes": 90106,
+  "success": true
+}

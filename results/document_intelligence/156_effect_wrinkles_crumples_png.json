@@ -1,0 +1,70 @@
+{
+  "filename": "156_effect_wrinkles_crumples.png",
+  "invoice": {
+    "client_name": "Ramos Ltd",
+    "client_address": "",
+    "seller_name": "Anderson and Sons",
+    "seller_address": "83998 Smith Inlet Apt. 240 | Jasmineside, PW 89552",
+    "invoice_number": "FAC1174411113",
+    "invoice_date": "22/05/2025",
+    "due_date": "21/02/2026"
+  },
+  "items": [
+    {
+      "description": "Adaptive system-worthy help-desk",
+      "quantity": "3.00",
+      "unit_price": "277.71",
+      "total_price": "833.13",
+      "category": null
+    },
+    {
+      "description": "Expanded needs-based open system",
+      "quantity": "4.00",
+      "unit_price": "58.48",
+      "total_price": "233.92",
+      "category": null
+    },
+    {
+      "description": "Progressive static system engine",
+      "quantity": "5.00",
+      "unit_price": "189.85",
+      "total_price": "949.25",
+      "category": null
+    },
+    {
+      "description": "Organized disintermediate structure",
+      "quantity": "8.00",
+      "unit_price": "407.64",
+      "total_price": "3 261.12",
+      "category": null
+    },
+    {
+      "description": "Decentralized bandwidth-monitored matrix",
+      "quantity": "6.00",
+      "unit_price": "286.25",
+      "total_price": "1 717.50",
+      "category": null
+    },
+    {
+      "description": "Managed national infrastructure",
+      "quantity": "3.00",
+      "unit_price": "118.40",
+      "total_price": "355.20",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "7 350.12",
+    "tax": "735.01",
+    "discount": "",
+    "total": "8 085.13"
+  },
+  "payment_instructions": {
+    "due_date": "21/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.229,
+  "file_size_bytes": 141668
+}

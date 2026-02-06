@@ -1,0 +1,63 @@
+{
+  "filename": "152_effect_hole_punches.jpeg",
+  "invoice": {
+    "client_name": "Miller, Koch and Rodriguez",
+    "client_address": "",
+    "seller_name": "Brown-Allen",
+    "seller_address": "050 Kimberly Haven Suite 432 | Rosalesfort, DE 49943",
+    "invoice_number": "FAC4293158375",
+    "invoice_date": "04/05/2025",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Organized zero administration analyzer",
+      "quantity": "10.00",
+      "unit_price": "383.32",
+      "total_price": "3 833.20",
+      "category": null
+    },
+    {
+      "description": "Sharable fault-tolerant leverage",
+      "quantity": "9.00",
+      "unit_price": "462.29",
+      "total_price": "4 160.61",
+      "category": null
+    },
+    {
+      "description": "Stand-alone human-resource matrices",
+      "quantity": "7.00",
+      "unit_price": "206.38",
+      "total_price": "1 444.66",
+      "category": null
+    },
+    {
+      "description": "Configurable multimedia open system",
+      "quantity": "9.00",
+      "unit_price": "287.85",
+      "total_price": "2 590.65",
+      "category": null
+    },
+    {
+      "description": "Ameliorated modular access",
+      "quantity": "9.00",
+      "unit_price": "38.42",
+      "total_price": "345.78",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "12 374.90",
+    "tax": "1 237.49",
+    "discount": "",
+    "total": "12 993.64"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.83,
+  "file_size_bytes": 59029
+}

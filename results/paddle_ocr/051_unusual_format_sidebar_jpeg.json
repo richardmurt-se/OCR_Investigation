@@ -1,0 +1,8 @@
+{
+  "filename": "051_unusual_format_sidebar.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "INVOICE\nEROM\nTC\nBoyd,Simmons and Smith\nBrown-Edwards\n9447\nJohn Course\nUnit 8634 Box 3955\nPort\nDawnshireID 49012\nDPO AP72176\nBILL-68886577\n08/29/2025\nLINE ITEMS\n02/22/2026\n01\nDistributed coherent capacity\nx4.00\n328.56\nSUMMARY\n02\nSynergized human-resource intranet\nx2.00\n556.96\nSubtotal\n3024.47\nTax\n302.45\n03\nFundamental optimizing implementation\nx5.00\n2138.95\nDiscount\n151.22\nTOLAL\n3175.70\nT o  qm n    odn np s qg \nGriffin,\nBANK\nRobinson and\nBennett Financial\nIWLY16785305378653",
+  "processing_time_seconds": 2.693,
+  "file_size_bytes": 58191,
+  "success": true
+}

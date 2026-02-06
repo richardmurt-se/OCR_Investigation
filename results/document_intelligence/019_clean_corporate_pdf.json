@@ -1,0 +1,63 @@
+{
+  "filename": "019_clean_corporate.pdf",
+  "invoice": {
+    "client_name": "Sandoval Inc",
+    "client_address": "17790 Dalton Stream\nRhondabury, OK 46003",
+    "seller_name": "Simon, Zhang and Andrews",
+    "seller_address": "655 Sweeney Ford\nPamelaberg, DE 09134",
+    "invoice_number": "#546969",
+    "invoice_date": "10/05/2025",
+    "due_date": "19/02/2026"
+  },
+  "items": [
+    {
+      "description": "Exclusive dedicated projection",
+      "quantity": "4.00",
+      "unit_price": "257.36",
+      "total_price": "1 029.44",
+      "category": null
+    },
+    {
+      "description": "Profit-focused executive Local Area Network",
+      "quantity": "6.00",
+      "unit_price": "302.11",
+      "total_price": "1 812.66",
+      "category": null
+    },
+    {
+      "description": "Intuitive contextually-based customer loyalty",
+      "quantity": "4.00",
+      "unit_price": "180.65",
+      "total_price": "722.60",
+      "category": null
+    },
+    {
+      "description": "Polarized neutral migration",
+      "quantity": "7.00",
+      "unit_price": "67.90",
+      "total_price": "475.30",
+      "category": null
+    },
+    {
+      "description": "Self-enabling modular flexibility",
+      "quantity": "5.00",
+      "unit_price": "495.73",
+      "total_price": "2 478.65",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "6 518.65",
+    "tax": "651.87",
+    "discount": "",
+    "total": "6 518.65"
+  },
+  "payment_instructions": {
+    "due_date": "19/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.508,
+  "file_size_bytes": 138796
+}

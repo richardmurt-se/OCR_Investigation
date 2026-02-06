@@ -1,0 +1,77 @@
+{
+  "filename": "114_effect_uneven_lighting.png",
+  "invoice": {
+    "client_name": "Montgomery, Deleon and Cain",
+    "client_address": "",
+    "seller_name": "Macias-Beasley",
+    "seller_address": "3381 Anderson Parkway Suite 689\nSarahfort, VI 11687",
+    "invoice_number": "INV-8867281325",
+    "invoice_date": "02/08/2025",
+    "due_date": "15/02/2026"
+  },
+  "items": [
+    {
+      "description": "Expanded incremental process improvement",
+      "quantity": "8.00",
+      "unit_price": "211.58",
+      "total_price": "1 692.64",
+      "category": null
+    },
+    {
+      "description": "Enterprise-wide needs-based moratorium",
+      "quantity": "7.00",
+      "unit_price": "316.05",
+      "total_price": "2 212.35",
+      "category": null
+    },
+    {
+      "description": "Self-enabling fault-tolerant open system",
+      "quantity": "1.00",
+      "unit_price": "337.17",
+      "total_price": "337.17",
+      "category": null
+    },
+    {
+      "description": "Upgradable global monitoring",
+      "quantity": "4.00",
+      "unit_price": "377.26",
+      "total_price": "1 509.04",
+      "category": null
+    },
+    {
+      "description": "Ameliorated real-time orchestration",
+      "quantity": "2.00",
+      "unit_price": "313.40",
+      "total_price": "626.80",
+      "category": null
+    },
+    {
+      "description": "Automated human-resource info-mediaries",
+      "quantity": "7.00",
+      "unit_price": "345.62",
+      "total_price": "2 419.34",
+      "category": null
+    },
+    {
+      "description": "Grass-roots impactful projection",
+      "quantity": "9.00",
+      "unit_price": "182.45",
+      "total_price": "1 642.05",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "10 439.39",
+    "tax": "1 043.94",
+    "discount": "",
+    "total": "10 961.36"
+  },
+  "payment_instructions": {
+    "due_date": "15/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.099,
+  "file_size_bytes": 776839
+}

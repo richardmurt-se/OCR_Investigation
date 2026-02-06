@@ -1,0 +1,84 @@
+{
+  "filename": "141_effect_thermal_fade.png",
+  "invoice": {
+    "client_name": "Fox-Wright",
+    "client_address": "",
+    "seller_name": "Hanna, Reese and Rodriguez",
+    "seller_address": "",
+    "invoice_number": "1039102583",
+    "invoice_date": "18/06/2024",
+    "due_date": "05/03/2026"
+  },
+  "items": [
+    {
+      "description": "Compatible 3rdgeneration framework",
+      "quantity": "5.00",
+      "unit_price": "488.04",
+      "total_price": "2 440.20",
+      "category": null
+    },
+    {
+      "description": "Ergonomic dynamic moderator",
+      "quantity": "7.00",
+      "unit_price": "197.14",
+      "total_price": "1 379.98",
+      "category": null
+    },
+    {
+      "description": "Reverse-engineered context-sensitive Internet solution",
+      "quantity": "3.00",
+      "unit_price": "494.70",
+      "total_price": "1 484.10",
+      "category": null
+    },
+    {
+      "description": "Sharable uniform ability",
+      "quantity": "2.00",
+      "unit_price": "163.13",
+      "total_price": "326.26",
+      "category": null
+    },
+    {
+      "description": "Automated content-based parallelism",
+      "quantity": "9.00",
+      "unit_price": "140.71",
+      "total_price": "1 266.39",
+      "category": null
+    },
+    {
+      "description": "User-centric multi-state knowledge user",
+      "quantity": "6.00",
+      "unit_price": "266.57",
+      "total_price": "1 599.42",
+      "category": null
+    },
+    {
+      "description": "Synergized homogeneous system engine",
+      "quantity": "10.00",
+      "unit_price": "415.19",
+      "total_price": "4 151.90",
+      "category": null
+    },
+    {
+      "description": "Exclusive responsive open architecture",
+      "quantity": "10.00",
+      "unit_price": "71.33",
+      "total_price": "713.30",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "13 361.55",
+    "tax": "1 336.15",
+    "discount": "",
+    "total": "13 361.55"
+  },
+  "payment_instructions": {
+    "due_date": "05/03/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 11.052,
+  "file_size_bytes": 1297190
+}

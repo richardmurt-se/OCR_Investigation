@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OCR Cross-Model Comparison Report</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+    <style>
+        :root {
+            --color-success: #22c55e;
+            --color-warning: #eab308;
+            --color-danger: #ef4444;
+            --color-info: #3b82f6;
+            --color-bg: #f8fafc;
+            --color-card: #ffffff;
+            --color-border: #e2e8f0;
+            --color-text: #1e293b;
+            --color-text-muted: #64748b;
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background-color: var(--color-bg);
+            color: var(--color-text);
+            line-height: 1.6;
+            padding: 2rem;
+        }
+
+        .container { max-width: 1400px; margin: 0 auto; }
+
+        .header {
+            margin-bottom: 2rem;
+            padding-bottom: 1rem;
+            border-bottom: 2px solid var(--color-border);
+        }
+        .header h1 { font-size: 1.875rem; font-weight: 700; }
+        .header .subtitle { color: var(--color-text-muted); font-size: 0.875rem; margin-top: 0.25rem; }
+
+        /* Summary Cards */
+        .cards-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+        .card {
+            background: var(--color-card);
+            border-radius: 0.75rem;
+            padding: 1.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            border-left: 4px solid var(--color-info);
+            position: relative;
+        }
+        .card-label { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--color-text-muted); margin-bottom: 0.25rem; }
+        .card-value { font-size: 2rem; font-weight: 700; }
+        .card-detail { font-size: 0.75rem; color: var(--color-text-muted); margin-top: 0.25rem; }
+        .badge-winner {
+            position: absolute;
+            top: 0.75rem;
+            right: 0.75rem;
+            background: var(--color-success);
+            color: white;
+            font-size: 0.625rem;
+            font-weight: 700;
+            padding: 0.2rem 0.5rem;
+            border-radius: 9999px;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        /* Sections */
+        .section { margin-bottom: 2.5rem; }
+        .section h2 {
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 1px solid var(--color-border);
+        }
+
+        /* Chart containers */
+        .chart-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1.5rem;
+            margin-bottom: 1.5rem;
+        }
+        .chart-box {
+            background: var(--color-card);
+            border-radius: 0.75rem;
+            padding: 1.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        .chart-box h3 { font-size: 1rem; font-weight: 600; margin-bottom: 1rem; }
+        .chart-box canvas { max-height: 400px; }
+        .chart-full {
+            background: var(--color-card);
+            border-radius: 0.75rem;
+            padding: 1.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            margin-bottom: 1.5rem;
+        }
+        .chart-full h3 { font-size: 1rem; font-weight: 600; margin-bottom: 1rem; }
+
+        /* Tables */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.875rem;
+        }
+        th, td {
+            padding: 0.75rem 1rem;
+            text-align: left;
+            border-bottom: 1px solid var(--color-border);
+        }
+        th {
+            background: var(--color-bg);
+            font-weight: 600;
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: var(--color-text-muted);
+            cursor: pointer;
+        }
+        th:hover { color: var(--color-text); }
+        tr:hover { background: #f1f5f9; }
+        .text-right { text-align: right; }
+        .text-center { text-align: center; }
+
+        .color-dot {
+            display: inline-block;
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            margin-right: 0.5rem;
+            vertical-align: middle;
+        }
+
+        .acc-high { color: var(--color-success); font-weight: 600; }
+        .acc-mid { color: var(--color-warning); font-weight: 600; }
+        .acc-low { color: var(--color-danger); font-weight: 600; }
+
+        @media (max-width: 900px) {
+            .chart-row { grid-template-columns: 1fr; }
+            body { padding: 1rem; }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+
+    <!-- Header -->
+    <div class="header">
+        <h1>OCR Cross-Model Comparison Report</h1>
+        <div class="subtitle">Comparing {{ models|length }} model{{ 's' if models|length != 1 }} &middot; Extraction Accuracy</div>
+    </div>
+
+    <!-- Section 1: Summary Cards -->
+    <div class="cards-grid">
+        {% for m in models %}
+        <div class="card" style="border-left-color: {{ m.color }};">
+            {% if m.is_best_extraction %}<span class="badge-winner">Best</span>{% endif %}
+            <div class="card-label">{{ m.display_name }}</div>
+            <div class="card-value" style="color: {{ m.color }};">{{ "%.1f"|format(m.extraction_accuracy * 100) }}%</div>
+            <div class="card-detail">{{ m.total_documents }} docs &middot; {{ "%.2f"|format(m.avg_time) }}s/doc &middot; ${{ "%.4f"|format(m.total_cost) }} total</div>
+        </div>
+        {% endfor %}
+    </div>
+
+    <!-- Performance Table -->
+    <div class="section">
+        <h2>Performance Comparison</h2>
+        <div class="chart-full">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Model</th>
+                        <th class="text-right">Extraction Accuracy</th>
+                        <th class="text-right">Avg Time / Doc</th>
+                        <th class="text-right">Throughput</th>
+                        <th class="text-right">Total Cost</th>
+                        <th class="text-right">Cost / Page</th>
+                        <th class="text-right">Avg Confidence</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for m in models %}
+                    <tr>
+                        <td><span class="color-dot" style="background:{{ m.color }};"></span>{{ m.display_name }}</td>
+                        <td class="text-right {% if m.extraction_accuracy >= 0.9 %}acc-high{% elif m.extraction_accuracy >= 0.7 %}acc-mid{% else %}acc-low{% endif %}">{{ "%.1f"|format(m.extraction_accuracy * 100) }}%</td>
+                        <td class="text-right">{{ "%.2f"|format(m.avg_time) }}s</td>
+                        <td class="text-right">{{ "%.1f"|format(m.throughput) }} docs/min</td>
+                        <td class="text-right">${{ "%.4f"|format(m.total_cost) }}</td>
+                        <td class="text-right">${{ "%.4f"|format(m.cost_per_page) }}</td>
+                        <td class="text-right">{% if m.avg_confidence > 0 %}{{ "%.1f"|format(m.avg_confidence * 100) }}%{% else %}-{% endif %}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <!-- Extraction Accuracy Bar + Language -->
+    <div class="section">
+        <h2>Overall Comparison</h2>
+        <div class="chart-row">
+            <div class="chart-box">
+                <h3>Extraction Accuracy</h3>
+                <canvas id="chartAccuracy"></canvas>
+            </div>
+            <div class="chart-box">
+                <h3>Extraction Accuracy by Language</h3>
+                <canvas id="chartLanguage"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <!-- Section 4: By Effect Type -->
+    <div class="section">
+        <h2>Extraction Accuracy by Effect Type</h2>
+        <div class="chart-full">
+            <canvas id="chartEffects" height="100"></canvas>
+        </div>
+    </div>
+
+    <!-- Section 5: By File Format -->
+    <div class="section">
+        <h2>Extraction Accuracy by File Format</h2>
+        <div class="chart-row">
+            <div class="chart-box">
+                <canvas id="chartFormats"></canvas>
+            </div>
+            <div class="chart-box">
+                <h3>Performance: Processing Speed</h3>
+                <canvas id="chartSpeed"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <!-- Detailed Effect Breakdown Table -->
+    <div class="section">
+        <h2>Detailed Effect Breakdown</h2>
+        <div class="chart-full" style="overflow-x: auto;">
+            <table id="detailTable">
+                <thead>
+                    <tr>
+                        <th>Effect Type</th>
+                        {% for m in models %}
+                        <th class="text-right">{{ m.display_name }}</th>
+                        {% endfor %}
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for label in effect_chart.labels %}
+                    {% set effect_idx = loop.index0 %}
+                    <tr>
+                        <td>{{ label }}</td>
+                        {% for ds in effect_chart.datasets %}
+                        {% set val = ds.data[effect_idx] %}
+                        <td class="text-right {% if val >= 90 %}acc-high{% elif val >= 70 %}acc-mid{% else %}acc-low{% endif %}">{{ val }}%</td>
+                        {% endfor %}
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+</div>
+
+<script>
+// ---- Data from Jinja ----
+const models = {{ models | tojson }};
+const effectChart = {{ effect_chart | tojson }};
+const formatChart = {{ format_chart | tojson }};
+const languageChart = {{ language_chart | tojson }};
+
+// ---- Chart 1: Extraction Accuracy Bar ----
+new Chart(document.getElementById('chartAccuracy'), {
+    type: 'bar',
+    data: {
+        labels: models.map(m => m.display_name),
+        datasets: [{
+            label: 'Extraction Accuracy (%)',
+            data: models.map(m => (m.extraction_accuracy * 100).toFixed(1)),
+            backgroundColor: models.map(m => m.color + 'CC'),
+            borderColor: models.map(m => m.color),
+            borderWidth: 1,
+            borderRadius: 6,
+        }]
+    },
+    options: {
+        responsive: true,
+        plugins: { legend: { display: false } },
+        scales: {
+            y: { beginAtZero: true, max: 100, title: { display: true, text: 'Accuracy (%)' } }
+        }
+    }
+});
+
+// ---- Chart 2: Language ----
+new Chart(document.getElementById('chartLanguage'), {
+    type: 'bar',
+    data: {
+        labels: languageChart.labels,
+        datasets: languageChart.datasets.map(ds => ({
+            label: ds.label,
+            data: ds.data,
+            backgroundColor: ds.color + 'CC',
+            borderColor: ds.color,
+            borderWidth: 1,
+            borderRadius: 6,
+        }))
+    },
+    options: {
+        responsive: true,
+        plugins: { legend: { position: 'top' } },
+        scales: {
+            y: { beginAtZero: true, max: 100, title: { display: true, text: 'Extraction Accuracy (%)' } }
+        }
+    }
+});
+
+// ---- Chart 3: Effects Grouped Bar ----
+new Chart(document.getElementById('chartEffects'), {
+    type: 'bar',
+    data: {
+        labels: effectChart.labels,
+        datasets: effectChart.datasets.map(ds => ({
+            label: ds.label,
+            data: ds.data,
+            backgroundColor: ds.color + 'CC',
+            borderColor: ds.color,
+            borderWidth: 1,
+            borderRadius: 4,
+        }))
+    },
+    options: {
+        responsive: true,
+        plugins: { legend: { position: 'top' } },
+        scales: {
+            y: { beginAtZero: true, max: 100, title: { display: true, text: 'Extraction Accuracy (%)' } },
+            x: { ticks: { maxRotation: 45, minRotation: 30, font: { size: 10 } } }
+        }
+    }
+});
+
+// ---- Chart 4: Format Grouped Bar ----
+new Chart(document.getElementById('chartFormats'), {
+    type: 'bar',
+    data: {
+        labels: formatChart.labels,
+        datasets: formatChart.datasets.map(ds => ({
+            label: ds.label,
+            data: ds.data,
+            backgroundColor: ds.color + 'CC',
+            borderColor: ds.color,
+            borderWidth: 1,
+            borderRadius: 6,
+        }))
+    },
+    options: {
+        responsive: true,
+        plugins: { legend: { position: 'top' } },
+        scales: {
+            y: { beginAtZero: true, max: 100, title: { display: true, text: 'Extraction Accuracy (%)' } }
+        }
+    }
+});
+
+// ---- Chart 5: Speed Horizontal Bar ----
+new Chart(document.getElementById('chartSpeed'), {
+    type: 'bar',
+    data: {
+        labels: models.map(m => m.display_name),
+        datasets: [{
+            label: 'Avg Seconds / Document',
+            data: models.map(m => m.avg_time.toFixed(2)),
+            backgroundColor: models.map(m => m.color + 'CC'),
+            borderColor: models.map(m => m.color),
+            borderWidth: 1,
+            borderRadius: 6,
+        }]
+    },
+    options: {
+        indexAxis: 'y',
+        responsive: true,
+        plugins: { legend: { display: false } },
+        scales: {
+            x: { beginAtZero: true, title: { display: true, text: 'Seconds per Document' } }
+        }
+    }
+});
+
+// ---- Sortable Table ----
+document.querySelectorAll('#detailTable th').forEach((th, colIdx) => {
+    th.addEventListener('click', () => {
+        const table = document.getElementById('detailTable');
+        const tbody = table.querySelector('tbody');
+        const rows = Array.from(tbody.querySelectorAll('tr'));
+        const asc = th.dataset.sort !== 'asc';
+        th.dataset.sort = asc ? 'asc' : 'desc';
+        rows.sort((a, b) => {
+            const aVal = a.children[colIdx].textContent.replace('%', '').trim();
+            const bVal = b.children[colIdx].textContent.replace('%', '').trim();
+            const aNum = parseFloat(aVal);
+            const bNum = parseFloat(bVal);
+            if (!isNaN(aNum) && !isNaN(bNum)) return asc ? aNum - bNum : bNum - aNum;
+            return asc ? aVal.localeCompare(bVal) : bVal.localeCompare(aVal);
+        });
+        rows.forEach(row => tbody.appendChild(row));
+    });
+});
+</script>
+</body>
+</html>

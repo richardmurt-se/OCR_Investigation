@@ -1,0 +1,8 @@
+{
+  "filename": "125_effect_perspective_warp.pdf",
+  "model_name": "paddleocr",
+  "raw_text": "INVOICE\nNo: BILL 3840032\nDate: 09/07/2025\nDue: 02/14/2026\nWilliams-Rogers\n63010 Peguy Spur| Ferd Lindeeyburgh. VA 64265\nBILL TO\n Smith-Lang\n905 Green Glan\nEmilyshire, UT 01441\nFROM\nAmount\nWilliams-Rogers\nUnit Price\nQuantity\n564.84\n282.42\n2.00\n524.10\nDeccriptior\n174.70\n3.00\n1276.88\n159.61\n8.00\n1 629.44\n407.36\nVeian-crienled conte\n4.00\nHorizontal syate\n3 995.26\nSubtotal\n399.53\nTax (10%)\nTotal Due\n4 394.79\nPAYMENT INFORMATION\nBank: Rodriguez, Eums and Shannon Bank\nAceount: ZULA01807456172923",
+  "processing_time_seconds": 1.917,
+  "file_size_bytes": 81106,
+  "success": true
+}

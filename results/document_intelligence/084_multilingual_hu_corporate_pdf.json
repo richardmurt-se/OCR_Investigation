@@ -1,0 +1,84 @@
+{
+  "filename": "084_multilingual_hu_corporate.pdf",
+  "invoice": {
+    "client_name": "Balogh és társa Nyrt.",
+    "client_address": "Bácsháti utca 24.\nH-9928 Szigetszentmiklós",
+    "seller_name": "Jakab és társa Kft.",
+    "seller_address": "Ady endre út 215.\nH-5584 Felsőmindszentváros",
+    "invoice_number": "#FAC/770771",
+    "invoice_date": "01/08/2025",
+    "due_date": "02/12/2026"
+  },
+  "items": [
+    {
+      "description": "Operative bandwidth-monitored implementation",
+      "quantity": "10.00",
+      "unit_price": "24.12",
+      "total_price": "241.20",
+      "category": null
+    },
+    {
+      "description": "Inverse content-based firmware",
+      "quantity": "7.00",
+      "unit_price": "428.52",
+      "total_price": "2 999.64",
+      "category": null
+    },
+    {
+      "description": "Open-architected 3rdgeneration structure",
+      "quantity": "3.00",
+      "unit_price": "300.94",
+      "total_price": "902.82",
+      "category": null
+    },
+    {
+      "description": "De-engineered maximized intranet",
+      "quantity": "7.00",
+      "unit_price": "497.50",
+      "total_price": "3 482.50",
+      "category": null
+    },
+    {
+      "description": "Universal static migration",
+      "quantity": "8.00",
+      "unit_price": "439.67",
+      "total_price": "3 517.36",
+      "category": null
+    },
+    {
+      "description": "User-friendly executive conglomeration",
+      "quantity": "5.00",
+      "unit_price": "452.93",
+      "total_price": "2 264.65",
+      "category": null
+    },
+    {
+      "description": "Organized needs-based capability",
+      "quantity": "10.00",
+      "unit_price": "367.77",
+      "total_price": "3 677.70",
+      "category": null
+    },
+    {
+      "description": "Secured zero tolerance interface",
+      "quantity": "1.00",
+      "unit_price": "167.23",
+      "total_price": "167.23",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "17 253.10",
+    "tax": "1 725.31",
+    "discount": "-1 725.31",
+    "total": "17 253.10"
+  },
+  "payment_instructions": {
+    "due_date": "02/12/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.977,
+  "file_size_bytes": 139280
+}

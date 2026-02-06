@@ -1,0 +1,8 @@
+{
+  "filename": "126_effect_perspective_warp.png",
+  "model_name": "paddleocr",
+  "raw_text": "Baker, Reynolds and Cooke\n315 Charles Harbors Suite 265 |Francis\nmouth, FL 42713\nINVOICE\nFROM\nBaker, Reynolds and Cooke\nNo: 6344734952\n315 Charles Harbors Suite 265\nDate: 11/13/2024\nFranciscomouth. FL42713\nBILLTO\nTerry, Farmer and Serrano\nDescription\nEast John, PW 40400\n1\n Polanzed needs-based open architecture\nQuantity\nUnit Price\n2\nHorizontal bandwidth-monitored access\nAmount\n2.00\n197.15\n3\n394.30\nDiverse contextually-based framework\n7.00\n242.56\n1 697.92\n10.00\n209.37\n2 093.70\nSublotal\n4 185.92\nTax (10%)\n418.50\n-209.30\nThank you for your busines",
+  "processing_time_seconds": 2.208,
+  "file_size_bytes": 79186,
+  "success": true
+}

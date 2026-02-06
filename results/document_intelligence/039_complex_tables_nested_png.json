@@ -1,0 +1,70 @@
+{
+  "filename": "039_complex_tables_nested.png",
+  "invoice": {
+    "client_name": "Brown, Richards and Salazar",
+    "client_address": "",
+    "seller_name": "Townsend PLC",
+    "seller_address": "1884 Albert Camp | Rebeccamouth, KS 59905",
+    "invoice_number": "FAC90498056",
+    "invoice_date": "11/02/2024",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Advanced hybrid framework (Qty: 86 units/pack)",
+      "quantity": "6.00",
+      "unit_price": "58.56",
+      "total_price": "351.36",
+      "category": null
+    },
+    {
+      "description": "Assimilated context sensitive superstructure - 140GB, 70\" display",
+      "quantity": "8.00",
+      "unit_price": "258.10",
+      "total_price": "2 064.80",
+      "category": null
+    },
+    {
+      "description": "Face-to-face holistic time-frame - 776GB, 80\" display",
+      "quantity": "1.00",
+      "unit_price": "221.91",
+      "total_price": "221.91",
+      "category": null
+    },
+    {
+      "description": "Reduced transitional installation | Model: stn-8097, Serial: 7246836594",
+      "quantity": "9.00",
+      "unit_price": "461.23",
+      "total_price": "4 151.07",
+      "category": null
+    },
+    {
+      "description": "Reactive clear-thinking complexity | Model: auw-3505, Serial:\n2743426238",
+      "quantity": "9.00",
+      "unit_price": "406.35",
+      "total_price": "3 657.15",
+      "category": null
+    },
+    {
+      "description": "Organized interactive adapter (Qty: 3 units/pack)",
+      "quantity": "5.00",
+      "unit_price": "415.31",
+      "total_price": "2 076.55",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "12 522.84",
+    "tax": "1 252.28",
+    "discount": "",
+    "total": "13 775.12"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.806,
+  "file_size_bytes": 61411
+}

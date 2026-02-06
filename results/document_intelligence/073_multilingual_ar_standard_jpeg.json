@@ -1,0 +1,49 @@
+{
+  "filename": "073_multilingual_ar_standard.jpeg",
+  "invoice": {
+    "client_name": "الراشد LLC ينك",
+    "client_address": "611 المشاولة 671 Tunnel Suite\nshire, KS 70523 ALL:",
+    "seller_name": "",
+    "seller_address": "",
+    "invoice_number": "INV924605823",
+    "invoice_date": "02/07/2024",
+    "due_date": "21/02/2026"
+  },
+  "items": [
+    {
+      "description": "Multi-channeled radical function",
+      "quantity": "9.00",
+      "unit_price": "96.06",
+      "total_price": "864.54",
+      "category": null
+    },
+    {
+      "description": "Reduced uniform knowledgebase",
+      "quantity": "6.00",
+      "unit_price": "492.87",
+      "total_price": "957.22",
+      "category": null
+    },
+    {
+      "description": "Virtual upward-trending access",
+      "quantity": "3.00",
+      "unit_price": "381.07",
+      "total_price": "143.21",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "964.97",
+    "tax": "496.50",
+    "discount": "",
+    "total": "461.47"
+  },
+  "payment_instructions": {
+    "due_date": "21/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.69,
+  "file_size_bytes": 48382
+}

@@ -1,0 +1,70 @@
+{
+  "filename": "102_effect_salt_pepper_noise.jpeg",
+  "invoice": {
+    "client_name": "Morgan-Ryan",
+    "client_address": "",
+    "seller_name": "Morales Ltd",
+    "seller_address": "56096 Susan Hollow | Port Jasmine, KS 62819",
+    "invoice_number": "INV/193149",
+    "invoice_date": "02/09/2025",
+    "due_date": "13/02/2026"
+  },
+  "items": [
+    {
+      "description": "Right-sized dynamic adapter",
+      "quantity": "7.00",
+      "unit_price": "449.48",
+      "total_price": "3 146.36",
+      "category": null
+    },
+    {
+      "description": "Ameliorated didactic encryption",
+      "quantity": "7.00",
+      "unit_price": "183.69",
+      "total_price": "-1 285.83",
+      "category": null
+    },
+    {
+      "description": "Implemented-explicit workforce",
+      "quantity": "3.00",
+      "unit_price": "309.04",
+      "total_price": "927.12",
+      "category": null
+    },
+    {
+      "description": "Cross-group responsive Graphic interface",
+      "quantity": "3.00",
+      "unit_price": "239.97",
+      "total_price": "719.91",
+      "category": null
+    },
+    {
+      "description": "· Digitized local time-frame",
+      "quantity": "5.00",
+      "unit_price": "284.33",
+      "total_price": "1 421.65",
+      "category": null
+    },
+    {
+      "description": "· . User-centric uniform initiative",
+      "quantity": "8.00",
+      "unit_price": "466.21",
+      "total_price": "3 729.68",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "11 230.55",
+    "tax": "123.06",
+    "discount": "",
+    "total": "12 353.61"
+  },
+  "payment_instructions": {
+    "due_date": "13/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.507,
+  "file_size_bytes": 190606
+}

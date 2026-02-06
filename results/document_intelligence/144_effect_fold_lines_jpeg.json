@@ -1,0 +1,49 @@
+{
+  "filename": "144_effect_fold_lines.jpeg",
+  "invoice": {
+    "client_name": "Morris PLC",
+    "client_address": "",
+    "seller_name": "Davis and Sons",
+    "seller_address": "1690 Ashley Shoals\nClarkeshire, TX 50147",
+    "invoice_number": "BILL/11287976",
+    "invoice_date": "12/05/2024",
+    "due_date": "15/02/2026"
+  },
+  "items": [
+    {
+      "description": "Right-sized systemic policy",
+      "quantity": "4.00",
+      "unit_price": "323.27",
+      "total_price": "1 293.08",
+      "category": null
+    },
+    {
+      "description": "Function-based coherent database",
+      "quantity": "9.00",
+      "unit_price": "87.09",
+      "total_price": "783.81",
+      "category": null
+    },
+    {
+      "description": "Quality-focused client-server open system",
+      "quantity": "2.00",
+      "unit_price": "497.73",
+      "total_price": "995.46",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "3 072.35",
+    "tax": "307.24",
+    "discount": "",
+    "total": "3 225.97"
+  },
+  "payment_instructions": {
+    "due_date": "15/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.794,
+  "file_size_bytes": 59926
+}

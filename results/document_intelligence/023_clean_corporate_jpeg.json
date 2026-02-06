@@ -1,0 +1,49 @@
+{
+  "filename": "023_clean_corporate.jpeg",
+  "invoice": {
+    "client_name": "Myers, Heath and Gray",
+    "client_address": "9202 John Mill\nWest Jillside, MT 12779",
+    "seller_name": "Morton-Bryant",
+    "seller_address": "USS Mora\nFPO AP 98327",
+    "invoice_number": "#6536170030",
+    "invoice_date": "06/03/2024",
+    "due_date": "22/02/2026"
+  },
+  "items": [
+    {
+      "description": "Open-architected neutral pricing structure",
+      "quantity": "4.00",
+      "unit_price": "157.22",
+      "total_price": "628.88",
+      "category": null
+    },
+    {
+      "description": "Secured methodical groupware",
+      "quantity": "8.00",
+      "unit_price": "137.32",
+      "total_price": "1 098.56",
+      "category": null
+    },
+    {
+      "description": "Streamlined 24/7 moderator",
+      "quantity": "2.00",
+      "unit_price": "45.57",
+      "total_price": "91.14",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "1 818.58",
+    "tax": "181.86",
+    "discount": "",
+    "total": "1 909.51"
+  },
+  "payment_instructions": {
+    "due_date": "22/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.911,
+  "file_size_bytes": 71427
+}

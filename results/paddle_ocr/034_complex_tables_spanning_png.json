@@ -1,0 +1,8 @@
+{
+  "filename": "034_complex_tables_spanning.png",
+  "model_name": "paddleocr",
+  "raw_text": "Lee PLC\nINVOICE\n087 Cynt\nNo: INV-27996560\nDate: 09/30/2025\nLee PLC087 Cynthia Knoll sulte 316, Robertsslde, OH 20653\nINV 27996560\nLewls and Sons  9287 Gll Plalns, Antonloshlre, NJ 75814\nDate\n 09/30/2025\nShlp To: Lewls and Sons, 9287 Gll Plalns, Antonloshlre, NJ 75814\nOn Reccipt\nDescrlption\nPricing\nSKU\n1401\nITH0010\nOpen arch\nondary solution | Model: UKz 44s0, Scrial.\n7.00\n7.08\n149.69\n6639038584\n1847.83\n1 047.83\nITH3020\nSeral: 8347258334\nOptionall context sens\n6.00\n6.08\n96.41\n578.46\n578.46\n15\nITH0030\n911GB, 42 displa\n2.00\n2.00\n371.38\n742.76\n742.76\nITH3048\n9.ee\n9.00\n491.68\n4 424.48\n4 424.40\nITH0050\ncxplicit array (Qty\nBusiness focused\n63 unts/pack)\n5.88\n5.00\n289.08\n1 445.40\n1 445.40\nSubtotal:\n8 238.85\nTax (10%):\n823.89\nPayment due upon receipt\nDiscount:\n-823.89\nShipping:\n0.09\nTOTAL DUE: 8 238.85\nNotes: This Involce contalns Items spanning multiple categorles. All prices are in local currency. Tax calculated at standard rate. Lee PLC - Invoice #inv 27996s6o - 09/30/2025",
+  "processing_time_seconds": 3.699,
+  "file_size_bytes": 53015,
+  "success": true
+}

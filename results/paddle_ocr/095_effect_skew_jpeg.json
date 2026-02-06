@@ -1,0 +1,8 @@
+{
+  "filename": "095_effect_skew.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "INVOICE\nNo:BILL1691165758\nolf PLC\nDate:02/18/2024\nHoward Glens New KellyAK 91587\nBILL TO\nRichardson-Smith\nOM\n65571Amber Turnpike Apt.363\nolf PLC\nJanetborough.IL47939\n94 Howard Glens\new Kelly.AK91567\nUnit Price\nAmount\nQuantity\n153.90\n1385.64\nDescription\n9.00\n84.29\n590.03\nDigitized even-keeled focus group\n7.00\n1\n4223.80\n10.00\n422.38\n2\nDown-sized optimal strategy\n301.63\n2413.04\nRealigned system-worthy Graphic Interface\n8.00\n3\nAssimilated zero tolerance productivity\nSubtotal\n8612.51\n881.25\nTax(10%\n9473.76\nTotal Due\nThank you for your business",
+  "processing_time_seconds": 2.107,
+  "file_size_bytes": 57496,
+  "success": true
+}

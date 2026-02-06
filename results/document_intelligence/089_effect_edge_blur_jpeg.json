@@ -1,0 +1,63 @@
+{
+  "filename": "089_effect_edge_blur.jpeg",
+  "invoice": {
+    "client_name": "Townsend and Sons",
+    "client_address": "",
+    "seller_name": "Stark-Hooper",
+    "seller_address": "0795 Danny Junctions Apt. 978\nPort Charles, KY 80480",
+    "invoice_number": "FAC/19647187",
+    "invoice_date": "05/01/2025",
+    "due_date": "26/02/2026"
+  },
+  "items": [
+    {
+      "description": "Multi-layered next generation orchestration",
+      "quantity": "6.00",
+      "unit_price": "226.93",
+      "total_price": "1 361.58",
+      "category": null
+    },
+    {
+      "description": "Secured zero administration instruction set",
+      "quantity": "5.00",
+      "unit_price": "98.30",
+      "total_price": "491.50",
+      "category": null
+    },
+    {
+      "description": "Configurable encompassing moderator",
+      "quantity": "7.00",
+      "unit_price": "317.71",
+      "total_price": "2 223.97",
+      "category": null
+    },
+    {
+      "description": "Persevering motivating benchmark",
+      "quantity": "5.00",
+      "unit_price": "322.92",
+      "total_price": "1 614.60",
+      "category": null
+    },
+    {
+      "description": "Adaptive value-added hub",
+      "quantity": "3.00",
+      "unit_price": "363.30",
+      "total_price": "1 089.90",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "6 781.56",
+    "tax": "678.15",
+    "discount": "",
+    "total": "7 459.70"
+  },
+  "payment_instructions": {
+    "due_date": "26/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.671,
+  "file_size_bytes": 60418
+}

@@ -1,0 +1,49 @@
+{
+  "filename": "126_effect_perspective_warp.jpeg",
+  "invoice": {
+    "client_name": "Terry, Farmer and Serrano",
+    "client_address": "",
+    "seller_name": "Baker, Reynolds and Cooke",
+    "seller_address": "315 Charles Harbors Suite 265\nFranciscomouth, FL 42713",
+    "invoice_number": "6344734952",
+    "invoice_date": "13/11/2024",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Polarized needs-based open architecture",
+      "quantity": "2.00",
+      "unit_price": "187.16",
+      "total_price": "394.30",
+      "category": null
+    },
+    {
+      "description": "Horizontal bandwidth-monitored access",
+      "quantity": "7.00",
+      "unit_price": "242.58",
+      "total_price": "1 607.92",
+      "category": null
+    },
+    {
+      "description": "Diverse contextually-based framework",
+      "quantity": "10.00",
+      "unit_price": "209.37",
+      "total_price": "2 083.70",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "4 185.92",
+    "tax": "418.50",
+    "discount": "",
+    "total": "4 305.21"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.687,
+  "file_size_bytes": 60246
+}

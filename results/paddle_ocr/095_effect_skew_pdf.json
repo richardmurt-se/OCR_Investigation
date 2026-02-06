@@ -1,0 +1,8 @@
+{
+  "filename": "095_effect_skew.pdf",
+  "model_name": "paddleocr",
+  "raw_text": "INVOICE\nNo: BILL1691165758\noIf PLC\nDate: 02/18/2024\n Howard Glens | New Kelly, AK 91567\n BILL TO\nRichardson-Smith\nOM\n 65571 Amber Turnpike Apt. 363\noIf PLC\nJanetborough, IL 47939\n94 Howard Glens\nAmount\new Kelly, AK 91567\nUnit Price\nQuantity\n1 385.64\n153.96\nDescription\n9.00\n590.03\n84.29\n7.00\n1\nDigitized even-keeled focus group\n4 223.80\n422.38\n10.00\n2\nDown-sized optimal stralegy\n2 413.04\n301.63\n8.00\n3\nRealigned system-worthy Graphic Interiace\n8 612.51\nAssimilated zero tolerance productivity\n Subtotal\n861.25\nTax (10%)\n9 473.76\nTotal Due\nThank you for your business",
+  "processing_time_seconds": 2.305,
+  "file_size_bytes": 90258,
+  "success": true
+}

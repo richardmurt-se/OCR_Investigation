@@ -1,0 +1,49 @@
+{
+  "filename": "011_clean_corporate.png",
+  "invoice": {
+    "client_name": "Flores, Cole and Ramos",
+    "client_address": "382 Melissa Spring Suite 331\nCurtisville, FL 45383",
+    "seller_name": "Molina, Spencer and Roach",
+    "seller_address": "0458 Mary Summit Apt. 970 - West Andrebury, PR 88586",
+    "invoice_number": "#INV6973474609",
+    "invoice_date": "01/11/2024",
+    "due_date": "03/03/2026"
+  },
+  "items": [
+    {
+      "description": "User-centric modular toolset",
+      "quantity": "9.00",
+      "unit_price": "318.81",
+      "total_price": "2 869.29",
+      "category": null
+    },
+    {
+      "description": "Expanded global throughput",
+      "quantity": "8.00",
+      "unit_price": "290.71",
+      "total_price": "2 325.68",
+      "category": null
+    },
+    {
+      "description": "Ameliorated foreground forecast",
+      "quantity": "8.00",
+      "unit_price": "470.55",
+      "total_price": "3 764.40",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "8 959.37",
+    "tax": "895.94",
+    "discount": "",
+    "total": "9 407.34"
+  },
+  "payment_instructions": {
+    "due_date": "03/03/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.869,
+  "file_size_bytes": 38261
+}

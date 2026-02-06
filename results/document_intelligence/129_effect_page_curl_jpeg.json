@@ -1,0 +1,63 @@
+{
+  "filename": "129_effect_page_curl.jpeg",
+  "invoice": {
+    "client_name": "Roberts and Sons",
+    "client_address": "",
+    "seller_name": "Medina-Weber",
+    "seller_address": "317 David Centers\nNorth Tyroneview, WI 90790",
+    "invoice_number": "981606",
+    "invoice_date": "26/05/2024",
+    "due_date": "01/03/2026"
+  },
+  "items": [
+    {
+      "description": "Multi-lateral holistic groupware",
+      "quantity": "8.00",
+      "unit_price": "94.21",
+      "total_price": "753.68",
+      "category": null
+    },
+    {
+      "description": "Multi-lateral logistical projection",
+      "quantity": "6.00",
+      "unit_price": "444.49",
+      "total_price": "2 666.94",
+      "category": null
+    },
+    {
+      "description": "Multi-lateral system-worthy groupware",
+      "quantity": "4.00",
+      "unit_price": "113.51",
+      "total_price": "454.04",
+      "category": null
+    },
+    {
+      "description": "De-engineered hybrid productivity",
+      "quantity": "9.00",
+      "unit_price": "59.80",
+      "total_price": "538.20",
+      "category": null
+    },
+    {
+      "description": "Re-contextualized asymmetric Local Area Network",
+      "quantity": "5.00",
+      "unit_price": "264.50",
+      "total_price": "1 322.50",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "5 735.36",
+    "tax": "573.54",
+    "discount": "",
+    "total": "6 308.90"
+  },
+  "payment_instructions": {
+    "due_date": "01/03/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.688,
+  "file_size_bytes": 66293
+}

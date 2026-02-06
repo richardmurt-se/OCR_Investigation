@@ -1,0 +1,8 @@
+{
+  "filename": "025_clean_standard.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "Hughes-Rodriguez\nINVOICE\nPSC 9371Box4400|APOAP 48442\nNo:INV/1311296\nDate:03/08/2025\nDue:03/06/2026\nFROM\nBILL TO\nHughes-Rodriguez\nSmith and Sons\nPSC 9371Box 4400\nPSC 7526,Box 0580\nAPOAP48442\nAPO AA 49709\nDescription\nQuantity\nUnit Price\nAmount\nVersatile user-facing knowledgebase\n5.00\n21.56\n107.80\n2\nBalanced multi-state architecture\n4.00\n339.71\n1 358.84\n3\nConfigurable multi-state leverage\n10.00\n201.80\n2018.00\n4\nBalanced bandwidth-monitored benchmark\n5.00\n11.79\n58.95\n5\nProactive system-worthy protocol\n6.00\n125.58\n753.48\n6\nCross-platform 4thgeneration conglomeration\n1.00\n53.24\n53.24\nSubtotal\n4 350.31\nTax (10%)\n435.03\nDiscount\n-217.52\nTotal Due\n4567.82\nPAYMENT INFORMATION\nBank: Atkinson-Diaz Credit Union\nAccount:GYL109908127807323\nMethod: Wire Transfer\nThank you for your business",
+  "processing_time_seconds": 3.018,
+  "file_size_bytes": 65602,
+  "success": true
+}

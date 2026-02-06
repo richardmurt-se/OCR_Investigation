@@ -1,0 +1,49 @@
+{
+  "filename": "051_unusual_format_sidebar.pdf",
+  "invoice": {
+    "client_name": "Brown-Edwards",
+    "client_address": "Unit 8634 Box 3955\nDPO AP 72176",
+    "seller_name": "Boyd, Simmons and Smith",
+    "seller_address": "9447 John Course\nPort Dawnshire, ID 49012",
+    "invoice_number": "BILL-68886577",
+    "invoice_date": "29/08/2025",
+    "due_date": "22/02/2026"
+  },
+  "items": [
+    {
+      "description": "Distributed coherent capacity",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "328.56",
+      "category": null
+    },
+    {
+      "description": "Synergized human-resource intranet",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "556.96",
+      "category": null
+    },
+    {
+      "description": "Fundamental optimizing implementation",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2 138.95",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "3 024.47",
+    "tax": "302.45",
+    "discount": "",
+    "total": "3 175.70"
+  },
+  "payment_instructions": {
+    "due_date": "22/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.947,
+  "file_size_bytes": 148544
+}

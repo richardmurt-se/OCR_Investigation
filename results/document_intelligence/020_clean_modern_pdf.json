@@ -1,0 +1,63 @@
+{
+  "filename": "020_clean_modern.pdf",
+  "invoice": {
+    "client_name": "Thomas-Brooks",
+    "client_address": "",
+    "seller_name": "Moore LLC",
+    "seller_address": "Unit 1945 Box 2198 · DPO AP 40808",
+    "invoice_number": "556314353",
+    "invoice_date": "12/08/2025",
+    "due_date": "11/03/2026"
+  },
+  "items": [
+    {
+      "description": "Function-based empowering success",
+      "quantity": "4.00",
+      "unit_price": "269.72",
+      "total_price": "1 078.88",
+      "category": null
+    },
+    {
+      "description": "De-engineered explicit projection",
+      "quantity": "8.00",
+      "unit_price": "190.59",
+      "total_price": "1 524.72",
+      "category": null
+    },
+    {
+      "description": "Progressive logistical toolset",
+      "quantity": "4.00",
+      "unit_price": "457.19",
+      "total_price": "1 828.76",
+      "category": null
+    },
+    {
+      "description": "Implemented heuristic benchmark",
+      "quantity": "1.00",
+      "unit_price": "212.89",
+      "total_price": "212.89",
+      "category": null
+    },
+    {
+      "description": "Profit-focused background benchmark",
+      "quantity": "2.00",
+      "unit_price": "350.35",
+      "total_price": "700.70",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "5 345.95",
+    "tax": "534.60",
+    "discount": "",
+    "total": "5 880.55"
+  },
+  "payment_instructions": {
+    "due_date": "11/03/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.017,
+  "file_size_bytes": 125413
+}

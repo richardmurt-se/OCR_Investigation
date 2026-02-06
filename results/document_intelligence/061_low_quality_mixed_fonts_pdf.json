@@ -1,0 +1,56 @@
+{
+  "filename": "061_low_quality_mixed_fonts.pdf",
+  "invoice": {
+    "client_name": "Cohen-Briggs",
+    "client_address": "14962 Frey Glens\nWest Christinehaven, AK 40732",
+    "seller_name": "Smith LLC",
+    "seller_address": "03785 Dorothy Lodge | Brownland, IA 11619",
+    "invoice_number": "INV/6101357022",
+    "invoice_date": "06/02/2024",
+    "due_date": "24/02/2026"
+  },
+  "items": [
+    {
+      "description": "Ergonomic regional application",
+      "quantity": "8.00",
+      "unit_price": "158.73",
+      "total_price": "1 269.84",
+      "category": null
+    },
+    {
+      "description": "Organic heuristic parallelism",
+      "quantity": "10.00",
+      "unit_price": "128.19",
+      "total_price": "1 281.90",
+      "category": null
+    },
+    {
+      "description": "Persistent foreground customer loyalty",
+      "quantity": "4.00",
+      "unit_price": "410.54",
+      "total_price": "1 642.16",
+      "category": null
+    },
+    {
+      "description": "Digitized interactive frame",
+      "quantity": "10.00",
+      "unit_price": "47.75",
+      "total_price": "477.50",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "4 671.40",
+    "tax": "467.14",
+    "discount": "",
+    "total": "4 904.97"
+  },
+  "payment_instructions": {
+    "due_date": "24/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.219,
+  "file_size_bytes": 198544
+}

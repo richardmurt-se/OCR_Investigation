@@ -1,0 +1,8 @@
+{
+  "filename": "015_clean_corporate.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "Pratt-Cooper\n219 Robert Lodge  Lake Martinborough, SD 57240\nINVOICE\n#FAC8121173-88\n07/23/2025\nSELLER\nBUYER\nPratt-Cooper\nParks-Daniels\n219 Robert Lodge\n124 Kevin Mountains Suite 609\nLake Martinborough,SD 57240\nDavidshire, OK70849\nNO.\nDESCRIPTION\nQUANTITY\nUNIT PRICE\nAMDUNT\nReactive zero tolerance methodology\n3.00\n159.51\n478.53\nReduced system-worthy capability\n7.00\n77.15\n540.05\n3\nTotal human-resource budgetary management\n7.00\n65.07\n455.49\nSubtotal\n1474.07\nTax (10%)\n147.41\nTOTAL DUE\n1621.48\nBANKING DETAILS\nBank: Hernandez Inc Financial\nAccount:YVLO53762056549390\nDue Date:02/16/2026\nPratt-C00per - Invoice #FAC8121173188 - 07/23/2025",
+  "processing_time_seconds": 2.163,
+  "file_size_bytes": 71952,
+  "success": true
+}

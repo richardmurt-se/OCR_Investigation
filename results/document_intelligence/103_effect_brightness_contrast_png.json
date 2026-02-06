@@ -1,0 +1,63 @@
+{
+  "filename": "103_effect_brightness_contrast.png",
+  "invoice": {
+    "client_name": "Maynard, Mullen and Oneal",
+    "client_address": "",
+    "seller_name": "Obrien Group",
+    "seller_address": "8854 Aguilar Loaf | Russellville, IL 83762",
+    "invoice_number": "4578499101",
+    "invoice_date": "17/01/2025",
+    "due_date": "22/02/2026"
+  },
+  "items": [
+    {
+      "description": "Robust web-enabled protocol",
+      "quantity": "3.00",
+      "unit_price": "257.16",
+      "total_price": "771.48",
+      "category": null
+    },
+    {
+      "description": "Automated heuristic productivity",
+      "quantity": "5.00",
+      "unit_price": "422.91",
+      "total_price": "2 114.55",
+      "category": null
+    },
+    {
+      "description": "Exclusive uniform architecture",
+      "quantity": "9.00",
+      "unit_price": "253.59",
+      "total_price": "2 282.31",
+      "category": null
+    },
+    {
+      "description": "Progressive high-level circuit",
+      "quantity": "10.00",
+      "unit_price": "484.09",
+      "total_price": "4 840.90",
+      "category": null
+    },
+    {
+      "description": "Networked 24/7 orchestration",
+      "quantity": "5.00",
+      "unit_price": "491.09",
+      "total_price": "2 455.45",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "12 464.69",
+    "tax": "1 246.47",
+    "discount": "",
+    "total": "12 484.69"
+  },
+  "payment_instructions": {
+    "due_date": "22/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.674,
+  "file_size_bytes": 26282
+}

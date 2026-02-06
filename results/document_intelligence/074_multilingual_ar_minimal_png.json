@@ -1,0 +1,70 @@
+{
+  "filename": "074_multilingual_ar_minimal.png",
+  "invoice": {
+    "client_name": "آل الشيخ LLC",
+    "client_address": "513 آل عايض 722 Circles Suite\nآل علي 76079 view, AL",
+    "seller_name": "",
+    "seller_address": "",
+    "invoice_number": "843919373",
+    "invoice_date": "15/11/2025",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Proactive dedicated knowledge user",
+      "quantity": "1.00",
+      "unit_price": "441.70",
+      "total_price": "441.70",
+      "category": null
+    },
+    {
+      "description": "Innovative human-resource circuit",
+      "quantity": "10.00",
+      "unit_price": "435.76",
+      "total_price": "357.60",
+      "category": null
+    },
+    {
+      "description": "Optimized responsive encoding",
+      "quantity": "10.00",
+      "unit_price": "275.37",
+      "total_price": "753.70",
+      "category": null
+    },
+    {
+      "description": "Proactive scalable website",
+      "quantity": "8.00",
+      "unit_price": "193.03",
+      "total_price": "544.24",
+      "category": null
+    },
+    {
+      "description": "Business-focused eco-centric neural-net",
+      "quantity": "2.00",
+      "unit_price": "343.06",
+      "total_price": "686.12",
+      "category": null
+    },
+    {
+      "description": "Front-line radical leverage",
+      "quantity": "2.00",
+      "unit_price": "320.78",
+      "total_price": "641.56",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "424.92",
+    "tax": "42.49",
+    "discount": "",
+    "total": "467.41"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.638,
+  "file_size_bytes": 25205
+}

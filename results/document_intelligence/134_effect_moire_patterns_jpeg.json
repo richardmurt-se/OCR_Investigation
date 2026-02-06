@@ -1,0 +1,63 @@
+{
+  "filename": "134_effect_moire_patterns.jpeg",
+  "invoice": {
+    "client_name": "Turner, Jimenez and Tucker",
+    "client_address": "",
+    "seller_name": "Hahn-Oneal",
+    "seller_address": "USNV Lowery\nFPO AA 03262",
+    "invoice_number": "1436412603",
+    "invoice_date": "05/10/2024",
+    "due_date": "25/02/2026"
+  },
+  "items": [
+    {
+      "description": "Integrated leadingedge website",
+      "quantity": "1.00",
+      "unit_price": "99.65",
+      "total_price": "99.65",
+      "category": null
+    },
+    {
+      "description": "Optional multi-state initiative",
+      "quantity": "5.00",
+      "unit_price": "28.42",
+      "total_price": "142.10",
+      "category": null
+    },
+    {
+      "description": "Right-sized explicit intranet",
+      "quantity": "8.00",
+      "unit_price": "492.17",
+      "total_price": "3 937.36",
+      "category": null
+    },
+    {
+      "description": "Visionary client-server help-desk",
+      "quantity": "2.00",
+      "unit_price": "141.48",
+      "total_price": "282.92",
+      "category": null
+    },
+    {
+      "description": "Face-to-face directional policy",
+      "quantity": "7.00",
+      "unit_price": "283.33",
+      "total_price": "1 983.31",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "6 445.34",
+    "tax": "644.53",
+    "discount": "",
+    "total": "7 089.87"
+  },
+  "payment_instructions": {
+    "due_date": "25/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.909,
+  "file_size_bytes": 86306
+}

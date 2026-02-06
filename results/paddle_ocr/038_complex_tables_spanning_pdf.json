@@ -1,0 +1,8 @@
+{
+  "filename": "038_complex_tables_spanning.pdf",
+  "model_name": "paddleocr",
+  "raw_text": "Hunt, Olson and Hill\nINVOICE\n50166 Lori Port Apt. 066 | Evansland, WA 61227\nNo: FAC-1287205\nDate: 09/09/2024\nSeller:\n50166 Lori Port Apt. 066, Evansland, WA 61227\nInvoice #\nFAC-1287205\nBuyer\nAlexander-Tucker  984 Michael Trafficway Apt. 623, Rhondafurt, SD 28376\nDate\n09/09/2024\nShip To: Alexander-Tucker, 984 Michael Trafficway Apt. 623, Rhondafurt, SD 28376\nDue\nOn Receipt\nQuantity\nPricing\nSKU\nDescription\nTotal\nOrdered\nShipped\nUnit\nExtended\nITM0010\nReduced dicrete throughput (Qty: 32 units/pack)\n9.00\n9.00\n170.49\n1 534.41\n1 534.41\nItems\nITM0020\nMulti-tiered motivating challenge - 177GB, 51 display\n7.00\n7.00\n1-3\n330.84\n2 315.88\n2 315.88\nSynergistic\nITM0030\ntertiary\n10.00\n10.00\n31.90\n319.00\n319.00\ninfrastructure\nSubtotal:\n4 169.29\nTax (10%):\n416.93\nPayment due upc\nDiscount:\n0.00\nShipping:\n000\nTOTAL DUE: 4 586.22\nNotes: This invoice contains items spanning multiple categories. All prices are in local currency. Tax calculated at standard rate. Hunt, Olson and Hill- Invoice #FAc-1287205 - 09/09/2024",
+  "processing_time_seconds": 3.92,
+  "file_size_bytes": 126001,
+  "success": true
+}

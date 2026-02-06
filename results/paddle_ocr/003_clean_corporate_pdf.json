@@ -1,0 +1,8 @@
+{
+  "filename": "003_clean_corporate.pdf",
+  "model_name": "paddleocr",
+  "raw_text": "Duarte, Hunt and Warren\nINVOICE\nPSC 2468, B0x 3130 - APO AA 43688\n#INV-21219916\n06/19/2025\nSELLER\nBUYER\nDuarte, Hunt and Warren\nBrandt-Brown\nPSC 2468, Box 3130\n4457 George Unions\nAPO AA 43688\nSarahchester, AZ 62736\nNO.\nDESCRIPTION\nUNIT PRICE\nAMOUNT\nDevolved optimizing utilization\n5.00\n249.45\n1247.25\nDevolved leadingedge intranet\n1.00\n61.89\n61.89\n3\n Multi-lateral bandwidth-monitored approach\n3.00\n288.29\n864.87\nA\nOpen-source actuating hub\n9.00\n415.66\n3 740.94\n5\nManaged executive functionalities\n9.00\n35.40\n318.60\n6\nVisionary even-keeled challenge\n5.00\n499.04\n2 495.20\n7\nExtended content-based hardware\n6.00\n123.68\n742.08\nSubtotal\n9470.83\nTax (10%)\n947.08\nDiscount\n-947.08\nTOTAL DUE\n9 470.83\nBANKING DETAILS\nBank: Smith, Lawson and Gonzales Bank\nAccount: ASHU73315788090959\nDue Date: 02/13/2026\nDuarte, Hunt and Warren - Invoice #INV-21219916 - 06/19/2025",
+  "processing_time_seconds": 3.34,
+  "file_size_bytes": 136132,
+  "success": true
+}

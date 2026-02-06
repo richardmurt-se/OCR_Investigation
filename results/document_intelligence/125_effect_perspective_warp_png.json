@@ -1,0 +1,56 @@
+{
+  "filename": "125_effect_perspective_warp.png",
+  "invoice": {
+    "client_name": "Smith-Lang",
+    "client_address": "",
+    "seller_name": "Williams-Rogers",
+    "seller_address": "88010 Peggy Spur\nPort Lindseyburgh, MA 64285",
+    "invoice_number": "BILL3840032",
+    "invoice_date": "07/09/2025",
+    "due_date": "14/02/2026"
+  },
+  "items": [
+    {
+      "description": "Function-based incremental extranet",
+      "quantity": "2.00",
+      "unit_price": "282.42",
+      "total_price": "564.84",
+      "category": null
+    },
+    {
+      "description": "Distributed needs-based Graphical User Interface",
+      "quantity": "3.00",
+      "unit_price": "174.70",
+      "total_price": "524.10",
+      "category": null
+    },
+    {
+      "description": "Vision-oriented content-based architecture",
+      "quantity": "8.00",
+      "unit_price": "159.61",
+      "total_price": "1 276.88",
+      "category": null
+    },
+    {
+      "description": "Horizontal system worthy Graphical User Interface",
+      "quantity": "4.00",
+      "unit_price": "407.36",
+      "total_price": "1 629.44",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "3 995.26",
+    "tax": "399.53",
+    "discount": "",
+    "total": "4 394.79"
+  },
+  "payment_instructions": {
+    "due_date": "14/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.985,
+  "file_size_bytes": 79660
+}

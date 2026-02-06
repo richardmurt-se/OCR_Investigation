@@ -1,0 +1,8 @@
+{
+  "content": "Melton PLC\nPSC 7175, Box 4319 | APO AE 97006\n\nINVOICE\nNo: FAC/610612417\nDate: 07/24/2025\n\nFROM\nMelton PLC\nPSC 7175, Box 4319\nAPO AE 97006\n\nBILL TO\nHernandez, White and Pierce\n7121 Tyler Burgs Apt. 972\nEast Douglasburgh, IA 16832\n\n# Description Quantity Unit Price Amount\n1 Pre-emptive 6thgeneration architecture 9.00 400.98 3 608.82\n2 Visionary directional circuit 3.00 498.08 1 494.24\n3 Enhanced fresh-thinking policy 1.00 403.71 403.71\n4 Total secondary Internet solution 3.00 27.84 83.52\n5 Mandatory zero administration support 4.00 175.94 703.76\n\nSubtotal 6 294.05\nTax (10%) 629.41\nTotal Due 6 923.46\n\nThank you for your business",
+  "detections": [
+    {
+      "text": "Melton PLC\nPSC 7175, Box 4319 | APO AE 97006\n\nINVOICE\nNo: FAC/610612417\nDate: 07/24/2025\n\nFROM\nMelton PLC\nPSC 7175, Box 4319\nAPO AE 97006\n\nBILL TO\nHernandez, White and Pierce\n7121 Tyler Burgs Apt. 972\nEast Douglasburgh, IA 16832\n\n# Description Quantity Unit Price Amount\n1 Pre-emptive 6thgeneration architecture 9.00 400.98 3 608.82\n2 Visionary directional circuit 3.00 498.08 1 494.24\n3 Enhanced fresh-thinking policy 1.00 403.71 403.71\n4 Total secondary Internet solution 3.00 27.84 83.52\n5 Mandatory zero administration support 4.00 175.94 703.76\n\nSubtotal 6 294.05\nTax (10%) 629.41\nTotal Due 6 923.46\n\nThank you for your business"
+    }
+  ]
+}

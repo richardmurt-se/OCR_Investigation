@@ -1,0 +1,63 @@
+{
+  "filename": "028_clean_modern.png",
+  "invoice": {
+    "client_name": "Dean-Barker",
+    "client_address": "",
+    "seller_name": "Edwards-Michael",
+    "seller_address": "6208 Amy Lodge Suite 460 - Jacobshire, AK 95754",
+    "invoice_number": "INV-235339",
+    "invoice_date": "16/03/2024",
+    "due_date": "09/03/2026"
+  },
+  "items": [
+    {
+      "description": "Enterprise-wide regional alliance",
+      "quantity": "10.00",
+      "unit_price": "493.74",
+      "total_price": "4 937.40",
+      "category": null
+    },
+    {
+      "description": "Stand-alone bandwidth-monitored strategy",
+      "quantity": "9.00",
+      "unit_price": "16.76",
+      "total_price": "150.84",
+      "category": null
+    },
+    {
+      "description": "Optimized systematic database",
+      "quantity": "2.00",
+      "unit_price": "366.56",
+      "total_price": "733.12",
+      "category": null
+    },
+    {
+      "description": "Organic intangible portal",
+      "quantity": "10.00",
+      "unit_price": "292.02",
+      "total_price": "2 920.20",
+      "category": null
+    },
+    {
+      "description": "Self-enabling multi-tasking migration",
+      "quantity": "9.00",
+      "unit_price": "386.12",
+      "total_price": "3 475.08",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "12 216.64",
+    "tax": "1 221.66",
+    "discount": "",
+    "total": "13 438.30"
+  },
+  "payment_instructions": {
+    "due_date": "09/03/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.193,
+  "file_size_bytes": 113045
+}

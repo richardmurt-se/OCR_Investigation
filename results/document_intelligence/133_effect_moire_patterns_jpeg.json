@@ -1,0 +1,63 @@
+{
+  "filename": "133_effect_moire_patterns.jpeg",
+  "invoice": {
+    "client_name": "Gonzales-Frederick",
+    "client_address": "",
+    "seller_name": "Shea, Gomez and Stewart",
+    "seller_address": "11135 Christian Orchard\nDuncanfurt, SD 12561",
+    "invoice_number": "25726985",
+    "invoice_date": "16/07/2024",
+    "due_date": "09/03/2026"
+  },
+  "items": [
+    {
+      "description": "Versatile stable migration",
+      "quantity": "2.00",
+      "unit_price": "182.87",
+      "total_price": "365.74",
+      "category": null
+    },
+    {
+      "description": "Polarized encompassing monitoring",
+      "quantity": "4.00",
+      "unit_price": "470.53",
+      "total_price": "1 882.12",
+      "category": null
+    },
+    {
+      "description": "Vision-oriented modular extranet",
+      "quantity": "6.00",
+      "unit_price": "445.77",
+      "total_price": "2 674.62",
+      "category": null
+    },
+    {
+      "description": "Secured dynamic success",
+      "quantity": "1.00",
+      "unit_price": "421.12",
+      "total_price": "421.12",
+      "category": null
+    },
+    {
+      "description": "Ameliorated systematic benchmark",
+      "quantity": "3.00",
+      "unit_price": "357.88",
+      "total_price": "1 073.64",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "6 417.24",
+    "tax": "641.72",
+    "discount": "",
+    "total": "7 058.96"
+  },
+  "payment_instructions": {
+    "due_date": "09/03/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.783,
+  "file_size_bytes": 89552
+}

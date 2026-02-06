@@ -1,0 +1,49 @@
+{
+  "filename": "071_multilingual_ja_minimal.pdf",
+  "invoice": {
+    "client_name": "有限会社中島保険",
+    "client_address": "静岡県中野区戸山20丁目11番15号 東神田シティ\n232",
+    "seller_name": "有限会社山田食品",
+    "seller_address": "群馬県横浜市西区明石町35丁目26番9号 ハイツ虎\nノ門虎ノ門ヒルズ森タワー988",
+    "invoice_number": "599252884",
+    "invoice_date": "20/07/2024",
+    "due_date": "21/02/2026"
+  },
+  "items": [
+    {
+      "description": "Visionary clear-thinking matrix",
+      "quantity": "7.00",
+      "unit_price": "248.80",
+      "total_price": "1 741.60",
+      "category": null
+    },
+    {
+      "description": "Reduced background capacity",
+      "quantity": "10.00",
+      "unit_price": "258.21",
+      "total_price": "2 582.10",
+      "category": null
+    },
+    {
+      "description": "Robust web-enabled neural-net",
+      "quantity": "6.00",
+      "unit_price": "444.20",
+      "total_price": "2 665.20",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "6 988.90",
+    "tax": "698.89",
+    "discount": "",
+    "total": "7 687.79"
+  },
+  "payment_instructions": {
+    "due_date": "21/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.346,
+  "file_size_bytes": 79255
+}

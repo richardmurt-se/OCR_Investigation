@@ -1,0 +1,8 @@
+{
+  "filename": "077_multilingual_zh_minimal.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "BILL4833666\n02/08/202403/03/2026\n381577\n754373\nMandatory demand-driven portal\n10.00\n304.54\n3045.40\nExpanded tertiary circuit\n8.00\n338\n3 032.64\nFocused actuating product\n6.00\n242.59\n1 455.54\nVirtual tertiary algorithm\n1.00\n217.86\n217.86\nProgrammable transitional migration\n7.00\n147.94\n1035.58\nMulti-channeled static open architecture\n5.00\n35.72\n178.60\nJit\n8965.62\n896.56\n-448.28\nAit\n9413.90\nGCVA3769490624755",
+  "processing_time_seconds": 2.552,
+  "file_size_bytes": 50456,
+  "success": true
+}

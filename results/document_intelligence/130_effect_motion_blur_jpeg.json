@@ -1,0 +1,70 @@
+{
+  "filename": "130_effect_motion_blur.jpeg",
+  "invoice": {
+    "client_name": "Harris, Porter and Rodriguez",
+    "client_address": "",
+    "seller_name": "Alexander, Romero and Bryan",
+    "seller_address": "3/7 Brangi Gressent Suite 991",
+    "invoice_number": "662012",
+    "invoice_date": "24/09/2025",
+    "due_date": "21/02/2026"
+  },
+  "items": [
+    {
+      "description": "Frontline radiosi adapter",
+      "quantity": "19.99",
+      "unit_price": "999.45",
+      "total_price": "9 994.56",
+      "category": null
+    },
+    {
+      "description": "Expanded fault tolerare Graphical User interface",
+      "quantity": "",
+      "unit_price": "99.94",
+      "total_price": "619.46",
+      "category": null
+    },
+    {
+      "description": "Synchronized alude oriented altitude",
+      "quantity": "",
+      "unit_price": "997.49",
+      "total_price": "454.94",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Brolound statis leverage",
+      "quantity": "7.99",
+      "unit_price": "",
+      "total_price": "9 141.69",
+      "category": null
+    },
+    {
+      "description": "Resigned 24hour leverage",
+      "quantity": "9.96",
+      "unit_price": "961.69",
+      "total_price": "9 966.91",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "14 019.69",
+    "tax": "4 491.59",
+    "discount": "",
+    "total": "14 564.59"
+  },
+  "payment_instructions": {
+    "due_date": "21/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.001,
+  "file_size_bytes": 57664
+}

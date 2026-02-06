@@ -1,0 +1,8 @@
+{
+  "filename": "040_complex_tables_multi_column.png",
+  "model_name": "paddleocr",
+  "raw_text": "Campbell-Duncan\nINVOICE\n24713 Long Track | North Cryal, GU 98312\nINV/7878729425\nScller\nBuyer\n Invoice Details\n24713 Long Track, North Crystal, GU 98812\nbell Dun\n00756 Kenneth Fort Apt. 645, F\nDate: 10/26/2024\nNo INV/7878729425\nica, TN 23720\nSKU\nQty\nUnit\nPrice\nDht's\nDiae$\nTar's\nTaes\nTotal\nSK0180\nCons\n9.0b\nEA\n169.51\n10%\n2.90\n18%\n152.56\n1 525.59\n1 525.59\nSK0280\nUp-sized content-based orchestratio\nMain\n6.00\nEA\n95.98\n1%\n3.39\n18%\n57.59\n575.83\n575.88\nSK0300\nEqul\n4.80\nEA\n439.17\n10%\n3.80\n18%\n175.67\n1 756.68\n1 756.68\nSubtotal:\n3 858.15\nTotal Discount:\n0.00\n385.61\n:buddiys\n0.00\n4 243.96\nTemms Net 30 | Campbell-Duncan | Involoe #INv/7878729429",
+  "processing_time_seconds": 3.241,
+  "file_size_bytes": 32567,
+  "success": true
+}

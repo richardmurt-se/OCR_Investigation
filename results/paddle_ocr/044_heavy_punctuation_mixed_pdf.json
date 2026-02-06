@@ -1,0 +1,8 @@
+{
+  "filename": "044_heavy_punctuation_mixed.pdf",
+  "model_name": "paddleocr",
+  "raw_text": "<HANNA PLC> ***\n\"Quality & Excellencem  'Your Trusted Partner Since 1985o  {Premium Services}\n (555) 123-4567 |  info@company.com |  [3306 Carol Pine]  [Lake Charlesshire, NE 32077]\nINVOICE DETAILS $$$\n[BILL TO] o\n{PAYMENT INFO} $\n[No.]#:8952937\"\n\"Perez Inc\"\n{Date}m: '10/26/2024'\n159 Joseph Dam / Heatherfort, CO 42856\n(Ref)@: REF-952937\n{SKU}#\nDescription / \"Details\"- (Specs)*\n[Cat.]\n\"Qty\"@\n'$/Unit'\n[#]\n{Tax%}\n$$Total\n{SK-\n\"> Managed client-server array; Deluxe\"@  Model: [MDL-010]\n[1]\n0100}\nNEW!@14%0ff* \nGen>\n'10.00 \n$26.04\n{10%}\n$260.40**\n[2]\n{SK\n\"NEW: Networked human-resource infrastructure 'Elite I Size: L\"@ \nf2200\nGen\n'9.00'\nModel: [MDL-020]NEW!@20% off* *\n$303.56\n{10%}\n$2732.04**\n[3]\n{SK-\nPersistent object-oriented circuit [NEW] @ 43% discount\nGen\n'4.00'\n$294.62\n0300}\nModel: [MDL-030] NEW!@32% off* \n{10%}\n$1178.48**\nSubtotal>$:\n\"$4 170.92\"\n{Tax} @ '10%\n'$417.09\n'$4 588.01\"***\nTerms & Conditions [Important Information]*:\n(1) Payment due within 30 days* of {invoice date)O. (2) Late payments subject to '1.\nchange 5%. **Total includes all {applicable fees} & taxes\nO -Hanna PLC  All Rights Reserved | Questions?  {(555) 123-4567} ext. [101/102] |  billing@company.com |  -Priority Support\n*     Thank you for your business!    \nHanna PLC~@ I [Invoice] #{ invoice.invoice_number }} I (10/26/2024) | 2024",
+  "processing_time_seconds": 4.157,
+  "file_size_bytes": 160617,
+  "success": true
+}

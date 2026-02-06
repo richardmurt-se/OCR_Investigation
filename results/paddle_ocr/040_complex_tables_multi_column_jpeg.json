@@ -1,0 +1,8 @@
+{
+  "filename": "040_complex_tables_multi_column.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "Campbell-Duncan\nINVOICE\n24713 Long Track  NotCryalGU 98812\nINV/7878729425\nSeller\nBuyer\nInvoice Details\n24713 Long Track, North Cry\nNo: INV/7878729425\nstal, GU 98812\na,TN 23720\nDate: 10/26/2024\nSKU\nDeacription\nQty\nUnit\nPrice\nDac's\nDiac$\nTer's\nTecs\nTotal\nSK0188\nMulti tiered actuating Local Area N.\nCon\n9.00\nEA\n169-51\n13%\n1.30\n10%\n152.56\n1 525.59\n1 525.59\nSke280\nUp-sized contentbased orchestratio\nMain\n6.80\nEA\n95.98\n5%\n3,99\n10%\n57. 59\n575.88\n575.88\nSke380\nEqui\n4.80\nEA\n439.17\n14%\n2.00\n10%\n175.67\n1 756.68\n1 756.68\nSubtatal:\n3858.15\nTotal Discount:\n0.00\n385.81\n:sudiys\n0.00\n4243.96\nTerms: Net 30 | Campbell-Duncan | Invoice #INV/7878729429",
+  "processing_time_seconds": 3.317,
+  "file_size_bytes": 51352,
+  "success": true
+}

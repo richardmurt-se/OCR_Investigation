@@ -1,0 +1,8 @@
+{
+  "filename": "006_clean_minimal.png",
+  "model_name": "paddleocr",
+  "raw_text": "INVOICE\nINV/450334240\n12/12/2025 - Due 02/16/2026\nFROM\nTO\nSnyder-Mills\nJensen-Burns\n46604 Paul Ports\n362 Torres Way Suite 664\nCarlfurt, FL 55364\nSouth Jeffery, VI 75043\nDESCRIPTION\nQTY\nPRICE\nTOTAL\nDigitized zero administration hardware\n008\n407.74\n3 261.92\nUp-sized holistic product\n5.00\n481.19\n2 405.95\nMandatory attitude-oriented secured line\n8.00\n344.88\n2 758.88\nNetworked multi-tasking capacity\n3.00\n334.82\n1 004.46\nDistributed disintermediate conglomeration\n7.00\n475.39\n3 327.73\nProfit-focused zero tolerance system engine\n10.00\n188.58\n1 885.80\nPersevering methodical matrix\n7.00\n74.29\n520.03\nSubtotal\n15 164.77\nTax\n1 516.48\nDiscount\n1 516.48\nTotal\n15 164.77\nVazquez-Mathews Financial\nRKCS21271749519141\nCredit Card\nThank you",
+  "processing_time_seconds": 2.738,
+  "file_size_bytes": 30312,
+  "success": true
+}

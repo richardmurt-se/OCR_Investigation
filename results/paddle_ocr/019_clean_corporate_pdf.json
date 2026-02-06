@@ -1,0 +1,8 @@
+{
+  "filename": "019_clean_corporate.pdf",
+  "model_name": "paddleocr",
+  "raw_text": "Simon, Zhang and Andrews\nINVOICE\n655 Sweeney Ford - Pamelaberg, DE 09134\n#546969\n05/10/2025\nSELLER\nBUYER\nSimon, Zhang and Andrews\nSandoval Inc\n655 Sweeney Ford\n17790 Dalton Stream\nPamelaberg, DE 09134\nRhondabury, OK 46003\nNO.\nDESCRIPTION\nUNIT PRICE\nAMOUNT\nExclusive dedicated projection\n4.00\n257.36\n1029.44\n2\nProfit-focused executive Local Area Network\n6.00\n302.11\n1 812.66\nIntuitive contextually-based customer loyalty\n4.00\n180.65\n722.60\n4\nPolarized neutral migration\n7.00\n67.90\n475.30\n5\nSelf-enabling modular flexibility\n5.00\n495.73\n2478.65\nSubtotal\n6 518.65\nTax (10%)\n651.87\nDiscount\n-651.87\nTOTAL DUE\n6 518.65\nBANKING DETAILS\nBank: Cox, Johns and Mejia Financial\nAccount: VVNJ46075432085602\nDue Date: 02/19/2026\n Simon, Zhang and Andrews - Invoice #546969 - 05/10/2025",
+  "processing_time_seconds": 3.062,
+  "file_size_bytes": 138796,
+  "success": true
+}

@@ -1,0 +1,56 @@
+{
+  "filename": "130_effect_motion_blur.pdf",
+  "invoice": {
+    "client_name": "Harris, Porter and Rodriguez",
+    "client_address": "",
+    "seller_name": "Alexander, Romero and Bryan",
+    "seller_address": "977 Brandi Grescent Suite 997 | Viesisyberough, VA 68699",
+    "invoice_number": "662012",
+    "invoice_date": "24/09/2025",
+    "due_date": "21/02/2026"
+  },
+  "items": [
+    {
+      "description": "Frontline radical adapter\nSynchronized attitude oriented autode",
+      "quantity": "9.09",
+      "unit_price": "997.48",
+      "total_price": "454.24",
+      "category": null
+    },
+    {
+      "description": "Networked zero tolerance initiative",
+      "quantity": "5.99",
+      "unit_price": "969.48",
+      "total_price": "4 945.99",
+      "category": null
+    },
+    {
+      "description": "Profound statis leverage",
+      "quantity": "7.99",
+      "unit_price": "449.84",
+      "total_price": "9 441.86",
+      "category": null
+    },
+    {
+      "description": "Resigned 24hour leverage",
+      "quantity": "9.99",
+      "unit_price": "261.69",
+      "total_price": "2 955.24",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "14 019.69",
+    "tax": "4 491.99",
+    "discount": "559.69",
+    "total": "1 564.59"
+  },
+  "payment_instructions": {
+    "due_date": "21/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.828,
+  "file_size_bytes": 113678
+}

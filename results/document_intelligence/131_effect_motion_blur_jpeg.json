@@ -1,0 +1,42 @@
+{
+  "filename": "131_effect_motion_blur.jpeg",
+  "invoice": {
+    "client_name": "Clark PLC",
+    "client_address": "",
+    "seller_name": "Collins, Blevins and Sparks",
+    "seller_address": "@17 Martha Crossroad / South Angelsport, Al @1868",
+    "invoice_number": "BHI:008348",
+    "invoice_date": "09/01/2028",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Down-sized empowering kanwework\nUniversal zere delect task force",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "3.00",
+      "category": null
+    },
+    {
+      "description": "Reserve non volatile vlaaien",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.00",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "2 740.10"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.653,
+  "file_size_bytes": 43340
+}

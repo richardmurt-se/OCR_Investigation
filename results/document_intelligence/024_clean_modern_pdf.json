@@ -1,0 +1,70 @@
+{
+  "filename": "024_clean_modern.pdf",
+  "invoice": {
+    "client_name": "King, Stephens and Rubio",
+    "client_address": "",
+    "seller_name": "Mayo-Clarke",
+    "seller_address": "9690 Scott Gateway · South Tracey, AZ 47009",
+    "invoice_number": "FAC116042",
+    "invoice_date": "06/04/2025",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Seamless multi-tasking product",
+      "quantity": "7.00",
+      "unit_price": "285.53",
+      "total_price": "1 998.71",
+      "category": null
+    },
+    {
+      "description": "Face-to-face intermediate moderator",
+      "quantity": "5.00",
+      "unit_price": "283.32",
+      "total_price": "1 416.60",
+      "category": null
+    },
+    {
+      "description": "Persevering asymmetric alliance",
+      "quantity": "8.00",
+      "unit_price": "198.53",
+      "total_price": "1 588.24",
+      "category": null
+    },
+    {
+      "description": "Multi-layered next generation approach",
+      "quantity": "2.00",
+      "unit_price": "225.36",
+      "total_price": "450.72",
+      "category": null
+    },
+    {
+      "description": "Inverse asymmetric success",
+      "quantity": "10.00",
+      "unit_price": "187.83",
+      "total_price": "1 878.30",
+      "category": null
+    },
+    {
+      "description": "Diverse 5thgeneration encryption",
+      "quantity": "9.00",
+      "unit_price": "106.62",
+      "total_price": "959.58",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "8 292.15",
+    "tax": "829.22",
+    "discount": "",
+    "total": "9 121.37"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.928,
+  "file_size_bytes": 101077
+}

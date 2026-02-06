@@ -1,0 +1,8 @@
+{
+  "filename": "094_effect_skew.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "MillerLtd\nUSS Barron FPOAP 10156\nINVOIC\nNoBILL/407413\nFROM\nDate09/22/\nMiller Ltd\nUSS Barron\nBILLTO\nFPOAP10156\nMcgee LLC\nPSC7132.Box8694\nAPOAA70166\nDescription\nEnhanced needs-based strategy\nQuantity\nUnit Price\n2\nSynergized discrete productivity\nAmount\n9.00\n289.69\n3\nNetworked asymmetric moderator\n2607.21\n8.00\n439.16\n4\nAdaptive static Local Area Network\n2634.06\n5.00\n287.56\n5\nManaged explicit knowledge user\n1437.80\n1.00\n417.12\n8\nSynergized local installation\n417.12\n5.00\n480.84\n2404.20\n1.00\n238.01\n238.01\nSubtotal\n739.30\nTax (10%)\n973.93\nTotal Due\n10713.23\nThank you for your business",
+  "processing_time_seconds": 2.416,
+  "file_size_bytes": 61230,
+  "success": true
+}

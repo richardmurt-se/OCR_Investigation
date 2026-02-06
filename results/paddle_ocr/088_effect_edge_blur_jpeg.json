@@ -1,0 +1,8 @@
+{
+  "filename": "088_effect_edge_blur.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "White,Watts and Henderson\nINVOICE\nNo:5\nDate:06/10/2825\nFROM\nBILL TO\nWhite,Watts and Henderson\nBurke,Jarvis and Sloan\n8713 Ramirez Ridge\nTorresmouth.Wi 02243\n889 Cardenas Turnpike Suite 292\nAutumnville, KY 27993\nDescription\nUnit Price\nAmount\nPre-emptive homogeneous data-warehouse\n3.00\n495.75\n1487.25\n2\nPersevering regional info-mediaries\n6.00\n242.06\n1452.36\n3\nReduced zero-defect Graphical User Interface\n8.00\n300.32\n2402.56\n4\nDigitized leadingedge paradigm\n7.00\n143.29\n1 003.03\n5\nCompatible even-keeled approach\n1.00\n317.98\n317.98\nSubtotal\n6663.18\nTax (10%)\n666.32\nDiscount\n333.16\nTotal Due\n6996.34\nThank you for your business.",
+  "processing_time_seconds": 2.609,
+  "file_size_bytes": 53599,
+  "success": true
+}

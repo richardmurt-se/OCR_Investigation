@@ -1,0 +1,8 @@
+{
+  "filename": "010_clean_minimal.png",
+  "model_name": "paddleocr",
+  "raw_text": "INVOICE\nBILL-84279369\n07/26/2024 - Due 02/28/2028\nFROM\nTO\n Williams-Smith\nMartin PLC\n905 Alexandria Unions\n6227 Clarke Passage\nKerriburgh, MI 24633\nAmandashire, OK 62628\nDESCRIPTION\nQTY\nPRICE\nTOTAL\nUp-sized asynchronous benchmark\n6.00\n101.35\n608.10\nOptional global installation\n2.00\n366.59\n733.18\nUser-friendly human-.\n7.00\n212.69\n1 488.83\nOptimized solution-oriented Graphical User Interfac\n9.00\n339.35\n3 054.15\nInverse heuristic flexibility\n5.00\n311.96\n1 559.80\n1.00\n22.23\n22.23\nAdaptive fault-tolerant matrices.\n10.00\n254.19\n2 541.90\nSubtotal\n10 008.19\neL\n1 000.82\nTotal\n11 009.01\nKlein Ino Credit Union\nEWZK20448158662225\nThank you",
+  "processing_time_seconds": 2.629,
+  "file_size_bytes": 28554,
+  "success": true
+}

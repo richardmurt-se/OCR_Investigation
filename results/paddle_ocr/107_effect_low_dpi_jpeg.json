@@ -1,0 +1,8 @@
+{
+  "filename": "107_effect_low_dpi.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "Mann PLC\nINVOICE\nC\nSEOISOTEMN\nFROM\nT0\nMann PLC\nSanchet Group\n0et Thoman Camg\nEersorigtion\nQuantty\nDit Price\n1\n2.00\n7824\n156.46\n4.00\n40.80\n100.5\noen-ed ciee ap\n5.00\n124.50\n124.50\nCarwwe a\n2.00\n1.38.70\n490.10\n5.00\n40.51\n80M10\nTa (10%)\n40.42\nPYMENNFORMACTON\nAnttt",
+  "processing_time_seconds": 2.533,
+  "file_size_bytes": 44626,
+  "success": true
+}

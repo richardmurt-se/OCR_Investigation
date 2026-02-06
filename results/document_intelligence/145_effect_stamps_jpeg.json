@@ -1,0 +1,49 @@
+{
+  "filename": "145_effect_stamps.jpeg",
+  "invoice": {
+    "client_name": "Briggs LLC",
+    "client_address": "",
+    "seller_name": "Andersen-Ward",
+    "seller_address": "61434 Humphrey Lodge | Tracyport, NV 74313",
+    "invoice_number": "2508674769",
+    "invoice_date": "04/12/2025",
+    "due_date": "09/03/2026"
+  },
+  "items": [
+    {
+      "description": "Balanced next generation product",
+      "quantity": "2.00",
+      "unit_price": "333.78",
+      "total_price": "667.52",
+      "category": null
+    },
+    {
+      "description": "Programmable bifurcated benchmark",
+      "quantity": "9.00",
+      "unit_price": "152.43",
+      "total_price": "1 371.87",
+      "category": null
+    },
+    {
+      "description": "Implemented 6thgeneration groupware",
+      "quantity": "4.00",
+      "unit_price": "140.87",
+      "total_price": "583.48",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "2 602.87",
+    "tax": "260.29",
+    "discount": "",
+    "total": "2 602.87"
+  },
+  "payment_instructions": {
+    "due_date": "09/03/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.91,
+  "file_size_bytes": 86792
+}

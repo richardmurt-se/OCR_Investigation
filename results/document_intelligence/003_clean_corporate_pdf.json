@@ -1,0 +1,77 @@
+{
+  "filename": "003_clean_corporate.pdf",
+  "invoice": {
+    "client_name": "Brandt-Brown",
+    "client_address": "4457 George Unions\nSarahchester, AZ 62736",
+    "seller_name": "Duarte, Hunt and Warren",
+    "seller_address": "PSC 2468, Box 3130\nAPO AA 43688",
+    "invoice_number": "#INV-21219916",
+    "invoice_date": "19/06/2025",
+    "due_date": "13/02/2026"
+  },
+  "items": [
+    {
+      "description": "Devolved optimizing utilization",
+      "quantity": "5.00",
+      "unit_price": "249.45",
+      "total_price": "1 247.25",
+      "category": null
+    },
+    {
+      "description": "Devolved leadingedge intranet",
+      "quantity": "1.00",
+      "unit_price": "61.89",
+      "total_price": "61.89",
+      "category": null
+    },
+    {
+      "description": "Multi-lateral bandwidth-monitored approach",
+      "quantity": "3.00",
+      "unit_price": "288.29",
+      "total_price": "864.87",
+      "category": null
+    },
+    {
+      "description": "Open-source actuating hub",
+      "quantity": "9.00",
+      "unit_price": "415.66",
+      "total_price": "3 740.94",
+      "category": null
+    },
+    {
+      "description": "Managed executive functionalities",
+      "quantity": "9.00",
+      "unit_price": "35.40",
+      "total_price": "318.60",
+      "category": null
+    },
+    {
+      "description": "Visionary even-keeled challenge",
+      "quantity": "5.00",
+      "unit_price": "499.04",
+      "total_price": "2 495.20",
+      "category": null
+    },
+    {
+      "description": "Extended content-based hardware",
+      "quantity": "6.00",
+      "unit_price": "123.68",
+      "total_price": "742.08",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "9 470.83",
+    "tax": "947.08",
+    "discount": "",
+    "total": "9 470.83"
+  },
+  "payment_instructions": {
+    "due_date": "13/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.372,
+  "file_size_bytes": 136132
+}

@@ -1,0 +1,49 @@
+{
+  "filename": "015_clean_corporate.png",
+  "invoice": {
+    "client_name": "Parks-Daniels",
+    "client_address": "124 Kevin Mountains Suite 609\nDavidshire, OK 70849",
+    "seller_name": "Pratt-Cooper",
+    "seller_address": "219 Robert Lodge\nLake Martinborough, SD 57240",
+    "invoice_number": "#FAC8121173188",
+    "invoice_date": "23/07/2025",
+    "due_date": "16/02/2026"
+  },
+  "items": [
+    {
+      "description": "Reactive zero tolerance methodology",
+      "quantity": "3.00",
+      "unit_price": "159.51",
+      "total_price": "478.53",
+      "category": null
+    },
+    {
+      "description": "Reduced system-worthy capability",
+      "quantity": "7.00",
+      "unit_price": "77.15",
+      "total_price": "540.05",
+      "category": null
+    },
+    {
+      "description": "Total human-resource budgetary management",
+      "quantity": "7.00",
+      "unit_price": "65.07",
+      "total_price": "455.49",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "1 474.07",
+    "tax": "147.41",
+    "discount": "",
+    "total": "1 621.48"
+  },
+  "payment_instructions": {
+    "due_date": "16/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.618,
+  "file_size_bytes": 33548
+}

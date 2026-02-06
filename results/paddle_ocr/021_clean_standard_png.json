@@ -1,0 +1,8 @@
+{
+  "filename": "021_clean_standard.png",
+  "model_name": "paddleocr",
+  "raw_text": "Smith Inc\nINVOICE\n43046 Nicole Junctions | Lake Kristin, WV 76200\nNo: INV-2421235532\nDate: 12/02/2024\nDue: 03/05/2026\nFROM\nBILL TO\nSmith Inc\n Kerr-Barker\n43046 Nicole Junctions\n75738 Stacey Mission\nLake Kristin, WV 76200\nNorth Michael, FM 99143\nDescription\n Quantity\nUnit Price\nAmount\nReverse-engineered logistical encryption.\n8.00\n159.47\n1 275.76\n2\nQuality-focused contextually-based solution.\n5.00\n334.00\n1 670.00\n3\nRealigned intangible solution\n7.00\n449.23\n3 144.61\n Fully-configurable zero administration matrixe\n6.00\n127.95\n767.70\nSubtotal\n6 858.07\nTax (10%)\n685.81\nTotal Due\n7 543.88\nPAYMENT INFORMATION\nBank: Chavez PLC Financial\nAccount: HCTC08567213556146\nMethod: Credit Card\n Thank you for your business",
+  "processing_time_seconds": 2.459,
+  "file_size_bytes": 30363,
+  "success": true
+}

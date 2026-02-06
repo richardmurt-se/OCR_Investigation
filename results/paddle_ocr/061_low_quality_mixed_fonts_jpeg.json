@@ -1,0 +1,8 @@
+{
+  "filename": "061_low_quality_mixed_fonts.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "Smith LLC\n03785 Dorothy Lodge Brownland IA 11619\nINVOICE\nNo:INV/6101357022Date:02/06/2024\nFrom (Seller)\nTo Buyer)\nInvoice Details\nSmith LLC\nCohen-Briggs\nNumber:INV/6101357022\nDate: 02/06/2024\n40732\nDue: 02/24/2026\nDescription\nQty\nPrice\nTotal\nErgonomic regional application\n8.00\n158.73\n2\nOrganic heuristic parallelism\n10.00\n128.19\n1281.90\n3\n4.00\n410.54\n1642.16\n4\nDigitized interactive frame\n10.00\n47.75\n477-50\nSubtotal:\n4671.40\nTax10%\n467.14\nDiscount:\n-233.57\nTOTAL DUE:\n4904.97\nPayment Information:\nAccount: DSMZ01599927139785\nBank: Pollard LLCFinancial\nMethod:ACH\nSmith LLCnvoice #NV/6101357022 02/06/2024",
+  "processing_time_seconds": 2.503,
+  "file_size_bytes": 58909,
+  "success": true
+}

@@ -1,0 +1,56 @@
+{
+  "filename": "101_effect_salt_pepper_noise.jpeg",
+  "invoice": {
+    "client_name": "Sanford-Young",
+    "client_address": "",
+    "seller_name": "Woodard-Rivas",
+    "seller_address": "890 Michael Green Suite 869\n· Williamsport, AZ 88242",
+    "invoice_number": "14668289",
+    "invoice_date": "18/11/2024",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Open-source bottom-line moratorium.",
+      "quantity": "4.00",
+      "unit_price": "300.59",
+      "total_price": "1 202.36",
+      "category": null
+    },
+    {
+      "description": "User-friendly empowering pricing structure",
+      "quantity": "7.00",
+      "unit_price": "72.89",
+      "total_price": "510.23",
+      "category": null
+    },
+    {
+      "description": "Assimilated disintermediate archive",
+      "quantity": "5.00",
+      "unit_price": "387.34",
+      "total_price": "1 936.70",
+      "category": null
+    },
+    {
+      "description": "Programmable scalable database\ntertiary challenge",
+      "quantity": "10.00",
+      "unit_price": "44.57",
+      "total_price": "267.42",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "355.71",
+    "tax": "435.57",
+    "discount": "",
+    "total": "4 573.49"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.243,
+  "file_size_bytes": 248145
+}

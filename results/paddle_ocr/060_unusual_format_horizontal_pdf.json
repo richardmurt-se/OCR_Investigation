@@ -1,0 +1,8 @@
+{
+  "filename": "060_unusual_format_horizontal.pdf",
+  "model_name": "paddleocr",
+  "raw_text": "Salazar, Baxter and Hernandez.\nINVOICE\n7522 Davis Ford | Turnerfort, IN 31465\nINV5128713\n12/12/2025\nSELLER\nBUYER\n SHIP TO\nDETAILS\n Salazar, Baxter and Hernandez\n Peterson, Carter and Ferguson\nPeterson, Carter and Ferguson\nInvoice: INV5128713\n7522 Davis Ford, Turnerfort, IN 31465\n6184 Nathan Alley, South Danielleside, NJ 41652\n6184 Nathan Alley, South Danielleside, NJ 41652\nDate: 12/12/2025\nDue: 03/09/2026\nSKU\n Item Descriptione\nCategory\nQty UOM\nUnit Price\n Line Total\nSKU00100\nVirtual contextually-based paradigm\nGeneral\n9.00EA\n64.30\n10%\n578.70\nSKU00200\nAmeliorated dynamic database\nGeneral\n9.00\n375.67\n10%\n3 381.03\n3\nSKU00300\nSwitchable tertiary focus group\nGeneral\n9.00\nEA\n89.13\n10%\n802.17\nSKU00400\nOrganized multi-state benchmark\nGeneral\n2.00\nEA\n161.72\n4\n10%\n323.44\n5\nSKU00500\nVision-oriented fresh-thinking definition\nGeneral\n6.00\nEA\n348.98\n10%\n2 093.88\n6\nSKU00600\nCloned 4thgeneration orchestration\nGeneral\n5.00\nEA\n373.51\n10%\n1 867.55\n7\nSKU00700\nSynergized modular capability\nGeneral\n4.00\nEA\n285.32\n10%\n1 141.28\nSKU00800\nFundamental holistic access\nGeneral\n1.00\nEA\n424.23\n10%\n424.23\nTOTAL DUE\n10 612.28\n1 061.23\n11 673.51\nSalazar, Baxter and Hernandez | Invoice #INV5128713 | 12/12/2025 | Thank you for your business",
+  "processing_time_seconds": 4.64,
+  "file_size_bytes": 126850,
+  "success": true
+}

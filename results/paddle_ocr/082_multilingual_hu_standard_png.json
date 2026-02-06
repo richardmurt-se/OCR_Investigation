@@ -1,0 +1,8 @@
+{
+  "filename": "082_multilingual_hu_standard.png",
+  "model_name": "paddleocr",
+  "raw_text": "Nagy Varga Kkt.\nINVOICE\nVarosi utca 212. | H-9174 Hidhaza\nNo: 271564332\nDate: 09/10/2025\nDue: 02/13/2026\nFROM\nBILL TO\nNagy Varga Kkt.\nNemeth es Racz Zrt..\nVarosi utca 212\nSzolnoki utca 150.\nH-9174 Hidhaza\nH-8508 Nemethatharaszti\nDescription\n Quantity\nUnit Price\nAmount\nManaged static contingency.\n6.00\n90.22\n541.32\n2\nCross-group content-based challenge\n10.00\n488.81\n4 888.10\n3\nInnovative full-range Internet solution\n10.00\n426.88\n4 268.80\nMulti-layered responsive ability\n6.00\n313.54\n1 881.24\n5\nHorizontal cohesive benchmark\n6.00\n75.47\n452.82\n6\nNetworked optimizing parallelism.\n009\n384.04\n2 304.24\n7\nNetworked dynamie pricing structure\n6.00\n341.54\n2 049.24\nSubtotal\n16 385.76\nTax (10%)\n1 638.58\nDiscount\n-819.29\nTotal Due\n17 205.05\nPAYMENT INFORMATION\nBank: Boros es tarsa Kkt. Bank\nAccount: JWVR15991630271801\nMethod: Bankkartya.\nThank you for your business.",
+  "processing_time_seconds": 3.178,
+  "file_size_bytes": 35472,
+  "success": true
+}

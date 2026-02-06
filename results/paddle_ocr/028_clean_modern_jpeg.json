@@ -1,0 +1,8 @@
+{
+  "filename": "028_clean_modern.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "Edwards-Michael\nINVOICE\n6208 Amy Lodge Suite 460  Jacobshire, AK 95754\nINV-235339\n03/16/2024\nFROM\nBILL TO\nEdwards-Michael\nDean-Barker\n6208 Amy Lodge Suite 460\n2125 Wise Way Suite 611\nJacobshire, AK 95754\nNew Michellemouth, NC 94465\nDESCRIPTION\nQTY\nRATE\nAMOUNT\nEnterprise-wide regional alliance\n10.00\n493.74\n4937.40\nStand-alone bandwidth-monitored strategy\n9.00\n16.76\n150.84\nOptimized systematic database\n2.00\n366.56\n733.12\nOrganic intangible portal\n10.00\n292.02\n2920.20\nSelf-enabling multi-tasking migration\n9.00\n386.12\n3 475.08\nSubtotal\n12 216.64\nTax\n1221.66\nTotal\n13438.30\nPAYMENT DETAILS\nBank:Castaneda-Barnes Bank\nAccount: ZHFK10868336657721\nDue:03/09/2026\nThank You!\nEdwards-Michael",
+  "processing_time_seconds": 2.658,
+  "file_size_bytes": 58946,
+  "success": true
+}

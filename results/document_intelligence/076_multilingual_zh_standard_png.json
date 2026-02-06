@@ -1,0 +1,70 @@
+{
+  "filename": "076_multilingual_zh_standard.png",
+  "invoice": {
+    "client_name": "新格林耐特科技有限公司",
+    "client_address": "贵州省佛山县海城张街Y座 130130",
+    "seller_name": "华远软件网络有限公司",
+    "seller_address": "黑龙江省刚县金平唐路Y座 606711",
+    "invoice_number": ":INV745226",
+    "invoice_date": "22/03/2024",
+    "due_date": "18/02/2026"
+  },
+  "items": [
+    {
+      "description": "Multi-lateral global orchestration",
+      "quantity": "3.00",
+      "unit_price": "118.05",
+      "total_price": "354.15",
+      "category": null
+    },
+    {
+      "description": "Integrated multi-state protocol",
+      "quantity": "6.00",
+      "unit_price": "427.95",
+      "total_price": "2 567.70",
+      "category": null
+    },
+    {
+      "description": "Fundamental bandwidth-monitored analyzer",
+      "quantity": "10.00",
+      "unit_price": "12.72",
+      "total_price": "127.20",
+      "category": null
+    },
+    {
+      "description": "Open-architected clear-thinking firmware",
+      "quantity": "6.00",
+      "unit_price": "297.22",
+      "total_price": "1 783.32",
+      "category": null
+    },
+    {
+      "description": "Automated needs-based algorithm",
+      "quantity": "2.00",
+      "unit_price": "427.90",
+      "total_price": "855.80",
+      "category": null
+    },
+    {
+      "description": "Sharable national budgetary management",
+      "quantity": "3.00",
+      "unit_price": "63.16",
+      "total_price": "189.48",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "5 877.65",
+    "tax": "587.76",
+    "discount": "",
+    "total": "6 465.41"
+  },
+  "payment_instructions": {
+    "due_date": "18/02/2026",
+    "bank_name": "直接扣款",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.646,
+  "file_size_bytes": 40407
+}

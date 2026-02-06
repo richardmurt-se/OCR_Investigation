@@ -1,0 +1,56 @@
+{
+  "filename": "123_effect_show_through.jpeg",
+  "invoice": {
+    "client_name": "Robinson PLC",
+    "client_address": "",
+    "seller_name": "Booth-Tran",
+    "seller_address": "3996 Joanna Overpass Apt. 411 | Kanemouth, GU 93488",
+    "invoice_number": "FAC-5270057",
+    "invoice_date": "02/10/2025",
+    "due_date": "19/02/2026"
+  },
+  "items": [
+    {
+      "description": "Quality-focused motivating approach",
+      "quantity": "1.00",
+      "unit_price": "248.42",
+      "total_price": "248.42",
+      "category": null
+    },
+    {
+      "description": "Integrated transitional conglomeration",
+      "quantity": "8.00",
+      "unit_price": "209.64",
+      "total_price": "1 677.12",
+      "category": null
+    },
+    {
+      "description": "Managed asymmetric methodology",
+      "quantity": "3.00",
+      "unit_price": "57.02",
+      "total_price": "171.06",
+      "category": null
+    },
+    {
+      "description": "Compatible bottom-line emulation",
+      "quantity": "2.00",
+      "unit_price": "154.70",
+      "total_price": "309.40",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "2 406.00",
+    "tax": "240.60",
+    "discount": "",
+    "total": "2 646.60"
+  },
+  "payment_instructions": {
+    "due_date": "19/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.692,
+  "file_size_bytes": 69345
+}

@@ -1,0 +1,8 @@
+{
+  "filename": "121_effect_show_through.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "Rice,Solis and Mitchell\nINVOICE\n727 Adam Drive Apt.762 |East Sarahstad,AZ 96558\nNo:197382\nDate:03/07/2024\nDue:03/05/2026\nFROM\nBILL TO\nRice, Solis and Mitchell\nRojas, Bradley and Smith\n727 Adam Drive Apt.762\n786 Daniel Green Suite 276\nEast Sarahstad,AZ 96558\nBanksmouth.CO17528\nDescription\nQuantity\nUnit Price\nAmount\nDigitized fresh-thinking adapter\n9.00\n216.60\n1949.40\n2\nFace-to-face bottom-line architecture\n5.00\n388.51\n1942.55\n3\nManaged asymmetric hardware\n10.00\n426.31\n4283.10\n4\nPolarized zero-defect attitude\n7.00\n415.80\n2910.60\n5\nTeam-oriented 24hour parallelism\n3.00\n351.98\n1055.88\n6\nProfit-focused optimal portal\n10.00\n27.57\n275.70\n 7\nSeamless actuating benchmark\n4.00\n41.33\n165.32\nSubtotal\n12 582.55\nTax (10%)\n1256.26\nDiscount\n-628.13\nTotal Due\n13 190.68\nPAYMENT INFORMATION\nBank: Lopez,Frank and Skinner Credit Union\nAccountGlIF36072368954385\nMethod:ACH\nThank you for your business",
+  "processing_time_seconds": 3.504,
+  "file_size_bytes": 87353,
+  "success": true
+}

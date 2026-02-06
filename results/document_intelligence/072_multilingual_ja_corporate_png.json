@@ -1,0 +1,70 @@
+{
+  "filename": "072_multilingual_ja_corporate.png",
+  "invoice": {
+    "client_name": "井上保険株式会社",
+    "client_address": "香川県御蔵島村西関宿27丁目27番10号 アーパン独結沢831",
+    "seller_name": "佐藤銀行合同会社",
+    "seller_address": "岩手県夷隅郡大多喜町大中7丁目11番1号ハイツ日光866",
+    "invoice_number": "#INV-580074",
+    "invoice_date": "19/04/2025",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Programmable secondary algorithm",
+      "quantity": "5.00",
+      "unit_price": "92.53",
+      "total_price": "462.65",
+      "category": null
+    },
+    {
+      "description": "Synchronized modular conglomeration",
+      "quantity": "8.00",
+      "unit_price": "24.64",
+      "total_price": "197.12",
+      "category": null
+    },
+    {
+      "description": "Robust composite monitoring",
+      "quantity": "2.00",
+      "unit_price": "224.89",
+      "total_price": "449.78",
+      "category": null
+    },
+    {
+      "description": "Visionary foreground product",
+      "quantity": "7.00",
+      "unit_price": "463.37",
+      "total_price": "3 243.59",
+      "category": null
+    },
+    {
+      "description": "Digitized discrete capacity",
+      "quantity": "4.00",
+      "unit_price": "201.51",
+      "total_price": "806.04",
+      "category": null
+    },
+    {
+      "description": "Exclusive asymmetric focus group",
+      "quantity": "3.00",
+      "unit_price": "429.95",
+      "total_price": "1 289.85",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "6 449.03",
+    "tax": "644.90",
+    "discount": "",
+    "total": "6 771.48"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.785,
+  "file_size_bytes": 48080
+}

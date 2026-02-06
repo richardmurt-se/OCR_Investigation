@@ -1,0 +1,8 @@
+{
+  "filename": "056_unusual_format_horizontal.png",
+  "model_name": "paddleocr",
+  "raw_text": "Williams, Jimenez and Hanson.\nINVOICE\ne, SD 34179\nBILL-2828204733\n08/05/2024\nSELLER\nBUYER\nSHIP TO\nDETAILS\nWilliame, Jimenez and Hanson\nStuart-Anderson\nStuart-Anderson\nInvoice BILL-2828204733\n6965 Jamings Burg Camndrsile, SO 34179\n63010 Moculough Wes Sale 01 Deborstpor, FU\n63010 Moculough Wes Sale 01 Deborstpor, FU\nDale 0805/2024\n30960\n30960\nDue: 03/09/2026\nSKU\noogdysg wry\nCatrgory\nQty Uou\nUnit Prise\nTax\nLine Tot!\neeteans\nDhems denisever ansly zer\nGenerel\n9.00 EA\n494.09\n10%\n4 446.81\nSKU00203\nBslanced clien-sne adaple\nGenerel\n10.00\nEA\n37.46\n10%\n374.60\nSKU00300\nTeamorenled anslyzaing inbanet\nGenerel\n5.00\nEA\n22.36\n10%\n111.80\nSKU08480\nCompatbl sdution-orienled Local Ares Network\nGenereal\n4.00\nEA\n217.85\n10%\n871.40\nSKU00580\nRe-ergneared reporene algorhm\nGenerel\n10.00\nEA\n218.09\n10%\n2 180.90\nment: Camp0s LLC Credit Union |Acct: VARE71883912663340| ACH\n7 985.51\n-798.55\nTOTAL DUE\n7 985.51\nWilisms, Jimenez and Hanson | Invoice #6lLL-2826204733 | 08 05/2024 |Thank you for your busines.",
+  "processing_time_seconds": 3.55,
+  "file_size_bytes": 66073,
+  "success": true
+}

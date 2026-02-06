@@ -1,0 +1,8 @@
+{
+  "filename": "067_multilingual_fr_standard.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "Briand Bouvet SARL\nFACTURE\nchemin Noemi Guillet  50863 Daniel-sur-Rodriguez\nNBILL/4210706739\nDate:05/02/2025\nDE\nA\nBriand Bouvet SARL\nMercier\nchemin Noemi Guillet\navenue Roux\n50863 Daniel-sur-Rodriguez\n27328Boulay\nDescription\nQuantite\nPrix\nTotal\nLa possibilite de changer autrement\n8.00\n130.02\n1 040.16\n2\nL'art de changer de maniere sure\n6.00\n413.50\n2481.00\n3\nLe plaisir de changer a retat pur\n1.00\n460.59\n480.59\nL'avantage d'innover avant-tout\n9.00\n350.31\n3 152.79\nSous-total\n7 134.54\nTaxe\n713.45\nTotal\n7847.99\nMerci pour votre confiance",
+  "processing_time_seconds": 2.151,
+  "file_size_bytes": 42710,
+  "success": true
+}

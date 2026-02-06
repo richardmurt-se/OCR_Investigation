@@ -1,0 +1,63 @@
+{
+  "filename": "147_effect_stamps.png",
+  "invoice": {
+    "client_name": "Stone LLC",
+    "client_address": "",
+    "seller_name": "Horne LLC",
+    "seller_address": "50054 Williams Route Apt. 876 | West Sarahfort, DC 38965",
+    "invoice_number": "BILL-657000",
+    "invoice_date": "15/02/2025",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Progressive 24/7 core",
+      "quantity": "9.00",
+      "unit_price": "288.63",
+      "total_price": "2 597.67",
+      "category": null
+    },
+    {
+      "description": "Seamless uniform task-force",
+      "quantity": "8.00",
+      "unit_price": "341.00",
+      "total_price": "2 728.00",
+      "category": null
+    },
+    {
+      "description": "Focused web-enabled migration",
+      "quantity": "0.00",
+      "unit_price": "378.93",
+      "total_price": "378.93",
+      "category": null
+    },
+    {
+      "description": "Vision-oriented web-enabled policy",
+      "quantity": "1.00",
+      "unit_price": "292.60",
+      "total_price": "292.60",
+      "category": null
+    },
+    {
+      "description": "Reactive high-level contingency",
+      "quantity": "3.00",
+      "unit_price": "201.71",
+      "total_price": "605.13",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "6 602.33",
+    "tax": "680.23",
+    "discount": "",
+    "total": "6 602.33"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.147,
+  "file_size_bytes": 76369
+}

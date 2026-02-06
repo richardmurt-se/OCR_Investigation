@@ -1,0 +1,728 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OCR Cross-Model Comparison Report</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+    <style>
+        :root {
+            --color-success: #22c55e;
+            --color-warning: #eab308;
+            --color-danger: #ef4444;
+            --color-info: #3b82f6;
+            --color-bg: #f8fafc;
+            --color-card: #ffffff;
+            --color-border: #e2e8f0;
+            --color-text: #1e293b;
+            --color-text-muted: #64748b;
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background-color: var(--color-bg);
+            color: var(--color-text);
+            line-height: 1.6;
+            padding: 2rem;
+        }
+
+        .container { max-width: 1400px; margin: 0 auto; }
+
+        .header {
+            margin-bottom: 2rem;
+            padding-bottom: 1rem;
+            border-bottom: 2px solid var(--color-border);
+        }
+        .header h1 { font-size: 1.875rem; font-weight: 700; }
+        .header .subtitle { color: var(--color-text-muted); font-size: 0.875rem; margin-top: 0.25rem; }
+
+        /* Summary Cards */
+        .cards-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+        .card {
+            background: var(--color-card);
+            border-radius: 0.75rem;
+            padding: 1.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            border-left: 4px solid var(--color-info);
+            position: relative;
+        }
+        .card-label { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--color-text-muted); margin-bottom: 0.25rem; }
+        .card-value { font-size: 2rem; font-weight: 700; }
+        .card-detail { font-size: 0.75rem; color: var(--color-text-muted); margin-top: 0.25rem; }
+        .badge-winner {
+            position: absolute;
+            top: 0.75rem;
+            right: 0.75rem;
+            background: var(--color-success);
+            color: white;
+            font-size: 0.625rem;
+            font-weight: 700;
+            padding: 0.2rem 0.5rem;
+            border-radius: 9999px;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        /* Sections */
+        .section { margin-bottom: 2.5rem; }
+        .section h2 {
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 1px solid var(--color-border);
+        }
+
+        /* Chart containers */
+        .chart-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1.5rem;
+            margin-bottom: 1.5rem;
+        }
+        .chart-box {
+            background: var(--color-card);
+            border-radius: 0.75rem;
+            padding: 1.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        .chart-box h3 { font-size: 1rem; font-weight: 600; margin-bottom: 1rem; }
+        .chart-box canvas { max-height: 400px; }
+        .chart-full {
+            background: var(--color-card);
+            border-radius: 0.75rem;
+            padding: 1.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            margin-bottom: 1.5rem;
+        }
+        .chart-full h3 { font-size: 1rem; font-weight: 600; margin-bottom: 1rem; }
+
+        /* Tables */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.875rem;
+        }
+        th, td {
+            padding: 0.75rem 1rem;
+            text-align: left;
+            border-bottom: 1px solid var(--color-border);
+        }
+        th {
+            background: var(--color-bg);
+            font-weight: 600;
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: var(--color-text-muted);
+            cursor: pointer;
+        }
+        th:hover { color: var(--color-text); }
+        tr:hover { background: #f1f5f9; }
+        .text-right { text-align: right; }
+        .text-center { text-align: center; }
+
+        .color-dot {
+            display: inline-block;
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            margin-right: 0.5rem;
+            vertical-align: middle;
+        }
+
+        .acc-high { color: var(--color-success); font-weight: 600; }
+        .acc-mid { color: var(--color-warning); font-weight: 600; }
+        .acc-low { color: var(--color-danger); font-weight: 600; }
+
+        @media (max-width: 900px) {
+            .chart-row { grid-template-columns: 1fr; }
+            body { padding: 1rem; }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+
+    <!-- Header -->
+    <div class="header">
+        <h1>OCR Cross-Model Comparison Report</h1>
+        <div class="subtitle">Comparing 2 models &middot; Extraction Accuracy</div>
+    </div>
+
+    <!-- Section 1: Summary Cards -->
+    <div class="cards-grid">
+        
+        <div class="card" style="border-left-color: #3b82f6;">
+            <span class="badge-winner">Best</span>
+            <div class="card-label">Azure Document Intelligence</div>
+            <div class="card-value" style="color: #3b82f6;">89.5%</div>
+            <div class="card-detail">468 docs &middot; 6.23s/doc &middot; $0.7140 total</div>
+        </div>
+        
+        <div class="card" style="border-left-color: #22c55e;">
+            
+            <div class="card-label">PaddleOCR</div>
+            <div class="card-value" style="color: #22c55e;">69.4%</div>
+            <div class="card-detail">468 docs &middot; 3.02s/doc &middot; $0.0000 total</div>
+        </div>
+        
+    </div>
+
+    <!-- Performance Table -->
+    <div class="section">
+        <h2>Performance Comparison</h2>
+        <div class="chart-full">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Model</th>
+                        <th class="text-right">Extraction Accuracy</th>
+                        <th class="text-right">Avg Time / Doc</th>
+                        <th class="text-right">Throughput</th>
+                        <th class="text-right">Total Cost</th>
+                        <th class="text-right">Cost / Page</th>
+                        <th class="text-right">Avg Confidence</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    
+                    <tr>
+                        <td><span class="color-dot" style="background:#3b82f6;"></span>Azure Document Intelligence</td>
+                        <td class="text-right acc-mid">89.5%</td>
+                        <td class="text-right">6.23s</td>
+                        <td class="text-right">9.6 docs/min</td>
+                        <td class="text-right">$0.7140</td>
+                        <td class="text-right">$0.0020</td>
+                        <td class="text-right">83.4%</td>
+                    </tr>
+                    
+                    <tr>
+                        <td><span class="color-dot" style="background:#22c55e;"></span>PaddleOCR</td>
+                        <td class="text-right acc-low">69.4%</td>
+                        <td class="text-right">3.02s</td>
+                        <td class="text-right">19.8 docs/min</td>
+                        <td class="text-right">$0.0000</td>
+                        <td class="text-right">$0.0000</td>
+                        <td class="text-right">95.7%</td>
+                    </tr>
+                    
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <!-- Extraction Accuracy Bar + Language -->
+    <div class="section">
+        <h2>Overall Comparison</h2>
+        <div class="chart-row">
+            <div class="chart-box">
+                <h3>Extraction Accuracy</h3>
+                <canvas id="chartAccuracy"></canvas>
+            </div>
+            <div class="chart-box">
+                <h3>Extraction Accuracy by Language</h3>
+                <canvas id="chartLanguage"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <!-- Section 4: By Effect Type -->
+    <div class="section">
+        <h2>Extraction Accuracy by Effect Type</h2>
+        <div class="chart-full">
+            <canvas id="chartEffects" height="100"></canvas>
+        </div>
+    </div>
+
+    <!-- Section 5: By File Format -->
+    <div class="section">
+        <h2>Extraction Accuracy by File Format</h2>
+        <div class="chart-row">
+            <div class="chart-box">
+                <canvas id="chartFormats"></canvas>
+            </div>
+            <div class="chart-box">
+                <h3>Performance: Processing Speed</h3>
+                <canvas id="chartSpeed"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <!-- Detailed Effect Breakdown Table -->
+    <div class="section">
+        <h2>Detailed Effect Breakdown</h2>
+        <div class="chart-full" style="overflow-x: auto;">
+            <table id="detailTable">
+                <thead>
+                    <tr>
+                        <th>Effect Type</th>
+                        
+                        <th class="text-right">Azure Document Intelligence</th>
+                        
+                        <th class="text-right">PaddleOCR</th>
+                        
+                    </tr>
+                </thead>
+                <tbody>
+                    
+                    
+                    <tr>
+                        <td>Fold Lines</td>
+                        
+                        
+                        <td class="text-right acc-high">99.0%</td>
+                        
+                        
+                        <td class="text-right acc-mid">75.8%</td>
+                        
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>Coffee Stains</td>
+                        
+                        
+                        <td class="text-right acc-high">98.0%</td>
+                        
+                        
+                        <td class="text-right acc-mid">76.8%</td>
+                        
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>Moire Patterns</td>
+                        
+                        
+                        <td class="text-right acc-high">99.0%</td>
+                        
+                        
+                        <td class="text-right acc-mid">75.8%</td>
+                        
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>Watermark</td>
+                        
+                        
+                        <td class="text-right acc-high">98.0%</td>
+                        
+                        
+                        <td class="text-right acc-mid">75.8%</td>
+                        
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>Hole Punches</td>
+                        
+                        
+                        <td class="text-right acc-high">97.0%</td>
+                        
+                        
+                        <td class="text-right acc-mid">75.8%</td>
+                        
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>Show Through</td>
+                        
+                        
+                        <td class="text-right acc-high">98.0%</td>
+                        
+                        
+                        <td class="text-right acc-mid">74.7%</td>
+                        
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>Patch Blur</td>
+                        
+                        
+                        <td class="text-right acc-high">94.9%</td>
+                        
+                        
+                        <td class="text-right acc-mid">76.8%</td>
+                        
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>Page Curl</td>
+                        
+                        
+                        <td class="text-right acc-high">94.9%</td>
+                        
+                        
+                        <td class="text-right acc-mid">75.8%</td>
+                        
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>Gaussian Noise</td>
+                        
+                        
+                        <td class="text-right acc-high">99.0%</td>
+                        
+                        
+                        <td class="text-right acc-mid">71.7%</td>
+                        
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>Stamps</td>
+                        
+                        
+                        <td class="text-right acc-high">92.9%</td>
+                        
+                        
+                        <td class="text-right acc-mid">73.7%</td>
+                        
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>Edge Blur</td>
+                        
+                        
+                        <td class="text-right acc-high">92.9%</td>
+                        
+                        
+                        <td class="text-right acc-mid">71.7%</td>
+                        
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>None</td>
+                        
+                        
+                        <td class="text-right acc-high">92.5%</td>
+                        
+                        
+                        <td class="text-right acc-mid">71.6%</td>
+                        
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>Thermal Fade</td>
+                        
+                        
+                        <td class="text-right acc-high">90.9%</td>
+                        
+                        
+                        <td class="text-right acc-mid">72.7%</td>
+                        
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>Handwritten Annotations</td>
+                        
+                        
+                        <td class="text-right acc-high">91.9%</td>
+                        
+                        
+                        <td class="text-right acc-mid">71.7%</td>
+                        
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>Bleed Through</td>
+                        
+                        
+                        <td class="text-right acc-mid">88.9%</td>
+                        
+                        
+                        <td class="text-right acc-mid">71.7%</td>
+                        
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>Wrinkles Crumples</td>
+                        
+                        
+                        <td class="text-right acc-mid">89.9%</td>
+                        
+                        
+                        <td class="text-right acc-mid">70.7%</td>
+                        
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>Band Stretch</td>
+                        
+                        
+                        <td class="text-right acc-mid">84.8%</td>
+                        
+                        
+                        <td class="text-right acc-mid">74.7%</td>
+                        
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>Brightness Contrast</td>
+                        
+                        
+                        <td class="text-right acc-high">90.9%</td>
+                        
+                        
+                        <td class="text-right acc-low">67.7%</td>
+                        
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>Uneven Lighting</td>
+                        
+                        
+                        <td class="text-right acc-high">92.9%</td>
+                        
+                        
+                        <td class="text-right acc-low">60.6%</td>
+                        
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>Skew</td>
+                        
+                        
+                        <td class="text-right acc-mid">85.9%</td>
+                        
+                        
+                        <td class="text-right acc-low">64.6%</td>
+                        
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>Perspective Warp</td>
+                        
+                        
+                        <td class="text-right acc-mid">75.8%</td>
+                        
+                        
+                        <td class="text-right acc-low">63.6%</td>
+                        
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>Jpeg Artifacts</td>
+                        
+                        
+                        <td class="text-right acc-mid">76.8%</td>
+                        
+                        
+                        <td class="text-right acc-low">60.6%</td>
+                        
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>Salt Pepper Noise</td>
+                        
+                        
+                        <td class="text-right acc-mid">71.7%</td>
+                        
+                        
+                        <td class="text-right acc-low">54.5%</td>
+                        
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>Low Dpi</td>
+                        
+                        
+                        <td class="text-right acc-low">30.3%</td>
+                        
+                        
+                        <td class="text-right acc-low">28.3%</td>
+                        
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>Motion Blur</td>
+                        
+                        
+                        <td class="text-right acc-low">30.3%</td>
+                        
+                        
+                        <td class="text-right acc-low">17.2%</td>
+                        
+                    </tr>
+                    
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+</div>
+
+<script>
+// ---- Data from Jinja ----
+const models = [{"avg_confidence": 0.834, "avg_time": 6.231, "by_effect": {"band_stretch": {"avg_accuracy": 0.772, "avg_extraction_accuracy": 0.848, "avg_field_accuracy": 0.657, "avg_items_f1": 0.904, "avg_overall_accuracy": 0.772, "avg_schema_accuracy": 0.657, "count": 9, "max_extraction": 0.909, "max_schema": 0.727, "min_extraction": 0.818, "min_schema": 0.545}, "bleed_through": {"avg_accuracy": 0.776, "avg_extraction_accuracy": 0.889, "avg_field_accuracy": 0.606, "avg_items_f1": 0.958, "avg_overall_accuracy": 0.776, "avg_schema_accuracy": 0.606, "count": 9, "max_extraction": 1.0, "max_schema": 0.727, "min_extraction": 0.818, "min_schema": 0.455}, "brightness_contrast": {"avg_accuracy": 0.768, "avg_extraction_accuracy": 0.909, "avg_field_accuracy": 0.556, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.768, "avg_schema_accuracy": 0.556, "count": 9, "max_extraction": 1.0, "max_schema": 0.636, "min_extraction": 0.818, "min_schema": 0.455}, "coffee_stains": {"avg_accuracy": 0.834, "avg_extraction_accuracy": 0.98, "avg_field_accuracy": 0.616, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.834, "avg_schema_accuracy": 0.616, "count": 9, "max_extraction": 1.0, "max_schema": 0.727, "min_extraction": 0.909, "min_schema": 0.545}, "edge_blur": {"avg_accuracy": 0.808, "avg_extraction_accuracy": 0.929, "avg_field_accuracy": 0.626, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.808, "avg_schema_accuracy": 0.626, "count": 9, "max_extraction": 1.0, "max_schema": 0.727, "min_extraction": 0.818, "min_schema": 0.545}, "fold_lines": {"avg_accuracy": 0.881, "avg_extraction_accuracy": 0.99, "avg_field_accuracy": 0.717, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.881, "avg_schema_accuracy": 0.717, "count": 9, "max_extraction": 1.0, "max_schema": 0.818, "min_extraction": 0.909, "min_schema": 0.545}, "gaussian_noise": {"avg_accuracy": 0.873, "avg_extraction_accuracy": 0.99, "avg_field_accuracy": 0.697, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.873, "avg_schema_accuracy": 0.697, "count": 9, "max_extraction": 1.0, "max_schema": 0.818, "min_extraction": 0.909, "min_schema": 0.545}, "handwritten_annotations": {"avg_accuracy": 0.766, "avg_extraction_accuracy": 0.919, "avg_field_accuracy": 0.535, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.766, "avg_schema_accuracy": 0.535, "count": 9, "max_extraction": 1.0, "max_schema": 0.636, "min_extraction": 0.727, "min_schema": 0.364}, "hole_punches": {"avg_accuracy": 0.824, "avg_extraction_accuracy": 0.97, "avg_field_accuracy": 0.606, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.824, "avg_schema_accuracy": 0.606, "count": 9, "max_extraction": 1.0, "max_schema": 0.727, "min_extraction": 0.818, "min_schema": 0.455}, "jpeg_artifacts": {"avg_accuracy": 0.687, "avg_extraction_accuracy": 0.768, "avg_field_accuracy": 0.566, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.687, "avg_schema_accuracy": 0.566, "count": 9, "max_extraction": 0.909, "max_schema": 0.636, "min_extraction": 0.636, "min_schema": 0.455}, "low_dpi": {"avg_accuracy": 0.267, "avg_extraction_accuracy": 0.303, "avg_field_accuracy": 0.212, "avg_items_f1": 0.267, "avg_overall_accuracy": 0.267, "avg_schema_accuracy": 0.212, "count": 9, "max_extraction": 0.364, "max_schema": 0.273, "min_extraction": 0.273, "min_schema": 0.091}, "moire_patterns": {"avg_accuracy": 0.897, "avg_extraction_accuracy": 0.99, "avg_field_accuracy": 0.758, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.897, "avg_schema_accuracy": 0.758, "count": 9, "max_extraction": 1.0, "max_schema": 0.818, "min_extraction": 0.909, "min_schema": 0.727}, "motion_blur": {"avg_accuracy": 0.291, "avg_extraction_accuracy": 0.303, "avg_field_accuracy": 0.273, "avg_items_f1": 0.022, "avg_overall_accuracy": 0.291, "avg_schema_accuracy": 0.273, "count": 9, "max_extraction": 0.364, "max_schema": 0.364, "min_extraction": 0.182, "min_schema": 0.182}, "none": {"avg_accuracy": 0.817, "avg_extraction_accuracy": 0.925, "avg_field_accuracy": 0.655, "avg_items_f1": 0.98, "avg_overall_accuracy": 0.817, "avg_schema_accuracy": 0.655, "count": 252, "max_extraction": 1.0, "max_schema": 1.0, "min_extraction": 0.545, "min_schema": 0.182}, "page_curl": {"avg_accuracy": 0.836, "avg_extraction_accuracy": 0.949, "avg_field_accuracy": 0.667, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.836, "avg_schema_accuracy": 0.667, "count": 9, "max_extraction": 1.0, "max_schema": 0.727, "min_extraction": 0.909, "min_schema": 0.636}, "patch_blur": {"avg_accuracy": 0.828, "avg_extraction_accuracy": 0.949, "avg_field_accuracy": 0.646, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.828, "avg_schema_accuracy": 0.646, "count": 9, "max_extraction": 1.0, "max_schema": 0.727, "min_extraction": 0.818, "min_schema": 0.636}, "perspective_warp": {"avg_accuracy": 0.677, "avg_extraction_accuracy": 0.758, "avg_field_accuracy": 0.556, "avg_items_f1": 0.978, "avg_overall_accuracy": 0.677, "avg_schema_accuracy": 0.556, "count": 9, "max_extraction": 0.909, "max_schema": 0.636, "min_extraction": 0.636, "min_schema": 0.455}, "salt_pepper_noise": {"avg_accuracy": 0.624, "avg_extraction_accuracy": 0.717, "avg_field_accuracy": 0.485, "avg_items_f1": 0.914, "avg_overall_accuracy": 0.624, "avg_schema_accuracy": 0.485, "count": 9, "max_extraction": 0.818, "max_schema": 0.545, "min_extraction": 0.636, "min_schema": 0.364}, "show_through": {"avg_accuracy": 0.855, "avg_extraction_accuracy": 0.98, "avg_field_accuracy": 0.667, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.855, "avg_schema_accuracy": 0.667, "count": 9, "max_extraction": 1.0, "max_schema": 0.727, "min_extraction": 0.909, "min_schema": 0.545}, "skew": {"avg_accuracy": 0.721, "avg_extraction_accuracy": 0.859, "avg_field_accuracy": 0.515, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.721, "avg_schema_accuracy": 0.515, "count": 9, "max_extraction": 1.0, "max_schema": 0.636, "min_extraction": 0.727, "min_schema": 0.455}, "stamps": {"avg_accuracy": 0.784, "avg_extraction_accuracy": 0.929, "avg_field_accuracy": 0.566, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.784, "avg_schema_accuracy": 0.566, "count": 9, "max_extraction": 1.0, "max_schema": 0.636, "min_extraction": 0.727, "min_schema": 0.545}, "thermal_fade": {"avg_accuracy": 0.796, "avg_extraction_accuracy": 0.909, "avg_field_accuracy": 0.626, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.796, "avg_schema_accuracy": 0.626, "count": 9, "max_extraction": 0.909, "max_schema": 0.727, "min_extraction": 0.909, "min_schema": 0.455}, "uneven_lighting": {"avg_accuracy": 0.812, "avg_extraction_accuracy": 0.929, "avg_field_accuracy": 0.636, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.812, "avg_schema_accuracy": 0.636, "count": 9, "max_extraction": 1.0, "max_schema": 0.727, "min_extraction": 0.818, "min_schema": 0.455}, "watermark": {"avg_accuracy": 0.855, "avg_extraction_accuracy": 0.98, "avg_field_accuracy": 0.667, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.855, "avg_schema_accuracy": 0.667, "count": 9, "max_extraction": 1.0, "max_schema": 0.727, "min_extraction": 0.909, "min_schema": 0.545}, "wrinkles_crumples": {"avg_accuracy": 0.802, "avg_extraction_accuracy": 0.899, "avg_field_accuracy": 0.657, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.802, "avg_schema_accuracy": 0.657, "count": 9, "max_extraction": 1.0, "max_schema": 0.727, "min_extraction": 0.727, "min_schema": 0.545}}, "by_format": {"jpeg": {"avg_accuracy": 0.785, "avg_extraction_accuracy": 0.894, "avg_field_accuracy": 0.621, "avg_items_f1": 0.949, "avg_overall_accuracy": 0.785, "avg_schema_accuracy": 0.621, "count": 156, "max_extraction": 1.0, "max_schema": 1.0, "min_extraction": 0.182, "min_schema": 0.091}, "pdf": {"avg_accuracy": 0.789, "avg_extraction_accuracy": 0.895, "avg_field_accuracy": 0.632, "avg_items_f1": 0.959, "avg_overall_accuracy": 0.789, "avg_schema_accuracy": 0.632, "count": 156, "max_extraction": 1.0, "max_schema": 0.909, "min_extraction": 0.182, "min_schema": 0.091}, "png": {"avg_accuracy": 0.786, "avg_extraction_accuracy": 0.896, "avg_field_accuracy": 0.619, "avg_items_f1": 0.947, "avg_overall_accuracy": 0.786, "avg_schema_accuracy": 0.619, "count": 156, "max_extraction": 1.0, "max_schema": 1.0, "min_extraction": 0.182, "min_schema": 0.091}}, "color": "#3b82f6", "cost_per_page": 0.002, "display_name": "Azure Document Intelligence", "extraction_accuracy": 0.895, "is_best_extraction": true, "name": "document_intelligence", "throughput": 9.629, "total_cost": 0.714, "total_documents": 468}, {"avg_confidence": 0.957, "avg_time": 3.025, "by_effect": {"band_stretch": {"avg_accuracy": 0.521, "avg_extraction_accuracy": 0.747, "avg_field_accuracy": 0.182, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.521, "avg_schema_accuracy": 0.182, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.636, "min_schema": 0.182}, "bleed_through": {"avg_accuracy": 0.503, "avg_extraction_accuracy": 0.717, "avg_field_accuracy": 0.182, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.503, "avg_schema_accuracy": 0.182, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.545, "min_schema": 0.182}, "brightness_contrast": {"avg_accuracy": 0.442, "avg_extraction_accuracy": 0.677, "avg_field_accuracy": 0.091, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.442, "avg_schema_accuracy": 0.091, "count": 9, "max_extraction": 0.818, "max_schema": 0.091, "min_extraction": 0.364, "min_schema": 0.091}, "coffee_stains": {"avg_accuracy": 0.521, "avg_extraction_accuracy": 0.768, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.521, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.636, "min_schema": 0.091}, "edge_blur": {"avg_accuracy": 0.479, "avg_extraction_accuracy": 0.717, "avg_field_accuracy": 0.121, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.479, "avg_schema_accuracy": 0.121, "count": 9, "max_extraction": 1.0, "max_schema": 0.182, "min_extraction": 0.273, "min_schema": 0.091}, "fold_lines": {"avg_accuracy": 0.515, "avg_extraction_accuracy": 0.758, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.515, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.545, "min_schema": 0.091}, "gaussian_noise": {"avg_accuracy": 0.491, "avg_extraction_accuracy": 0.717, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.491, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.636, "min_schema": 0.091}, "handwritten_annotations": {"avg_accuracy": 0.467, "avg_extraction_accuracy": 0.717, "avg_field_accuracy": 0.091, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.467, "avg_schema_accuracy": 0.091, "count": 9, "max_extraction": 0.818, "max_schema": 0.091, "min_extraction": 0.455, "min_schema": 0.091}, "hole_punches": {"avg_accuracy": 0.503, "avg_extraction_accuracy": 0.758, "avg_field_accuracy": 0.121, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.503, "avg_schema_accuracy": 0.121, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.545, "min_schema": 0.091}, "jpeg_artifacts": {"avg_accuracy": 0.436, "avg_extraction_accuracy": 0.606, "avg_field_accuracy": 0.182, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.436, "avg_schema_accuracy": 0.182, "count": 9, "max_extraction": 0.636, "max_schema": 0.182, "min_extraction": 0.545, "min_schema": 0.182}, "low_dpi": {"avg_accuracy": 0.23, "avg_extraction_accuracy": 0.283, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.23, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.364, "max_schema": 0.182, "min_extraction": 0.182, "min_schema": 0.091}, "moire_patterns": {"avg_accuracy": 0.527, "avg_extraction_accuracy": 0.758, "avg_field_accuracy": 0.182, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.527, "avg_schema_accuracy": 0.182, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.545, "min_schema": 0.182}, "motion_blur": {"avg_accuracy": 0.164, "avg_extraction_accuracy": 0.172, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.164, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.273, "max_schema": 0.182, "min_extraction": 0.091, "min_schema": 0.091}, "none": {"avg_accuracy": 0.488, "avg_extraction_accuracy": 0.716, "avg_field_accuracy": 0.146, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.488, "avg_schema_accuracy": 0.146, "count": 252, "max_extraction": 1.0, "max_schema": 0.182, "min_extraction": 0.182, "min_schema": 0.091}, "page_curl": {"avg_accuracy": 0.527, "avg_extraction_accuracy": 0.758, "avg_field_accuracy": 0.182, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.527, "avg_schema_accuracy": 0.182, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.636, "min_schema": 0.182}, "patch_blur": {"avg_accuracy": 0.521, "avg_extraction_accuracy": 0.768, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.521, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.636, "min_schema": 0.091}, "perspective_warp": {"avg_accuracy": 0.43, "avg_extraction_accuracy": 0.636, "avg_field_accuracy": 0.121, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.43, "avg_schema_accuracy": 0.121, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.455, "min_schema": 0.091}, "salt_pepper_noise": {"avg_accuracy": 0.388, "avg_extraction_accuracy": 0.545, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.388, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.727, "max_schema": 0.182, "min_extraction": 0.364, "min_schema": 0.091}, "show_through": {"avg_accuracy": 0.509, "avg_extraction_accuracy": 0.747, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.509, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.636, "min_schema": 0.091}, "skew": {"avg_accuracy": 0.448, "avg_extraction_accuracy": 0.646, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.448, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.455, "min_schema": 0.091}, "stamps": {"avg_accuracy": 0.479, "avg_extraction_accuracy": 0.737, "avg_field_accuracy": 0.091, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.479, "avg_schema_accuracy": 0.091, "count": 9, "max_extraction": 0.818, "max_schema": 0.091, "min_extraction": 0.455, "min_schema": 0.091}, "thermal_fade": {"avg_accuracy": 0.497, "avg_extraction_accuracy": 0.727, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.497, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.455, "min_schema": 0.091}, "uneven_lighting": {"avg_accuracy": 0.412, "avg_extraction_accuracy": 0.606, "avg_field_accuracy": 0.121, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.412, "avg_schema_accuracy": 0.121, "count": 9, "max_extraction": 0.727, "max_schema": 0.182, "min_extraction": 0.455, "min_schema": 0.091}, "watermark": {"avg_accuracy": 0.515, "avg_extraction_accuracy": 0.758, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.515, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.545, "min_schema": 0.091}, "wrinkles_crumples": {"avg_accuracy": 0.485, "avg_extraction_accuracy": 0.707, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.485, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.545, "min_schema": 0.091}}, "by_format": {"jpeg": {"avg_accuracy": 0.405, "avg_extraction_accuracy": 0.578, "avg_field_accuracy": 0.146, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.405, "avg_schema_accuracy": 0.146, "count": 156, "max_extraction": 0.909, "max_schema": 0.182, "min_extraction": 0.091, "min_schema": 0.091}, "pdf": {"avg_accuracy": 0.511, "avg_extraction_accuracy": 0.755, "avg_field_accuracy": 0.146, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.511, "avg_schema_accuracy": 0.146, "count": 156, "max_extraction": 1.0, "max_schema": 0.182, "min_extraction": 0.182, "min_schema": 0.091}, "png": {"avg_accuracy": 0.508, "avg_extraction_accuracy": 0.749, "avg_field_accuracy": 0.146, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.508, "avg_schema_accuracy": 0.146, "count": 156, "max_extraction": 1.0, "max_schema": 0.182, "min_extraction": 0.091, "min_schema": 0.091}}, "color": "#22c55e", "cost_per_page": 0.0, "display_name": "PaddleOCR", "extraction_accuracy": 0.694, "is_best_extraction": false, "name": "paddle_ocr", "throughput": 19.833, "total_cost": 0.0, "total_documents": 468}];
+const effectChart = {"datasets": [{"color": "#3b82f6", "data": [99.0, 98.0, 99.0, 98.0, 97.0, 98.0, 94.9, 94.9, 99.0, 92.9, 92.9, 92.5, 90.9, 91.9, 88.9, 89.9, 84.8, 90.9, 92.9, 85.9, 75.8, 76.8, 71.7, 30.3, 30.3], "label": "Azure Document Intelligence"}, {"color": "#22c55e", "data": [75.8, 76.8, 75.8, 75.8, 75.8, 74.7, 76.8, 75.8, 71.7, 73.7, 71.7, 71.6, 72.7, 71.7, 71.7, 70.7, 74.7, 67.7, 60.6, 64.6, 63.6, 60.6, 54.5, 28.3, 17.2], "label": "PaddleOCR"}], "labels": ["Fold Lines", "Coffee Stains", "Moire Patterns", "Watermark", "Hole Punches", "Show Through", "Patch Blur", "Page Curl", "Gaussian Noise", "Stamps", "Edge Blur", "None", "Thermal Fade", "Handwritten Annotations", "Bleed Through", "Wrinkles Crumples", "Band Stretch", "Brightness Contrast", "Uneven Lighting", "Skew", "Perspective Warp", "Jpeg Artifacts", "Salt Pepper Noise", "Low Dpi", "Motion Blur"]};
+const formatChart = {"datasets": [{"color": "#3b82f6", "data": [89.4, 89.5, 89.6], "label": "Azure Document Intelligence"}, {"color": "#22c55e", "data": [57.8, 75.5, 74.9], "label": "PaddleOCR"}], "labels": ["JPEG", "PDF", "PNG"]};
+const languageChart = {"datasets": [{"color": "#3b82f6", "data": [69.7, 96.0, 89.0, 100.0, 92.9, 93.9, 97.0, 97.0], "label": "Azure Document Intelligence"}, {"color": "#22c55e", "data": [42.5, 57.6, 70.7, 77.8, 58.6, 55.5, 65.6, 67.7], "label": "PaddleOCR"}], "labels": ["Arabic", "Chinese", "English", "French", "Hungarian", "Japanese", "Portuguese", "Spanish"]};
+
+// ---- Chart 1: Extraction Accuracy Bar ----
+new Chart(document.getElementById('chartAccuracy'), {
+    type: 'bar',
+    data: {
+        labels: models.map(m => m.display_name),
+        datasets: [{
+            label: 'Extraction Accuracy (%)',
+            data: models.map(m => (m.extraction_accuracy * 100).toFixed(1)),
+            backgroundColor: models.map(m => m.color + 'CC'),
+            borderColor: models.map(m => m.color),
+            borderWidth: 1,
+            borderRadius: 6,
+        }]
+    },
+    options: {
+        responsive: true,
+        plugins: { legend: { display: false } },
+        scales: {
+            y: { beginAtZero: true, max: 100, title: { display: true, text: 'Accuracy (%)' } }
+        }
+    }
+});
+
+// ---- Chart 2: Language ----
+new Chart(document.getElementById('chartLanguage'), {
+    type: 'bar',
+    data: {
+        labels: languageChart.labels,
+        datasets: languageChart.datasets.map(ds => ({
+            label: ds.label,
+            data: ds.data,
+            backgroundColor: ds.color + 'CC',
+            borderColor: ds.color,
+            borderWidth: 1,
+            borderRadius: 6,
+        }))
+    },
+    options: {
+        responsive: true,
+        plugins: { legend: { position: 'top' } },
+        scales: {
+            y: { beginAtZero: true, max: 100, title: { display: true, text: 'Extraction Accuracy (%)' } }
+        }
+    }
+});
+
+// ---- Chart 3: Effects Grouped Bar ----
+new Chart(document.getElementById('chartEffects'), {
+    type: 'bar',
+    data: {
+        labels: effectChart.labels,
+        datasets: effectChart.datasets.map(ds => ({
+            label: ds.label,
+            data: ds.data,
+            backgroundColor: ds.color + 'CC',
+            borderColor: ds.color,
+            borderWidth: 1,
+            borderRadius: 4,
+        }))
+    },
+    options: {
+        responsive: true,
+        plugins: { legend: { position: 'top' } },
+        scales: {
+            y: { beginAtZero: true, max: 100, title: { display: true, text: 'Extraction Accuracy (%)' } },
+            x: { ticks: { maxRotation: 45, minRotation: 30, font: { size: 10 } } }
+        }
+    }
+});
+
+// ---- Chart 4: Format Grouped Bar ----
+new Chart(document.getElementById('chartFormats'), {
+    type: 'bar',
+    data: {
+        labels: formatChart.labels,
+        datasets: formatChart.datasets.map(ds => ({
+            label: ds.label,
+            data: ds.data,
+            backgroundColor: ds.color + 'CC',
+            borderColor: ds.color,
+            borderWidth: 1,
+            borderRadius: 6,
+        }))
+    },
+    options: {
+        responsive: true,
+        plugins: { legend: { position: 'top' } },
+        scales: {
+            y: { beginAtZero: true, max: 100, title: { display: true, text: 'Extraction Accuracy (%)' } }
+        }
+    }
+});
+
+// ---- Chart 5: Speed Horizontal Bar ----
+new Chart(document.getElementById('chartSpeed'), {
+    type: 'bar',
+    data: {
+        labels: models.map(m => m.display_name),
+        datasets: [{
+            label: 'Avg Seconds / Document',
+            data: models.map(m => m.avg_time.toFixed(2)),
+            backgroundColor: models.map(m => m.color + 'CC'),
+            borderColor: models.map(m => m.color),
+            borderWidth: 1,
+            borderRadius: 6,
+        }]
+    },
+    options: {
+        indexAxis: 'y',
+        responsive: true,
+        plugins: { legend: { display: false } },
+        scales: {
+            x: { beginAtZero: true, title: { display: true, text: 'Seconds per Document' } }
+        }
+    }
+});
+
+// ---- Sortable Table ----
+document.querySelectorAll('#detailTable th').forEach((th, colIdx) => {
+    th.addEventListener('click', () => {
+        const table = document.getElementById('detailTable');
+        const tbody = table.querySelector('tbody');
+        const rows = Array.from(tbody.querySelectorAll('tr'));
+        const asc = th.dataset.sort !== 'asc';
+        th.dataset.sort = asc ? 'asc' : 'desc';
+        rows.sort((a, b) => {
+            const aVal = a.children[colIdx].textContent.replace('%', '').trim();
+            const bVal = b.children[colIdx].textContent.replace('%', '').trim();
+            const aNum = parseFloat(aVal);
+            const bNum = parseFloat(bVal);
+            if (!isNaN(aNum) && !isNaN(bNum)) return asc ? aNum - bNum : bNum - aNum;
+            return asc ? aVal.localeCompare(bVal) : bVal.localeCompare(aVal);
+        });
+        rows.forEach(row => tbody.appendChild(row));
+    });
+});
+</script>
+</body>
+</html>

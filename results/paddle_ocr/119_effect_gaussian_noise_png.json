@@ -1,0 +1,8 @@
+{
+  "filename": "119_effect_gaussian_noise.png",
+  "model_name": "paddleocr",
+  "raw_text": "Phillips and Sons\nINVOICE\n23750 Michael Bypass Suite 589 | North Loganhaven, CA 12679\n No: 99157123\nDate: 03/13/2024\nFROM\nBILL TO\n Phillips and Sons\nBowers Ltd\n 23750 Michael Bypass Suite 589\n77614 Cralg Greens\nNorth Loganhaven, CA 12679\nJacobport. FM 80650\nDescription.\n Quantity\nUnit Price\n Amount\nCross-platform high-level middleware\n8.00\n332.52\n2 660.16\nFocused asymmetric throughput\n7.00\n154.33\n1 080.31\nCross-group dynamic encodirg\n6.00\n177.96\n1 067.76\n Triple-buffered background emulation\n9.00\n344.98\n3 104.82\nSubtotal\n7 913.05\nTax (10%)\n791.30\n8704.35\nThank you for your busines.",
+  "processing_time_seconds": 2.298,
+  "file_size_bytes": 1575924,
+  "success": true
+}

@@ -1,0 +1,8 @@
+{
+  "filename": "052_unusual_format_horizontal.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "Warren-Parker\nINVOICE\nBILL480479444\n07/29/2025\nSELLER\nBUvER\nSHIPTO\nDETAILS\nWarren-Parker\nAguirre-Dominguez\nAguirre-Dominguez\nInvoice BILL-480479444\n0616SmhPinJmboughSC 02382\n96710 Tom Ferry Suite 959, North Christopher, Ml 40671\n96710 TmFey Su 959oChritoheM 40671\nDale: 07/29/2025\nDue: 02/20/2026\nSKU\nItem Description\nCategory\nQty\nwon\nUnit Price\nTax\nLine Total\nMul-e ol nicedek\nCeneral\n6.00EA\n34.14\n10%\n204.84\n2\nSKueeze0\nAutomated actsting montoring\nGeneral\n8.00EA\n460.55\n10%\n3684.40\n3\nSKUe0380\nFundton-bssed sctating Graphical User interfsce\nGeneral\n10.00\nEA\n163.03\n10%\n1 630.30\nSKU00400\nDigitized executive emulation\nGeneral\n10.00\nEA\n478.26\n10%\n4 782.60\nskueesee\nMendatory stemic know/edgebase\nGeneral\n1.00\nEA\n478.05\n10%\n478.05\nSKUeeGee\nInnovstive dicrele hardware\nGeneral\n2.00\nEA\n154.58\n10%\n309.16\nSKUe0700\nMu-tered fresh-thiniking synergy\nGeneral\n7.00\nEA\n181.76\n10%\n1 272.32\nSKUeesee\nProsctive intersctive hub\nGeneral\n5.00EA\n473.87\n10%\nSE69EZ\nt: Hans0n Ltd Credit Union | Acct: YCZQ84091914370852 | Wire Transfer\n14731.02\nSUETOTAL\n60L\nTOTAL DUE\n1473.10\n16204.12\nWarrenParcer | Invoice #6ILL480479444 | 07/29/2025 | Thank you for your business",
+  "processing_time_seconds": 4.288,
+  "file_size_bytes": 76248,
+  "success": true
+}

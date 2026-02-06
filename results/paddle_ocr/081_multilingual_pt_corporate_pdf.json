@@ -1,0 +1,8 @@
+{
+  "filename": "081_multilingual_pt_corporate.pdf",
+  "model_name": "paddleocr",
+  "raw_text": "Cavalcante\nFATURA\nEstacao Vasconcelos - Marmiteiros - 90473-972 Carvalho de Goias / TO\n#BILL-8472774203\n07/05/2025\nVENDEDOR\nCOMPRADOR\nCavalcante\nCamargo\nEstacao Vasconcelos\nDistrito Luan Andrade, 64\nMarmiteiros\nUniao\n 90473-972 Carvalho de Goias / TO\n31508-617 Alves /SE\nDESCRICAO\nQUANTIDADE\nPRECO UNIT.\nVALOR\nA simplicidade de ganhar direto da fonte\n7.00\n125.80\n880.60\nA certeza de inovar direto da fonte\n2.00\n376.08\n752.16\n2\n3\nA possibilidade de avancar com toda a tranquilidade\n10.00\n285.40\n2 854.00\n4\nA seguranca de mudar com forca total\n7.00\n421.07\n2 947.49\n5\nA arte de mudar mais rapidamente\n5.00\n394.46\n1972.30\n6\nA simplicidade de mudar direto da fonte\n1.00\n360.67\n360.67\nO prazer de realizar seus sonhos mais facilmente\n7.00\n155.04\n1 085.28\nSubtotal\n10852.50\nImposto (10%)\n1 085.25\n TOTAL A PAGAR\n11 937.75\nCavalcante - Fatura #BILL-8472774203 : 07/05/2025",
+  "processing_time_seconds": 3.166,
+  "file_size_bytes": 127821,
+  "success": true
+}

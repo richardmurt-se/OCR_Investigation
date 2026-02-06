@@ -1,0 +1,70 @@
+{
+  "filename": "037_complex_tables_grouped.jpeg",
+  "invoice": {
+    "client_name": "Barry, Soto and Dominguez",
+    "client_address": "",
+    "seller_name": "Kidd, Floyd and Morris",
+    "seller_address": "02758 Victoria Walks Apt. 960 - Changville, NY 41627",
+    "invoice_number": "",
+    "invoice_date": "31/03/2025",
+    "due_date": "03/03/2026"
+  },
+  "items": [
+    {
+      "description": "Cross-platform solution-oriented knowledgebase",
+      "quantity": "5.00",
+      "unit_price": "438.72",
+      "total_price": "2 193.60",
+      "category": null
+    },
+    {
+      "description": "Innovative bandwidth-monitored middleware - 966GB, 53\" display",
+      "quantity": "2.00",
+      "unit_price": "143.73",
+      "total_price": "287.46",
+      "category": null
+    },
+    {
+      "description": "Fundamental mission-critical system engine",
+      "quantity": "7.00",
+      "unit_price": "137.62",
+      "total_price": "963.34",
+      "category": null
+    },
+    {
+      "description": "Upgradable full-range workforce",
+      "quantity": "7.00",
+      "unit_price": "447.33",
+      "total_price": "3 131.31",
+      "category": null
+    },
+    {
+      "description": "Managed dedicated policy | Model: zps-1511, Serial: 3060626487",
+      "quantity": "10.00",
+      "unit_price": "376.17",
+      "total_price": "3 761.70",
+      "category": null
+    },
+    {
+      "description": "Implemented disintermediate frame | Model: zNp-4909, Serial:\n3510164333",
+      "quantity": "4.00",
+      "unit_price": "287.63",
+      "total_price": "1 150.52",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "11 487.93",
+    "tax": "1 148.79",
+    "discount": "",
+    "total": "12 636.72"
+  },
+  "payment_instructions": {
+    "due_date": "03/03/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.919,
+  "file_size_bytes": 86231
+}

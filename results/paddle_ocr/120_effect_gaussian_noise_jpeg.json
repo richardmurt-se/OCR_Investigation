@@ -1,0 +1,8 @@
+{
+  "filename": "120_effect_gaussian_noise.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "Jones PLC\nINVOICE\n211 Jennings RadialApt.484 South Greggpor.CA27180\nNo:9621276961\nDate:09/05/2025\nFROM\nBILLTO\nJones PLC\nFisher, Montgomery and Lee\n211 Jennings RadiaApt.464\nPort Stephanie.WA 74823\n8402 Kelly Mi\nSouth Greggport.CA27180\nDescription\nQuantity\nUnit Price\nAmount\nImplemented web-enabled capability\n10.00\n317.14\n3171.40\nAdaptive multi-tasking moratorium\n2.00\n142.13\n284.26\nTriple-buffered contextually-based benchmark\n4.00\n131.81\n527.24\nGrass-roots full-range initiative\n8.00\n28.04\n188.24\nSubtotal\n4151.14\nTax10%\n415.11\n4566.25\nThank you for your business",
+  "processing_time_seconds": 2.293,
+  "file_size_bytes": 360825,
+  "success": true
+}

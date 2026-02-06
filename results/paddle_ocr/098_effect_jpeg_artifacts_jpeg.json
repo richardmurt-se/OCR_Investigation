@@ -1,0 +1,8 @@
+{
+  "filename": "098_effect_jpeg_artifacts.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "Roberts-Rogers\nINVOICE\n21SmnCSsannegE 770\nNo348305\nDate10/07/2024\nDue02/22026\nFROM\nBILL TO\nRoberts-Rogers\nParks-Briggs\n2010SmitnClu\n534Mcheeys Sue 45\nSusaaberg.DE75876\nefshireN75293\nDescription\nQuantity\nUnit Price\nAmount\n1\nUpgradabie mult-stale parallesm\nT.0G\n450.42\n316294\nnementdsecondary knowedgebase\nT.00\n157.00\n103.83\n3\n6.00\n100026\nSubtotal\n5257.03\n10%\n525.70\n578273\nPAYMENT INFORMATION\nBank Warg-Rowe Credt union\nAccountXVT38575899130387\nMethod:ACH\n youf y",
+  "processing_time_seconds": 2.217,
+  "file_size_bytes": 42691,
+  "success": true
+}

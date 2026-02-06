@@ -1,0 +1,56 @@
+{
+  "filename": "070_multilingual_ja_standard.png",
+  "invoice": {
+    "client_name": "石川鉱業有限会社",
+    "client_address": "大阪府文京区東上野20丁目17番11号",
+    "seller_name": "藤井鉱業有限会社",
+    "seller_address": "福井県足立区丹勢3丁目2番19号 氏家新田パレス123",
+    "invoice_number": ":BILL-2181213",
+    "invoice_date": "29/06/2024",
+    "due_date": "05/03/2026"
+  },
+  "items": [
+    {
+      "description": "Self-enabling client-server methodology",
+      "quantity": "8.00",
+      "unit_price": "253.11",
+      "total_price": "2 024.88",
+      "category": null
+    },
+    {
+      "description": "Multi-lateral background extranet",
+      "quantity": "8.00",
+      "unit_price": "307.77",
+      "total_price": "2 462.16",
+      "category": null
+    },
+    {
+      "description": "Re-contextualized actuating frame",
+      "quantity": "5.00",
+      "unit_price": "207.00",
+      "total_price": "1 035.00",
+      "category": null
+    },
+    {
+      "description": "Streamlined demand-driven knowledge user",
+      "quantity": "1.00",
+      "unit_price": "106.84",
+      "total_price": "106.84",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "5 628.88",
+    "tax": "562.89",
+    "discount": "",
+    "total": "6 191.77"
+  },
+  "payment_instructions": {
+    "due_date": "05/03/2026",
+    "bank_name": "銀行振込",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.708,
+  "file_size_bytes": 47397
+}

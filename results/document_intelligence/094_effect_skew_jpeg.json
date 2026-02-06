@@ -1,0 +1,70 @@
+{
+  "filename": "094_effect_skew.jpeg",
+  "invoice": {
+    "client_name": "Mcgee LLC",
+    "client_address": "",
+    "seller_name": "Miller Ltd",
+    "seller_address": "",
+    "invoice_number": "BILL/407413",
+    "invoice_date": "09/22/2",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Enhanced needs-based strategy",
+      "quantity": "9.00",
+      "unit_price": "289.69",
+      "total_price": "2 607.21",
+      "category": null
+    },
+    {
+      "description": "Synergized discrete productivity",
+      "quantity": "6.00",
+      "unit_price": "439.16",
+      "total_price": "2 634.96",
+      "category": null
+    },
+    {
+      "description": "Networked asymmetric moderator",
+      "quantity": "5.00",
+      "unit_price": "287.58",
+      "total_price": "1 437.80",
+      "category": null
+    },
+    {
+      "description": "Adaptive static Local Area Network",
+      "quantity": "1.00",
+      "unit_price": "417.12",
+      "total_price": "417.12",
+      "category": null
+    },
+    {
+      "description": "Managed explicit knowledge user",
+      "quantity": "5.00",
+      "unit_price": "480.84",
+      "total_price": "2 404.20",
+      "category": null
+    },
+    {
+      "description": "Synergized local installation",
+      "quantity": "1.00",
+      "unit_price": "238.01",
+      "total_price": "238.01",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "9 739.30",
+    "tax": "973.93",
+    "discount": "",
+    "total": "10 713.23"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.709,
+  "file_size_bytes": 61230
+}

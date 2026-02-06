@@ -1,0 +1,77 @@
+{
+  "filename": "082_multilingual_hu_standard.png",
+  "invoice": {
+    "client_name": "Németh és Rácz Zrt.",
+    "client_address": "",
+    "seller_name": "Nagy Varga Kkt.",
+    "seller_address": "Városi utca 212.\nH-9174 Hídháza",
+    "invoice_number": "271564332",
+    "invoice_date": "10/09/2025",
+    "due_date": "13/02/2026"
+  },
+  "items": [
+    {
+      "description": "Managed static contingency",
+      "quantity": "6.00",
+      "unit_price": "90.22",
+      "total_price": "541.32",
+      "category": null
+    },
+    {
+      "description": "Cross-group content-based challenge",
+      "quantity": "10.00",
+      "unit_price": "488.81",
+      "total_price": "4 888.10",
+      "category": null
+    },
+    {
+      "description": "Innovative full-range Internet solution",
+      "quantity": "10.00",
+      "unit_price": "426.88",
+      "total_price": "4 268.80",
+      "category": null
+    },
+    {
+      "description": "Multi-layered responsive ability",
+      "quantity": "6.00",
+      "unit_price": "313.54",
+      "total_price": "1 881.24",
+      "category": null
+    },
+    {
+      "description": "Horizontal cohesive benchmark",
+      "quantity": "6.00",
+      "unit_price": "75.47",
+      "total_price": "452.82",
+      "category": null
+    },
+    {
+      "description": "Networked optimizing parallelism",
+      "quantity": "6.00",
+      "unit_price": "384.04",
+      "total_price": "2 304.24",
+      "category": null
+    },
+    {
+      "description": "Networked dynamic pricing structure",
+      "quantity": "6.00",
+      "unit_price": "341.54",
+      "total_price": "2 049.24",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "16 385.76",
+    "tax": "1 638.58",
+    "discount": "-819.29",
+    "total": "17 205.05"
+  },
+  "payment_instructions": {
+    "due_date": "13/02/2026",
+    "bank_name": "[DocumentField(value_type=dictionary, value={'IBAN': DocumentField(value_type=string, value='JWVR15991630271801', content=JWVR15991630271801, bounding_regions=[BoundingRegion(page_number=1, polygon=[Point(x=77.0, y=688.0), Point(x=184.0, y=688.0), Point(x=184.0, y=699.0), Point(x=77.0, y=699.0)])], spans=[DocumentSpan(offset=797, length=18)], confidence=0.736)}, content=None, bounding_regions=[], spans=[], confidence=0.995)]",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.619,
+  "file_size_bytes": 35472
+}

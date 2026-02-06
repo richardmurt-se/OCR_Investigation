@@ -1,0 +1,8 @@
+{
+  "filename": "144_effect_fold_lines.png",
+  "model_name": "paddleocr",
+  "raw_text": "Davis and Sons\nINVOICE\n1690 Ashley Shoals | Clarkeshire, TX 50147\nNo: BILL/11287976\nDate: 05/12/2024\nDue: 02/15/2026\nFROM\nBILL TO\n Davis and Sons\n Morris PLC\n1690 Ashley Shoals\nUnit 6331 Box 1614\nClarkeshire, TX 50147\nDPO AP 57756\nDescription\nQuantity\nUnit Price\nAmount\nRight-sized systemic policy\n4.00\n323.27\n1 293.08\nN\nFunction-based coherent database\n9.00\n87.09\n783.81\n3\nQuality-focused client-server open system\n2.00\n497.73\n995.46\nSubtotal\n3 072.35\nTax (10%)\n30024\nDiscount\n-153.62\nTotal Due\n3 225.97\nPAYMENT INFORMATION\nBank: Williams Inc Bank\nAccount: SHTB97763856928226\nThank you for your business",
+  "processing_time_seconds": 2.198,
+  "file_size_bytes": 30010,
+  "success": true
+}

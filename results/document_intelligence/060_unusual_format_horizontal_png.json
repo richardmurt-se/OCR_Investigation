@@ -1,0 +1,84 @@
+{
+  "filename": "060_unusual_format_horizontal.png",
+  "invoice": {
+    "client_name": "Peterson, Carter and Ferguson",
+    "client_address": "6184 Nathan Alley, South Denielleside, NJ 41652",
+    "seller_name": "and",
+    "seller_address": "7522 Davis Ford | Tumerfort, IN 31465",
+    "invoice_number": "INV5128713",
+    "invoice_date": "12/12/2025",
+    "due_date": "09/03/2025"
+  },
+  "items": [
+    {
+      "description": "Virtual contextually-based paradigm",
+      "quantity": "9.00",
+      "unit_price": "64.38",
+      "total_price": "578.78",
+      "category": null
+    },
+    {
+      "description": "Ameliorated dynamic database",
+      "quantity": "9.00",
+      "unit_price": "375.67",
+      "total_price": "3 381.83",
+      "category": null
+    },
+    {
+      "description": "Switchable tertiary focus group",
+      "quantity": "9.00",
+      "unit_price": "89.13",
+      "total_price": "882.17",
+      "category": null
+    },
+    {
+      "description": "Organized multi-state benchmark",
+      "quantity": "2.00",
+      "unit_price": "161.72",
+      "total_price": "323.44",
+      "category": null
+    },
+    {
+      "description": "Vision-oriented fresh-thinking definition",
+      "quantity": "6.88",
+      "unit_price": "348.98",
+      "total_price": "2 093.88",
+      "category": null
+    },
+    {
+      "description": "Cloned 4thgeneration orchestration",
+      "quantity": "5.08",
+      "unit_price": "373.51",
+      "total_price": "1 867.55",
+      "category": null
+    },
+    {
+      "description": "Synergized modular capability",
+      "quantity": "4.88",
+      "unit_price": "285.32",
+      "total_price": "1 141.28",
+      "category": null
+    },
+    {
+      "description": "Fundamental holistic socess",
+      "quantity": "1.88",
+      "unit_price": "424.23",
+      "total_price": "424.23",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "10 612.28",
+    "tax": "1 061.23",
+    "discount": "",
+    "total": "11 673.51"
+  },
+  "payment_instructions": {
+    "due_date": "09/03/2025",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.848,
+  "file_size_bytes": 73205
+}

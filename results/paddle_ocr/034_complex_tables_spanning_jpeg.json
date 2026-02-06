@@ -1,0 +1,8 @@
+{
+  "filename": "034_complex_tables_spanning.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "Lee PLC\nINVOICE\n087 Cynt\nNo: INV-27996560\nDate: 09/30/2025\nLe PLC  087 Cynthia Knoll Suite 316, Robertsside, OH 20653\nINV27996560\nBuye\nLewis and Sons  9287 Gill Plains, Antonioshire, NJ 75814\nDate\n09/30/2025\nShlp To: Lewis and Sons, 9287 Gll Plains, Antonioshire, NJ 75814\nDue\nOn Receipt\nSKU\nDescrlptlon\nITM0010\n6639038584\nOpen architected sccondary solution | Model: UKz 4450, Serial\n7.00\n7.00\n149.69\n1047.83\n1 047.83\nITM0020\nSerial: 8347258334\n6.00\n6.00\n96.41\n578.46\n578.46\n15\n1TM0030\n2.00\n2.00\n371.38\n742.76\n742.76\nITM0040\n9.00\n9.00\n491.60\n4 424.40\n4424.40\nITM0050\n63 units/pack)\nexplicit array (Qty\n5.00\n5.00\n289.08\n1445.40\n1445.40\nSubtotal:\n8238.85\nTax (10%):\n823.89\nPayment due upon receipt\nDiscount:\n-823.89\nShipping:\n0.00\nTOTALDUE:8238.85",
+  "processing_time_seconds": 4.015,
+  "file_size_bytes": 79333,
+  "success": true
+}

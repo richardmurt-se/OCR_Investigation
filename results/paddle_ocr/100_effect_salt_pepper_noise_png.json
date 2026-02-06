@@ -1,0 +1,8 @@
+{
+  "filename": "100_effect_salt_pepper_noise.png",
+  "model_name": "paddleocr",
+  "raw_text": "Bishop, Price and Jordan.\nINVOICE\n2197 siacy\nNo: BILL/43722995\nDate: 07/10/2024:\nDue: 02/14/2026. :\nFROM.\n.BILL TO\nBishop, Price.and Jordan\nTaylor-Fteming\n.3197 Stacy Stravenue Suite 062\n44634 Patrick Row\nSouth Jagetburgh. KY 93740\n. Description\nQuantity\n.Unit Price\nAmount\nMonitored grid-enabled instruction 'set\n10.00\n309.61\n3 096.10\n.318.54\n1448.8\n198.07\n6001.55\n505:15\n5587.70\nPAYMENT INFORMATION\nBank: Brown Jones Credit Qnion\nAccount: LUVZ93043490435305",
+  "processing_time_seconds": 1.653,
+  "file_size_bytes": 68616,
+  "success": true
+}

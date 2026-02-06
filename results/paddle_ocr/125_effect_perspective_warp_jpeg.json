@@ -1,0 +1,8 @@
+{
+  "filename": "125_effect_perspective_warp.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "INVOICE\nNo:BILL3840032\nDate:09/07/2025\nDue:02/14/2026\nWilliams-Rogers\n10Peggy SpurPo LindoyburghVA64285\nBILL TO\nSmith-Lang\n805 Green Glen\nFROM\nAmount\nWilliams-Rogers\nUnit Price\nQuantity\n584.84\n282.42\n2.00\n524.10\nDeccription\n3.00\n174.70\n1276.88\n8.00\n159.61\nDd ndbaed Graphical User Inteace\n407.36\n1629.44\nVaion-oriented content-cased architecture\n4.00\nSubtotal\n3995.26\nTax (10%\n399.53\nTotal Due\n4394.79\nPAYMENT INFORMATION\nBank: Rodriguez, Eums and Shannon Bank\nAccount:ZULA01867456172823",
+  "processing_time_seconds": 2.005,
+  "file_size_bytes": 63377,
+  "success": true
+}

@@ -1,0 +1,63 @@
+{
+  "filename": "056_unusual_format_horizontal.jpeg",
+  "invoice": {
+    "client_name": "Stuart-Anderson",
+    "client_address": "63310 Mccullough Wella Suite 991, Deborahport, FM\n30960",
+    "seller_name": "Williams, Jimenez and Hanson",
+    "seller_address": "8965 Jenning: Burg, Cassandraville, SO 34179",
+    "invoice_number": "BILL-2828204733",
+    "invoice_date": "05/08/2024",
+    "due_date": "09/03/2026"
+  },
+  "items": [
+    {
+      "description": "Diverse client-server analyzer",
+      "quantity": "9.00",
+      "unit_price": "494.89",
+      "total_price": "4 446.81",
+      "category": null
+    },
+    {
+      "description": "Balanced client-server adapter",
+      "quantity": "18.00",
+      "unit_price": "37.46",
+      "total_price": "374.60",
+      "category": null
+    },
+    {
+      "description": "Team-oriented analyzing intranet",
+      "quantity": "5.00",
+      "unit_price": "22.36",
+      "total_price": "111.80",
+      "category": null
+    },
+    {
+      "description": "Compatible solution-oriented Local Area Network",
+      "quantity": "4.00",
+      "unit_price": "217.85",
+      "total_price": "871.48",
+      "category": null
+    },
+    {
+      "description": "Re-engineered responsive algorithm",
+      "quantity": "18.00",
+      "unit_price": "218.89",
+      "total_price": "2 180.90",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "7 985.51",
+    "tax": "798.55",
+    "discount": "",
+    "total": "7 985.51"
+  },
+  "payment_instructions": {
+    "due_date": "09/03/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.934,
+  "file_size_bytes": 69443
+}

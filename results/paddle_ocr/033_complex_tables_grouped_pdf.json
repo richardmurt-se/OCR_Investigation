@@ -1,0 +1,8 @@
+{
+  "filename": "033_complex_tables_grouped.pdf",
+  "model_name": "paddleocr",
+  "raw_text": "Dyer, Page and Edwards\nINVOICE\n6728 Fox Squares - East Sarahchester, KY 61247\n#BILL-512845 | 11/24/2025\nFROM\nBILL TO\nDyer, Page and Edwards\nUnderwood Inc\n6728 Fox Squares\n4598 william Orchard Apt. 835\nEast Sarahchester, KY 61247\nJenkinsview, CO 36197\nGROUP A: Products\n3 Items\n Code\nDescription\nQuantity\nUnit Price\nAmount\nP-0100\n Inverse bi-directional open architecture - 710GB, 38\" displaye\n5.00\n120.18\n600.90\nP-0200\nCloned methodical utilization\n5.00\n148.39\n741.95\nP-0300\nAmeliorated multimedia superstructure | Model: BJQ-1467,\nSerial: 8564225561\n1.00\n10.73\n10.73\nGroup A Subtotal:\nGROUP B: Services\n3 Items\n Code\nDescription\nHours/Qty\nRate\nAmount\nS-0100\nSynchronized systematic strategy - 567GB, 49\" display\n8.00\n84.25\n674.00\nS-0200\nSynergized uniform productivity I Model: IWE-9078, Serial:\n6825697518\n9.00\n243.26\n2 189.34\nS-0300\nMulti-channeled discrete extranet (Qty: 52 units/pack).\n4.00\n353.94\n1 415.76\nGroup B Subtotal:\nProducts Total:\nServices Total:\nSubtotal:\n5 632.68\nTax (10%):\n563.27\n6 195.95\nPayment Information:\nBank: Gibbs, Hill and Dawson Financial | Account: SZLY52290796045922\nDue Date: 03/06/2026",
+  "processing_time_seconds": 3.791,
+  "file_size_bytes": 129311,
+  "success": true
+}

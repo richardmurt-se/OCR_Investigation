@@ -1,0 +1,70 @@
+{
+  "filename": "053_unusual_format_two_column.pdf",
+  "invoice": {
+    "client_name": "Price, Johnson and Rangel",
+    "client_address": "99454 Anderson Fields Apt. 582\nNew Danielleport, PR 87386",
+    "seller_name": "Bailey Group",
+    "seller_address": "215 Case Estate Suite 771 · Allisonland, NM 14260",
+    "invoice_number": "BILL-19041068",
+    "invoice_date": "18/08/2025",
+    "due_date": "23/02/2026"
+  },
+  "items": [
+    {
+      "description": "Cross-platform cohesive open architectur ...",
+      "quantity": "6.00",
+      "unit_price": "",
+      "total_price": "2 277.36",
+      "category": null
+    },
+    {
+      "description": "Organized logistical knowledgebase",
+      "quantity": "3.00",
+      "unit_price": "",
+      "total_price": "617.85",
+      "category": null
+    },
+    {
+      "description": "Switchable radical support",
+      "quantity": "9.00",
+      "unit_price": "",
+      "total_price": "107.37",
+      "category": null
+    },
+    {
+      "description": "Adaptive demand-driven matrices",
+      "quantity": "1.00",
+      "unit_price": "",
+      "total_price": "173.08",
+      "category": null
+    },
+    {
+      "description": "Switchable mobile service-desk",
+      "quantity": "2.00",
+      "unit_price": "",
+      "total_price": "575.12",
+      "category": null
+    },
+    {
+      "description": "Front-line discrete architecture",
+      "quantity": "4.00",
+      "unit_price": "",
+      "total_price": "1 231.96",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "4 982.74",
+    "tax": "498.27",
+    "discount": "",
+    "total": "5 481.01"
+  },
+  "payment_instructions": {
+    "due_date": "23/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.318,
+  "file_size_bytes": 185236
+}

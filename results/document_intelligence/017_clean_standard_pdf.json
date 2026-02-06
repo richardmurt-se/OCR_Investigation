@@ -1,0 +1,84 @@
+{
+  "filename": "017_clean_standard.pdf",
+  "invoice": {
+    "client_name": "Singleton, James and Morris",
+    "client_address": "",
+    "seller_name": "Craig and Sons",
+    "seller_address": "",
+    "invoice_number": "FAC1098289",
+    "invoice_date": "07/10/2024",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Versatile hybrid attitude",
+      "quantity": "2.00",
+      "unit_price": "342.09",
+      "total_price": "684.18",
+      "category": null
+    },
+    {
+      "description": "Adaptive cohesive application",
+      "quantity": "2.00",
+      "unit_price": "150.73",
+      "total_price": "301.46",
+      "category": null
+    },
+    {
+      "description": "Public-key directional challenge",
+      "quantity": "8.00",
+      "unit_price": "411.51",
+      "total_price": "3 292.08",
+      "category": null
+    },
+    {
+      "description": "Cross-group modular parallelism",
+      "quantity": "10.00",
+      "unit_price": "305.34",
+      "total_price": "3 053.40",
+      "category": null
+    },
+    {
+      "description": "Re-engineered 24/7 data-warehouse",
+      "quantity": "1.00",
+      "unit_price": "455.08",
+      "total_price": "455.08",
+      "category": null
+    },
+    {
+      "description": "Optimized heuristic capability",
+      "quantity": "6.00",
+      "unit_price": "111.99",
+      "total_price": "671.94",
+      "category": null
+    },
+    {
+      "description": "Persevering asymmetric policy",
+      "quantity": "9.00",
+      "unit_price": "147.60",
+      "total_price": "1 328.40",
+      "category": null
+    },
+    {
+      "description": "Compatible real-time help-desk",
+      "quantity": "1.00",
+      "unit_price": "100.90",
+      "total_price": "100.90",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "9 887.44",
+    "tax": "988.74",
+    "discount": "",
+    "total": "9 887.44"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.884,
+  "file_size_bytes": 109914
+}

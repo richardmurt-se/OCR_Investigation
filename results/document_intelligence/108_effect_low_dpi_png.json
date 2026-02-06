@@ -1,0 +1,27 @@
+{
+  "filename": "108_effect_low_dpi.png",
+  "invoice": {
+    "client_name": "",
+    "client_address": "",
+    "seller_name": "Massey Group",
+    "seller_address": "",
+    "invoice_number": "",
+    "invoice_date": "16/04/2021",
+    "due_date": ""
+  },
+  "items": [],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "8.30"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.337,
+  "file_size_bytes": 118307
+}

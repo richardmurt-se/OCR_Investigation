@@ -1,0 +1,8 @@
+{
+  "filename": "051_unusual_format_sidebar.pdf",
+  "model_name": "paddleocr",
+  "raw_text": "INVOICE\nFROM\nBoyd,\n Simmons and Smith\nBrown-Edwards\n9447 John Course\nUnit 8634 Box 3955\nPort Dawnshire, ID 49012.\nDPO AP 72176\nBILL-68886577\n08/29/2025\nLINE ITEMS\n02/22/2026\n01\nDistributed coherent capacity\n4.00\n328.56\nSUMMARY\n02\nSynergized human-resource intranet\n2.00\n556.96\nSubtotal\n3024.47\nTax\n302.45\n03\nFundamental optimizing implementation\n5.00\n2 138.95\nDiscount\n-151.22\nTOTAL\n3 175.70\nNote: Payment is due upon receipt. Please reference invoice number BILL-68886577 on\nall correspondence.\nGriffin, Robinson and\nBennett Financial\nIWLY16785305378653",
+  "processing_time_seconds": 2.71,
+  "file_size_bytes": 148544,
+  "success": true
+}

@@ -1,0 +1,8 @@
+{
+  "filename": "090_effect_edge_blur.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "Rivera-Hawkins\nINVOICE\nVA15084\nNo:FAC-2025953465\nDate:08/31/2025\nDue:02/18/2026\nFROM\nBILL TO\nRivera-Hawkins\nJones, Bradford and Mcguire\n41309Benson lsle\n52890 Christina Key Apt.281\nNew Donaldstad,VA 15084\nMartinezshire,MD 55260\nDescription\nQuantity\nUnit Price\nAmount\nFuture-proofed exuding strategy\n7.00\n245.21\n1716.47\n2\nUp-sized intermediate algorithm\n8.00\n475.16\n3 801.28\n3\nMulti-tiered value-added core\n6.00\n193.36\n1160.16\nBalanced 3rdgeneration moratorium\n2.00\n158.42\n316.84\nSubtotal\n6994.76\nTax (10%)\n699.48\nDiscount\n-349.74\nTotal Due\n7344.49\nPAYMENT INFORMATION\nBank: Barrett-Edwards Bank\nAccount:PWZJ37641511481829\nThank you for your business",
+  "processing_time_seconds": 2.452,
+  "file_size_bytes": 56540,
+  "success": true
+}

@@ -1,0 +1,84 @@
+{
+  "filename": "104_effect_brightness_contrast.pdf",
+  "invoice": {
+    "client_name": "Mejia, Reyes and Garcia",
+    "client_address": "",
+    "seller_name": "Martinez Ltd",
+    "seller_address": "62496 Parker Via Apt. 285 | Williamsport, VA 12310",
+    "invoice_number": "INV/43184683",
+    "invoice_date": "14/05/2025",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Optimized exuding analyzer",
+      "quantity": "5.00",
+      "unit_price": "192.94",
+      "total_price": "984.70",
+      "category": null
+    },
+    {
+      "description": "Pre-emptive incremental adapter",
+      "quantity": "1.00",
+      "unit_price": "474.66",
+      "total_price": "474.66",
+      "category": null
+    },
+    {
+      "description": "Quality-focused high-level firmware",
+      "quantity": "10.00",
+      "unit_price": "492.76",
+      "total_price": "4 927.60",
+      "category": null
+    },
+    {
+      "description": "Object-based empowering functionalities",
+      "quantity": "8.00",
+      "unit_price": "447.69",
+      "total_price": "3 581.52",
+      "category": null
+    },
+    {
+      "description": "User-centric well-modulated data-warehouse",
+      "quantity": "8.00",
+      "unit_price": "329.11",
+      "total_price": "2 632.88",
+      "category": null
+    },
+    {
+      "description": "Synergistic asynchronous implementation",
+      "quantity": "3.00",
+      "unit_price": "432.62",
+      "total_price": "1 297.86",
+      "category": null
+    },
+    {
+      "description": "Expanded 3rdgeneration parallelism",
+      "quantity": "9.00",
+      "unit_price": "10.31",
+      "total_price": "92.79",
+      "category": null
+    },
+    {
+      "description": "Enterprise-wide clear-thinking Local Area Network",
+      "quantity": "7.00",
+      "unit_price": "95.23",
+      "total_price": "666.61",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "14 638.62",
+    "tax": "1 463.86",
+    "discount": "",
+    "total": "14 638.62"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.656,
+  "file_size_bytes": 29678
+}

@@ -1,0 +1,8 @@
+{
+  "filename": "022_clean_minimal.png",
+  "model_name": "paddleocr",
+  "raw_text": "INVOICE\nINV863393\n11/15/2024\nFROM\nTO\nAlvarez, Kelly and Morris\nTyler and Sons\n188 Vanessa Keys\n99897 Webb Village\nLoganville, ME 35474\nPort Anthony, KS 19546\nDESCRIPTION\nQTY\nPRICE\nTOTAL\nObject-based static archive\n8.00\n96.99\n775.92\nUpgradabl\n5.00\n447.62\n2 238.10\nFocus\n9.00\n373.31\n3 359.79\n3.00\n178.99\n536.97\nRobust cohesive monitoring\n9.00\n107.35\n1 506.15\nDevolved incremental array\n4.00\n220.92\n883.68\nSubtotal\n9 300.61\nXEL\n930.06\nTotal\n10 230.67\nThank you",
+  "processing_time_seconds": 2.125,
+  "file_size_bytes": 25427,
+  "success": true
+}

@@ -1,0 +1,8 @@
+{
+  "filename": "155_effect_wrinkles_crumples.pdf",
+  "model_name": "paddleocr",
+  "raw_text": "Little, Vazquez and Bowman\nINVOICE\nNo: INV/648427\nDate: 08/08/2025\nFROM\nBILL TO\nLittle, Vazquez and Bowman\n Moreno, Owens and Rich\n46858 Anderson Field Suite 325\n91132 Wiley Forge\nNorth Richardmouth, CT 20815\nPort Matthewville, VI 24315\nDescription\nQuantity\nUnit Price\nAmount\n Synergistic bi-directional moratorium\n6.00\n183.80\n1 102.80\n2\nMandatory dizcrete algorithm\n2.00\n477.48\n954.90\n3\nwledgebase\n1.00\n01.24\n01.24\n8.00\n477.00\n3 816.00\nPolarized actuating algorithm\n5\n1.00\n471.90\n471.90\nSubtotal\n6 436.90\nTax (10%)\n643.09\n7 080.59",
+  "processing_time_seconds": 2.236,
+  "file_size_bytes": 191393,
+  "success": true
+}

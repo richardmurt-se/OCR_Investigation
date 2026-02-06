@@ -1,0 +1,8 @@
+{
+  "filename": "118_effect_gaussian_noise.png",
+  "model_name": "paddleocr",
+  "raw_text": "Whitaker, Ball and James.\nINVOICE\n11509 Butler Inlet Apt. 350 | New Matthewhaven, GU 32540\nNo: FAC8310294948\nDate: 10/23/2024\nDue: 02/28/2026\nFROM\nBILL TO\nWhitaker, Ball and James\nRosario Inc\n11509 Butler Inlet Apt. 350\n 685 Marks Rue Suite 772\nNew Matthewhaven, GU 32540\nPort Kirsten, GU 07416\n Description\n Quantity\nUnit Price\nAmount\nFuture-proofed user-facing ability\n2.00\n88.27\n176.54\nNetworked eco-centric architecture.\n5.00\n252.59\n1 282.95\nVersatile web-enabled extranet\n7.00\n115.86\n811.02\nSynchronized heuristic orchestration.\n3.00\n366.53\n1 099.59\nEnhanced client-server hierarchy\n4.00\n151.05\n604.20\nPolarized human-resource extranet.\n1.00\n41.57\n41.57\n Progressive composite customer loyalty.\n8.00\n238.23\n1 905.84\n Subtotal\n5 901.71\nTax (10%)\n590.17\nDiscount\n-295.09\n6 196.79\nPAYMENT INFORMATION\nBank: Rivera LLC Bank\nAccount: QJCE58434644333789\nMethod: Check\nThank you for your business",
+  "processing_time_seconds": 3.292,
+  "file_size_bytes": 1599012,
+  "success": true
+}

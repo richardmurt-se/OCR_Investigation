@@ -1,0 +1,8 @@
+{
+  "filename": "138_effect_handwritten_annotations.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "Norris Inc\nINVOICE\n1876Fisher Parkways |ClarkviewPR 92613\nNo:FAC7313330\nDate:05/21/2025\nDue:02/16/2026\nFROM\nBILL TO\nNorris Inc\nLutz,Alvarez and Palmer\n1876 Fisher Parkways\n36716 Mark Land Apt.543\nClarkview,PR92813\nTinaburgh.MN 34364\nDescription\nQuantity\nUnit Price\nAmount\nAssimilated optimizing forecast\n5.00\n293.72\n1 468.60\n2\nUser-centric multi-state archive\n7.00\n498.30\n3488.10\n3\nBalanced cohesive model\n4.00\n160.18\n640.72\nDistributed real-time open system\n3.00\n29.37\n88.11\nSubtotal\n5685.53\nTax (10%)\n508.55\nDiscount\n-284.28\nTotal Due\n5989.80\nPAYMENT INFORMATION\nBank: Brown-Martinez Bank\nAccount:UPME11278406823759\nMethod: Wire Transfer\nThank you for your business",
+  "processing_time_seconds": 2.604,
+  "file_size_bytes": 63864,
+  "success": true
+}

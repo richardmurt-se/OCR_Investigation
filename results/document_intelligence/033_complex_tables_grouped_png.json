@@ -1,0 +1,70 @@
+{
+  "filename": "033_complex_tables_grouped.png",
+  "invoice": {
+    "client_name": "Underwood Inc",
+    "client_address": "",
+    "seller_name": "Dyer, Page and Edwards",
+    "seller_address": "6728 Fox Squares . East Sarahchester, KY 61247",
+    "invoice_number": "#BILL-512845",
+    "invoice_date": "24/11/2025",
+    "due_date": "06/03/2026"
+  },
+  "items": [
+    {
+      "description": "Inverse bi-directional open architecture - 710GB, 38\" display",
+      "quantity": "5.00",
+      "unit_price": "120.18",
+      "total_price": "600.90",
+      "category": null
+    },
+    {
+      "description": "Cloned methodical utilization",
+      "quantity": "5.00",
+      "unit_price": "148.39",
+      "total_price": "741.95",
+      "category": null
+    },
+    {
+      "description": "Ameliorated multimedia superstructure | Model: BJQ-1467, Serial:\n8564225561",
+      "quantity": "1.00",
+      "unit_price": "10.73",
+      "total_price": "10.73",
+      "category": null
+    },
+    {
+      "description": "Synchronized systematic strategy - 567GB, 49\" display",
+      "quantity": "8.00",
+      "unit_price": "84.25",
+      "total_price": "674.00",
+      "category": null
+    },
+    {
+      "description": "Synergized uniform productivity | Model: IWE-9078, Serial: 6825697518",
+      "quantity": "9.00",
+      "unit_price": "243.26",
+      "total_price": "2 189.34",
+      "category": null
+    },
+    {
+      "description": "Multi-channeled discrete extranet (Qty: 52 units/pack)",
+      "quantity": "4.00",
+      "unit_price": "353.94",
+      "total_price": "1 415.76",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "5 632.68",
+    "tax": "563.27",
+    "discount": "",
+    "total": "6 195.95"
+  },
+  "payment_instructions": {
+    "due_date": "06/03/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.652,
+  "file_size_bytes": 50686
+}

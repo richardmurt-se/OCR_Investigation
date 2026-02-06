@@ -1,0 +1,70 @@
+{
+  "filename": "086_effect_patch_blur.pdf",
+  "invoice": {
+    "client_name": "Morgan-Jennings",
+    "client_address": "",
+    "seller_name": "Mendez LLC",
+    "seller_address": "6961 Alicia Knoll Apt. 093 | Reneeside, WY 24178",
+    "invoice_number": "INV98612238",
+    "invoice_date": "29/08/2025",
+    "due_date": "21/02/2026"
+  },
+  "items": [
+    {
+      "description": "Pre-emptive composite help-desk",
+      "quantity": "10.00",
+      "unit_price": "86.40",
+      "total_price": "864.00",
+      "category": null
+    },
+    {
+      "description": "Triple-buffered client-server toolset",
+      "quantity": "3.00",
+      "unit_price": "61.95",
+      "total_price": "185.85",
+      "category": null
+    },
+    {
+      "description": "Cross-platform needs-based superstructure",
+      "quantity": "4.00",
+      "unit_price": "235.11",
+      "total_price": "940.44",
+      "category": null
+    },
+    {
+      "description": "Public-key web-enabled benchmark",
+      "quantity": "1.00",
+      "unit_price": "16.87",
+      "total_price": "16.87",
+      "category": null
+    },
+    {
+      "description": "Balanced encompassing definition",
+      "quantity": "10.00",
+      "unit_price": "82.61",
+      "total_price": "826.10",
+      "category": null
+    },
+    {
+      "description": "Stand-alone grid-enabled instruction set",
+      "quantity": "4.00",
+      "unit_price": "416.56",
+      "total_price": "1 686.24",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "4 499.50",
+    "tax": "449.95",
+    "discount": "",
+    "total": "4 949.45"
+  },
+  "payment_instructions": {
+    "due_date": "21/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.849,
+  "file_size_bytes": 81180
+}

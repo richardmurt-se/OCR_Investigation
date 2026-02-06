@@ -1,0 +1,49 @@
+{
+  "filename": "035_complex_tables_nested.pdf",
+  "invoice": {
+    "client_name": "Davis Group",
+    "client_address": "",
+    "seller_name": "Paul-Olsen Financial",
+    "seller_address": "615 Tara Roads Apt. 269 | West Jennifer, WV 37865",
+    "invoice_number": "56098395",
+    "invoice_date": "26/08/2024",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Right-sized modular benchmark | Model: Ehb-1626, Serial:\n8813172316",
+      "quantity": "10.00",
+      "unit_price": "466.40",
+      "total_price": "4 664.00",
+      "category": null
+    },
+    {
+      "description": "Cross-group homogeneous strategy | Model: Mcw-2887, Serial:\n5384151600",
+      "quantity": "4.00",
+      "unit_price": "14.77",
+      "total_price": "59.08",
+      "category": null
+    },
+    {
+      "description": "Seamless cohesive projection - 693GB, 5\" display",
+      "quantity": "5.00",
+      "unit_price": "186.94",
+      "total_price": "934.70",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "5 657.78",
+    "tax": "565.78",
+    "discount": "",
+    "total": "6 223.56"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.12,
+  "file_size_bytes": 142161
+}

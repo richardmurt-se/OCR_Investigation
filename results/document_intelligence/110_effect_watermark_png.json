@@ -1,0 +1,56 @@
+{
+  "filename": "110_effect_watermark.png",
+  "invoice": {
+    "client_name": "Hunter, Garcia and Jones",
+    "client_address": "",
+    "seller_name": "Phillips-Kidd",
+    "seller_address": "36587 Nicole Stream Suite 644\nNorth Olivia, CA 38958",
+    "invoice_number": "INV3176967",
+    "invoice_date": "17/12/2024",
+    "due_date": "11/03/2026"
+  },
+  "items": [
+    {
+      "description": "Optimized solution-oriented migration",
+      "quantity": "5.00",
+      "unit_price": "428.88",
+      "total_price": "2 144.40",
+      "category": null
+    },
+    {
+      "description": "Sharable uniform project",
+      "quantity": "1.00",
+      "unit_price": "334.51",
+      "total_price": "334.51",
+      "category": null
+    },
+    {
+      "description": "Re-engineered directional benchmark",
+      "quantity": "5.00",
+      "unit_price": "128.75",
+      "total_price": "643.75",
+      "category": null
+    },
+    {
+      "description": "Re-engineered needs-based open system",
+      "quantity": "7.00",
+      "unit_price": "393.90",
+      "total_price": "2 757.30",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "5 879.96",
+    "tax": "588.00",
+    "discount": "",
+    "total": "5 879.96"
+  },
+  "payment_instructions": {
+    "due_date": "11/03/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.69,
+  "file_size_bytes": 56581
+}

@@ -1,0 +1,70 @@
+{
+  "filename": "025_clean_standard.png",
+  "invoice": {
+    "client_name": "Smith and Sons",
+    "client_address": "",
+    "seller_name": "Hughes-Rodriguez",
+    "seller_address": "PSC 9371, Box 4400\nAPO AP 48442",
+    "invoice_number": "INV/1311296",
+    "invoice_date": "08/03/2025",
+    "due_date": "06/03/2026"
+  },
+  "items": [
+    {
+      "description": "Versatile user-facing knowledgebase",
+      "quantity": "5.00",
+      "unit_price": "21.56",
+      "total_price": "107.80",
+      "category": null
+    },
+    {
+      "description": "Balanced multi-state architecture",
+      "quantity": "4.00",
+      "unit_price": "339.71",
+      "total_price": "1 358.84",
+      "category": null
+    },
+    {
+      "description": "Configurable multi-state leverage",
+      "quantity": "10.00",
+      "unit_price": "201.80",
+      "total_price": "2 018.00",
+      "category": null
+    },
+    {
+      "description": "Balanced bandwidth-monitored benchmark",
+      "quantity": "5.00",
+      "unit_price": "11.79",
+      "total_price": "58.95",
+      "category": null
+    },
+    {
+      "description": "Proactive system-worthy protocol",
+      "quantity": "6.00",
+      "unit_price": "125.58",
+      "total_price": "753.48",
+      "category": null
+    },
+    {
+      "description": "Cross-platform 4thgeneration conglomeration",
+      "quantity": "1.00",
+      "unit_price": "53.24",
+      "total_price": "53.24",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "4 350.31",
+    "tax": "435.03",
+    "discount": "",
+    "total": "4 587.82"
+  },
+  "payment_instructions": {
+    "due_date": "06/03/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.605,
+  "file_size_bytes": 34028
+}

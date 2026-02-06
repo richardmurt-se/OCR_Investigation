@@ -1,0 +1,8 @@
+{
+  "filename": "052_unusual_format_horizontal.pdf",
+  "model_name": "paddleocr",
+  "raw_text": "Warren-Parker\nINVOICE\n0616 Smith Pines| Jeremyborough, SC 02382\nBILL-480479444\n07/29/2025\nSELLER\nBUYER\nSHIP TO\nDETAILS\nWarren-Parker\nAguirre-Dominguez\nAguirre-Dominguez\nInvoice: BILL-480479444\n0616 Smith Pines, Jeremyborough, SC 02382\n96710 Tom Ferry Suite 959, North Christopher, MI\n96710 Tom Ferry Suite 959, North Christopher, M\nDate: 07/29/2025\n40671\n40671\nDue: 02/20/2026\nSKU\n Item Description\nCategory\nQty\nwon\nUnit Price\n Line Total\nSKU00100\nGeneral\n6.00EA\n34.14\n10%\n204.84\n2\nSKU00200\nAutomated actuating monitoring\nGeneral\n8.00\n460.55\n10%\n3 684.40\n3\nSKU00300\nFunction-based actuating Graphical User Interface\nGeneral\n10.00\nEA\n163.03\n10%\n1 630.30\nSKU00400\n4\nDigitized executive emulation\nGeneral\n10.00\nEA\n478.26\n10%\n4 782.60\n5\nSKU00500\nMandatory systemic knowledgebase\nGeneral\n1.00\nEA\n478.05\n10%\n478.05\n6\nSKU00600\nInnovative discrete hardware\nGeneral\n2.00\nEA\n154.58\n10%\n309.16\n7\nSKU00700\nMulti-tiered fresh-thinking synergy\nGeneral\n7.00\nEA\n181.76\n10%\n1 272.32\nSKU00800\nProactive interactive hub\nGeneral\n5.00\nEA\n473.87\n10%\n2 369.35\nPayment: Hanson Ltd Credit Union | Acct: YCZQ84091914370852 | Wire Transfer\nOTAL DUE\n14 731.02\n1 473.10\n16 204.12\nWarren-Parker | Invoice #BILL-480479444 | 07/29/2025 | Thank you for your business.",
+  "processing_time_seconds": 4.749,
+  "file_size_bytes": 125892,
+  "success": true
+}

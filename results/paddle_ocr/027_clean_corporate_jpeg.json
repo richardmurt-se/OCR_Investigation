@@ -1,0 +1,8 @@
+{
+  "filename": "027_clean_corporate.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "MayoMarshall and Wilson\nPSC 5068, B0x 0003APO AA71336\nINVOICE\n06/06/2024\nSELLER\nBUYER\nMayo, Marshall and wilson\nBailey-Robinson\nPSC 5068B0x 0003\n3046 Chavez Mount Suite 060\nAPOAA71336\nEmilytown, SD 61524\nNO.\nDESCRIPTION\nQUANTITY\nUNIT PRICE\nAMDUNT\nCross-platform zero tolerance core\n8.00\n17.64\n141.12\nReverse-engineered directional middleware\n9.00\n206.28\n1856.52\n3\nUser-friendly global project\n7.00\n308.00\n2156.00\nSubtotal\n4153.64\nTax (10%)\n415.36\nDiscount\n-207.68\nTOTAL DUE\n4361.32\nEANKING DETAILS\nBank: Johnson Inc Financial\nAccountSPKL41983812844967\nDue Date:03/11/2026\nMayoMarshall and wilsonInvoice #FAC/755218806/06/2024",
+  "processing_time_seconds": 2.564,
+  "file_size_bytes": 75311,
+  "success": true
+}

@@ -1,0 +1,56 @@
+{
+  "filename": "083_multilingual_hu_minimal.jpeg",
+  "invoice": {
+    "client_name": "Török Kft.",
+    "client_address": "Váctamásii tér 193.\nH-4669 Budapest",
+    "seller_name": "Balogh Kht.",
+    "seller_address": "Széknémetii út 100.\nH-1162 Pusztahídhida",
+    "invoice_number": "INV2411994133",
+    "invoice_date": "18/08/2025",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Vision-oriented 3rdgeneration success",
+      "quantity": "2.00",
+      "unit_price": "52.88",
+      "total_price": "105.76",
+      "category": null
+    },
+    {
+      "description": "Mandatory homogeneous structure",
+      "quantity": "5.00",
+      "unit_price": "369.97",
+      "total_price": "1 849.85",
+      "category": null
+    },
+    {
+      "description": "Universal national data-warehouse",
+      "quantity": "1.00",
+      "unit_price": "253.30",
+      "total_price": "253.30",
+      "category": null
+    },
+    {
+      "description": "Progressive bandwidth-monitored monitoring",
+      "quantity": "3.00",
+      "unit_price": "95.62",
+      "total_price": "286.86",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "2 495.77",
+    "tax": "249.58",
+    "discount": "-249.58",
+    "total": "2 495.77"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.622,
+  "file_size_bytes": 37978
+}

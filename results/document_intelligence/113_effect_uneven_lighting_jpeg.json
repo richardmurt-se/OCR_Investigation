@@ -1,0 +1,77 @@
+{
+  "filename": "113_effect_uneven_lighting.jpeg",
+  "invoice": {
+    "client_name": "Gilbert, Thompson and Jackson",
+    "client_address": "",
+    "seller_name": "Johnson PLC",
+    "seller_address": "1807 Jimenez Bridge\nLake Devin, IL 66325",
+    "invoice_number": "BILL/169061976",
+    "invoice_date": "27/05/2025",
+    "due_date": "21/02/2026"
+  },
+  "items": [
+    {
+      "description": "Total 4thgeneration workforce",
+      "quantity": "9.00",
+      "unit_price": "492.38",
+      "total_price": "4 431.42",
+      "category": null
+    },
+    {
+      "description": "Progressive directional matrices",
+      "quantity": "5.00",
+      "unit_price": "142.00",
+      "total_price": "710.00",
+      "category": null
+    },
+    {
+      "description": "Fundamental radical open system",
+      "quantity": "4.00",
+      "unit_price": "164.61",
+      "total_price": "658.44",
+      "category": null
+    },
+    {
+      "description": "Managed solution-oriented task-force",
+      "quantity": "3.00",
+      "unit_price": "208.76",
+      "total_price": "626.28",
+      "category": null
+    },
+    {
+      "description": "Team-oriented multi-tasking initiative",
+      "quantity": "3.00",
+      "unit_price": "146.48",
+      "total_price": "439.44",
+      "category": null
+    },
+    {
+      "description": "Total regional circuit",
+      "quantity": "7.00",
+      "unit_price": "60.87",
+      "total_price": "426.09",
+      "category": null
+    },
+    {
+      "description": "User-friendly zero-defect core",
+      "quantity": "6.00",
+      "unit_price": "437.39",
+      "total_price": "2 624.34",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "9 916.01",
+    "tax": "991.60",
+    "discount": "",
+    "total": "10 411.81"
+  },
+  "payment_instructions": {
+    "due_date": "21/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.27,
+  "file_size_bytes": 222322
+}

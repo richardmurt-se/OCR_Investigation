@@ -1,0 +1,77 @@
+{
+  "filename": "146_effect_stamps.png",
+  "invoice": {
+    "client_name": "Smith-Payne",
+    "client_address": "",
+    "seller_name": "Camacho-Preston",
+    "seller_address": "79100 Wheeler Shoals Apt. 075\nEast James, NE 86392",
+    "invoice_number": "INV-4030770546",
+    "invoice_date": "05/07/2024",
+    "due_date": "11/03/2026"
+  },
+  "items": [
+    {
+      "description": "Devolved uniform complexity",
+      "quantity": "7.00",
+      "unit_price": "84.50",
+      "total_price": "591.50",
+      "category": null
+    },
+    {
+      "description": "Re-contextualized coherent instruction set",
+      "quantity": "",
+      "unit_price": "309.72",
+      "total_price": "619.44",
+      "category": null
+    },
+    {
+      "description": "Mandatory disintermediate knowledgebase",
+      "quantity": "8.00",
+      "unit_price": "423.47",
+      "total_price": "2 540.82",
+      "category": null
+    },
+    {
+      "description": "Streamlined 4thgeneration initiative",
+      "quantity": "",
+      "unit_price": "36.89",
+      "total_price": "73.78",
+      "category": null
+    },
+    {
+      "description": "Public-key heuristic Internet solution",
+      "quantity": "",
+      "unit_price": "364.44",
+      "total_price": "2 551.08",
+      "category": null
+    },
+    {
+      "description": "Reactive executive benchmark",
+      "quantity": "400.00",
+      "unit_price": "436.72",
+      "total_price": "1 746.88",
+      "category": null
+    },
+    {
+      "description": "Cloned discrete leverage",
+      "quantity": "3.00",
+      "unit_price": "137.42",
+      "total_price": "412.26",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "8 535.76",
+    "tax": "853.58",
+    "discount": "",
+    "total": "8 535.76"
+  },
+  "payment_instructions": {
+    "due_date": "11/03/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.029,
+  "file_size_bytes": 117609
+}

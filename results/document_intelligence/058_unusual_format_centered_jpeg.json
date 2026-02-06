@@ -1,0 +1,49 @@
+{
+  "filename": "058_unusual_format_centered.jpeg",
+  "invoice": {
+    "client_name": "Fisher-Martin",
+    "client_address": "",
+    "seller_name": "ROBINSON, BELL AND MAYER",
+    "seller_address": "941 Vickie Pine Suite 278 - East Stanleyshire, AR 37500",
+    "invoice_number": "FAC/571722727",
+    "invoice_date": "03/02/2024",
+    "due_date": "28/02/2026"
+  },
+  "items": [
+    {
+      "description": "Self-enabling mobile hardware",
+      "quantity": "4.00",
+      "unit_price": "267.04",
+      "total_price": "1 068.16",
+      "category": null
+    },
+    {
+      "description": "Stand-alone clear-thinking concept",
+      "quantity": "7.00",
+      "unit_price": "280.73",
+      "total_price": "1 965.11",
+      "category": null
+    },
+    {
+      "description": "Stand-alone solution-oriented Graphic Interface",
+      "quantity": "3.00",
+      "unit_price": "75.23",
+      "total_price": "225.69",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "3 258.96",
+    "tax": "325.90",
+    "discount": "",
+    "total": "3 584.86"
+  },
+  "payment_instructions": {
+    "due_date": "28/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.75,
+  "file_size_bytes": 58395
+}

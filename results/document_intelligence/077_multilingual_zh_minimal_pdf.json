@@ -1,0 +1,70 @@
+{
+  "filename": "077_multilingual_zh_minimal.pdf",
+  "invoice": {
+    "client_name": "盟新传媒有限公司",
+    "client_address": "内蒙古自治区宜都县江北成都路B座 754373",
+    "seller_name": "网新恒天网络有限公司",
+    "seller_address": "内蒙古自治区志强县和平六安路V座 381577",
+    "invoice_number": "BILL4833666",
+    "invoice_date": "02/08/2024",
+    "due_date": "03/03/2026"
+  },
+  "items": [
+    {
+      "description": "Mandatory demand-driven portal",
+      "quantity": "10.00",
+      "unit_price": "304.54",
+      "total_price": "3 045.40",
+      "category": null
+    },
+    {
+      "description": "Expanded tertiary circuit",
+      "quantity": "8.00",
+      "unit_price": "379.08",
+      "total_price": "3 032.64",
+      "category": null
+    },
+    {
+      "description": "Focused actuating product",
+      "quantity": "6.00",
+      "unit_price": "242.59",
+      "total_price": "1 455.54",
+      "category": null
+    },
+    {
+      "description": "Virtual tertiary algorithm",
+      "quantity": "1.00",
+      "unit_price": "217.86",
+      "total_price": "217.86",
+      "category": null
+    },
+    {
+      "description": "Programmable transitional migration",
+      "quantity": "7.00",
+      "unit_price": "147.94",
+      "total_price": "1 035.58",
+      "category": null
+    },
+    {
+      "description": "Multi-channeled static open architecture",
+      "quantity": "5.00",
+      "unit_price": "35.72",
+      "total_price": "178.60",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "8 965.62",
+    "tax": "896.56",
+    "discount": "-448.28",
+    "total": "9 413.90"
+  },
+  "payment_instructions": {
+    "due_date": "03/03/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.721,
+  "file_size_bytes": 78221
+}

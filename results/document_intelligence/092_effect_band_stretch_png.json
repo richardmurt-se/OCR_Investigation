@@ -1,0 +1,49 @@
+{
+  "filename": "092_effect_band_stretch.png",
+  "invoice": {
+    "client_name": "Trujillo and Sons",
+    "client_address": "",
+    "seller_name": "Floyd Group",
+    "seller_address": "FPO AP 40156",
+    "invoice_number": "INV-8228964",
+    "invoice_date": "11/03/2025",
+    "due_date": "04/03/2026"
+  },
+  "items": [
+    {
+      "description": "",
+      "quantity": "o nn",
+      "unit_price": "210.09",
+      "total_price": "4.75",
+      "category": null
+    },
+    {
+      "description": "-engineered systematic encryption",
+      "quantity": "6.00",
+      "unit_price": "",
+      "total_price": "350.67",
+      "category": null
+    },
+    {
+      "description": "and-alone national paradigm",
+      "quantity": "8.00",
+      "unit_price": "",
+      "total_price": "493.33",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "780.21",
+    "discount": "",
+    "total": "8 582.31"
+  },
+  "payment_instructions": {
+    "due_date": "04/03/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.64,
+  "file_size_bytes": 35798
+}

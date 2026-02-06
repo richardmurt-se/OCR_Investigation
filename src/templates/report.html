@@ -1,0 +1,684 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OCR Comparison Report - {{ model_name }}</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+    <style>
+        :root {
+            --color-success: #22c55e;
+            --color-warning: #eab308;
+            --color-danger: #ef4444;
+            --color-info: #3b82f6;
+            --color-bg: #f8fafc;
+            --color-card: #ffffff;
+            --color-border: #e2e8f0;
+            --color-text: #1e293b;
+            --color-text-muted: #64748b;
+        }
+        
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background-color: var(--color-bg);
+            color: var(--color-text);
+            line-height: 1.6;
+            padding: 2rem;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        
+        /* Header */
+        .header {
+            margin-bottom: 2rem;
+            padding-bottom: 1rem;
+            border-bottom: 2px solid var(--color-border);
+        }
+        
+        .header h1 {
+            font-size: 1.875rem;
+            font-weight: 700;
+            color: var(--color-text);
+        }
+        
+        .header .subtitle {
+            color: var(--color-text-muted);
+            font-size: 0.875rem;
+            margin-top: 0.25rem;
+        }
+        
+        /* Summary Cards */
+        .cards-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+        
+        .card {
+            background: var(--color-card);
+            border-radius: 0.75rem;
+            padding: 1.5rem;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+            border-left: 4px solid var(--color-info);
+        }
+        
+        .card.success { border-left-color: var(--color-success); }
+        .card.warning { border-left-color: var(--color-warning); }
+        .card.danger { border-left-color: var(--color-danger); }
+        .card.info { border-left-color: var(--color-info); }
+        
+        .card-label {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: var(--color-text-muted);
+            margin-bottom: 0.5rem;
+        }
+        
+        .card-value {
+            font-size: 1.875rem;
+            font-weight: 700;
+        }
+        
+        .card.success .card-value { color: var(--color-success); }
+        .card.warning .card-value { color: var(--color-warning); }
+        .card.danger .card-value { color: var(--color-danger); }
+        .card.info .card-value { color: var(--color-info); }
+        
+        .card-detail {
+            font-size: 0.75rem;
+            color: var(--color-text-muted);
+            margin-top: 0.25rem;
+        }
+        
+        /* Sections */
+        .section {
+            background: var(--color-card);
+            border-radius: 0.75rem;
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+        }
+        
+        .section-title {
+            font-size: 1.125rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 1px solid var(--color-border);
+        }
+        
+        /* Charts */
+        .charts-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 1.5rem;
+        }
+        
+        .chart-container {
+            background: var(--color-card);
+            border-radius: 0.75rem;
+            padding: 1.5rem;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+        }
+        
+        .chart-title {
+            font-size: 1rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+        }
+        
+        /* Tables */
+        .table-container {
+            overflow-x: auto;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.875rem;
+        }
+        
+        th, td {
+            padding: 0.75rem 1rem;
+            text-align: left;
+            border-bottom: 1px solid var(--color-border);
+        }
+        
+        th {
+            background-color: var(--color-bg);
+            font-weight: 600;
+            text-transform: uppercase;
+            font-size: 0.75rem;
+            letter-spacing: 0.05em;
+            color: var(--color-text-muted);
+            cursor: pointer;
+            user-select: none;
+        }
+        
+        th:hover {
+            background-color: #e2e8f0;
+        }
+        
+        th.sorted-asc::after { content: ' ▲'; }
+        th.sorted-desc::after { content: ' ▼'; }
+        
+        tr:hover {
+            background-color: var(--color-bg);
+        }
+        
+        /* Status indicators */
+        .status-badge {
+            display: inline-block;
+            padding: 0.25rem 0.5rem;
+            border-radius: 0.25rem;
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
+        
+        .status-success {
+            background-color: #dcfce7;
+            color: #166534;
+        }
+        
+        .status-warning {
+            background-color: #fef9c3;
+            color: #854d0e;
+        }
+        
+        .status-danger {
+            background-color: #fee2e2;
+            color: #991b1b;
+        }
+        
+        /* Accuracy bar */
+        .accuracy-bar {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .accuracy-bar-fill {
+            height: 8px;
+            border-radius: 4px;
+            background-color: var(--color-success);
+            min-width: 4px;
+        }
+        
+        .accuracy-bar-fill.warning { background-color: var(--color-warning); }
+        .accuracy-bar-fill.danger { background-color: var(--color-danger); }
+        
+        .accuracy-value {
+            font-weight: 600;
+            min-width: 50px;
+        }
+        
+        /* Expandable details */
+        .details-toggle {
+            background: none;
+            border: 1px solid var(--color-border);
+            padding: 0.25rem 0.5rem;
+            border-radius: 0.25rem;
+            cursor: pointer;
+            font-size: 0.75rem;
+            color: var(--color-text-muted);
+        }
+        
+        .details-toggle:hover {
+            background-color: var(--color-bg);
+        }
+        
+        .details-content {
+            display: none;
+            padding: 1rem;
+            background-color: var(--color-bg);
+            border-radius: 0.5rem;
+            margin-top: 0.5rem;
+        }
+        
+        .details-content.show {
+            display: block;
+        }
+        
+        .field-table {
+            font-size: 0.8rem;
+        }
+        
+        .field-table td {
+            padding: 0.5rem;
+        }
+        
+        .match-yes { color: var(--color-success); font-weight: 600; }
+        .match-no { color: var(--color-danger); font-weight: 600; }
+        
+        /* Footer */
+        .footer {
+            margin-top: 2rem;
+            padding-top: 1rem;
+            border-top: 1px solid var(--color-border);
+            text-align: center;
+            color: var(--color-text-muted);
+            font-size: 0.75rem;
+        }
+        
+        /* Responsive */
+        @media (max-width: 768px) {
+            body { padding: 1rem; }
+            .charts-grid { grid-template-columns: 1fr; }
+            .cards-grid { grid-template-columns: repeat(2, 1fr); }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">
+            <h1>OCR Comparison Report</h1>
+            <div class="subtitle">
+                Model: <strong>{{ model_name }}</strong> | 
+                Generated: {{ generated_at }} | 
+                Documents: {{ summary.total_documents }}
+            </div>
+        </div>
+        
+        <!-- Summary Cards -->
+        <div class="cards-grid">
+            {% for card in summary_cards %}
+            <div class="card {{ card.color_class }}">
+                <div class="card-label">{{ card.label }}</div>
+                <div class="card-value">{{ card.value }}</div>
+                {% if card.detail %}
+                <div class="card-detail">{{ card.detail }}</div>
+                {% endif %}
+            </div>
+            {% endfor %}
+        </div>
+        
+        <!-- Charts -->
+        <div class="charts-grid">
+            <div class="chart-container">
+                <div class="chart-title">Accuracy by File Format</div>
+                <canvas id="formatChart"></canvas>
+            </div>
+            <div class="chart-container">
+                <div class="chart-title">Accuracy by Effect Type</div>
+                <canvas id="effectChart"></canvas>
+            </div>
+        </div>
+        
+        <!-- Performance Summary -->
+        <div class="section">
+            <div class="section-title">Performance Summary</div>
+            <div class="table-container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Metric</th>
+                            <th>Value</th>
+                            <th>Details</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Total Processing Time</td>
+                            <td><strong>{{ "%.3f"|format(performance.total_processing_time_seconds) }}s</strong></td>
+                            <td>Avg: {{ "%.3f"|format(performance.avg_processing_time_seconds) }}s/doc</td>
+                        </tr>
+                        <tr>
+                            <td>Throughput</td>
+                            <td><strong>{{ "%.1f"|format(performance.throughput_docs_per_min) }} docs/min</strong></td>
+                            <td>Min: {{ "%.3f"|format(performance.min_processing_time_seconds) }}s, Max: {{ "%.3f"|format(performance.max_processing_time_seconds) }}s</td>
+                        </tr>
+                        <tr>
+                            <td>Total Pages</td>
+                            <td><strong>{{ performance.total_pages }}</strong></td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <td>Estimated Cost</td>
+                            <td><strong>${{ "%.4f"|format(performance.total_cost_usd) }}</strong></td>
+                            <td>${{ "%.4f"|format(performance.cost_per_page_usd) }}/page</td>
+                        </tr>
+                        <tr>
+                            <td>Average Confidence</td>
+                            <td><strong>{{ "%.1f"|format(performance.avg_confidence * 100) }}%</strong></td>
+                            <td>Field-level average</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        
+        <!-- By Effect Type -->
+        <div class="section">
+            <div class="section-title">Results by Effect Type</div>
+            <div class="table-container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Effect Type</th>
+                            <th>Count</th>
+                            <th>Extraction Accuracy</th>
+                            <th>Schema Accuracy</th>
+                            <th>Overall Accuracy</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for effect, data in by_effect_type.items() %}
+                        <tr>
+                            <td>{{ effect }}</td>
+                            <td>{{ data.count }}</td>
+                            <td>
+                                <div class="accuracy-bar">
+                                    <div class="accuracy-bar-fill {{ 'danger' if data.avg_extraction_accuracy < 0.7 else ('warning' if data.avg_extraction_accuracy < 0.9 else '') }}" style="width: {{ data.avg_extraction_accuracy * 100 }}px;"></div>
+                                    <span class="accuracy-value">{{ "%.1f"|format(data.avg_extraction_accuracy * 100) }}%</span>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="accuracy-bar">
+                                    <div class="accuracy-bar-fill {{ 'danger' if data.avg_schema_accuracy < 0.7 else ('warning' if data.avg_schema_accuracy < 0.9 else '') }}" style="width: {{ data.avg_schema_accuracy * 100 }}px;"></div>
+                                    <span class="accuracy-value">{{ "%.1f"|format(data.avg_schema_accuracy * 100) }}%</span>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="accuracy-bar">
+                                    <div class="accuracy-bar-fill {{ 'danger' if data.avg_overall_accuracy < 0.7 else ('warning' if data.avg_overall_accuracy < 0.9 else '') }}" style="width: {{ data.avg_overall_accuracy * 100 }}px;"></div>
+                                    <span class="accuracy-value">{{ "%.1f"|format(data.avg_overall_accuracy * 100) }}%</span>
+                                </div>
+                            </td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        
+        <!-- By Format -->
+        <div class="section">
+            <div class="section-title">Results by File Format</div>
+            <div class="table-container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Format</th>
+                            <th>Count</th>
+                            <th>Extraction Accuracy</th>
+                            <th>Schema Accuracy</th>
+                            <th>Overall Accuracy</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for format, data in by_format.items() %}
+                        <tr>
+                            <td>{{ format | upper }}</td>
+                            <td>{{ data.count }}</td>
+                            <td>
+                                <div class="accuracy-bar">
+                                    <div class="accuracy-bar-fill {{ 'danger' if data.avg_extraction_accuracy < 0.7 else ('warning' if data.avg_extraction_accuracy < 0.9 else '') }}" style="width: {{ data.avg_extraction_accuracy * 100 }}px;"></div>
+                                    <span class="accuracy-value">{{ "%.1f"|format(data.avg_extraction_accuracy * 100) }}%</span>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="accuracy-bar">
+                                    <div class="accuracy-bar-fill {{ 'danger' if data.avg_schema_accuracy < 0.7 else ('warning' if data.avg_schema_accuracy < 0.9 else '') }}" style="width: {{ data.avg_schema_accuracy * 100 }}px;"></div>
+                                    <span class="accuracy-value">{{ "%.1f"|format(data.avg_schema_accuracy * 100) }}%</span>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="accuracy-bar">
+                                    <div class="accuracy-bar-fill {{ 'danger' if data.avg_overall_accuracy < 0.7 else ('warning' if data.avg_overall_accuracy < 0.9 else '') }}" style="width: {{ data.avg_overall_accuracy * 100 }}px;"></div>
+                                    <span class="accuracy-value">{{ "%.1f"|format(data.avg_overall_accuracy * 100) }}%</span>
+                                </div>
+                            </td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        
+        <!-- Per-Document Results -->
+        <div class="section">
+            <div class="section-title">Per-Document Results</div>
+            <div class="table-container">
+                <table id="documentsTable">
+                    <thead>
+                        <tr>
+                            <th onclick="sortTable(0)">Filename</th>
+                            <th onclick="sortTable(1)">Format</th>
+                            <th onclick="sortTable(2)">Effect</th>
+                            <th onclick="sortTable(3)">Extraction</th>
+                            <th onclick="sortTable(4)">Schema</th>
+                            <th onclick="sortTable(5)">Overall</th>
+                            <th onclick="sortTable(6)">Time (s)</th>
+                            <th onclick="sortTable(7)">Cost ($)</th>
+                            <th>Details</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for doc in per_document %}
+                        <tr>
+                            <td>{{ doc.filename }}</td>
+                            <td>{{ doc.file_format | upper }}</td>
+                            <td>{{ doc.effect_type }}</td>
+                            <td>
+                                <span class="status-badge {{ 'status-success' if doc.extraction_accuracy >= 0.9 else ('status-warning' if doc.extraction_accuracy >= 0.7 else 'status-danger') }}">
+                                    {{ "%.1f"|format(doc.extraction_accuracy * 100) }}%
+                                </span>
+                            </td>
+                            <td>
+                                <span class="status-badge {{ 'status-success' if doc.schema_accuracy >= 0.9 else ('status-warning' if doc.schema_accuracy >= 0.7 else 'status-danger') }}">
+                                    {{ "%.1f"|format(doc.schema_accuracy * 100) }}%
+                                </span>
+                            </td>
+                            <td>
+                                <span class="status-badge {{ 'status-success' if doc.overall_accuracy >= 0.9 else ('status-warning' if doc.overall_accuracy >= 0.7 else 'status-danger') }}">
+                                    {{ "%.1f"|format(doc.overall_accuracy * 100) }}%
+                                </span>
+                            </td>
+                            <td>{{ "%.3f"|format(doc.processing_time_seconds) }}</td>
+                            <td>{{ "%.4f"|format(doc.estimated_cost_usd) }}</td>
+                            <td>
+                                <button class="details-toggle" onclick="toggleDetails('details-{{ loop.index }}')">Show</button>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="9" style="padding: 0;">
+                                <div id="details-{{ loop.index }}" class="details-content">
+                                    <h4 style="margin-bottom: 0.5rem;">Field Details ({{ doc.matched_fields }}/{{ doc.total_fields }} matched)</h4>
+                                    <table class="field-table">
+                                        <thead>
+                                            <tr>
+                                                <th>Field</th>
+                                                <th>Match</th>
+                                                <th>OCR Value</th>
+                                                <th>Truth Value</th>
+                                                <th>Similarity</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            {% for field_name, field_data in doc.field_details.items() %}
+                                            <tr>
+                                                <td>{{ field_name }}</td>
+                                                <td class="{{ 'match-yes' if field_data.matched else 'match-no' }}">
+                                                    {{ 'YES' if field_data.matched else 'NO' }}
+                                                </td>
+                                                <td>{{ field_data.ocr_value[:50] }}{{ '...' if field_data.ocr_value|length > 50 else '' }}</td>
+                                                <td>{{ field_data.truth_value[:50] }}{{ '...' if field_data.truth_value|length > 50 else '' }}</td>
+                                                <td>{{ "%.0f"|format(field_data.similarity * 100) }}%</td>
+                                            </tr>
+                                            {% endfor %}
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        
+        <!-- Footer -->
+        <div class="footer">
+            <p>Generated by OCR Investigation Tool | Evaluation Type: {{ evaluation_type }}</p>
+        </div>
+    </div>
+    
+    <script>
+        // Chart data from template
+        const formatData = {{ format_chart_data | tojson }};
+        const effectData = {{ effect_chart_data | tojson }};
+        
+        // Format chart
+        new Chart(document.getElementById('formatChart'), {
+            type: 'bar',
+            data: {
+                labels: formatData.labels,
+                datasets: [
+                    {
+                        label: 'Extraction',
+                        data: formatData.extraction,
+                        backgroundColor: 'rgba(34, 197, 94, 0.7)',
+                    },
+                    {
+                        label: 'Schema',
+                        data: formatData.schema,
+                        backgroundColor: 'rgba(59, 130, 246, 0.7)',
+                    },
+                    {
+                        label: 'Overall',
+                        data: formatData.overall,
+                        backgroundColor: 'rgba(168, 85, 247, 0.7)',
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        max: 100,
+                        title: { display: true, text: 'Accuracy (%)' }
+                    }
+                },
+                plugins: {
+                    legend: { position: 'bottom' }
+                }
+            }
+        });
+        
+        // Effect chart
+        new Chart(document.getElementById('effectChart'), {
+            type: 'bar',
+            data: {
+                labels: effectData.labels,
+                datasets: [
+                    {
+                        label: 'Extraction',
+                        data: effectData.extraction,
+                        backgroundColor: 'rgba(34, 197, 94, 0.7)',
+                    },
+                    {
+                        label: 'Schema',
+                        data: effectData.schema,
+                        backgroundColor: 'rgba(59, 130, 246, 0.7)',
+                    },
+                    {
+                        label: 'Overall',
+                        data: effectData.overall,
+                        backgroundColor: 'rgba(168, 85, 247, 0.7)',
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        max: 100,
+                        title: { display: true, text: 'Accuracy (%)' }
+                    }
+                },
+                plugins: {
+                    legend: { position: 'bottom' }
+                }
+            }
+        });
+        
+        // Toggle details
+        function toggleDetails(id) {
+            const element = document.getElementById(id);
+            const button = element.parentElement.parentElement.previousElementSibling.querySelector('.details-toggle');
+            
+            if (element.classList.contains('show')) {
+                element.classList.remove('show');
+                button.textContent = 'Show';
+            } else {
+                element.classList.add('show');
+                button.textContent = 'Hide';
+            }
+        }
+        
+        // Table sorting
+        let sortDirection = {};
+        
+        function sortTable(columnIndex) {
+            const table = document.getElementById('documentsTable');
+            const tbody = table.querySelector('tbody');
+            const rows = Array.from(tbody.querySelectorAll('tr')).filter((_, i) => i % 2 === 0);
+            const detailRows = Array.from(tbody.querySelectorAll('tr')).filter((_, i) => i % 2 === 1);
+            
+            // Toggle direction
+            sortDirection[columnIndex] = !sortDirection[columnIndex];
+            const ascending = sortDirection[columnIndex];
+            
+            // Update header styling
+            table.querySelectorAll('th').forEach((th, i) => {
+                th.classList.remove('sorted-asc', 'sorted-desc');
+                if (i === columnIndex) {
+                    th.classList.add(ascending ? 'sorted-asc' : 'sorted-desc');
+                }
+            });
+            
+            // Sort rows
+            const sortedPairs = rows.map((row, i) => ({ row, detail: detailRows[i] }));
+            sortedPairs.sort((a, b) => {
+                let aVal = a.row.cells[columnIndex].textContent.trim();
+                let bVal = b.row.cells[columnIndex].textContent.trim();
+                
+                // Handle percentage values
+                if (aVal.includes('%')) {
+                    aVal = parseFloat(aVal);
+                    bVal = parseFloat(bVal);
+                } else if (!isNaN(parseFloat(aVal))) {
+                    aVal = parseFloat(aVal);
+                    bVal = parseFloat(bVal);
+                }
+                
+                if (aVal < bVal) return ascending ? -1 : 1;
+                if (aVal > bVal) return ascending ? 1 : -1;
+                return 0;
+            });
+            
+            // Rebuild table
+            tbody.innerHTML = '';
+            sortedPairs.forEach(pair => {
+                tbody.appendChild(pair.row);
+                tbody.appendChild(pair.detail);
+            });
+        }
+    </script>
+</body>
+</html>

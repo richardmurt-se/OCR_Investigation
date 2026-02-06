@@ -1,0 +1,70 @@
+{
+  "filename": "091_effect_band_stretch.jpeg",
+  "invoice": {
+    "client_name": "Gonzalez Ltd",
+    "client_address": "",
+    "seller_name": "Brown-Griffin",
+    "seller_address": "837 Dominguez Run Suite 452 | Lake Beverlybury, GU 66803",
+    "invoice_number": "INV815629067",
+    "invoice_date": "18/05/2025",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Devolved encompassing toolset",
+      "quantity": "6.00",
+      "unit_price": "357.63",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "2\nConfigurable optimal functionalities",
+      "quantity": "1.00",
+      "unit_price": "356.13",
+      "total_price": "356.13",
+      "category": null
+    },
+    {
+      "description": "active demand-driven encoding",
+      "quantity": "2.00",
+      "unit_price": "",
+      "total_price": "314.86",
+      "category": null
+    },
+    {
+      "description": "nd-alone explicit toolset",
+      "quantity": "1.00",
+      "unit_price": "",
+      "total_price": "140.19",
+      "category": null
+    },
+    {
+      "description": "sized bandwidth-monitored synergy",
+      "quantity": "10.00",
+      "unit_price": "",
+      "total_price": "129.39",
+      "category": null
+    },
+    {
+      "description": "anded human-resource focus group",
+      "quantity": "8.00",
+      "unit_price": "",
+      "total_price": "245.84",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "6 532.44",
+    "tax": "653.24",
+    "discount": "",
+    "total": "7 185.68"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.645,
+  "file_size_bytes": 57784
+}

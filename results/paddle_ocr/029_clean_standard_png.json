@@ -1,0 +1,8 @@
+{
+  "filename": "029_clean_standard.png",
+  "model_name": "paddleocr",
+  "raw_text": "Glass-Jacobs\nINVOICE\n40133 Wong Pike Suite 211 | Chelseahaven, MA 44810\nNo: 7428041607\nDate: 03/25/2025\nFROM\nBILL TO\nGlass-Jacobs\nHerrera, Fitzpatrick and Hoffman\n40133 Wong Pike Suite 211\n656 Heather Cour!\nChelseahaven, MA 44810\nWest Taylor, WY 52989\nDescription\n Quantity\nUnit Price\nAmount\nCross-platform 3rdgeneration analyzer.\n3.00\n20.96\n62.88\n2\nSwitchable web-enabled structure\n4.00\n129.06\n516.24\n3\nCross-group national collaboratione\n2.00\n302.60\n605.20\nSubtotal\n1 184.32\nTax (10%)\n118.43\nTotal Due\n1 302.75\nThank you for your business.",
+  "processing_time_seconds": 2.089,
+  "file_size_bytes": 25603,
+  "success": true
+}

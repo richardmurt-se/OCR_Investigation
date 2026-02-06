@@ -1,0 +1,56 @@
+{
+  "filename": "068_multilingual_fr_minimal.pdf",
+  "invoice": {
+    "client_name": "Sauvage Valette SARL",
+    "client_address": "28, chemin Denis\n12824 Delaunay",
+    "seller_name": "Barthelemy",
+    "seller_address": "rue Constance Breton\n41630 Barthelemy-la-Forêt",
+    "invoice_number": "INV-744402",
+    "invoice_date": "13/01/2026",
+    "due_date": "02/03/2026"
+  },
+  "items": [
+    {
+      "description": "L'avantage d'évoluer autrement",
+      "quantity": "8.00",
+      "unit_price": "65.47",
+      "total_price": "523.76",
+      "category": null
+    },
+    {
+      "description": "La liberté de rouler sans soucis",
+      "quantity": "4.00",
+      "unit_price": "186.32",
+      "total_price": "745.28",
+      "category": null
+    },
+    {
+      "description": "Le plaisir de rouler plus rapidement",
+      "quantity": "2.00",
+      "unit_price": "29.37",
+      "total_price": "58.74",
+      "category": null
+    },
+    {
+      "description": "L'assurance de rouler de manière sûre",
+      "quantity": "8.00",
+      "unit_price": "460.61",
+      "total_price": "3 684.88",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "5 012.66",
+    "tax": "501.27",
+    "discount": "",
+    "total": "5 513.93"
+  },
+  "payment_instructions": {
+    "due_date": "02/03/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.842,
+  "file_size_bytes": 97232
+}

@@ -1,0 +1,8 @@
+{
+  "filename": "038_complex_tables_spanning.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "Hunt, Olson and Hill\nINVOICE\n60166 Lori Port Apt. 066 |Evansland, WA 61227\nNo:FAC-1287205\nDate: 09/09/2024\n 50166 Lori Port Apt. 066, Evansland, WA 61227\nFAC1287205\nAlexanderTucker  984 Michael Trafficway Apt. 623, Rhondafurt, SD 28376\nDat\n09/09/2024\nShlp To:AlexanderTucker, 984 Michael Trafficway Apt.623, RhondafurtSD 28376\nDue\nOn Receipt\nSKU\nDescrlptlon\n11M0010\n(xped/sqjun zE A1) andy8n\n9.00\n9.00\n170.49\n1 534.41\n1534.41\n13\nITM0020\nMulti tiered motivating challenge - 177GB, 51 display\n7.00\n7.00\n330.84\n2 315.88\n2315.88\nSatch 1 Complcte\nITM8030\ninfrastructure\n10.00\n10.00\n31.90\n319.00\n319.00\nSubtotal:\n4169.29\nTax (10%)\n416.93\nPayment due upon receipt\nDiscount:\n0.00\nShipping:\n0.00\nTOTAL DUE: 4586.22",
+  "processing_time_seconds": 2.811,
+  "file_size_bytes": 69870,
+  "success": true
+}

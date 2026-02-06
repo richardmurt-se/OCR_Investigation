@@ -1,0 +1,77 @@
+{
+  "filename": "057_unusual_format_two_column.pdf",
+  "invoice": {
+    "client_name": "Young-Keller",
+    "client_address": "237 David Plain Suite 941\nMichaelfort, TN 20278",
+    "seller_name": "Lopez-Montgomery",
+    "seller_address": "310 Estes Inlet · West Richard, OR 50803",
+    "invoice_number": "INV96593360",
+    "invoice_date": "02/06/2025",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Advanced demand-driven function",
+      "quantity": "2.00",
+      "unit_price": "",
+      "total_price": "598.54",
+      "category": null
+    },
+    {
+      "description": "Cloned asynchronous help-desk",
+      "quantity": "8.00",
+      "unit_price": "",
+      "total_price": "1 533.04",
+      "category": null
+    },
+    {
+      "description": "Compatible real-time data-warehouse",
+      "quantity": "10.00",
+      "unit_price": "",
+      "total_price": "3 427.80",
+      "category": null
+    },
+    {
+      "description": "Operative 24hour moderator",
+      "quantity": "6.00",
+      "unit_price": "",
+      "total_price": "1 642.86",
+      "category": null
+    },
+    {
+      "description": "Innovative stable time-frame",
+      "quantity": "9.00",
+      "unit_price": "",
+      "total_price": "2 522.79",
+      "category": null
+    },
+    {
+      "description": "Extended client-server solution",
+      "quantity": "1.00",
+      "unit_price": "",
+      "total_price": "446.01",
+      "category": null
+    },
+    {
+      "description": "Face-to-face grid-enabled utilization",
+      "quantity": "10.00",
+      "unit_price": "",
+      "total_price": "577.00",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "10 748.04",
+    "tax": "1 074.80",
+    "discount": "",
+    "total": "11 822.84"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.279,
+  "file_size_bytes": 180828
+}

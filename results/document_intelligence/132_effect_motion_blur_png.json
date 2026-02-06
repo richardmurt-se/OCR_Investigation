@@ -1,0 +1,27 @@
+{
+  "filename": "132_effect_motion_blur.png",
+  "invoice": {
+    "client_name": "",
+    "client_address": "",
+    "seller_name": "",
+    "seller_address": "",
+    "invoice_number": "",
+    "invoice_date": "",
+    "due_date": ""
+  },
+  "items": [],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": ""
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.784,
+  "file_size_bytes": 92677
+}

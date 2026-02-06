@@ -1,0 +1,8 @@
+{
+  "filename": "103_effect_brightness_contrast.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "Obrien Group\nINVOICE\n8854Agilar Loaf|Russellvle.L83702\nNo:4578499101\nDate:01/17/2025\nDue:02/22/2026\nFROM\nBILLTO\nObrien Group\nMaynard Mullen and Oneal\n8854 Agilar Loaf\n01262 Emily Harbos\nRussellvle.L83782\nDavidtor.CO 90702\nDescription\nQuantity\nUnit Price\nAmount\n3.00\n257.18\n771.48\n2\nAutomatec neur st o orodctivity\n5.00\n422.91\n2114.55\n8\nExclusive un form aronitecture\n9.00\n253.50\n2282.31\n4\nProgress ve h gh-leve crcuit\n10.00\n434.09\n4840.90\n5\nNetworked 24/7 orchestraticn\n5.00\n491.00\n2455.45\nSub:ctal\n12 484.39\nTax10%\n1 246.47\nDsooun\n1246.47\nTotal Due\n12464.69\nPAYMENT INFORMATION\nBankSanchez.Aboctl and Wn te Ban\nAccount:RDR182350408830004",
+  "processing_time_seconds": 2.66,
+  "file_size_bytes": 61219,
+  "success": true
+}

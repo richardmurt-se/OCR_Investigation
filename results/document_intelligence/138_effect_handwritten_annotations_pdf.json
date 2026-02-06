@@ -1,0 +1,56 @@
+{
+  "filename": "138_effect_handwritten_annotations.pdf",
+  "invoice": {
+    "client_name": "Lutz, Alvarez and Palmer",
+    "client_address": "",
+    "seller_name": "Norris Inc",
+    "seller_address": "1876 Fisher Parkways | Clarkview, PR 92613",
+    "invoice_number": "FAC7313330",
+    "invoice_date": "21/05/2025",
+    "due_date": "16/02/2026"
+  },
+  "items": [
+    {
+      "description": "Assimilated optimizing forecast",
+      "quantity": "5.00",
+      "unit_price": "293.72",
+      "total_price": "1 468.60",
+      "category": null
+    },
+    {
+      "description": "User-centric multi-state archive",
+      "quantity": "7.00",
+      "unit_price": "498.30",
+      "total_price": "3 488.10",
+      "category": null
+    },
+    {
+      "description": "Balanced cohesive model",
+      "quantity": "4.00",
+      "unit_price": "160.18",
+      "total_price": "640.72",
+      "category": null
+    },
+    {
+      "description": "Distributed real-time open system",
+      "quantity": "3.00",
+      "unit_price": "29.37",
+      "total_price": "88.11",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "5 685.53",
+    "tax": "568.55",
+    "discount": "",
+    "total": "5 989.80"
+  },
+  "payment_instructions": {
+    "due_date": "16/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.85,
+  "file_size_bytes": 32858
+}

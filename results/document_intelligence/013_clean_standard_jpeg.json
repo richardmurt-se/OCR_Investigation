@@ -1,0 +1,56 @@
+{
+  "filename": "013_clean_standard.jpeg",
+  "invoice": {
+    "client_name": "Aguilar-Smith",
+    "client_address": "",
+    "seller_name": "Webb Group",
+    "seller_address": "120 Daniel Fields Apt. 416 | East Jaclynburgh, IL 22743",
+    "invoice_number": "30352086",
+    "invoice_date": "15/04/2024",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Open-architected scalable challenge",
+      "quantity": "3.00",
+      "unit_price": "336.24",
+      "total_price": "1 008.72",
+      "category": null
+    },
+    {
+      "description": "Synchronized 3rdgeneration help-desk",
+      "quantity": "5.00",
+      "unit_price": "410.82",
+      "total_price": "2 054.10",
+      "category": null
+    },
+    {
+      "description": "Synergistic mobile Internet solution",
+      "quantity": "1.00",
+      "unit_price": "490.00",
+      "total_price": "490.00",
+      "category": null
+    },
+    {
+      "description": "Pre-emptive fault-tolerant approach",
+      "quantity": "7.00",
+      "unit_price": "332.34",
+      "total_price": "2 326.38",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "5 879.20",
+    "tax": "587.92",
+    "discount": "",
+    "total": "6 487.12"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.678,
+  "file_size_bytes": 44914
+}

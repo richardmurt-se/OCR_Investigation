@@ -1,0 +1,77 @@
+{
+  "filename": "154_effect_wrinkles_crumples.jpeg",
+  "invoice": {
+    "client_name": "Wilson, White and Gilbert",
+    "client_address": "",
+    "seller_name": "Johnson-Jones",
+    "seller_address": "32280 Diana Club Suite 810\nSusanbury, ID 67317",
+    "invoice_number": "82815536",
+    "invoice_date": "13/06/2024",
+    "due_date": "02/03/2026"
+  },
+  "items": [
+    {
+      "description": "Horizontal needs-based support",
+      "quantity": "6.00",
+      "unit_price": "226.59",
+      "total_price": "1 359.54",
+      "category": null
+    },
+    {
+      "description": "Profit-focused disintermediate open system",
+      "quantity": "3.00",
+      "unit_price": "103.00",
+      "total_price": "309.00",
+      "category": null
+    },
+    {
+      "description": "Digitized object-oriented archive",
+      "quantity": "8.00",
+      "unit_price": "205.38",
+      "total_price": "1 232.28",
+      "category": null
+    },
+    {
+      "description": "Up-sized value-added solution",
+      "quantity": "1.00",
+      "unit_price": "485.94",
+      "total_price": "485.94",
+      "category": null
+    },
+    {
+      "description": "Extended national implementation",
+      "quantity": "9.00",
+      "unit_price": "448.01",
+      "total_price": "4 032.09",
+      "category": null
+    },
+    {
+      "description": "Profit-focused mission-critical approach",
+      "quantity": "1.00",
+      "unit_price": "374.74",
+      "total_price": "374.74",
+      "category": null
+    },
+    {
+      "description": "Stand-alone intangible methodology",
+      "quantity": "5.00",
+      "unit_price": "108.81",
+      "total_price": "544.05",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "8 337.64",
+    "tax": "833.76",
+    "discount": "",
+    "total": "8 754.52"
+  },
+  "payment_instructions": {
+    "due_date": "02/03/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.958,
+  "file_size_bytes": 78628
+}

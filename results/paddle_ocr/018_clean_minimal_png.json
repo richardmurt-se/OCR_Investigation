@@ -1,0 +1,8 @@
+{
+  "filename": "018_clean_minimal.png",
+  "model_name": "paddleocr",
+  "raw_text": "INVOICE\nBILL-84967192\n01/26/2026 - Due 02/19/2026\nFROM\nTO\n Martinez and Sons\nKnight LLC\n677 Walker Unions Suite 689\n991 Calderon Loaf Suite 887\nJulieborough, GU 54942\nBillychester, MA 48141\nDESCRIPTION\nQTY\nPRICE\nTOTAL\nDigitized radical support\n4.00\n446.10\n1 784.40\nFully-configur\n3.00\n449.72\n1 349.16\n10.00\n294.28\n2 942.80\nAdaptive high-level emulation\n3.00\n80.81\n242.43\nSubtotal\n6 318.79\nXEL\n631.88\nTotal\n6 950.67\nWilliams-Acosta Bank\nWWNP92112475620787\nCredit Card\nThank you",
+  "processing_time_seconds": 1.942,
+  "file_size_bytes": 25714,
+  "success": true
+}

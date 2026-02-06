@@ -1,0 +1,84 @@
+{
+  "filename": "052_unusual_format_horizontal.pdf",
+  "invoice": {
+    "client_name": "Aguirre-Dominguez",
+    "client_address": "96710 Tom Ferry Suite 959, North Christopher, MI\n40671",
+    "seller_name": "Warren-Parker",
+    "seller_address": "0616 Smith Pines, Jeremyborough, SC 02382",
+    "invoice_number": "BILL-480479444",
+    "invoice_date": "29/07/2025",
+    "due_date": "20/02/2026"
+  },
+  "items": [
+    {
+      "description": "Multi-lateral local service-desk",
+      "quantity": "6.00",
+      "unit_price": "34.14",
+      "total_price": "204.84",
+      "category": null
+    },
+    {
+      "description": "Automated actuating monitoring",
+      "quantity": "8.00",
+      "unit_price": "460.55",
+      "total_price": "3 684.40",
+      "category": null
+    },
+    {
+      "description": "Function-based actuating Graphical User Interface",
+      "quantity": "10.00",
+      "unit_price": "163.03",
+      "total_price": "1 630.30",
+      "category": null
+    },
+    {
+      "description": "Digitized executive emulation",
+      "quantity": "10.00",
+      "unit_price": "478.26",
+      "total_price": "4 782.60",
+      "category": null
+    },
+    {
+      "description": "Mandatory systemic knowledgebase",
+      "quantity": "1.00",
+      "unit_price": "478.05",
+      "total_price": "478.05",
+      "category": null
+    },
+    {
+      "description": "Innovative discrete hardware",
+      "quantity": "2.00",
+      "unit_price": "154.58",
+      "total_price": "309.16",
+      "category": null
+    },
+    {
+      "description": "Multi-tiered fresh-thinking synergy",
+      "quantity": "7.00",
+      "unit_price": "181.76",
+      "total_price": "1 272.32",
+      "category": null
+    },
+    {
+      "description": "Proactive interactive hub",
+      "quantity": "5.00",
+      "unit_price": "473.87",
+      "total_price": "2 369.35",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "14 731.02",
+    "tax": "1 473.10",
+    "discount": "",
+    "total": "16 204.12"
+  },
+  "payment_instructions": {
+    "due_date": "20/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.901,
+  "file_size_bytes": 125892
+}

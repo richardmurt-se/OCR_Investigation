@@ -1,0 +1,8 @@
+{
+  "filename": "123_effect_show_through.png",
+  "model_name": "paddleocr",
+  "raw_text": "Booth-Tran\nINVOICE\n3996 Joanna Overpass Apt. 411 | Kanemouth, GU 93486\nNo: FAC-5270057\nDate: 10/02/2025\nDue: 02/19/2026\nFROM\nBILL TO\nBooth-Tran\nRobinson PLC\n 3996 Joanna Overpass Apt. 411\n44969 Tasha Overpass\nKanemouth, GU 93486\nBrownport, HI 62725\nDescription\nQuantity\nUnit Price\nAmount\neaeoudde Bugeagow pasnaoy-Aqanenn\n1.00\n248.42\n248.42\n2\nIntegrated transitional conglomeration\n008\n209.64\n1 677.12\n3\n Managed asymmetric methodology\n3.00\n57.02\n171.06\nCompatible bottom-line emulation\n2.00\n154.70\n309.40\nSubtotal\n2 406.00\nTax (10%)\n240.60\nTotal Due\n2 646.60\nPAYMENT INFORMATION\nBank: Watts, Le and Stephenson Financial\nAccount: KFWB16640781563245\nMethod: ACH\n Thank you for your business",
+  "processing_time_seconds": 2.454,
+  "file_size_bytes": 72033,
+  "success": true
+}

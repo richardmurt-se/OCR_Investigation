@@ -1,0 +1,8 @@
+{
+  "filename": "060_unusual_format_horizontal.png",
+  "model_name": "paddleocr",
+  "raw_text": "Salazar, Baxter and Hernandez\nINVOICE\n7522 Davis Ford | Tumerfori, IN 31465\nINV5123713\n12/12/2025\n SELLER\nBUYER\nSHIP TO\nDETAILS\nSalazar, Baxter and Hernandez\nPeterson, Carter and Ferguson\nPeterson, Carter and Ferguson\nInvoice INV5128713\n7522 Dais Ford Tumeror, IN 31465\n6164 Nsthan Alay Souh Danieleade, NJ41652\n6184 NsthanAley Souh Danieleade, NJ41652\nDale 1212/2025\nDue: 03/09/2026\nSKU\nItem Description\nCatrgory\nQty Uou\nUnit Prise\nTax\nLine Tot!\nSKUE0100\nw6 peurd pareq-fjarpauco pruA\nGenerel\n9.00 EA\n64.30\n10%\n085\n2\nSKU00200\nAmelioraled dynamic dalsbase\nGenerel\n9.00EA\n375.67\n10%\n3 381.03\nSKU00300\nSuitchable lerdiaryfous group\nGenerel\n9.00\nEA\n89.13\n10%\n802.17\nSKU08480\nOrganized mulf-stal benchmerk\nGenerel\n2.00\nEA\n161.72\n10%\n323.44\nSKU80580\nVeion-orented fresh-thinking defnition\nGenerel\n6.00\nEA\n348.98\n10%\n2 093.88\nSKUe0680\nConed 4thgenaralion orchestration\nCeneral\n5.00\nEA\n373.51\n%0L\n1 867.55\nSKU00700\nSynegad moduarcapablly\nGenereal\n4.00\nEA\n285.32\n10%\n1 141.28\nSKUe8se0\nFundamensl holeic sccen.\nGeesl\n1.00EA\n424.23\n10%\n424.23\nment: Davis, Evans and Smith Credit Union | Acct: EZYK47654174525922 | Check\nTOTAL DUE\n10 612.28\n1 061.23\n11 673.51\nSalazar Baxder and Henandez | Invoice #Nv5128713 | 12/122025 | Thenk you for your business",
+  "processing_time_seconds": 4.274,
+  "file_size_bytes": 73205,
+  "success": true
+}

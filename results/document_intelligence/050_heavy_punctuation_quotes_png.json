@@ -1,0 +1,84 @@
+{
+  "filename": "050_heavy_punctuation_quotes.png",
+  "invoice": {
+    "client_name": "'Moody Group'",
+    "client_address": "",
+    "seller_name": "«Lawson-Gonzalez»",
+    "seller_address": "1750 Patrick Courts Apt. 106 , North Erikhaven, NV 29566",
+    "invoice_number": "INV/8841558329",
+    "invoice_date": "18/11/2025",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "\"NEW: Synergized stable system engine SSS\" - 'Model: MDL-0100' «Premium\nQuality»",
+      "quantity": "7.00",
+      "unit_price": "346.96",
+      "total_price": "2 428.72",
+      "category": null
+    },
+    {
+      "description": "\" *** Adaptive bottom-line structure #1 Rated (SKU: wL-9290)\" - 'Model: MDL-\n0200' «Premium Quality\"",
+      "quantity": "3.00",
+      "unit_price": "420.35",
+      "total_price": "1 261.05",
+      "category": null
+    },
+    {
+      "description": "\"NEW: Multi-layered discrete help-desk: Premium | Size: S\" - 'Model: MDL-\n0300' «Premium Quality»",
+      "quantity": "10.00",
+      "unit_price": "86.70",
+      "total_price": "867.00",
+      "category": null
+    },
+    {
+      "description": "\"NEW: Front-line global attitude @ 50% off @ 19% discount\" - \"Model: MDL-\n0400' «Premium Quality»",
+      "quantity": "8.00",
+      "unit_price": "435.79",
+      "total_price": "3 486.32",
+      "category": null
+    },
+    {
+      "description": "\"Assimilated regional collaboration \"Pro\" (SKU: yV-5012)\" - 'Model: MDL-0500'\n«Premium Quality»",
+      "quantity": "2.00",
+      "unit_price": "121.20",
+      "total_price": "242.40",
+      "category": null
+    },
+    {
+      "description": "\"Open-architected background archive - Special! | Size: L\" - 'Model: MDL-0600'\n«Premium Quality»",
+      "quantity": "10.00",
+      "unit_price": "34.63",
+      "total_price": "346.30",
+      "category": null
+    },
+    {
+      "description": "\"> Virtual national core, Inc. - Ref. #869\" - \"Model: MDL-0700' «Premium\nQuality\"",
+      "quantity": "2.00",
+      "unit_price": "204.39",
+      "total_price": "408.78",
+      "category": null
+    },
+    {
+      "description": "\" *** Vision-oriented fresh-thinking model *** , Model: oBY-825\" - \"Model: MDL-\n0800' «Premium Quality?",
+      "quantity": "10.00",
+      "unit_price": "402.34",
+      "total_price": "4 023.40",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "13 063.97",
+    "tax": "1 306.40",
+    "discount": "",
+    "total": "14 370.37"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.758,
+  "file_size_bytes": 58354
+}

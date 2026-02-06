@@ -1,0 +1,77 @@
+{
+  "filename": "075_multilingual_ar_corporate.jpeg",
+  "invoice": {
+    "client_name": "بتشان LLC",
+    "client_address": "09127 فصيل 616 Cliffs Suite\nAS 86688 ,لورين South",
+    "seller_name": "آل سلطان, العقيل and بن لادن",
+    "seller_address": "9077 المغاولة 048 .Passage Apt\nأبا الخيل 31696 haven, SC",
+    "invoice_number": "BILL8609042#",
+    "invoice_date": "15/10/2024",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Right-sized actuating implementation",
+      "quantity": "1.00",
+      "unit_price": "255.13",
+      "total_price": "255.13",
+      "category": null
+    },
+    {
+      "description": "Devolved well-modulated Internet solution",
+      "quantity": "6.00",
+      "unit_price": "201.76",
+      "total_price": "210.56",
+      "category": null
+    },
+    {
+      "description": "Operative client-server core",
+      "quantity": "2.00",
+      "unit_price": "448.27",
+      "total_price": "896.54",
+      "category": null
+    },
+    {
+      "description": "Reduced mobile database",
+      "quantity": "2.00",
+      "unit_price": "54.35",
+      "total_price": "108.70",
+      "category": null
+    },
+    {
+      "description": "Expanded full-range extranet",
+      "quantity": "4.00",
+      "unit_price": "376.23",
+      "total_price": "504.92",
+      "category": null
+    },
+    {
+      "description": "Multi-channeled global orchestration",
+      "quantity": "10.00",
+      "unit_price": "252.30",
+      "total_price": "523.00",
+      "category": null
+    },
+    {
+      "description": "Fully-configurable hybrid structure",
+      "quantity": "4.00",
+      "unit_price": "285.36",
+      "total_price": "141.44",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "640.29",
+    "tax": "764.03",
+    "discount": "",
+    "total": "404.32"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.851,
+  "file_size_bytes": 80622
+}

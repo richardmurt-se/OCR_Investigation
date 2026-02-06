@@ -1,0 +1,63 @@
+{
+  "filename": "001_clean_standard.png",
+  "invoice": {
+    "client_name": "Hernandez, White and Pierce",
+    "client_address": "",
+    "seller_name": "Melton PLC",
+    "seller_address": "PSC 7175, Box 4319\nAPO AE 97006",
+    "invoice_number": "FAC/610612417",
+    "invoice_date": "24/07/2025",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Pre-emptive 6thgeneration architecture",
+      "quantity": "9.00",
+      "unit_price": "400.98",
+      "total_price": "3 608.82",
+      "category": null
+    },
+    {
+      "description": "Visionary directional circuit",
+      "quantity": "3.00",
+      "unit_price": "498.08",
+      "total_price": "1 494.24",
+      "category": null
+    },
+    {
+      "description": "Enhanced fresh-thinking policy",
+      "quantity": "1.00",
+      "unit_price": "403.71",
+      "total_price": "403.71",
+      "category": null
+    },
+    {
+      "description": "Total secondary Internet solution",
+      "quantity": "3.00",
+      "unit_price": "27.84",
+      "total_price": "83.52",
+      "category": null
+    },
+    {
+      "description": "Mandatory zero administration support",
+      "quantity": "4.00",
+      "unit_price": "175.94",
+      "total_price": "703.76",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "6 294.05",
+    "tax": "629.41",
+    "discount": "",
+    "total": "6 923.46"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.693,
+  "file_size_bytes": 27583
+}

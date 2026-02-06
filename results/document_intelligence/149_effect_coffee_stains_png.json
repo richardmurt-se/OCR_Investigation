@@ -1,0 +1,84 @@
+{
+  "filename": "149_effect_coffee_stains.png",
+  "invoice": {
+    "client_name": "Poole Ltd",
+    "client_address": "",
+    "seller_name": "Riley-Pennington",
+    "seller_address": "406 Charles Turnpike Apt. 113 | Solisbury, RI 43495",
+    "invoice_number": "3114619",
+    "invoice_date": "22/06/2025",
+    "due_date": "11/03/2026"
+  },
+  "items": [
+    {
+      "description": "Optional 4thgeneration pricing structure",
+      "quantity": "6.00",
+      "unit_price": "435.80",
+      "total_price": "2 614.80",
+      "category": null
+    },
+    {
+      "description": "Cloned discrete open system",
+      "quantity": "10.00",
+      "unit_price": "251.09",
+      "total_price": "2 510.90",
+      "category": null
+    },
+    {
+      "description": "Programmable multi-tasking collaboration",
+      "quantity": "4.00",
+      "unit_price": "189.19",
+      "total_price": "756.76",
+      "category": null
+    },
+    {
+      "description": "Vision-oriented asymmetric access",
+      "quantity": "4.00",
+      "unit_price": "313.66",
+      "total_price": "1 254.64",
+      "category": null
+    },
+    {
+      "description": "Optional asymmetric portal",
+      "quantity": "7.00",
+      "unit_price": "394.98",
+      "total_price": "2 764.86",
+      "category": null
+    },
+    {
+      "description": "Cloned dynamic projection",
+      "quantity": "10.00",
+      "unit_price": "317.74",
+      "total_price": "3 177.40",
+      "category": null
+    },
+    {
+      "description": "De-engineered non-volatile projection",
+      "quantity": "4.00",
+      "unit_price": "242.66",
+      "total_price": "970.64",
+      "category": null
+    },
+    {
+      "description": "Enterprise-wide zero administration array",
+      "quantity": "7.00",
+      "unit_price": "465.90",
+      "total_price": "3 261.30",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "17 311.30",
+    "tax": "1 731.13",
+    "discount": "",
+    "total": "19 042.43"
+  },
+  "payment_instructions": {
+    "due_date": "11/03/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.981,
+  "file_size_bytes": 69191
+}

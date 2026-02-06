@@ -1,0 +1,63 @@
+{
+  "filename": "136_effect_handwritten_annotations.png",
+  "invoice": {
+    "client_name": "Gonzales Inc",
+    "client_address": "",
+    "seller_name": "King, Mendez and Ball",
+    "seller_address": "63054 Sparks Mission Apt. 573\nPiercefurt, CT 06970",
+    "invoice_number": "FAC/254951445",
+    "invoice_date": "12/05/2025",
+    "due_date": "07/03/2026"
+  },
+  "items": [
+    {
+      "description": "Front-line fault-tolerant project",
+      "quantity": "3.00",
+      "unit_price": "320.55",
+      "total_price": "981.65",
+      "category": null
+    },
+    {
+      "description": "Optional regional instruction set",
+      "quantity": "1.00",
+      "unit_price": "17.37",
+      "total_price": "17.37",
+      "category": null
+    },
+    {
+      "description": "Enterprise-wide user-facing migration",
+      "quantity": "10.00",
+      "unit_price": "237.56",
+      "total_price": "2 375.60",
+      "category": null
+    },
+    {
+      "description": "Devolved tangible focus group",
+      "quantity": "4.00",
+      "unit_price": "345.70",
+      "total_price": "1 382.80",
+      "category": null
+    },
+    {
+      "description": "Operative discrete implementation",
+      "quantity": "1.00",
+      "unit_price": "402.33",
+      "total_price": "402.33",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "5 139.75",
+    "tax": "513.98",
+    "discount": "",
+    "total": "5 139.75"
+  },
+  "payment_instructions": {
+    "due_date": "07/03/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.77,
+  "file_size_bytes": 34744
+}

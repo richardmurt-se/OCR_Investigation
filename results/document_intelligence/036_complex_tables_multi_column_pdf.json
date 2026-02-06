@@ -1,0 +1,77 @@
+{
+  "filename": "036_complex_tables_multi_column.pdf",
+  "invoice": {
+    "client_name": "Hutchinson LLC",
+    "client_address": "Unit 0687 Box 7182, DPO AA 03471",
+    "seller_name": "Payne and Sons",
+    "seller_address": "1880 Sarah Views, Phillipschester, SD 01486",
+    "invoice_number": "BILL4588304762",
+    "invoice_date": "23/08/2025",
+    "due_date": "14/02/2026"
+  },
+  "items": [
+    {
+      "description": "Pre-emptive multi-state projection",
+      "quantity": "1.00",
+      "unit_price": "380.71",
+      "total_price": "380.71",
+      "category": null
+    },
+    {
+      "description": "Managed explicit emulation | Model",
+      "quantity": "2.00",
+      "unit_price": "371.15",
+      "total_price": "742.30",
+      "category": null
+    },
+    {
+      "description": "Open-architected national encoding",
+      "quantity": "4.00",
+      "unit_price": "202.60",
+      "total_price": "810.40",
+      "category": null
+    },
+    {
+      "description": "Cross-platform methodical solution",
+      "quantity": "2.00",
+      "unit_price": "472.99",
+      "total_price": "945.98",
+      "category": null
+    },
+    {
+      "description": "Realigned uniform open architecture ...",
+      "quantity": "8.00",
+      "unit_price": "444.59",
+      "total_price": "3 556.72",
+      "category": null
+    },
+    {
+      "description": "Intuitive bottom-line solution (Qty",
+      "quantity": "7.00",
+      "unit_price": "309.64",
+      "total_price": "2 167.48",
+      "category": null
+    },
+    {
+      "description": "Implemented next generation softwar",
+      "quantity": "2.00",
+      "unit_price": "25.71",
+      "total_price": "51.42",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "8 655.01",
+    "tax": "865.50",
+    "discount": "",
+    "total": "9 520.51"
+  },
+  "payment_instructions": {
+    "due_date": "14/02/2026",
+    "bank_name": "Net 30 | Payne and Sons | Invoice",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.043,
+  "file_size_bytes": 96137
+}

@@ -1,0 +1,8 @@
+{
+  "filename": "109_effect_watermark.png",
+  "model_name": "paddleocr",
+  "raw_text": "Tran, Anderson and Martinez\nINVOICE\nUSNS Lynn | FPO AP 40752\nNo: BILL/83390041\nDate: 05/07/2024\nDue: 03/07/2026\nFROM\nBILL TO\nTran, Anderson and Martinez\n Lam Group\nUSNS Lynn\n628 Perez Hills Suite 733\nFPO AP 40752\nCarlosburgh, AZ 28196\nDescription\nQuantity\nUnit Price\nAmount\nDown-sized high-level encryptione\n4.00\n109.44\n437.76\n2\n Multi-lateral didactic monitoringe\n008\n253.37\n2 026.96\n3\nFront-line dedicated service-desk.\n8.00\n353.36\n2 826.88\nProfit-focused responsive toolset.\n10.00\n226.58\n2 265.80\nSubtotal\n7 557.40\nTax (10%)\n755.74\nTotal Due\n8 313.14\nPAYMENT INFORMATION\nBank: Taylor, Alexander and Good Credit Union.\nAccount: VAFI61707701582540\nMethod: ACH",
+  "processing_time_seconds": 2.383,
+  "file_size_bytes": 44959,
+  "success": true
+}

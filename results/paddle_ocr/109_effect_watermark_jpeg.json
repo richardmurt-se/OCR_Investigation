@@ -1,0 +1,8 @@
+{
+  "filename": "109_effect_watermark.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "Tran,Anderson and Martinez\nINVOICE\nUSNS LynnFPO AP 40752\nNo:BILL/83390041\nDate:05/07/2024\nDue:03/07/2026\nFROM\nBILL TO\nTran,Anderson and Martinez\nLam Group\nUSNS Lynn\n628 Perez Hills Suite 733\nFPOAP40752\nCariosburgh,AZ 28196\nDescription\nQuantity\nUnit Price\nAmount\nDown-sized high-level encryption\n4.00\n109.44\n437.76\n2\nMulti-lateral didactic monitoring\n8.00\n253.37\n2026.96\n3\nFront-line dedicated service-desk\n8.00\n353.38\n2826.88\nProfit-focused responsive toolset\n10.00\n226.58\n2285.80\nSubtotal\n7557.40\nTax (10%)\n755.74\nTotalDue\n8 313.14\nPAYMENT INFORMATION\nBank:Taylor.Alexander and Good Credit Union\nAccountVAF161707701582540\nMethod:ACH",
+  "processing_time_seconds": 2.425,
+  "file_size_bytes": 68337,
+  "success": true
+}

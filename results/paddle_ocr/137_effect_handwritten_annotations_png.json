@@ -1,0 +1,8 @@
+{
+  "filename": "137_effect_handwritten_annotations.png",
+  "model_name": "paddleocr",
+  "raw_text": "Thornton-Ramirez\nINVOICE\n6435 Acosta Brook | Brownhaven, AL 70006\nNo: INV83974837\nDate: 12/24/2024\nDue: 02/23/2026\nFROM\nBILL TO\nThornton-Ramirez\nGriffin, George and Obrien\n6435 Acosta Brook\n49128 Hart Fields Suite 330\nBrownhaven, AL 70006\nWest Krystal, GU 09413\nDescription\n Quantity\nUnit Price\nAmount\nCustomer-focused full-range instruction set\n3.00\n98098\n1 082.88\n2\nPre-emptive uniform throughput\n3.00\n362.33\n1 086.99\n3\nSelf-enabling leadingedge knowledge user\n8.00\n282.34\n2 258.72\nDistrbuted interactive infrastructure\n10.00\n125.66\n1 256.60\n5\nMandatory system-worthy instruction set\n5.00\n165.22\n826.10\nSubtotal\n6 511.29\nTax (10%)\n651.13\nDiscount\n-651.13\nTotal Due\n6 511.29\nPAYMENT INFORMATION\nBank: Jones PLC Bank\nAccount: NZWK12170915628833\nMethod: Wire Transfer\nThank you for your business",
+  "processing_time_seconds": 2.712,
+  "file_size_bytes": 34094,
+  "success": true
+}

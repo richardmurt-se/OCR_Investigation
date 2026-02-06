@@ -1,0 +1,8 @@
+{
+  "filename": "001_clean_standard.png",
+  "model_name": "paddleocr",
+  "raw_text": "Melton PLC\nINVOICE\nPSC 7175, Box 4319 |APO AE 97006\nNo: FAC/610612417\nDate: 07/24/2025\nFROM\nBILL TO\nMelton PLC\nHernandez, White and Pierce\n APO AE 97008\nPSC 7175, Box 4319\n7121 Tyler Burgs Apt. 972\nEast Douglasburgh, IA 16832\nDescription\nUnit Price\nAmount\nPre-emptive 6thgeneration architecture\n9.00\n400.98\n3 608.82\n2\nVisionary directional circuit\n3.00\n498.08\n1 494.24\n3\nEnhanced fresh-thinking policy\n1.00\n403.71\n403.71\nTotal secondary Internet solution\n3.00\n27.84\n83.52\n5\nMandatory zero administration support\n4.00\n175.94\nSubtotal\n6 294.05\nTax (10%)\n629.41\nTotal Due\n6 923.46\nThank you for your business.",
+  "processing_time_seconds": 2.313,
+  "file_size_bytes": 27583,
+  "success": true
+}

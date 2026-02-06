@@ -1,0 +1,8 @@
+{
+  "filename": "126_effect_perspective_warp.pdf",
+  "model_name": "paddleocr",
+  "raw_text": "Baker, Reynolds and Cooke\nmouth, FL 42713\nINVOICE\nFROM\nBaker, Reynolds and Cooke.\nNo: 6344734952\nDate: 11/13/2024\n315 Charles Harbors Sulte 265e\nFranciscomouth. FL 42713\nBILLTO\nTerry, Farmer and Serrano\nEast John. PW 46409\nDescription\n1\nPolarized needs-based open architecture\nQuantity\nUnit Price\n2\nHorizontal bandwidth-monitored accesse\n2.00\n197.15\n394.30\n3\nDiverse contextually-based framework\n7.00\n242.56\n1 607.92\n10.00\n209.37\n2083.70\nSubtotal\n4 185.92\nTax (10%)\n418.50\nDiscount\n-209.30\nThank you for your busint",
+  "processing_time_seconds": 2.16,
+  "file_size_bytes": 80630,
+  "success": true
+}

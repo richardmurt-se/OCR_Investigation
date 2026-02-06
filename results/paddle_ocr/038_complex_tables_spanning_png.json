@@ -1,0 +1,8 @@
+{
+  "filename": "038_complex_tables_spanning.png",
+  "model_name": "paddleocr",
+  "raw_text": "Hunt, Olson and Hill\nINVOICE\n50166 Lori Port Apt. 066 | Evansland, WA 61227\nNo: FAC-1287205\nDate: 09/09/2024\n50166 Lorl Port Apt. 066, Evansland, WA 61227\nFAC 1287205\nAlexander Tucker  g84 Michael Trafficway Apt. 623, Rhondafurt, SD 28376\n09/09/2024\nShlp To: Alexander-Tucker, 984 Mlchael Trafficway Apt. 623, Rhondafurt, SD 28376\nDuc\nOn Recelpt\nSKU\nDescrlption\nITH0010\nghput (Qty: 32 units/pack)\n9.00\n9.00\n170.49\n1 534.41\n1 534.41\n13\nITH0020\nMuls tered motivatng challenge - 177GB, 51 deplsy\n7.00\n7.00\n330.84\n2 315.88\n2 315.88\nITH0030\nInfrastructure\n18.08\n18.88\n31.90\n319.88\n319.89\nSubtotal:\n4 169.29\nTax (10%):\n416.93\nPayment due upon receipt\nDiscount:\n0.00\nShipping:\n0.00\nTOTAL DUE: 4 586.22",
+  "processing_time_seconds": 2.777,
+  "file_size_bytes": 45803,
+  "success": true
+}

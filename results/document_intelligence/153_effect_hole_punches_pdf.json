@@ -1,0 +1,63 @@
+{
+  "filename": "153_effect_hole_punches.pdf",
+  "invoice": {
+    "client_name": "White-Park\nWallace",
+    "client_address": "",
+    "seller_name": "Beasley-Salas",
+    "seller_address": "5740 Jennifer Expressway\nSouth Jessicaberg, AR 90631",
+    "invoice_number": "FAC574132",
+    "invoice_date": "02/10/2025",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "De-engineered cohesive budgetary management",
+      "quantity": "1.00",
+      "unit_price": "469.96",
+      "total_price": "469.96",
+      "category": null
+    },
+    {
+      "description": "Horizontal multi-tasking support",
+      "quantity": "10.00",
+      "unit_price": "199.93",
+      "total_price": "1 999.30",
+      "category": null
+    },
+    {
+      "description": "Total foreground matrix",
+      "quantity": "7.00",
+      "unit_price": "74.55",
+      "total_price": "521.85",
+      "category": null
+    },
+    {
+      "description": "Progressive content-based synergy",
+      "quantity": "10.00",
+      "unit_price": "294.35",
+      "total_price": "2 943.50",
+      "category": null
+    },
+    {
+      "description": "Synergistic systemic complexity",
+      "quantity": "10.00",
+      "unit_price": "52.04",
+      "total_price": "520.40",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "6 455.01",
+    "tax": "645.50",
+    "discount": "",
+    "total": "7 100.51"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.667,
+  "file_size_bytes": 31452
+}

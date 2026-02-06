@@ -1,0 +1,84 @@
+{
+  "filename": "043_heavy_punctuation_brackets.jpeg",
+  "invoice": {
+    "client_name": "[Allen-Smith]",
+    "client_address": "(13090 Phillips Mission, Thompsonview,\nDE 95350)",
+    "seller_name": "[Mckinney-Morgan]",
+    "seller_address": "(PSC 7883, Box 4961, APO AP 97656)",
+    "invoice_number": "[BILL-7786951]",
+    "invoice_date": "05/03/2025",
+    "due_date": "26/02/2026"
+  },
+  "items": [
+    {
+      "description": "(> Expanded modular Local Area Network [NEW] [Ref: REF-01000] {Cat:\nGeneral}",
+      "quantity": "10.00",
+      "unit_price": "454.56",
+      "total_price": "-4 545.60",
+      "category": null
+    },
+    {
+      "description": "(> Persistent 24hour toolset *** @ 16% discount) [Ref: REF-02000] (Cat:\nGeneral}",
+      "quantity": "4.00",
+      "unit_price": "451.64",
+      "total_price": "-1 806.56",
+      "category": null
+    },
+    {
+      "description": "(Multi-lateral grid-enabled task-force & Co., Model: TiH-862) [Ref. REF-\n03000] (Cat: General)",
+      "quantity": "7.00",
+      "unit_price": "234.97",
+      "total_price": "-1 644.79",
+      "category": null
+    },
+    {
+      "description": "( *** Distributed eco-centric Graphical User Interface $$$ | Size: L) [Ref:\nREF-04000] (Cat: General}",
+      "quantity": "10.00",
+      "unit_price": "334.59",
+      "total_price": "-3 345.90",
+      "category": null
+    },
+    {
+      "description": "(SALE! Mandatory cohesive contingency & Co. @ 14% discount) [Ref.\nREF-05000] (Cat: General)",
+      "quantity": "7.00",
+      "unit_price": "253.70",
+      "total_price": "-1 775.90",
+      "category": null
+    },
+    {
+      "description": "(SALE! Profound asynchronous customer loyalty, Inc. | Size: M) [Ref: REF-\n06000] (Cat: General)",
+      "quantity": "9.00",
+      "unit_price": "330.96",
+      "total_price": "-2 978.64",
+      "category": null
+    },
+    {
+      "description": "(Pre-emptive modular archive; Deluxe @ 29% discount) [Ref: REF-07000]\n{Cat: General}",
+      "quantity": "4.00",
+      "unit_price": "284.74",
+      "total_price": "-1 138.96",
+      "category": null
+    },
+    {
+      "description": "(Cross-group upward-trending instruction set & Co. - Ref. #78136) [Ref:\nREF-08000] (Cat: General)",
+      "quantity": "2.00",
+      "unit_price": "319.13",
+      "total_price": "-638.26",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "-17 874.61",
+    "tax": "1 787.46",
+    "discount": "787.46",
+    "total": "17 874.61"
+  },
+  "payment_instructions": {
+    "due_date": "26/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.934,
+  "file_size_bytes": 115140
+}

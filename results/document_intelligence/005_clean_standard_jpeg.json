@@ -1,0 +1,70 @@
+{
+  "filename": "005_clean_standard.jpeg",
+  "invoice": {
+    "client_name": "Smith, Mcclure and Mclean",
+    "client_address": "",
+    "seller_name": "Mccoy-Ross",
+    "seller_address": "272 Gardner Court Apt. 153 | West Kimberly, PA 67824",
+    "invoice_number": "INV-339046036",
+    "invoice_date": "09/01/2025",
+    "due_date": "08/03/2026"
+  },
+  "items": [
+    {
+      "description": "Horizontal multi-state hierarchy",
+      "quantity": "3.00",
+      "unit_price": "363.77",
+      "total_price": "1 091.31",
+      "category": null
+    },
+    {
+      "description": "Adaptive fresh-thinking emulation",
+      "quantity": "5.00",
+      "unit_price": "187.23",
+      "total_price": "936.15",
+      "category": null
+    },
+    {
+      "description": "Open-source leadingedge strategy",
+      "quantity": "2.00",
+      "unit_price": "240.28",
+      "total_price": "480.56",
+      "category": null
+    },
+    {
+      "description": "Optional zero tolerance portal",
+      "quantity": "1.00",
+      "unit_price": "211.43",
+      "total_price": "211.43",
+      "category": null
+    },
+    {
+      "description": "Phased zero-defect installation",
+      "quantity": "5.00",
+      "unit_price": "393.08",
+      "total_price": "1 985.40",
+      "category": null
+    },
+    {
+      "description": "Persevering client-server model",
+      "quantity": "4.00",
+      "unit_price": "337.08",
+      "total_price": "1 348.24",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "6 033.09",
+    "tax": "603.31",
+    "discount": "",
+    "total": "6 636.40"
+  },
+  "payment_instructions": {
+    "due_date": "08/03/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.897,
+  "file_size_bytes": 64092
+}

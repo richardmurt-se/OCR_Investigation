@@ -1,0 +1,8 @@
+{
+  "filename": "016_clean_modern.pdf",
+  "model_name": "paddleocr",
+  "raw_text": "Coleman-Brooks\nINVOICE\n90208 Newton Landing - Lauramouth, MN 60012\nFAC8874319\n12/10/2024\nFROM\nBILL TO\nColeman-Brooks\nElliott, Moore and Tyler\n 90208 Newton Landing\n64763 Davis Stravenue\n Lauramouth, MN 60012\nNorth Christinastad, AL 30369\nDESCRIPTIONE\nQTY\nRATE\nAMOUNT\nDevolved mobile firmware\n9.00\n163.80\n1 474.20\nReverse-engineered high-level adapter\n9.00\n121.33\n1 091.97\nQuality-focused empowering flexibility\n7.00\n275.86\n1 931.02\nCustomer-focused disintermediate strategy\n6.00\n115.89\n695.34\nImplemented fault-tolerant collaboration\n9.00\n153.25\n1 379.25\nFocused explicit capacity\n3.00\n195.89\n587.67\nManaged heuristic knowledge user\n9.00\n430.23\n3 872.07\nSubtotal\n11 031.52\nTax\n1 103.15\nTotal\n12 134.67\nPAyMeNT DETAILS\nBank: Jones Ltd Bank\nAccount: XHSM48345055528765\nDue: 03/08/2026\nThank You!\nColeman-Brooks",
+  "processing_time_seconds": 3.311,
+  "file_size_bytes": 131848,
+  "success": true
+}

@@ -1,0 +1,8 @@
+{
+  "filename": "147_effect_stamps.pdf",
+  "model_name": "paddleocr",
+  "raw_text": "Horne LLC.\nINVOICE\n50054 Williams Route Apt. 876 | West Sarahfort, DC 38965\nNo: BILL-657000\nDate: 02/15/2025\nFROM\n BILL TO\nHorne LLC\nStone LLC\n50054 Williams Route Apt. 876\n17740 Lisa Plaza Apt. 946\nWest Sarahfort, DC 38965\nPort Elizabethside, AS 46255\nDescription\n Quantity\nVOID\nUnit Price\nAmount\n Progressive 24/7 core\n9.00\n288.63\n2 597.67\n2\nSeamless uniform ta.\n8.00\n341.00\n2 728.00\n3\nVision-oriented web-e\n1.00\n292.60\n292.60\nFocused web-enabled migratior\n378.93\n378.93\n5\n Reactive high-level contingency\n3.00\n201.71\n605.13\n Subtotal\n6 602.33\n<5\nTax (10%)\n660.23\nDiscount\n-660.23\nTotal Due\n6 602.33\nThank you for your business",
+  "processing_time_seconds": 2.459,
+  "file_size_bytes": 77813,
+  "success": true
+}

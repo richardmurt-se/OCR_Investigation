@@ -1,0 +1,77 @@
+{
+  "filename": "118_effect_gaussian_noise.pdf",
+  "invoice": {
+    "client_name": "Rosario Inc",
+    "client_address": "",
+    "seller_name": "Whitaker, Ball and James",
+    "seller_address": "11509 Butler Inlet Apt. 350 | New Matthewhaven, GU 32540",
+    "invoice_number": "FAC8310294948",
+    "invoice_date": "23/10/2024",
+    "due_date": "28/02/2026"
+  },
+  "items": [
+    {
+      "description": "Future-proofed user-facing ability",
+      "quantity": "2.00",
+      "unit_price": "88.27",
+      "total_price": "176.54",
+      "category": null
+    },
+    {
+      "description": "Networked eco-centric architecture",
+      "quantity": "5.00",
+      "unit_price": "252.59",
+      "total_price": "1 282.95",
+      "category": null
+    },
+    {
+      "description": "Versatile web-enabled extranet",
+      "quantity": "7.00",
+      "unit_price": "115.86",
+      "total_price": "811.02",
+      "category": null
+    },
+    {
+      "description": "Synchronized heuristic orchestration",
+      "quantity": "3.00",
+      "unit_price": "366.53",
+      "total_price": "1 099.59",
+      "category": null
+    },
+    {
+      "description": "Enhanced client-server hierarchy",
+      "quantity": "4.00",
+      "unit_price": "151.05",
+      "total_price": "604.20",
+      "category": null
+    },
+    {
+      "description": "Polarized human-resource extranet",
+      "quantity": "1.00",
+      "unit_price": "41.57",
+      "total_price": "41.57",
+      "category": null
+    },
+    {
+      "description": "Progressive composite customer loyalty",
+      "quantity": "8.00",
+      "unit_price": "238.23",
+      "total_price": "1 905.84",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "5 901.71",
+    "tax": "590.17",
+    "discount": "",
+    "total": "6 196.79"
+  },
+  "payment_instructions": {
+    "due_date": "28/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 12.464,
+  "file_size_bytes": 1600184
+}

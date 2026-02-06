@@ -1,0 +1,56 @@
+{
+  "filename": "034_complex_tables_spanning.jpeg",
+  "invoice": {
+    "client_name": "Lewis and Sons",
+    "client_address": "9287 Gill Plains, Antonioshire, NJ 75814",
+    "seller_name": "Lee PLC",
+    "seller_address": "087 Cynthia Knoll Suite 316, Robertsside, OH 20653",
+    "invoice_number": "INV 27596560",
+    "invoice_date": "30/09/2025",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Open architected secondary solution | Model: UKz 4450, Serial:\n6639038584",
+      "quantity": "7.00",
+      "unit_price": "149.69",
+      "total_price": "1 847.83",
+      "category": null
+    },
+    {
+      "description": "Optional context sensitive implementation | Model: BUT 9685,\nSerial: 8347258334",
+      "quantity": "6.80",
+      "unit_price": "95.41",
+      "total_price": "578.46",
+      "category": null
+    },
+    {
+      "description": "Balanced upward trending secured line . 911GB, 42\" display",
+      "quantity": "2.00",
+      "unit_price": "371.38",
+      "total_price": "742.76",
+      "category": null
+    },
+    {
+      "description": "Mandatory optimizing Info mediaries (Qty: 96 units/pack)",
+      "quantity": "9.20",
+      "unit_price": "491.68",
+      "total_price": "4 424.48",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "8 238.85",
+    "tax": "823.89",
+    "discount": "",
+    "total": "8 238.85"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.764,
+  "file_size_bytes": 79333
+}

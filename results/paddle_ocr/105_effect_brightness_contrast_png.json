@@ -1,0 +1,8 @@
+{
+  "filename": "105_effect_brightness_contrast.png",
+  "model_name": "paddleocr",
+  "raw_text": "Wilson-Jones\nINVOICE\n688 Clark Turnpike Apt. 846 | Jefferyland, MN 88126\nNo: INV/62177044\nDate: 06/03/2024\nDue: 03/08/2026\nFROM\nBILL TO\nWilson-Jones\nKing Group.\n688 Clark Turnpike Apt. 846\n047 Simon Square Suite 587\nJefferyland, MN 88126\nJillianmouth. PR 72700\nDescription\nQuantity\nUnit Price\nAmount\nDown-sized intangible mocel\n2.00\n608.14\nStand-alone hybrid application\n5.00\n11.88\n59.40\nMulti-lateral bifurcated database\n2.00\n308.75\n617.50\nTriple-buffered fault-tolerant alliance\n4.00\n467.86\n1 871.44\nF\nContigurable cohesive structure\n7.00\n300.12\n18000 Z\nSubtotal\n5 257.32\nTax (10%)\n525.73\nDsooun!\n-262.87\nTotal Due\n85 2219\nPAYMENT INFORMATION\nBank: Woods LLC Credit Union\nAccount: GCB582658898481804",
+  "processing_time_seconds": 2.629,
+  "file_size_bytes": 28133,
+  "success": true
+}

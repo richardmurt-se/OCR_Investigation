@@ -1,0 +1,8 @@
+{
+  "filename": "125_effect_perspective_warp.png",
+  "model_name": "paddleocr",
+  "raw_text": "INVOICE\nNo:BILL3840032\nDate: 09/07/2025\nDue:02/14/2026\nWilliams-Rogers\nBILL TO\n Smith-Lang\n805 Green Glen\nFROM\nAmount\nWilliams-Rogers\nUnit Price\nQuantity\n504.84\n282.42\n2.00\n524.10\nDeccription\n3.00\n174.70\n1276.88\n8.00\n159.61\nDistibuted needa based Graphical User Interface\n407.36\n1 620.44\nVaion-oriented content-based architecture\n4.00\nHorzontal syatam worthy Grephical User Interface\nSubtotal\n3 995.26\nTax (10%)\n399.53\nTotal Due\n4 394.79\nPAYMENT INFORMATION\nBank: Rodrguoz, Eums and Shannon Eankd\nAccount: ZULA01887456172823",
+  "processing_time_seconds": 2.005,
+  "file_size_bytes": 79660,
+  "success": true
+}

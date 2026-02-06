@@ -1,0 +1,77 @@
+{
+  "filename": "065_multilingual_es_minimal.png",
+  "invoice": {
+    "client_name": "Familia Arellano S.L.",
+    "client_address": "Ronda de Eloy Cortina 16\nGirona, 34064",
+    "seller_name": "Inmobiliaria Aroca S.L.",
+    "seller_address": "Plaza Ruperta Valdes 3 Apt. 72\nLas Palmas, 07959",
+    "invoice_number": "FAC-80090268",
+    "invoice_date": "16/03/2024",
+    "due_date": "17/02/2026"
+  },
+  "items": [
+    {
+      "description": "Integrated asymmetric hardware",
+      "quantity": "6.00",
+      "unit_price": "345.43",
+      "total_price": "2 072.58",
+      "category": null
+    },
+    {
+      "description": "Devolved even-keeled focus group",
+      "quantity": "3.00",
+      "unit_price": "37.14",
+      "total_price": "111.42",
+      "category": null
+    },
+    {
+      "description": "Synergized homogeneous application",
+      "quantity": "2.00",
+      "unit_price": "213.96",
+      "total_price": "427.92",
+      "category": null
+    },
+    {
+      "description": "Horizontal methodical structure",
+      "quantity": "10.00",
+      "unit_price": "67.62",
+      "total_price": "676.20",
+      "category": null
+    },
+    {
+      "description": "Managed regional pricing structure",
+      "quantity": "1.00",
+      "unit_price": "181.34",
+      "total_price": "181.34",
+      "category": null
+    },
+    {
+      "description": "Robust real-time methodology",
+      "quantity": "8.00",
+      "unit_price": "256.99",
+      "total_price": "2 055.92",
+      "category": null
+    },
+    {
+      "description": "Customer-focused upward-trending system engine",
+      "quantity": "6.00",
+      "unit_price": "471.26",
+      "total_price": "2 827.56",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "8 352.94",
+    "tax": "835.29",
+    "discount": "",
+    "total": "9 188.23"
+  },
+  "payment_instructions": {
+    "due_date": "17/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.715,
+  "file_size_bytes": 30265
+}

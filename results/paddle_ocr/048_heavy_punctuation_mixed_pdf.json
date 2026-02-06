@@ -1,0 +1,8 @@
+{
+  "filename": "048_heavy_punctuation_mixed.pdf",
+  "model_name": "paddleocr",
+  "raw_text": "<POOLE, ROLLINS AND MORROW> **\n\"Quality & Excellencem  Your Trusted Partner Since 1985o'  {Premium Services}\n (555) 123-4567 |  info@company.com |  [8384 Gregory Flat Suite 907]  [Danielshire, MP 86686]\nINVOICE DETAILS $$$\n[BILL TO] o\n{PAYMENT INFO} $\n[No.]#: \"INV-9707290\n\"Barker-Acevedo\"\nBank: \"Shepherd and Sons Credit Union'\n{Date}M: 07/23/2025'\n 04407 Smith Courts / Blankenshipstad, IA 34449\n[Acct#]: 'SLIL97580017688258\n(Ref)@:REF-707290\n(Method)@:{Check}\n{SKU}#\nDescription / \"Details\"- (Specs)*\n[Cat.]\n\"Qty\"@\n'$/Unit'\n[#]\n{Tax%}\n$$Total\n{SK-\n\"SALE! Universal scalable methodology; Deluxe, Model: icQ-424\n[1]\n0100}\nGen>\n'3.00'\n$368.03\n{10%}\n$1104.09**\nModel: [MDL-010] NEW! @15% off* \n[2]\n{SK\n\"SALE! Distributed object-oriented circuit (Ltd.) @ 20% discount@ \nf2200\nModel: [MDL-020]NEW!18% off**\nGen\n'10.00\n$22.50\n{10%}\n$225.00**\n[3]\n{SK-\n\"SALE! Public-key high-level algorithm #1 Rated, Model: zEx-898\nGen\n'9.00'\n$270.58\n0300}\n{10%}\n$2435.22**\nModel: [MDL-030]NEW! @31% off* \nSubtotal>$:\n\"$3 764.31\"\n{Tax} @ '10%\n'$376.43'\n\"$4 140.74\"***\nTerms & Conditions [Important Information]*:\n(1) Payment due within 30 days* of {invoice date)O. (2) Late payments\nchange 5%. **Total includes all (applicable fees} & taxes@\n Poole, Rollins and Morrow-  All Rights Reserved@ | Questions?  {(555) 123-4567} ext. [101/102] |  billing@company.com |  -Priority Support\n**   Thank you for your business!  **\nPoole, Rollins and Morrow~@ I [Invoice] #{{ invoice.invoice_number }} 1 (07/23/2025) | 2025",
+  "processing_time_seconds": 4.493,
+  "file_size_bytes": 164186,
+  "success": true
+}

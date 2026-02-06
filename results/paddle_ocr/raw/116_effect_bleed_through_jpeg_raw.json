@@ -1,0 +1,1655 @@
+{
+  "content": "Martinez Inc\nINVOICE\nUnit 2889 Box 4283 |DPO AA 10861\nNo:BILL/91137331\nDate:10/04/2025\n2noitibno8 aDue:02/26/2026\nc.r s o tsdua sd ysmatnsmysq sts.aysb 0 nirtiw subaitnsmys9\nFROM\nMartinez Inc\n98599.pniinw.ni\nAlvarez,Thompson and Smith\n 916 29ls lA.lut\nUnit 2889 Box 4283\n05217 Brown Drive Apt.482\neup yns iot pnillid Josinoe\nDPOAA10861\nWest Oscarville,AK57000\nec.rs oiiasdua-sd-ysmainsmysq sis.aysb0c-nirliw sub-aijnsmys9\nDescription\nnibisq linu sllsa to yhegog ni\nQuantity\nUnit Price snit yirtno\n90\nAmount\n1\nRe-contextualized composite pricing structure\n8.00\nea9lnu.s\n30.37\n162IA.IU\n242.98\nSUA-dn62j0t\nObgef pje\n2\nDiverse upward-trending synergy\n4.00\n476.63\n1 906.52\nFully-configurable explicit contingency\na.r6otiasjdue9d ysm ainsmysq9l\n2.00\nsb.08ririiw\n24.99\n3\n49.88\n4\nDistributed zero administration analyzer\n9assl9.pniinw.ni.b991ps.9aiw10.00\naa9nsn379.2529aA3792.50\nSubtotal\n5991.96\noc.rs otlojdua ed ysm ainsmysq 9isl.aysb 0 n\nTax10%\n599.20\nnibisq litnuisllsato yhsqoiq nism\n9ese9.pnitinw.nibssps.9eiw\nTotal Due\n6591.16\n9iovni eirt otbstsle1 anoitasup yns ot pnillid tosino\nPAYMENT INFORMATION\nBank:King and Sons Bank\noea.t s.ot iosidve ed ysm.ainsmysg.ots.aysb-08 ridiiw sub aiJnsmys9\nAccountEDIW53269490720669\nMethod: Wire Transfer\n92ssl9.pninw.nib9sips 9eiwnsrio aasinulsnit91s e9lsa llA.llut\n9oiovni ainl oibainleTanoitasup ynslotpnllidjosino\nThank you for your business\nc.rs ot dua sd ysm ainmysq sts .aysb.08 nirtiw sub aiinsmys9\nnibisg litnu sllsatoyhsgoig isms1aboo.spisdosnsnit ylrinom\n9esel9 pninw ni.b9aps saiwerto aa9lnulsnits1s aslsa llA.llut\n9iovn aini oibaisiaTanoitagup ynslotpnillidjosino\nc.t s.ottajdua ed ysm ainemysq sts.aysb 0c nirtiw sub aiinsmys9\n92699.prw nl.b991p692w9nt0 229ln5i915 2962lA.l\neoiovni aini otbaisleT anoitasup ynslot pnillid tosino\nc.rs otjadua ed ysm ansmysq ts.aysb 08 nirtiw sub aiinsmys9",
+  "detections": [
+    {
+      "text": "Martinez Inc",
+      "confidence": 0.9725043773651123,
+      "bbox": [
+        [
+          18.0,
+          21.0
+        ],
+        [
+          149.0,
+          24.0
+        ],
+        [
+          149.0,
+          43.0
+        ],
+        [
+          18.0,
+          41.0
+        ]
+      ]
+    },
+    {
+      "text": "INVOICE",
+      "confidence": 0.9976677298545837,
+      "bbox": [
+        [
+          658.0,
+          22.0
+        ],
+        [
+          776.0,
+          22.0
+        ],
+        [
+          776.0,
+          47.0
+        ],
+        [
+          658.0,
+          47.0
+        ]
+      ]
+    },
+    {
+      "text": "Unit 2889 Box 4283 |DPO AA 10861",
+      "confidence": 0.9054904580116272,
+      "bbox": [
+        [
+          18.0,
+          49.0
+        ],
+        [
+          184.0,
+          49.0
+        ],
+        [
+          184.0,
+          64.0
+        ],
+        [
+          18.0,
+          64.0
+        ]
+      ]
+    },
+    {
+      "text": "No:BILL/91137331",
+      "confidence": 0.959972620010376,
+      "bbox": [
+        [
+          677.0,
+          55.0
+        ],
+        [
+          775.0,
+          55.0
+        ],
+        [
+          775.0,
+          70.0
+        ],
+        [
+          677.0,
+          70.0
+        ]
+      ]
+    },
+    {
+      "text": "Date:10/04/2025",
+      "confidence": 0.9824827909469604,
+      "bbox": [
+        [
+          688.0,
+          74.0
+        ],
+        [
+          775.0,
+          74.0
+        ],
+        [
+          775.0,
+          87.0
+        ],
+        [
+          688.0,
+          87.0
+        ]
+      ]
+    },
+    {
+      "text": "2noitibno8 aDue:02/26/2026",
+      "confidence": 0.8298342823982239,
+      "bbox": [
+        [
+          562.0,
+          96.0
+        ],
+        [
+          777.0,
+          86.0
+        ],
+        [
+          778.0,
+          106.0
+        ],
+        [
+          563.0,
+          116.0
+        ]
+      ]
+    },
+    {
+      "text": "c.r s o tsdua sd ysmatnsmysq sts.aysb 0 nirtiw subaitnsmys9",
+      "confidence": 0.5942847728729248,
+      "bbox": [
+        [
+          262.0,
+          123.0
+        ],
+        [
+          735.0,
+          123.0
+        ],
+        [
+          735.0,
+          139.0
+        ],
+        [
+          262.0,
+          139.0
+        ]
+      ]
+    },
+    {
+      "text": "FROM",
+      "confidence": 0.9986327886581421,
+      "bbox": [
+        [
+          18.0,
+          150.0
+        ],
+        [
+          54.0,
+          150.0
+        ],
+        [
+          54.0,
+          163.0
+        ],
+        [
+          18.0,
+          163.0
+        ]
+      ]
+    },
+    {
+      "text": "Martinez Inc",
+      "confidence": 0.9684236645698547,
+      "bbox": [
+        [
+          18.0,
+          167.0
+        ],
+        [
+          90.0,
+          170.0
+        ],
+        [
+          89.0,
+          185.0
+        ],
+        [
+          18.0,
+          182.0
+        ]
+      ]
+    },
+    {
+      "text": "98599.pniinw.ni",
+      "confidence": 0.7067857384681702,
+      "bbox": [
+        [
+          319.0,
+          166.0
+        ],
+        [
+          438.0,
+          166.0
+        ],
+        [
+          438.0,
+          181.0
+        ],
+        [
+          319.0,
+          181.0
+        ]
+      ]
+    },
+    {
+      "text": "Alvarez,Thompson and Smith",
+      "confidence": 0.9606526494026184,
+      "bbox": [
+        [
+          431.0,
+          168.0
+        ],
+        [
+          612.0,
+          168.0
+        ],
+        [
+          612.0,
+          184.0
+        ],
+        [
+          431.0,
+          184.0
+        ]
+      ]
+    },
+    {
+      "text": " 916 29ls lA.lut",
+      "confidence": 0.6029105186462402,
+      "bbox": [
+        [
+          605.0,
+          167.0
+        ],
+        [
+          736.0,
+          166.0
+        ],
+        [
+          736.0,
+          179.0
+        ],
+        [
+          605.0,
+          180.0
+        ]
+      ]
+    },
+    {
+      "text": "Unit 2889 Box 4283",
+      "confidence": 0.9166536331176758,
+      "bbox": [
+        [
+          19.0,
+          186.0
+        ],
+        [
+          110.0,
+          186.0
+        ],
+        [
+          110.0,
+          200.0
+        ],
+        [
+          19.0,
+          200.0
+        ]
+      ]
+    },
+    {
+      "text": "05217 Brown Drive Apt.482",
+      "confidence": 0.9338710904121399,
+      "bbox": [
+        [
+          432.0,
+          187.0
+        ],
+        [
+          561.0,
+          187.0
+        ],
+        [
+          561.0,
+          199.0
+        ],
+        [
+          432.0,
+          199.0
+        ]
+      ]
+    },
+    {
+      "text": "eup yns iot pnillid Josinoe",
+      "confidence": 0.5845977067947388,
+      "bbox": [
+        [
+          567.0,
+          187.0
+        ],
+        [
+          734.0,
+          186.0
+        ],
+        [
+          734.0,
+          201.0
+        ],
+        [
+          567.0,
+          202.0
+        ]
+      ]
+    },
+    {
+      "text": "DPOAA10861",
+      "confidence": 0.9685851335525513,
+      "bbox": [
+        [
+          19.0,
+          198.0
+        ],
+        [
+          87.0,
+          198.0
+        ],
+        [
+          87.0,
+          209.0
+        ],
+        [
+          19.0,
+          209.0
+        ]
+      ]
+    },
+    {
+      "text": "West Oscarville,AK57000",
+      "confidence": 0.9540659189224243,
+      "bbox": [
+        [
+          435.0,
+          198.0
+        ],
+        [
+          554.0,
+          198.0
+        ],
+        [
+          554.0,
+          209.0
+        ],
+        [
+          435.0,
+          209.0
+        ]
+      ]
+    },
+    {
+      "text": "ec.rs oiiasdua-sd-ysmainsmysq sis.aysb0c-nirliw sub-aijnsmys9",
+      "confidence": 0.6525635123252869,
+      "bbox": [
+        [
+          262.0,
+          229.0
+        ],
+        [
+          735.0,
+          229.0
+        ],
+        [
+          735.0,
+          244.0
+        ],
+        [
+          262.0,
+          244.0
+        ]
+      ]
+    },
+    {
+      "text": "Description",
+      "confidence": 0.9967828392982483,
+      "bbox": [
+        [
+          63.0,
+          242.0
+        ],
+        [
+          123.0,
+          245.0
+        ],
+        [
+          122.0,
+          261.0
+        ],
+        [
+          62.0,
+          258.0
+        ]
+      ]
+    },
+    {
+      "text": "nibisq linu sllsa to yhegog ni",
+      "confidence": 0.7825514674186707,
+      "bbox": [
+        [
+          291.0,
+          249.0
+        ],
+        [
+          495.0,
+          249.0
+        ],
+        [
+          495.0,
+          264.0
+        ],
+        [
+          291.0,
+          264.0
+        ]
+      ]
+    },
+    {
+      "text": "Quantity",
+      "confidence": 0.9958242177963257,
+      "bbox": [
+        [
+          496.0,
+          247.0
+        ],
+        [
+          542.0,
+          247.0
+        ],
+        [
+          542.0,
+          260.0
+        ],
+        [
+          496.0,
+          260.0
+        ]
+      ]
+    },
+    {
+      "text": "Unit Price snit yirtno",
+      "confidence": 0.841693103313446,
+      "bbox": [
+        [
+          602.0,
+          243.0
+        ],
+        [
+          722.0,
+          249.0
+        ],
+        [
+          721.0,
+          266.0
+        ],
+        [
+          601.0,
+          259.0
+        ]
+      ]
+    },
+    {
+      "text": "90",
+      "confidence": 0.5477602481842041,
+      "bbox": [
+        [
+          579.0,
+          253.0
+        ],
+        [
+          597.0,
+          253.0
+        ],
+        [
+          597.0,
+          261.0
+        ],
+        [
+          579.0,
+          261.0
+        ]
+      ]
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9988477826118469,
+      "bbox": [
+        [
+          727.0,
+          247.0
+        ],
+        [
+          769.0,
+          247.0
+        ],
+        [
+          769.0,
+          259.0
+        ],
+        [
+          727.0,
+          259.0
+        ]
+      ]
+    },
+    {
+      "text": "1",
+      "confidence": 0.9599438905715942,
+      "bbox": [
+        [
+          27.0,
+          282.0
+        ],
+        [
+          33.0,
+          282.0
+        ],
+        [
+          33.0,
+          289.0
+        ],
+        [
+          27.0,
+          289.0
+        ]
+      ]
+    },
+    {
+      "text": "Re-contextualized composite pricing structure",
+      "confidence": 0.9779130816459656,
+      "bbox": [
+        [
+          65.0,
+          280.0
+        ],
+        [
+          267.0,
+          280.0
+        ],
+        [
+          267.0,
+          291.0
+        ],
+        [
+          65.0,
+          291.0
+        ]
+      ]
+    },
+    {
+      "text": "8.00",
+      "confidence": 0.9948732852935791,
+      "bbox": [
+        [
+          518.0,
+          276.0
+        ],
+        [
+          544.0,
+          279.0
+        ],
+        [
+          542.0,
+          293.0
+        ],
+        [
+          516.0,
+          290.0
+        ]
+      ]
+    },
+    {
+      "text": "ea9lnu.s",
+      "confidence": 0.5581681728363037,
+      "bbox": [
+        [
+          554.0,
+          273.0
+        ],
+        [
+          621.0,
+          273.0
+        ],
+        [
+          621.0,
+          284.0
+        ],
+        [
+          554.0,
+          284.0
+        ]
+      ]
+    },
+    {
+      "text": "30.37",
+      "confidence": 0.9929021596908569,
+      "bbox": [
+        [
+          625.0,
+          276.0
+        ],
+        [
+          655.0,
+          279.0
+        ],
+        [
+          654.0,
+          293.0
+        ],
+        [
+          623.0,
+          290.0
+        ]
+      ]
+    },
+    {
+      "text": "162IA.IU",
+      "confidence": 0.6655091047286987,
+      "bbox": [
+        [
+          669.0,
+          273.0
+        ],
+        [
+          731.0,
+          273.0
+        ],
+        [
+          731.0,
+          284.0
+        ],
+        [
+          669.0,
+          284.0
+        ]
+      ]
+    },
+    {
+      "text": "242.98",
+      "confidence": 0.9175910949707031,
+      "bbox": [
+        [
+          732.0,
+          276.0
+        ],
+        [
+          768.0,
+          279.0
+        ],
+        [
+          767.0,
+          293.0
+        ],
+        [
+          731.0,
+          290.0
+        ]
+      ]
+    },
+    {
+      "text": "SUA-dn62j0t",
+      "confidence": 0.557187020778656,
+      "bbox": [
+        [
+          540.0,
+          295.0
+        ],
+        [
+          621.0,
+          295.0
+        ],
+        [
+          621.0,
+          306.0
+        ],
+        [
+          540.0,
+          306.0
+        ]
+      ]
+    },
+    {
+      "text": "Obgef pje",
+      "confidence": 0.6065088510513306,
+      "bbox": [
+        [
+          649.0,
+          294.0
+        ],
+        [
+          725.0,
+          294.0
+        ],
+        [
+          725.0,
+          305.0
+        ],
+        [
+          649.0,
+          305.0
+        ]
+      ]
+    },
+    {
+      "text": "2",
+      "confidence": 0.9971434473991394,
+      "bbox": [
+        [
+          26.0,
+          311.0
+        ],
+        [
+          37.0,
+          311.0
+        ],
+        [
+          37.0,
+          324.0
+        ],
+        [
+          26.0,
+          324.0
+        ]
+      ]
+    },
+    {
+      "text": "Diverse upward-trending synergy",
+      "confidence": 0.9921070337295532,
+      "bbox": [
+        [
+          63.0,
+          309.0
+        ],
+        [
+          214.0,
+          311.0
+        ],
+        [
+          214.0,
+          326.0
+        ],
+        [
+          63.0,
+          324.0
+        ]
+      ]
+    },
+    {
+      "text": "4.00",
+      "confidence": 0.9726976156234741,
+      "bbox": [
+        [
+          519.0,
+          308.0
+        ],
+        [
+          543.0,
+          312.0
+        ],
+        [
+          541.0,
+          327.0
+        ],
+        [
+          517.0,
+          323.0
+        ]
+      ]
+    },
+    {
+      "text": "476.63",
+      "confidence": 0.989122211933136,
+      "bbox": [
+        [
+          620.0,
+          310.0
+        ],
+        [
+          656.0,
+          310.0
+        ],
+        [
+          656.0,
+          326.0
+        ],
+        [
+          620.0,
+          326.0
+        ]
+      ]
+    },
+    {
+      "text": "1 906.52",
+      "confidence": 0.9262652397155762,
+      "bbox": [
+        [
+          727.0,
+          311.0
+        ],
+        [
+          768.0,
+          311.0
+        ],
+        [
+          768.0,
+          324.0
+        ],
+        [
+          727.0,
+          324.0
+        ]
+      ]
+    },
+    {
+      "text": "Fully-configurable explicit contingency",
+      "confidence": 0.9692903161048889,
+      "bbox": [
+        [
+          63.0,
+          342.0
+        ],
+        [
+          235.0,
+          343.0
+        ],
+        [
+          235.0,
+          358.0
+        ],
+        [
+          63.0,
+          357.0
+        ]
+      ]
+    },
+    {
+      "text": "a.r6otiasjdue9d ysm ainsmysq9l",
+      "confidence": 0.5193889141082764,
+      "bbox": [
+        [
+          261.0,
+          333.0
+        ],
+        [
+          514.0,
+          336.0
+        ],
+        [
+          514.0,
+          349.0
+        ],
+        [
+          261.0,
+          346.0
+        ]
+      ]
+    },
+    {
+      "text": "2.00",
+      "confidence": 0.9955940842628479,
+      "bbox": [
+        [
+          516.0,
+          342.0
+        ],
+        [
+          542.0,
+          342.0
+        ],
+        [
+          542.0,
+          354.0
+        ],
+        [
+          516.0,
+          354.0
+        ]
+      ]
+    },
+    {
+      "text": "sb.08ririiw",
+      "confidence": 0.5368465781211853,
+      "bbox": [
+        [
+          548.0,
+          334.0
+        ],
+        [
+          626.0,
+          336.0
+        ],
+        [
+          626.0,
+          349.0
+        ],
+        [
+          548.0,
+          347.0
+        ]
+      ]
+    },
+    {
+      "text": "24.99",
+      "confidence": 0.899624228477478,
+      "bbox": [
+        [
+          622.0,
+          340.0
+        ],
+        [
+          655.0,
+          343.0
+        ],
+        [
+          654.0,
+          356.0
+        ],
+        [
+          621.0,
+          353.0
+        ]
+      ]
+    },
+    {
+      "text": "3",
+      "confidence": 0.9975376129150391,
+      "bbox": [
+        [
+          26.0,
+          344.0
+        ],
+        [
+          37.0,
+          344.0
+        ],
+        [
+          37.0,
+          356.0
+        ],
+        [
+          26.0,
+          356.0
+        ]
+      ]
+    },
+    {
+      "text": "49.88",
+      "confidence": 0.8427311778068542,
+      "bbox": [
+        [
+          740.0,
+          340.0
+        ],
+        [
+          769.0,
+          344.0
+        ],
+        [
+          766.0,
+          358.0
+        ],
+        [
+          738.0,
+          354.0
+        ]
+      ]
+    },
+    {
+      "text": "4",
+      "confidence": 0.9979984164237976,
+      "bbox": [
+        [
+          26.0,
+          377.0
+        ],
+        [
+          35.0,
+          377.0
+        ],
+        [
+          35.0,
+          387.0
+        ],
+        [
+          26.0,
+          387.0
+        ]
+      ]
+    },
+    {
+      "text": "Distributed zero administration analyzer",
+      "confidence": 0.9731572866439819,
+      "bbox": [
+        [
+          64.0,
+          374.0
+        ],
+        [
+          242.0,
+          376.0
+        ],
+        [
+          242.0,
+          388.0
+        ],
+        [
+          64.0,
+          387.0
+        ]
+      ]
+    },
+    {
+      "text": "9assl9.pniinw.ni.b991ps.9aiw10.00",
+      "confidence": 0.7298407554626465,
+      "bbox": [
+        [
+          318.0,
+          376.0
+        ],
+        [
+          546.0,
+          373.0
+        ],
+        [
+          546.0,
+          389.0
+        ],
+        [
+          318.0,
+          392.0
+        ]
+      ]
+    },
+    {
+      "text": "aa9nsn379.2529aA3792.50",
+      "confidence": 0.7983545064926147,
+      "bbox": [
+        [
+          542.0,
+          374.0
+        ],
+        [
+          768.0,
+          372.0
+        ],
+        [
+          768.0,
+          388.0
+        ],
+        [
+          542.0,
+          391.0
+        ]
+      ]
+    },
+    {
+      "text": "Subtotal",
+      "confidence": 0.9972984194755554,
+      "bbox": [
+        [
+          610.0,
+          423.0
+        ],
+        [
+          649.0,
+          423.0
+        ],
+        [
+          649.0,
+          436.0
+        ],
+        [
+          610.0,
+          436.0
+        ]
+      ]
+    },
+    {
+      "text": "5991.96",
+      "confidence": 0.9568217992782593,
+      "bbox": [
+        [
+          725.0,
+          423.0
+        ],
+        [
+          768.0,
+          423.0
+        ],
+        [
+          768.0,
+          436.0
+        ],
+        [
+          725.0,
+          436.0
+        ]
+      ]
+    },
+    {
+      "text": "oc.rs otlojdua ed ysm ainsmysq 9isl.aysb 0 n",
+      "confidence": 0.5157383680343628,
+      "bbox": [
+        [
+          260.0,
+          437.0
+        ],
+        [
+          604.0,
+          439.0
+        ],
+        [
+          604.0,
+          454.0
+        ],
+        [
+          260.0,
+          453.0
+        ]
+      ]
+    },
+    {
+      "text": "Tax10%",
+      "confidence": 0.9917041659355164,
+      "bbox": [
+        [
+          600.0,
+          447.0
+        ],
+        [
+          650.0,
+          447.0
+        ],
+        [
+          650.0,
+          460.0
+        ],
+        [
+          600.0,
+          460.0
+        ]
+      ]
+    },
+    {
+      "text": "599.20",
+      "confidence": 0.9661834836006165,
+      "bbox": [
+        [
+          733.0,
+          446.0
+        ],
+        [
+          769.0,
+          446.0
+        ],
+        [
+          769.0,
+          462.0
+        ],
+        [
+          733.0,
+          462.0
+        ]
+      ]
+    },
+    {
+      "text": "nibisq litnuisllsato yhsqoiq nism",
+      "confidence": 0.7063152194023132,
+      "bbox": [
+        [
+          292.0,
+          460.0
+        ],
+        [
+          514.0,
+          461.0
+        ],
+        [
+          514.0,
+          476.0
+        ],
+        [
+          292.0,
+          475.0
+        ]
+      ]
+    },
+    {
+      "text": "9ese9.pnitinw.nibssps.9eiw",
+      "confidence": 0.6246359944343567,
+      "bbox": [
+        [
+          319.0,
+          481.0
+        ],
+        [
+          515.0,
+          481.0
+        ],
+        [
+          515.0,
+          496.0
+        ],
+        [
+          319.0,
+          496.0
+        ]
+      ]
+    },
+    {
+      "text": "Total Due",
+      "confidence": 0.934302568435669,
+      "bbox": [
+        [
+          607.0,
+          475.0
+        ],
+        [
+          647.0,
+          477.0
+        ],
+        [
+          646.0,
+          489.0
+        ],
+        [
+          606.0,
+          486.0
+        ]
+      ]
+    },
+    {
+      "text": "6591.16",
+      "confidence": 0.9809067845344543,
+      "bbox": [
+        [
+          725.0,
+          476.0
+        ],
+        [
+          768.0,
+          476.0
+        ],
+        [
+          768.0,
+          489.0
+        ],
+        [
+          725.0,
+          489.0
+        ]
+      ]
+    },
+    {
+      "text": "9iovni eirt otbstsle1 anoitasup yns ot pnillid tosino",
+      "confidence": 0.7369034290313721,
+      "bbox": [
+        [
+          384.0,
+          502.0
+        ],
+        [
+          734.0,
+          502.0
+        ],
+        [
+          734.0,
+          517.0
+        ],
+        [
+          384.0,
+          517.0
+        ]
+      ]
+    },
+    {
+      "text": "PAYMENT INFORMATION",
+      "confidence": 0.9844560027122498,
+      "bbox": [
+        [
+          32.0,
+          535.0
+        ],
+        [
+          151.0,
+          535.0
+        ],
+        [
+          151.0,
+          546.0
+        ],
+        [
+          32.0,
+          546.0
+        ]
+      ]
+    },
+    {
+      "text": "Bank:King and Sons Bank",
+      "confidence": 0.9662271738052368,
+      "bbox": [
+        [
+          31.0,
+          551.0
+        ],
+        [
+          156.0,
+          552.0
+        ],
+        [
+          156.0,
+          567.0
+        ],
+        [
+          31.0,
+          566.0
+        ]
+      ]
+    },
+    {
+      "text": "oea.t s.ot iosidve ed ysm.ainsmysg.ots.aysb-08 ridiiw sub aiJnsmys9",
+      "confidence": 0.6770573854446411,
+      "bbox": [
+        [
+          261.0,
+          544.0
+        ],
+        [
+          734.0,
+          545.0
+        ],
+        [
+          734.0,
+          558.0
+        ],
+        [
+          261.0,
+          557.0
+        ]
+      ]
+    },
+    {
+      "text": "AccountEDIW53269490720669",
+      "confidence": 0.9351064562797546,
+      "bbox": [
+        [
+          31.0,
+          567.0
+        ],
+        [
+          183.0,
+          566.0
+        ],
+        [
+          183.0,
+          579.0
+        ],
+        [
+          31.0,
+          580.0
+        ]
+      ]
+    },
+    {
+      "text": "Method: Wire Transfer",
+      "confidence": 0.9460532069206238,
+      "bbox": [
+        [
+          31.0,
+          580.0
+        ],
+        [
+          135.0,
+          581.0
+        ],
+        [
+          135.0,
+          594.0
+        ],
+        [
+          31.0,
+          593.0
+        ]
+      ]
+    },
+    {
+      "text": "92ssl9.pninw.nib9sips 9eiwnsrio aasinulsnit91s e9lsa llA.llut",
+      "confidence": 0.5911393761634827,
+      "bbox": [
+        [
+          319.0,
+          587.0
+        ],
+        [
+          735.0,
+          586.0
+        ],
+        [
+          735.0,
+          599.0
+        ],
+        [
+          319.0,
+          600.0
+        ]
+      ]
+    },
+    {
+      "text": "9oiovni ainl oibainleTanoitasup ynslotpnllidjosino",
+      "confidence": 0.5626958012580872,
+      "bbox": [
+        [
+          388.0,
+          609.0
+        ],
+        [
+          734.0,
+          609.0
+        ],
+        [
+          734.0,
+          621.0
+        ],
+        [
+          388.0,
+          621.0
+        ]
+      ]
+    },
+    {
+      "text": "Thank you for your business",
+      "confidence": 0.9844809174537659,
+      "bbox": [
+        [
+          338.0,
+          635.0
+        ],
+        [
+          455.0,
+          636.0
+        ],
+        [
+          455.0,
+          649.0
+        ],
+        [
+          338.0,
+          648.0
+        ]
+      ]
+    },
+    {
+      "text": "c.rs ot dua sd ysm ainmysq sts .aysb.08 nirtiw sub aiinsmys9",
+      "confidence": 0.5838783979415894,
+      "bbox": [
+        [
+          259.0,
+          647.0
+        ],
+        [
+          734.0,
+          649.0
+        ],
+        [
+          734.0,
+          666.0
+        ],
+        [
+          259.0,
+          663.0
+        ]
+      ]
+    },
+    {
+      "text": "nibisg litnu sllsatoyhsgoig isms1aboo.spisdosnsnit ylrinom",
+      "confidence": 0.6548530459403992,
+      "bbox": [
+        [
+          290.0,
+          669.0
+        ],
+        [
+          734.0,
+          670.0
+        ],
+        [
+          734.0,
+          686.0
+        ],
+        [
+          289.0,
+          684.0
+        ]
+      ]
+    },
+    {
+      "text": "9esel9 pninw ni.b9aps saiwerto aa9lnulsnits1s aslsa llA.llut",
+      "confidence": 0.6178571581840515,
+      "bbox": [
+        [
+          319.0,
+          691.0
+        ],
+        [
+          735.0,
+          691.0
+        ],
+        [
+          735.0,
+          707.0
+        ],
+        [
+          319.0,
+          707.0
+        ]
+      ]
+    },
+    {
+      "text": "9iovn aini oibaisiaTanoitagup ynslotpnillidjosino",
+      "confidence": 0.6612406969070435,
+      "bbox": [
+        [
+          388.0,
+          714.0
+        ],
+        [
+          734.0,
+          714.0
+        ],
+        [
+          734.0,
+          725.0
+        ],
+        [
+          388.0,
+          725.0
+        ]
+      ]
+    },
+    {
+      "text": "c.t s.ottajdua ed ysm ainemysq sts.aysb 0c nirtiw sub aiinsmys9",
+      "confidence": 0.646389365196228,
+      "bbox": [
+        [
+          260.0,
+          752.0
+        ],
+        [
+          735.0,
+          755.0
+        ],
+        [
+          735.0,
+          770.0
+        ],
+        [
+          260.0,
+          767.0
+        ]
+      ]
+    },
+    {
+      "text": "92699.prw nl.b991p692w9nt0 229ln5i915 2962lA.l",
+      "confidence": 0.5653300285339355,
+      "bbox": [
+        [
+          320.0,
+          798.0
+        ],
+        [
+          734.0,
+          798.0
+        ],
+        [
+          734.0,
+          809.0
+        ],
+        [
+          320.0,
+          809.0
+        ]
+      ]
+    },
+    {
+      "text": "eoiovni aini otbaisleT anoitasup ynslot pnillid tosino",
+      "confidence": 0.6900244355201721,
+      "bbox": [
+        [
+          386.0,
+          818.0
+        ],
+        [
+          735.0,
+          818.0
+        ],
+        [
+          735.0,
+          833.0
+        ],
+        [
+          386.0,
+          833.0
+        ]
+      ]
+    },
+    {
+      "text": "c.rs otjadua ed ysm ansmysq ts.aysb 08 nirtiw sub aiinsmys9",
+      "confidence": 0.639555037021637,
+      "bbox": [
+        [
+          259.0,
+          857.0
+        ],
+        [
+          735.0,
+          859.0
+        ],
+        [
+          735.0,
+          874.0
+        ],
+        [
+          259.0,
+          873.0
+        ]
+      ]
+    }
+  ]
+}

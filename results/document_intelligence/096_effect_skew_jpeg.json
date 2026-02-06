@@ -1,0 +1,63 @@
+{
+  "filename": "096_effect_skew.jpeg",
+  "invoice": {
+    "client_name": "Perez Inc",
+    "client_address": "",
+    "seller_name": "ake-Brandt",
+    "seller_address": "54 Park Forge\nke Tony, NY 86675",
+    "invoice_number": "FAC5170452",
+    "invoice_date": "20/09/2024",
+    "due_date": "07/03/2026"
+  },
+  "items": [
+    {
+      "description": "Streamlined asymmetric artificial intelligence",
+      "quantity": "5.00",
+      "unit_price": "498.34",
+      "total_price": "2 491.70",
+      "category": null
+    },
+    {
+      "description": "Stand-alone systemic neural-net",
+      "quantity": "2.00",
+      "unit_price": "60.17",
+      "total_price": "120.34",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "6.00",
+      "unit_price": "421.58",
+      "total_price": "2 529.48",
+      "category": null
+    },
+    {
+      "description": "Exclusive systematic flexibility",
+      "quantity": "4.00",
+      "unit_price": "350.80",
+      "total_price": "1 403.20",
+      "category": null
+    },
+    {
+      "description": "Networked impactful frame",
+      "quantity": "5.00",
+      "unit_price": "473.95",
+      "total_price": "2 369.75",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "8 914.47",
+    "tax": "891.45",
+    "discount": "-891.45",
+    "total": "8 914.47"
+  },
+  "payment_instructions": {
+    "due_date": "07/03/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.892,
+  "file_size_bytes": 68196
+}

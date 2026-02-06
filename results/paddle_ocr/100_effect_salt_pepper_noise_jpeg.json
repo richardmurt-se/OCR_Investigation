@@ -1,0 +1,8 @@
+{
+  "filename": "100_effect_salt_pepper_noise.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "Bishop,Priceand Jordan\nINVOICE\n197 Stac\nNo:BILL/43722995\nDate:07/10/2024\nDue:02/14/2026\nFROM.\nBILLTO\nBishopPrice.and Jordan\nTaylor-Fteming\n3197 Stacy Stravenue Suite 062\n44834Patrick Row\nSouthaethurgh.K93740\n.Description\nQuantity\nUnit Price\nAmount\nMonitored grid-enabled instructionset\n10.00\n309.61\n3096.10\n318.54\n001.55\n506:15\n587.7\nPAYMENT INFORMATION\nBankBrownJones Credit nion\nAccount:LUVZ93043490435305",
+  "processing_time_seconds": 1.642,
+  "file_size_bytes": 299809,
+  "success": true
+}

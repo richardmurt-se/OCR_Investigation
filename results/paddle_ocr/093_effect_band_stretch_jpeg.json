@@ -1,0 +1,8 @@
+{
+  "filename": "093_effect_band_stretch.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "Smith-Cuevas\nINVOICE\n178Gaines Station Suite 481 Port EdwardMH 77983\nNo:FAC/35604246\nDate:10/17/2025\nBILLTO\nh-Cuevas\nArnold LLC\naines Station Suite 481\nUnit 1792 Box 1810\ndward,MH77983\nDPOAP12408\nDescription\nQuantity\nUnit Price\nAmount\n1\nPre-emptive transitional approach\n9.00\n190.19\n1 711.71\n2\nOptimized logistical architecture\n8.00\n488.36\n3906.88\n3\nMulti-tiered value-added challenge\n1.00\n301.07\n301.07\nDigitized bottom-line software\n9.00\n229.34\n2064.06\nSubtotal\n7 983.72\nTax (10%)\n798.37\nTotal Due\n8782.09\nThank you for your business",
+  "processing_time_seconds": 2.295,
+  "file_size_bytes": 50345,
+  "success": true
+}

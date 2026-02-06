@@ -1,0 +1,8 @@
+{
+  "filename": "120_effect_gaussian_noise.pdf",
+  "model_name": "paddleocr",
+  "raw_text": "Jones PLC.\nINVOICE\n 211 Jennings Radial Apt. 464 | South Greggpori, CA 27180\nNo: 9621276961\nDate: 09/05/2025\nFROM\nBILL TO\n Jones PLC\n Fisher, Montgomery and Lee.\n211 Jennings RadialApt. 464\n 8402 Kelly Mill\nSouth Greggport, CA 27180\nPort Stephanie, WA 74823\n Description\n Quantity\nUnit Price\nAmount\nImplemented web-enabled capability\n10.00\n317.14\n3 171.40\nAdaptive multi-tasking moratorium\n2.00\n142.13\n284.26\nTriple-buffered contextually-based benchmark\n4.00\n131.81\n527.24\nGrass-roots full-range initiative\n6.00\n28.04\n168.24\nSubtotal\n4 151.14\nTax (10%)\n415.11\n4 586.25\nThank you for your business.",
+  "processing_time_seconds": 2.394,
+  "file_size_bytes": 1561517,
+  "success": true
+}

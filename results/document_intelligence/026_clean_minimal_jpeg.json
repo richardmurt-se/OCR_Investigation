@@ -1,0 +1,63 @@
+{
+  "filename": "026_clean_minimal.jpeg",
+  "invoice": {
+    "client_name": "Lee Inc",
+    "client_address": "29354 Joseph Vista Apt. 462\nPort lan, WA 95697",
+    "seller_name": "Crane-Burns",
+    "seller_address": "49224 Nicole Roads Suite 427\nEvansfurt, MI 66237",
+    "invoice_number": "799813",
+    "invoice_date": "24/08/2024",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Centralized local matrices",
+      "quantity": "2.00",
+      "unit_price": "441.41",
+      "total_price": "882.82",
+      "category": null
+    },
+    {
+      "description": "Synchronized disintermediate time-frame",
+      "quantity": "10.00",
+      "unit_price": "129.40",
+      "total_price": "1 294.00",
+      "category": null
+    },
+    {
+      "description": "Monitored background implementation",
+      "quantity": "7.00",
+      "unit_price": "17.34",
+      "total_price": "121.38",
+      "category": null
+    },
+    {
+      "description": "Fundamental multi-state analyzer",
+      "quantity": "2.00",
+      "unit_price": "421.56",
+      "total_price": "843.12",
+      "category": null
+    },
+    {
+      "description": "Balanced motivating help-desk",
+      "quantity": "6.00",
+      "unit_price": "436.64",
+      "total_price": "2 619.84",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "5 761.16",
+    "tax": "576.12",
+    "discount": "-288.06",
+    "total": "6 049.22"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.65,
+  "file_size_bytes": 40350
+}

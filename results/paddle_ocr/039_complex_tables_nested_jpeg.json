@@ -1,0 +1,8 @@
+{
+  "filename": "039_complex_tables_nested.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "Townsend PLC\nINVOICE\n1884 Albert Camp | Rebeccs\nmouth, KS 59905\nNo:FAC90498056\nDate:02/11/2024\nBILL TO:\nSHIP TO:\nBrown Richards and Salazar\nBrownRichards and Salazar\nPort Rachel.WY88291\n34311 Amy Mount Apt.677\nPort Rachel.WY88291\n34311 Amy Mount Apt.677\nSKU\nDeacription & Detalls\nCatogory\nQty\nunt\nTax\nTotal\nSectlon 1:Products\nSKU-01000\nAdvanced hybrid framework (Qty: 86 units/pack)\nSoftware\n6.00\n58.56\n10%\n351.36\n8peo\nValue\nNoto\nMocel\nMDL-0100\nStandard\nSerial\nSN00010000\nVerifed\nSKU-02000\nAssimilated context-sensitive superstructure - 140GB, 70 display\nFurniture\n8.00\n258.10\n10%\n2 064.80\n8peo\nNote\nMocel\nMDL-0200\nStandard\nSerial\nSN00020000\nVerited\nSKU-03000\nFaceto-face holistic time-frame - 776GB, 80 display\nEquipment\n1.00\n221.91\n10%\n221.91\nBpeo\nNote\nMocel\nMDL-0300\nSerial\nSN00030000\nVerifed\nSection Subtotal:\nSectlon 2: Services\nSKU-04000\nReducedtranstional instllation Modesn-8097Seial: 7246836594\nEquipment\n9.00\n461.23\n10%\n4 151.07\n8peo\nValue\nNota\nModel\nMDL-0400\nSenal\nSN00040000\nVarified\n5\nSKU-05000\nar-thinking complexity | Model: auw-3505, Serial:\nOffice Supplies\n9.00\n2743426238\n406.35\n10%\n3 657.15\n8peo\nValue\nNota\nModel\nMDL-0500\nStandard\nSerial\nSN00050000\nVerified\nSKU-06000\nOrganized interactive adapter (Qty: 3 units/pack)\nMaintenance\n5.00\n415.31\n10%\n2076.55\nspeo\nNota\nModel\nMDL-0600\nStansard\nSerial\nSN00060000\nVerifed\nSectlon Subtotal:\n-\nSubtotal:\n12522.84\nTax (10%)\n1 252.28\n0.00\nTOTAL DUE:\n13 775.12\nPaymentSchneider LLC Bank|Accaunt PMWK31851232068657",
+  "processing_time_seconds": 6.285,
+  "file_size_bytes": 99660,
+  "success": true
+}

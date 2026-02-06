@@ -1,0 +1,8 @@
+{
+  "filename": "017_clean_standard.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "Craig and Sons\nINVOICE\nUSCGC Cox|FPOAA 13957\nNo:FAC1098289\nDate:10/07/2024\nFROM\nBILL TO\nCraig and Sons\nSingleton,James and Morris\nUSCGC Cox\nPort Jasminefort, NM32076\n12194 Tara Inlet\nFPO AA 13957\nDescription\nQuantity\nUnit Price\nAmount\n1\nVersatile hybrid attitude\n2.00\n342.09\n684.18\n2\nAdaptive cohesive application\n2.00\n150.73\n301.46\n3\nPublic-key directional challenge\n8.00\n411.51\n3 292.08\n4\nCross-group modular parallelism\n10.00\n305.34\n3 053.40\n5\nRe-engineered 24/7 data-warehouse\n1.00\n455.08\n455.08\n6\nOptimized heuristic capability\n6.00\n111.99\n671.94\n7\nPersevering asymmetric policy\n9.00\n147.60\n1 328.40\n8\nCompatible real-time help-desk\n1.00\n100.90\n100.90\nSubtotal\n9 887.44\nTax (10%)\n988.74\nDiscount\n-988.74\nTotal Due\n9887.44\nThank you for your business",
+  "processing_time_seconds": 2.94,
+  "file_size_bytes": 54081,
+  "success": true
+}

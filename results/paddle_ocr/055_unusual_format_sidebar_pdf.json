@@ -1,0 +1,8 @@
+{
+  "filename": "055_unusual_format_sidebar.pdf",
+  "model_name": "paddleocr",
+  "raw_text": "INVOICE\nFROM\nTO\nCurtis-Adams\nJohnson, Kelly and Bailey\n8533 Scott Islands Apt. 716\n643 Gibson Branch Apt. 067\nEast Herbertview, FL 03414\nNorth Rebeccaton, AR 65932\nINV/247501\n03/09/2025\nLINE ITEMS\n02/14/2026\n01\nFocused heuristic process improvement\n9.00\n1 431.63\nSUMMARY\n02\nProfit-focused\n5.00\n91.75\nSubtotal\n9 917.69\n991.77\n03\nDiverse radical\n software\n2.00\n388.86\nTax\nDiscount\n-495.88\n04\nOrganized next generation focus group\n5.00\n1 969.75\nTOTAL\n10 413.58\n05\nSwitchable logistical policy\n10.00\n3826.40\n06\nBusiness-focused optimizing database\n10.00\n2209.30\nKeith-Brown Bank\nHWGE74499119122777\ncorrespondence.",
+  "processing_time_seconds": 3.284,
+  "file_size_bytes": 157587,
+  "success": true
+}

@@ -1,0 +1,56 @@
+{
+  "filename": "079_multilingual_pt_standard.png",
+  "invoice": {
+    "client_name": "Almeida Rocha S/A",
+    "client_address": "Praia Cauê Costela, 170\nUrca\n89064-732 Rezende / AP",
+    "seller_name": "Almeida",
+    "seller_address": "Distrito Costela, 42\nNova Esperança\n73002-030 Sales Paulista / MG",
+    "invoice_number": "BILL/7275374034",
+    "invoice_date": "21/04/2025",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "O prazer de concretizar seus projetos em estado puro",
+      "quantity": "8.00",
+      "unit_price": "232.15",
+      "total_price": "1 857.20",
+      "category": null
+    },
+    {
+      "description": "O poder de concretizar seus projetos em estado puro",
+      "quantity": "9.00",
+      "unit_price": "414.05",
+      "total_price": "3 726.45",
+      "category": null
+    },
+    {
+      "description": "O conforto de conseguir sem preocupação",
+      "quantity": "1.00",
+      "unit_price": "264.93",
+      "total_price": "264.93",
+      "category": null
+    },
+    {
+      "description": "O conforto de evoluir direto da fonte",
+      "quantity": "4.00",
+      "unit_price": "368.23",
+      "total_price": "1 472.92",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "7 321.50",
+    "tax": "732.15",
+    "discount": "-366.08",
+    "total": "7 687.57"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.633,
+  "file_size_bytes": 28578
+}

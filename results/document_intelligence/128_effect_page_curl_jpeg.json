@@ -1,0 +1,49 @@
+{
+  "filename": "128_effect_page_curl.jpeg",
+  "invoice": {
+    "client_name": "Lee, Taylor and Moran",
+    "client_address": "",
+    "seller_name": "Gonzalez Group",
+    "seller_address": "275 Rachel Comers Apt. 824 | Fullerhaven, UT 02296",
+    "invoice_number": "32635298",
+    "invoice_date": "25/12/2025",
+    "due_date": "12/02/2026"
+  },
+  "items": [
+    {
+      "description": "Fully-configurable multi-tasking circuit",
+      "quantity": "10.00",
+      "unit_price": "468.04",
+      "total_price": "4 680.40",
+      "category": null
+    },
+    {
+      "description": "Pre-emptive motivating success",
+      "quantity": "3.00",
+      "unit_price": "305.37",
+      "total_price": "916.11",
+      "category": null
+    },
+    {
+      "description": "Right-sized coherent circuit",
+      "quantity": "8.00",
+      "unit_price": "157.26",
+      "total_price": "1 258.08",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "6 854.59",
+    "tax": "685.46",
+    "discount": "",
+    "total": "7 540.05"
+  },
+  "payment_instructions": {
+    "due_date": "12/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.746,
+  "file_size_bytes": 65619
+}

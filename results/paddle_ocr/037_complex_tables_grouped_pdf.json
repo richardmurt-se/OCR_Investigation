@@ -1,0 +1,8 @@
+{
+  "filename": "037_complex_tables_grouped.pdf",
+  "model_name": "paddleocr",
+  "raw_text": "Kidd, Floyd and Morris.\nINVOICE\n02758 Victoria Walks Apt. 960 - Changville, NY 41627\n#BILL/7700758690 | 03/31/2025\nFROM\nBILL TO\nKidd, Floyd and Morris\nBarry, Soto and Dominguez\n02758 Victoria Walks Apt. 960\n8796 Lauren Crescent\nChangville, NY 41627\nLake Wendy, MA 70079\nGROUP A: Products\n3 Items\n Code\nDescription\nQuantity\nUnit Price\nAmount\nP-0100\nCross-platform solution-oriented knowledgebase\n5.00\n438.72\n2 193.60\nP-0200\nInnovative bandwidth-monitored middleware - 966GB, 53\"\n2.00\n143.73\n287.46\ndisplay\nP-0300\nFundamental mission-critical system engine\n7.00\n137.62\n963.34\nGroup A Subtotal:\nGROUP B: Services\n3 Items\n Code\nDescription\nHours/Qty\nRate\nAmount\nS-0100\nUpgradable full-range workforce\n7.00\n447.33\n3 131.31\nS-0200\nManaged dedicated policy  Model: zps-1511, Serial:\n3060626487\n10.00\n376.17\n3 761.70\nS-0300\nImplemented disintermediate frame | Model: zNp-4909, Serial:\n3510164333\n4.00\n287.63\n1 150.52\nGroup B Subtotal:\nProducts Total:\nServices Total:\n Subtotal:\n11 487.93\nTax (10%):\n1148.79\n12 636.72\nPayment Information\nBank: Chan, Walker and Frazier Bank | Account: MBJQ12877644431509\nDue Date: 03/03/2026",
+  "processing_time_seconds": 3.941,
+  "file_size_bytes": 127776,
+  "success": true
+}

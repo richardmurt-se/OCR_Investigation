@@ -1,0 +1,8 @@
+{
+  "filename": "014_clean_minimal.png",
+  "model_name": "paddleocr",
+  "raw_text": "INVOICE\nBILL-102079281\n05/12/2024\nFROM\nTO\nAlexander, Ford and Rivera\nGordon-Lopez\n699 Robert Lakes\n183 Warner Burg Apt. 723\nMarieport, PA 04966\nParkerchester, SD 68325\nDESCRIPTION\nQTY\nPRICE\nTOTAL\nSynchronized attitude-oriented suppor\n10.00\n49.73\n497.30\nAmel\n7.00\n67.95\n475.65\nlicit ex\n7.00\n210.70\n1 474.90\nCross-platform fault-tolerant groupware\n8.00\n461.77\n3 694.16\nCustomer-focused human-resource installation\n7.00\n268.16\n1 877.12\nSubtotal\n8 019.13\nTax\n801.91\nDiscount\n-400.96\nTotal\n8 420.08\nThank you",
+  "processing_time_seconds": 2.277,
+  "file_size_bytes": 25446,
+  "success": true
+}

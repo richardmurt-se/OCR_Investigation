@@ -1,0 +1,42 @@
+{
+  "filename": "131_effect_motion_blur.png",
+  "invoice": {
+    "client_name": "Clark PLC",
+    "client_address": "",
+    "seller_name": "Collins, Blevins and Sparks",
+    "seller_address": "B17 Akarta Crossroad\nBoth Angelaperk, AH @1888",
+    "invoice_number": "BH4:008348",
+    "invoice_date": "08/01/2028",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Bown sized empowering kamewerk\nUniversal zero delvet task-force",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "3.09",
+      "category": null
+    },
+    {
+      "description": "Triple buffered encompassing neuralnel\nReactive non-volatile vbizalien",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.09",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": ""
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.69,
+  "file_size_bytes": 85703
+}

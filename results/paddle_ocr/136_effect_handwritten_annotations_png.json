@@ -1,0 +1,8 @@
+{
+  "filename": "136_effect_handwritten_annotations.png",
+  "model_name": "paddleocr",
+  "raw_text": "King, Mendez and Ball\nINVOICE\n63054 Sparks Mission Apt. 573 | Piercefurt, CT 06970\nNo: FAC/254951445\nDate: 05/12/2025\nDue: 03/07/2026\nFROM\nBILL TO\nKing, Mendez and Ball\nGonzales Ince\n63054 Sparks Mission Apt. 573\n9824 Giles Island Apt. 178\nPiercefurt, CT 08970\nWesleyburgh, KY 63183\nDescription\nQuantity\nUnit Price\nAmount\nFront-line fault-tolerant project\n3.00\n320.55\n961.65\n2\nOptional regional instruction set\n1.00\n17.37\n17.37\n3\nEnterprise-wide user-facing migration\n10.00\n237.56\n2 375.60\nDevolved tangible focus group\n4.00\n345.70\n1 382.80\n5\nOperative discrete implementation\n1.00\n402.33\n402.33\nSubtotal\n5 139.75\nTax (10%)\n513.98\n-513.98\nTotal Due\n5 139.75\nPAYMENT INFORMATION\nBank: Garner Group Bank\nAccount: RZTY28638162503379\nMethod: Credit Card\nThank you for your business",
+  "processing_time_seconds": 2.808,
+  "file_size_bytes": 34744,
+  "success": true
+}

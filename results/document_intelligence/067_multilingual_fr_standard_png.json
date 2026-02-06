@@ -1,0 +1,56 @@
+{
+  "filename": "067_multilingual_fr_standard.png",
+  "invoice": {
+    "client_name": "Mercier",
+    "client_address": "avenue Roux\n27326 Boulay",
+    "seller_name": "Briand Bouvet SARL",
+    "seller_address": "chemin Noémi Guillet\n50863 Daniel-sur-Rodriguez",
+    "invoice_number": "BILL/4210706739",
+    "invoice_date": "05/02/2025",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "La possibilité de changer autrement",
+      "quantity": "8.00",
+      "unit_price": "130.02",
+      "total_price": "1 040.16",
+      "category": null
+    },
+    {
+      "description": "L'art de changer de manière sûre",
+      "quantity": "6.00",
+      "unit_price": "413.50",
+      "total_price": "2 481.00",
+      "category": null
+    },
+    {
+      "description": "Le plaisir de changer a l'état pur",
+      "quantity": "1.00",
+      "unit_price": "460.59",
+      "total_price": "460.59",
+      "category": null
+    },
+    {
+      "description": "L'avantage d'innover avant-tout",
+      "quantity": "9.00",
+      "unit_price": "350.31",
+      "total_price": "3 152.79",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "7 134.54",
+    "tax": "713.45",
+    "discount": "",
+    "total": "7 847.99"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.646,
+  "file_size_bytes": 25810
+}

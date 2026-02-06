@@ -1,0 +1,42 @@
+{
+  "filename": "124_effect_perspective_warp.jpeg",
+  "invoice": {
+    "client_name": "Gamble-Lynn",
+    "client_address": "",
+    "seller_name": "Kemp-Greene",
+    "seller_address": "4061 Kelly Locks\nSmithtown, VI 49048",
+    "invoice_number": "BILL-82197346",
+    "invoice_date": "06/06/2025",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Centralized didactic approach",
+      "quantity": "8.00",
+      "unit_price": "408.31",
+      "total_price": "3 088.48",
+      "category": null
+    },
+    {
+      "description": "Profit-focused context-sensitive architecture",
+      "quantity": "",
+      "unit_price": "359.40",
+      "total_price": "2 158.40",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "6 794.96",
+    "tax": "870.50",
+    "discount": "",
+    "total": "6 794.88"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.629,
+  "file_size_bytes": 55150
+}

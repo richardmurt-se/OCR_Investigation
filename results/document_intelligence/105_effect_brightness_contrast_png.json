@@ -1,0 +1,63 @@
+{
+  "filename": "105_effect_brightness_contrast.png",
+  "invoice": {
+    "client_name": "King Group",
+    "client_address": "",
+    "seller_name": "Wilson-Jones",
+    "seller_address": "888 Clark Turnpike Apt. 846 | Jefferyland, MN 88126",
+    "invoice_number": "INV/62177044",
+    "invoice_date": "03/06/2024",
+    "due_date": "08/03/2026"
+  },
+  "items": [
+    {
+      "description": "Down-sized intangible model",
+      "quantity": "2.00",
+      "unit_price": "304.07",
+      "total_price": "608.14",
+      "category": null
+    },
+    {
+      "description": "Stand-alone hybrid application",
+      "quantity": "5.00",
+      "unit_price": "11.88",
+      "total_price": "59.40",
+      "category": null
+    },
+    {
+      "description": "Multi-lateral bifurcated database",
+      "quantity": "2.00",
+      "unit_price": "308.75",
+      "total_price": "617.50",
+      "category": null
+    },
+    {
+      "description": "Triple-buffered fault-tolerant alliance",
+      "quantity": "4.00",
+      "unit_price": "467.86",
+      "total_price": "1 871.44",
+      "category": null
+    },
+    {
+      "description": "Configurable cohesive structure",
+      "quantity": "7.00",
+      "unit_price": "300.12",
+      "total_price": "2 100.84",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "5 257.32",
+    "tax": "525.73",
+    "discount": "",
+    "total": "5 520.18"
+  },
+  "payment_instructions": {
+    "due_date": "08/03/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.621,
+  "file_size_bytes": 28133
+}

@@ -1,0 +1,49 @@
+{
+  "filename": "044_heavy_punctuation_mixed.png",
+  "invoice": {
+    "client_name": "\"Perez Inc\"@",
+    "client_address": "",
+    "seller_name": "«HANNA PLC>®",
+    "seller_address": "",
+    "invoice_number": "\"8952937\"",
+    "invoice_date": "26/10/2024",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "\"> Managed client-server array; Deluxe\"@ - Model: [MDL-010]' -NEW !- @12%\noff* *",
+      "quantity": "10.00",
+      "unit_price": "26.04",
+      "total_price": "260.40",
+      "category": null
+    },
+    {
+      "description": "\"NEW: Networked human-resource infrastructure 'Elite' | Size: L\"@ - 'Model:\n[MDL-020]' -NEW !- @20% off* *",
+      "quantity": "9.00",
+      "unit_price": "303.56",
+      "total_price": "2 732.04",
+      "category": null
+    },
+    {
+      "description": "\"Persistent object-oriented circuit [NEW] @ 43% discount\"@ - \"Model: [MDL-\n030]' -NEW !- @12% off* *",
+      "quantity": "4.00",
+      "unit_price": "294.62",
+      "total_price": "1 178.48",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "4 170.92",
+    "tax": "417.09",
+    "discount": "",
+    "total": "4 588.01"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.823,
+  "file_size_bytes": 64400
+}

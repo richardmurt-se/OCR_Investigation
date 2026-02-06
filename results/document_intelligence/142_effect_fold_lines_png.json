@@ -1,0 +1,70 @@
+{
+  "filename": "142_effect_fold_lines.png",
+  "invoice": {
+    "client_name": "Long PLC",
+    "client_address": "",
+    "seller_name": "Fuentes, Wood and Morse",
+    "seller_address": "PSC 0243, Box 1282\nAPO AE 75385",
+    "invoice_number": "818116993",
+    "invoice_date": "10/05/2024",
+    "due_date": "23/02/2026"
+  },
+  "items": [
+    {
+      "description": "User-friendly modular paradigm",
+      "quantity": "6.00",
+      "unit_price": "181.10",
+      "total_price": "1 086.60",
+      "category": null
+    },
+    {
+      "description": "Triple-buffered upward-trending extranet",
+      "quantity": "1.00",
+      "unit_price": "427.85",
+      "total_price": "427.85",
+      "category": null
+    },
+    {
+      "description": "Balanced static artificial intelligence",
+      "quantity": "8.00",
+      "unit_price": "77.69",
+      "total_price": "621.52",
+      "category": null
+    },
+    {
+      "description": "Synergized empowering adapter",
+      "quantity": "7.00",
+      "unit_price": "19.15",
+      "total_price": "134.05",
+      "category": null
+    },
+    {
+      "description": "Advanced analyzing installation",
+      "quantity": "10.00",
+      "unit_price": "340.32",
+      "total_price": "3 403.20",
+      "category": null
+    },
+    {
+      "description": "Inverse 6thgeneration Graphic Interface",
+      "quantity": "6.00",
+      "unit_price": "393.32",
+      "total_price": "2 359.92",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "8 033.14",
+    "tax": "803.31",
+    "discount": "",
+    "total": "8 836.45"
+  },
+  "payment_instructions": {
+    "due_date": "23/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.697,
+  "file_size_bytes": 36626
+}

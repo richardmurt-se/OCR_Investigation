@@ -1,0 +1,8 @@
+{
+  "filename": "053_unusual_format_two_column.pdf",
+  "model_name": "paddleocr",
+  "raw_text": "Bailey Group\n215 Case Estate Suite 771 - Allisonland, NM 14260\nINVOICE\nNo: BILL-19041068 | Date: 08/18/2025\nPARTIES\nSUMMARY & PAYMENT\nFROM (SELLER)\nInvoice Totals\nBailey Group\nSubtotal\n4 982.74\n215 Case Estate Suite 771\nAllisonland, NM 14260\nTax (10%)\n498.27\nTOTAL DUE\n5 481.01\n TO (BUYER)\n Price, Johnson and Rangel\n 99454 Anderson Fields Apt. 582\nNew Danielleport, PR 87386\nPAYMENT INFORMATION\nBank: Harris-Nguyen Financial\nAccount: JMDF19378251920107\nDue: 02/23/2026\nITEMS (1-3)\nDescription\nTota\nITEMS (4-6)\nCross-platform cohesive open architectur...\n6.00\n2 277.36\nOrganized logistical knowledgebase\n3.00\n617.85\nDescriptic\nQty\nTotal\nSwitchable radical support\n9.00\n107.37\n3\nAdaptive demand-driven matrices\n1.00\n173.08\nSwitchable mobile service-desk\n2.00\n575.12\nFront-line discrete architecture\n4.00\n1 231.96\nBailey Group | Invoice #BILL-19041068 ! 08/18/2025\nThank you for your business!",
+  "processing_time_seconds": 2.84,
+  "file_size_bytes": 185236,
+  "success": true
+}

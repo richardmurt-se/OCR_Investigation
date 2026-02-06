@@ -1,0 +1,8 @@
+{
+  "filename": "040_complex_tables_multi_column.pdf",
+  "model_name": "paddleocr",
+  "raw_text": "Campbell-Duncan\nINVOICE\n24713 Long Track | North Crystal, GU 98812\nINV/7878729425\nSeller\nBuyer\n Invoice Details\nCampbell-Duncan\nGonzalez and Sons\nNo: INV/7878729425\n24713 Long Track, North Crystal, GU 98812\n00756 Kenneth Fort Apt. 645, Port Jessica, TN 23720\nDate: 10/26/2024\nDescription\nCal\nQt\nUnit\nPric\nDisc%\nDisc$\nTax%\nTax$\nota\nSK0100\nMulti-tiered actuating Local Area N..\n9.00\nEA\n169.51\n%6\n2.90\n10%\n152.56\n1 525.59\n1 525.59\nSK0200\nUp-sized content-based orchestratio....\nMain\n6.00\nEA\n86 56\n11%\n2.20\n10%\n57.59\n575.88\n575.88\nSK0300\nConfigurable bifurcated moderator ....\nEqui\n4.00\nEA\n439.17\n8%\n1.90\n10%\n175.67\n1 756.68\n1 756.68\nSubtotal:\n3 858.15\nTotal Discount:\n0.00\nTotal Tax:\n385.81\nShipping:\n0.00\n4 243.96\nTerms: Net 30 | Campbell-Duncan | Invoice #INV/7878729425",
+  "processing_time_seconds": 3.282,
+  "file_size_bytes": 94147,
+  "success": true
+}

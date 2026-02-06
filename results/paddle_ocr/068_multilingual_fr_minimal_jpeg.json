@@ -1,0 +1,8 @@
+{
+  "filename": "068_multilingual_fr_minimal.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "FACTURE\nINV-744402\n01/13/2026Echeance 03/02/2026\nDE\nA\nBarthelemy\nSauvage Valette SARL\nrue Constance Breton\n28.chemin Denis\n41630Barthelemy-la-Foret\n12824Delaunay\nDESCRIPTION\nQTE\nPRIX\nTOTAL\nL'avantage d'evoluer a\nutremen\n8.00\n65.47\n523.76\nLa liberte d\n4.00\n186.32\n745.28\n2.00\n29.37\n58.74\nL'assurance de rouler de maniere sure\n8.00\n460.61\n3684.88\nSous-total\n5012.66\nTaxe\n501.27\nTotal\n5513.93\nCharpentier Caisse\n02800362883084895458071\nMerci",
+  "processing_time_seconds": 2.088,
+  "file_size_bytes": 39855,
+  "success": true
+}

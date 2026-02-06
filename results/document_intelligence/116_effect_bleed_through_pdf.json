@@ -1,0 +1,56 @@
+{
+  "filename": "116_effect_bleed_through.pdf",
+  "invoice": {
+    "client_name": "",
+    "client_address": "",
+    "seller_name": "Martinez Inc",
+    "seller_address": "Unit 2889 Box 4283\nDPO AA 10861",
+    "invoice_number": "BILL/91137331",
+    "invoice_date": "04/10/2025",
+    "due_date": "26/02/2026"
+  },
+  "items": [
+    {
+      "description": "Re-contextualized composite pricing structure",
+      "quantity": "8.00",
+      "unit_price": "30.37",
+      "total_price": "242.96",
+      "category": null
+    },
+    {
+      "description": "Diverse upward-trending synergy",
+      "quantity": "4.00",
+      "unit_price": "476.63",
+      "total_price": "1 906.52",
+      "category": null
+    },
+    {
+      "description": "Fully-configurable explicit contingency",
+      "quantity": "2.00",
+      "unit_price": "24.99",
+      "total_price": "49.98",
+      "category": null
+    },
+    {
+      "description": "Distributed zero administration analyzer",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "3 792.50",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "5 991.96",
+    "tax": "599.20",
+    "discount": "",
+    "total": "6 591.16"
+  },
+  "payment_instructions": {
+    "due_date": "26/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.101,
+  "file_size_bytes": 108023
+}

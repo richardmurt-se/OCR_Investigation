@@ -1,0 +1,56 @@
+{
+  "filename": "111_effect_watermark.pdf",
+  "invoice": {
+    "client_name": "Robinson Inc",
+    "client_address": "",
+    "seller_name": "Woods-Hayes",
+    "seller_address": "2105 Winters Rue | South Ashley, SC 97131",
+    "invoice_number": "BILL-770407",
+    "invoice_date": "21/10/2024",
+    "due_date": "11/02/2026"
+  },
+  "items": [
+    {
+      "description": "Persistent clear-thinking extranet",
+      "quantity": "2.00",
+      "unit_price": "455.55",
+      "total_price": "911.10",
+      "category": null
+    },
+    {
+      "description": "Customizable empowering flexibility",
+      "quantity": "6.00",
+      "unit_price": "274.97",
+      "total_price": "1 649.82",
+      "category": null
+    },
+    {
+      "description": "Open-architected directional system engine",
+      "quantity": "4.00",
+      "unit_price": "328.84",
+      "total_price": "1 315.36",
+      "category": null
+    },
+    {
+      "description": "Managed regional alliance",
+      "quantity": "1.00",
+      "unit_price": "265.29",
+      "total_price": "265.29",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "4 141.57",
+    "tax": "414.16",
+    "discount": "",
+    "total": "4 555.73"
+  },
+  "payment_instructions": {
+    "due_date": "11/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.748,
+  "file_size_bytes": 48443
+}

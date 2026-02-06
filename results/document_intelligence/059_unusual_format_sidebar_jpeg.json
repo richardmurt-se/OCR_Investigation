@@ -1,0 +1,49 @@
+{
+  "filename": "059_unusual_format_sidebar.jpeg",
+  "invoice": {
+    "client_name": "Williams-Clark",
+    "client_address": "9572 Patrick Village Suite 482\nJenkinsburgh, FM 63275",
+    "seller_name": "Kirby-Mendez",
+    "seller_address": "0189 Cunningham Knoll\nDebbiemouth, SD 18220",
+    "invoice_number": "INV364445",
+    "invoice_date": "16/03/2024",
+    "due_date": "26/02/2026"
+  },
+  "items": [
+    {
+      "description": "Open-source local neural-net",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "107.87",
+      "category": null
+    },
+    {
+      "description": "Right-sized transitional moderator",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "3 802.40",
+      "category": null
+    },
+    {
+      "description": "Virtual incremental synergy",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 720.48",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "5 630.75",
+    "tax": "",
+    "discount": "",
+    "total": "6 193.83"
+  },
+  "payment_instructions": {
+    "due_date": "26/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.862,
+  "file_size_bytes": 55780
+}

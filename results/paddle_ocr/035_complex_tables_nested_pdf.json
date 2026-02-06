@@ -1,0 +1,8 @@
+{
+  "filename": "035_complex_tables_nested.pdf",
+  "model_name": "paddleocr",
+  "raw_text": "Barnes, Morales and Stevens\nINVOICE\n615 Tara Roads Apt. 269 | West Jennifer, WV 37865\nNo:56098395\nDate: 08/26/2024\nBILL TO:\nSHIP TO:\nDavis Group\nDavis Group\nPSC 5024Box 0709\nPSC 5024, Box 0709\nAPO AE 26466\nAPO AE 26466\nSKU\nDescription & Detailse\nCategory\nQty\n Unit\nTax\nTotal\nSection 1: Products\nSKU-01000\nRight-sized modular benchmark | Model: Ehb-1626, Serial:\nServices\n10.00\n466.40\n10%\n4 664.00\n8813172316\nSpec\nValue\nNote\nModel\nMDL-0100\nStandard\nSerial\n SN00010000\nVerified\nSKU-02000\nCross-group homogeneous strategy | Model: Mcw-2887, Serial:\nConsulting\n4.00\n14.77\n10%\n59.08\n5384151600\nSpec\nValue\nNote\nModel\nMDL-0200\n Standard\nSerial\nSN00020000\nVerified\nSKU-03000\nServices\n5.00\n186.94\n10%\n934.70\nSpec\nValue\nNote\nModel\nMDL-0300\nStandard\nSerial\n SN00030000\nVerified\nSection Subtotal:\nSubtotal:\n5 657.78\nTax (10%):\n565.78\nShipping:\n0.00\nTOTAL DUE:\n6 223.56\n Payment: Paul-Olsen Financial | Account: HJXV75518130769748",
+  "processing_time_seconds": 3.945,
+  "file_size_bytes": 142161,
+  "success": true
+}

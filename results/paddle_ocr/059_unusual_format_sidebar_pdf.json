@@ -1,0 +1,8 @@
+{
+  "filename": "059_unusual_format_sidebar.pdf",
+  "model_name": "paddleocr",
+  "raw_text": "INVOICE\nFROM\nTO\nKirby-Mendez\nWilliams-Clark\n0189 Cunningham Knoll\n9572 Patrick Village Suite 482.\nDebbiemouth, SD 18220\nJenkinsburgh, FM 63275.\nINV364445\n03/16/2024\nDUE DATE\nLINE ITEMS\n02/26/2026\n01\nOpen-source local neural-net\n1.00\n107.87\nSUMMARY\n02\nRight-sized transitional moderator\nx10.00\n3 802.40\nSubtotal\n5 630.75\nTax\n563.08\n03\nVirtual incremental synergy\n4.00\n1 720.48\nTOTAL\n6 193.83\nNote: Payment is due upon receipt. Please reference invoice number INv364445 on all\ncorrespondence.\nNelson,\nGarcia and Stone.\nBank\nJCNX24800558649197",
+  "processing_time_seconds": 2.616,
+  "file_size_bytes": 150088,
+  "success": true
+}

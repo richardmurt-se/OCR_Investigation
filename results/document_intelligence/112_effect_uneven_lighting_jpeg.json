@@ -1,0 +1,84 @@
+{
+  "filename": "112_effect_uneven_lighting.jpeg",
+  "invoice": {
+    "client_name": "Watson Inc",
+    "client_address": "",
+    "seller_name": "Hernandez, Lucero and Beasley",
+    "seller_address": "2007 Johnson Terrace Suite 924 | South Sharon, FM 35546",
+    "invoice_number": "INV-24822054",
+    "invoice_date": "23/02/2024",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Enhanced heuristic flexibility",
+      "quantity": "7.00",
+      "unit_price": "448.05",
+      "total_price": "3 136.35",
+      "category": null
+    },
+    {
+      "description": "Cross-group exuding frame",
+      "quantity": "1.00",
+      "unit_price": "109.39",
+      "total_price": "109.39",
+      "category": null
+    },
+    {
+      "description": "Reverse-engineered logistical attitude",
+      "quantity": "2.00",
+      "unit_price": "466.68",
+      "total_price": "933.36",
+      "category": null
+    },
+    {
+      "description": "Extended uniform firmware",
+      "quantity": "1.00",
+      "unit_price": "323.74",
+      "total_price": "323.74",
+      "category": null
+    },
+    {
+      "description": "Horizontal value-added ability",
+      "quantity": "10.00",
+      "unit_price": "193.46",
+      "total_price": "1 934.60",
+      "category": null
+    },
+    {
+      "description": "Profound client-server monitoring",
+      "quantity": "1.00",
+      "unit_price": "246.90",
+      "total_price": "246.90",
+      "category": null
+    },
+    {
+      "description": "Open-source next generation groupware",
+      "quantity": "3.00",
+      "unit_price": "122.20",
+      "total_price": "386.60",
+      "category": null
+    },
+    {
+      "description": "Advanced grid-enabled toolset",
+      "quantity": "2.00",
+      "unit_price": "300.93",
+      "total_price": "801.86",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "7 652.80",
+    "tax": "765.28",
+    "discount": "",
+    "total": "8 418.08"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.418,
+  "file_size_bytes": 219896
+}

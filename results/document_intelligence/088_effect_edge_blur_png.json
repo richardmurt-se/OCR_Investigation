@@ -1,0 +1,63 @@
+{
+  "filename": "088_effect_edge_blur.png",
+  "invoice": {
+    "client_name": "Burke, Jarvis and Sloan",
+    "client_address": "",
+    "seller_name": "White, Watts and Henderson",
+    "seller_address": "8713 Ramirez Ridge\nTorresmouth, WI 02243",
+    "invoice_number": "INV/741151",
+    "invoice_date": "10/06/2025",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Pre-emptive homogeneous data-warehouse",
+      "quantity": "3.00",
+      "unit_price": "495.75",
+      "total_price": "1 487.25",
+      "category": null
+    },
+    {
+      "description": "Persevering regional info-mediaries",
+      "quantity": "6.00",
+      "unit_price": "242.06",
+      "total_price": "1 452.36",
+      "category": null
+    },
+    {
+      "description": "Reduced zero-defect Graphical User Interface",
+      "quantity": "8.00",
+      "unit_price": "300.32",
+      "total_price": "2 402.56",
+      "category": null
+    },
+    {
+      "description": "Digitized leadingedge paradigm",
+      "quantity": "7.00",
+      "unit_price": "143.29",
+      "total_price": "1 003.03",
+      "category": null
+    },
+    {
+      "description": "Compatible even-keeled approach",
+      "quantity": "1.00",
+      "unit_price": "317.98",
+      "total_price": "317.98",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "6 663.18",
+    "tax": "686.32",
+    "discount": "",
+    "total": "6 996.34"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.766,
+  "file_size_bytes": 79662
+}

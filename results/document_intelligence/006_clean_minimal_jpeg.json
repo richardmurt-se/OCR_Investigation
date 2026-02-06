@@ -1,0 +1,77 @@
+{
+  "filename": "006_clean_minimal.jpeg",
+  "invoice": {
+    "client_name": "Jensen-Burns",
+    "client_address": "362 Torres Way Suite 664\nSouth Jeffery, VI 75043",
+    "seller_name": "Snyder-Mills",
+    "seller_address": "46604 Paul Ports\nCarlfurt, FL 55364",
+    "invoice_number": "INV/450334240",
+    "invoice_date": "12/12/2025",
+    "due_date": "16/02/2026"
+  },
+  "items": [
+    {
+      "description": "Digitized zero administration hardware",
+      "quantity": "8.00",
+      "unit_price": "407.74",
+      "total_price": "3 261.92",
+      "category": null
+    },
+    {
+      "description": "Up-sized holistic product",
+      "quantity": "5.00",
+      "unit_price": "481.19",
+      "total_price": "2 405.95",
+      "category": null
+    },
+    {
+      "description": "Mandatory attitude-oriented secured line",
+      "quantity": "8.00",
+      "unit_price": "344.86",
+      "total_price": "2 758.88",
+      "category": null
+    },
+    {
+      "description": "Networked multi-tasking capacity",
+      "quantity": "3.00",
+      "unit_price": "334.82",
+      "total_price": "1 004.46",
+      "category": null
+    },
+    {
+      "description": "Distributed disintermediate conglomeration",
+      "quantity": "7.00",
+      "unit_price": "475.39",
+      "total_price": "3 327.73",
+      "category": null
+    },
+    {
+      "description": "Profit-focused zero tolerance system engine",
+      "quantity": "10.00",
+      "unit_price": "188.58",
+      "total_price": "1 885.80",
+      "category": null
+    },
+    {
+      "description": "Persevering methodical matrix",
+      "quantity": "7.00",
+      "unit_price": "74.29",
+      "total_price": "520.03",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "15 164.77",
+    "tax": "1 516.48",
+    "discount": "-1 516.48",
+    "total": "15 164.77"
+  },
+  "payment_instructions": {
+    "due_date": "16/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.767,
+  "file_size_bytes": 55916
+}

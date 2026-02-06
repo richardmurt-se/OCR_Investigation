@@ -1,0 +1,42 @@
+{
+  "filename": "106_effect_low_dpi.jpeg",
+  "invoice": {
+    "client_name": "Kim Tran",
+    "client_address": "",
+    "seller_name": "Ruiz LLC",
+    "seller_address": "25421 Cordova Masion | Elizabethbury: NJ 50002",
+    "invoice_number": "BILL-453970554",
+    "invoice_date": "15/10/2025",
+    "due_date": "14/02/2006"
+  },
+  "items": [
+    {
+      "description": "Down-sized zero administration open architecture",
+      "quantity": "4.00",
+      "unit_price": "267.37",
+      "total_price": "287.37",
+      "category": null
+    },
+    {
+      "description": "Advanced interactive amude",
+      "quantity": "2.00",
+      "unit_price": "333.77",
+      "total_price": "687.54",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": ""
+  },
+  "payment_instructions": {
+    "due_date": "14/02/2006",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.669,
+  "file_size_bytes": 42945
+}

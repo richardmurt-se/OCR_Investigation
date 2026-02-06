@@ -1,0 +1,56 @@
+{
+  "filename": "135_effect_moire_patterns.png",
+  "invoice": {
+    "client_name": "Ortega-Perez",
+    "client_address": "",
+    "seller_name": "Hurst-Byrd",
+    "seller_address": "488 Steven Ford Suite 383\nSouth Abigail, SC 52431",
+    "invoice_number": "213563603",
+    "invoice_date": "14/02/2025",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Enterprise-wide solution-oriented alliance",
+      "quantity": "8.00",
+      "unit_price": "447.81",
+      "total_price": "3 582.48",
+      "category": null
+    },
+    {
+      "description": "Vision-oriented methodical concept",
+      "quantity": "3.00",
+      "unit_price": "75.39",
+      "total_price": "226.17",
+      "category": null
+    },
+    {
+      "description": "Multi-lateral uniform artificial intelligence",
+      "quantity": "2.00",
+      "unit_price": "388.73",
+      "total_price": "777.46",
+      "category": null
+    },
+    {
+      "description": "Reverse-engineered background product",
+      "quantity": "10.00",
+      "unit_price": "285.69",
+      "total_price": "2 856.90",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "7 443.01",
+    "tax": "744.30",
+    "discount": "",
+    "total": "8 187.31"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.269,
+  "file_size_bytes": 183633
+}

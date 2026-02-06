@@ -1,0 +1,8 @@
+{
+  "filename": "119_effect_gaussian_noise.jpeg",
+  "model_name": "paddleocr",
+  "raw_text": "Phillips and Sons\nINVOICE\n23750 Michae Bypass Suite 589 North Loganhaven.CA 12879\nNo:99157123\nDate:03/13/2024\nFROM\nBILLTO\nPhillips and Sons\nBowers Ltd\n23750 Michae Bypass Suite 589\n77614 Craig Greens\nNorth LoganhavenCA 12679\nJacobport.FM80650\nDescription\nQuantity\nUnit Price\nAmount\nCross-piatform high-level middleware\n8.00\n332.52\n2680.18\nFocused asymmetric throughput\n7.00\n154.33\n1.080.31\nCross-group dynamic encoding\n6.00\n177.98\n1087.76\nTriple-buffered background emulation\n9.00\n344.98\n3104.82\nSubtotal\n7913.05\nTax10%\n791.30\n8704.35\nThank.you for yourbusines",
+  "processing_time_seconds": 2.372,
+  "file_size_bytes": 384053,
+  "success": true
+}

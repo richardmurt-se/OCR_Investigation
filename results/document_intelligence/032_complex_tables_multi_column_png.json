@@ -1,0 +1,84 @@
+{
+  "filename": "032_complex_tables_multi_column.png",
+  "invoice": {
+    "client_name": "Reyes, Vazquez and Burgess",
+    "client_address": "5696 Timothy Turnpike, West Adam, NY 13240",
+    "seller_name": "Nelson-Munoz",
+    "seller_address": "2049 Swanson Center, East Lucas, TN 47109",
+    "invoice_number": "BILL/9257937422",
+    "invoice_date": "24/05/2025",
+    "due_date": "15/02/2026"
+  },
+  "items": [
+    {
+      "description": "Diverse 3rdgeneration open architec",
+      "quantity": "2.88",
+      "unit_price": "54.84",
+      "total_price": "189.68",
+      "category": null
+    },
+    {
+      "description": "Quality focused next generation sol.",
+      "quantity": "7.08",
+      "unit_price": "58.07",
+      "total_price": "486.49",
+      "category": null
+    },
+    {
+      "description": "Down sized clear thinking monitorin.",
+      "quantity": "7.88",
+      "unit_price": "338.85",
+      "total_price": "2 371.95",
+      "category": null
+    },
+    {
+      "description": "Progressive context sensitive colla.",
+      "quantity": "7.00",
+      "unit_price": "24.94",
+      "total_price": "174.58",
+      "category": null
+    },
+    {
+      "description": "User centric mobile implementation",
+      "quantity": "0.88",
+      "unit_price": "497.57",
+      "total_price": "4 478.13",
+      "category": null
+    },
+    {
+      "description": "Object based full range middleware ...",
+      "quantity": "6.88",
+      "unit_price": "79.92",
+      "total_price": "479.52",
+      "category": null
+    },
+    {
+      "description": "Pre-emptive systemic alliance",
+      "quantity": "6.88",
+      "unit_price": "198.97",
+      "total_price": "1 145.82",
+      "category": null
+    },
+    {
+      "description": "Reactive clear thinking paradigm",
+      "quantity": "2.88",
+      "unit_price": "282.13",
+      "total_price": "564.26",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "9 730.43",
+    "tax": "973.04",
+    "discount": "486.52",
+    "total": "10 216.95"
+  },
+  "payment_instructions": {
+    "due_date": "15/02/2026",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.828,
+  "file_size_bytes": 47887
+}
