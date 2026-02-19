@@ -1,0 +1,140 @@
+{
+  "filename": "170319819.pdf",
+  "invoice": {
+    "client_name": "TRUIST BANK\nC/O ENGIE INSIGHT, MS",
+    "client_address": "PO BOX 2440\n2534\nSPOKANE, WA 99210A. 2440",
+    "seller_name": "DUKE\nENERGY",
+    "seller_address": "PO Box 1090\nCharlotte, NC 28201-1090",
+    "invoice_number": "",
+    "invoice_date": "20/09/2024",
+    "due_date": "Oct 11"
+  },
+  "items": [
+    {
+      "description": "Previous Amount Due",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 361.44",
+      "category": null
+    },
+    {
+      "description": "Payment Received",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-1 361.44",
+      "category": null
+    },
+    {
+      "description": "Current Electric Charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 014.48",
+      "category": null
+    },
+    {
+      "description": "Current Lighting Charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "15.49",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "1661.92 kWh",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "626.94",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "6412.12",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "626.94",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "6412.12",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "1661.92",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "26.64",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "19.88",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "26.56\n26.56\n8700.98",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "9500",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "250.10",
+    "discount": "",
+    "total": "1 280.07"
+  },
+  "payment_instructions": {
+    "due_date": "Oct 11",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.626,
+  "file_size_bytes": 32212
+}

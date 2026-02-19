@@ -1,0 +1,91 @@
+{
+  "filename": "109079921.pdf",
+  "invoice": {
+    "client_name": "CINEPLEX ODEON THEATRES\nCASCADE 14 24480",
+    "client_address": "PO BOX 182633\nCOLUMBUS OH 43218-2633",
+    "seller_name": "Cascade",
+    "seller_address": "PO Box 7608, Boise, ID\n83707-1608.",
+    "invoice_number": "417400060485333",
+    "invoice_date": "30/05/2018",
+    "due_date": "18/06/2018"
+  },
+  "items": [
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Basic Service Charge $10.00 per month",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "10.00",
+      "category": null
+    },
+    {
+      "description": "Delivery Charge 30 Therms x $0.24608",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "7.38",
+      "category": null
+    },
+    {
+      "description": "Average Cost of Gas 30 Therms x $0.45772",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "13.73",
+      "category": null
+    },
+    {
+      "description": "Energy Assistance Fund 30 Therms x $0.00236",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.07",
+      "category": null
+    },
+    {
+      "description": "Pipeline Replacement 30 Therms x $0.00953",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.29",
+      "category": null
+    },
+    {
+      "description": "Decoupling Mechanism 30 Therms x $0.00126",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.04",
+      "category": null
+    },
+    {
+      "description": "Deferred Gas Cost 30 Therms x $0.05571",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.67",
+      "category": null
+    },
+    {
+      "description": "Conservation 30 Therms x $0.01365\n3%",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.41",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "1.01",
+    "discount": "",
+    "total": "34.60"
+  },
+  "payment_instructions": {
+    "due_date": "18/06/2018",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 15.228,
+  "file_size_bytes": 979903
+}

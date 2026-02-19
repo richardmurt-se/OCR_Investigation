@@ -1,0 +1,189 @@
+{
+  "filename": "161918050.pdf",
+  "invoice": {
+    "client_name": "Aimbridge Parent",
+    "client_address": "",
+    "seller_name": "TXU\nenergy",
+    "seller_address": "",
+    "invoice_number": "054278398561",
+    "invoice_date": "06/03/2024",
+    "due_date": "21/03/2024"
+  },
+  "items": [
+    {
+      "description": "Previous Month\nBilled Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "5 117.35",
+      "category": null
+    },
+    {
+      "description": "Balance Carry Forward",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Current Month\nTotal",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-5 117.35",
+      "category": null
+    },
+    {
+      "description": "Late Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Late Fee Adjustment",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "State And Local Sales Tax",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "263.46",
+      "category": null
+    },
+    {
+      "description": "Base Usage",
+      "quantity": "44480.00",
+      "unit_price": "0.07",
+      "total_price": "3 100.78",
+      "category": null
+    },
+    {
+      "description": "Market Securitization (Debt) Financing",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "23.80",
+      "category": null
+    },
+    {
+      "description": "Puc Assessment",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "5.23",
+      "category": null
+    },
+    {
+      "description": "Gross Receipts Reimb",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "63.67",
+      "category": null
+    },
+    {
+      "description": "Del - State And Local Sales Tax",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Del - Base Charge",
+      "quantity": "",
+      "unit_price": "3.00",
+      "total_price": "3.00",
+      "category": null
+    },
+    {
+      "description": "Del - Meter Charge",
+      "quantity": "",
+      "unit_price": "7.41",
+      "total_price": "7.41",
+      "category": null
+    },
+    {
+      "description": "Del - Distribution System Charge",
+      "quantity": "122.00",
+      "unit_price": "4.45",
+      "total_price": "542.83",
+      "category": null
+    },
+    {
+      "description": "Del - Transmission Cost Recov Factor",
+      "quantity": "121.60",
+      "unit_price": "3.36",
+      "total_price": "409.11",
+      "category": null
+    },
+    {
+      "description": "Del - Distribution Cost Recovery",
+      "quantity": "122.00",
+      "unit_price": "0.41",
+      "total_price": "50.09",
+      "category": null
+    },
+    {
+      "description": "Del - Transition Charge (Tc5)",
+      "quantity": "44480.00",
+      "unit_price": "0.00",
+      "total_price": "87.05",
+      "category": null
+    },
+    {
+      "description": "Del - Nuclear Decommission",
+      "quantity": "122.00",
+      "unit_price": "0.00",
+      "total_price": "0.07",
+      "category": null
+    },
+    {
+      "description": "Del - Energy Efficiency",
+      "quantity": "44480.00",
+      "unit_price": "0.00",
+      "total_price": "23.93",
+      "category": null
+    },
+    {
+      "description": "Del - Teeef",
+      "quantity": "122.00",
+      "unit_price": "0.44",
+      "total_price": "53.65",
+      "category": null
+    },
+    {
+      "description": "Del - Teeef",
+      "quantity": "122.00",
+      "unit_price": "0.07",
+      "total_price": "7.95",
+      "category": null
+    },
+    {
+      "description": "Del - Puc Assessment",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.73",
+      "category": null
+    },
+    {
+      "description": "Del - Gross Receipts Reimb",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "21.12",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "4 757.35"
+  },
+  "payment_instructions": {
+    "due_date": "21/03/2024",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.531,
+  "file_size_bytes": 55260
+}

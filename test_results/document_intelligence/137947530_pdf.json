@@ -1,0 +1,49 @@
+{
+  "filename": "137947530.pdf",
+  "invoice": {
+    "client_name": "ALADDIN MFG DBA DIAMOND",
+    "client_address": "PO BOX 2440\nSPOKANE WA 99210-2440",
+    "seller_name": "sworth\nITT\ncity of\nWater Commission",
+    "seller_address": "620 S 2nd AVE. - P.O. BOX 100 - CHATSWORTH, GA 30705",
+    "invoice_number": "",
+    "invoice_date": "01/08/2021",
+    "due_date": "13/08/2021"
+  },
+  "items": [
+    {
+      "description": "Water",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "56.30",
+      "category": null
+    },
+    {
+      "description": "Sewer",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "56.37",
+      "category": null
+    },
+    {
+      "description": "City Surcharge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.00",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "113.67"
+  },
+  "payment_instructions": {
+    "due_date": "13/08/2021",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.541,
+  "file_size_bytes": 106406
+}

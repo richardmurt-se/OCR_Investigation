@@ -1,0 +1,8 @@
+{
+  "content": "INVOICE\n\nINV/247501\nISSUE DATE 03/09/2025\nDUE DATE 02/14/2026\n\nSUMMARY\nSubtotal 9 927.69\nTax 991.77\nDiscount -495.88\nTOTAL 10 413.58\n\nBANK Keith-Brown Bank\nACCOUNT HMGE74499119122777\n\nFROM Curtis-Adams\n8533 Scott Islands Apt. 716\nEast Herbertview, FL 03414\n\nTO Johnson, Kelly and Bailey\n649 Gibson Branch Apt. 067\nNorth Rebeccaton, AR 65932\n\nLINE ITEMS\n\n01 Focused heuristic process improvement *9.00 1 431.63\n02 Profit-focused 3rdgeneration forecast *5.00 91.75\n03 Diverse radical software *2.00 388.86\n04 Organized next generation focus group *5.00 1 969.75\n05 Switchable logistical policy *10.00 3 826.40\n06 Business-focused optimizing database *10.00 2 209.30\n\nNote: Payment is due upon receipt. Please reference invoice number INV/247501 on all correspondence.",
+  "detections": [
+    {
+      "text": "INVOICE\n\nINV/247501\nISSUE DATE 03/09/2025\nDUE DATE 02/14/2026\n\nSUMMARY\nSubtotal 9 927.69\nTax 991.77\nDiscount -495.88\nTOTAL 10 413.58\n\nBANK Keith-Brown Bank\nACCOUNT HMGE74499119122777\n\nFROM Curtis-Adams\n8533 Scott Islands Apt. 716\nEast Herbertview, FL 03414\n\nTO Johnson, Kelly and Bailey\n649 Gibson Branch Apt. 067\nNorth Rebeccaton, AR 65932\n\nLINE ITEMS\n\n01 Focused heuristic process improvement *9.00 1 431.63\n02 Profit-focused 3rdgeneration forecast *5.00 91.75\n03 Diverse radical software *2.00 388.86\n04 Organized next generation focus group *5.00 1 969.75\n05 Switchable logistical policy *10.00 3 826.40\n06 Business-focused optimizing database *10.00 2 209.30\n\nNote: Payment is due upon receipt. Please reference invoice number INV/247501 on all correspondence."
+    }
+  ]
+}

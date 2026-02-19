@@ -1,0 +1,8 @@
+{
+  "filename": "026_clean_minimal.jpeg",
+  "model_name": "glm-ocr",
+  "raw_text": "INVOICE\n799813\n08/24/2024\n\nFROM\nCrane-Burns\n49224 Nicole Roads Suite 427\nEvansfurt, MI 66237\n\nTO\nLee Inc\n29354 Joseph Vista Apt. 482\nPort Ian, WA 95697\n\nDESCRIPTION QTY PRICE TOTAL\nCentralized local matrices 2.00 441.41 882.82\nSynchronized disintermediate time-frame 10.00 129.40 1 294.00\nMonitored background implementation 7.00 17.34 121.38\nFundamental multi-state analyzer 2.00 421.56 843.12\nBalanced motivating help-desk 6.00 436.64 2 619.84\n\nSubtotal 5 761.16\nTax 576.12\nDiscount -288.06\nTotal 6 049.22\n\nThank you",
+  "processing_time_seconds": 44.284,
+  "file_size_bytes": 40350,
+  "success": true
+}

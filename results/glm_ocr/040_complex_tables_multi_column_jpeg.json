@@ -1,0 +1,8 @@
+{
+  "filename": "040_complex_tables_multi_column.jpeg",
+  "model_name": "glm-ocr",
+  "raw_text": "Campbell-Duncan\n24713 Long Track | North Crystal, GU 98812\n\nINVOICE\nINV/7878729425\n\nSeller\nCampbell-Duncan\n24713 Long Track, North Crystal, GU 98812\n\nBuyer\nGonzalez and Sons\n60738 Kenneth Fort Apt. 645, Port Jessica, TN 23720\n\nInvoice Details\nNo. INV/7878729425\nDate. 10/26/2024\n\nNo. SKU Description Cat. Qty Unit Price Disc% Disc$ Tax% Tax$ Net Total\n1 SKX0100 Multi tiered actuating Local Area N... Cons 9.00 EA 180.51 13% 1.30 10% 152.56 1 525.59 1 525.59\n2 SKX0200 Up sized content based orthostatio... Main 6.00 EA 95.98 5% 3.00 10% 57.59 575.88 575.88\n3 SKX0300 Configurable bifurcated moderator C... Equal 4.00 EA 430.17 14% 2.00 10% 175.67 1 756.68 1 756.68\n\nSubtotal: 3 858.15\nTotal Discount: 0.00\nTotal Tax: 385.81\nShipping: 0.00\nGRAND TOTAL: 4 243.96\n\nTerms: Net 30 | Campbell-Duncan | Invoice #INV/7878729425",
+  "processing_time_seconds": 49.8,
+  "file_size_bytes": 51352,
+  "success": true
+}

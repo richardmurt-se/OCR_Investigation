@@ -1,0 +1,8 @@
+{
+  "filename": "100_effect_salt_pepper_noise.pdf",
+  "model_name": "glm-ocr",
+  "raw_text": "Bishop, Price and Jordan\n2197 Stacy Stravavenue Suite 002 West Geraldhaven, FM 22887\n\nINVOICE\nNo: BILL/43722995\nDate: 07/10/2024\nDue: 02/14/2026\n\nFROM:\nBishop, Price and Jordan\n3197 Stacy Stravavenue Suite 002\nWest Geraldhaven, FM 22887\n\nBILL TO:\nTaylor-Fleming\n44034 Patrick Row\nSouth Jamaica, KY 93740\n\n# Description Quantity Unit Price Amount\n1. Monitored grid-enabled instruction set\n10.00 309.61 3 096.10\n2. Stand-alone empowering support\n6.00 52.09 318.54\n3. Virtual system-worthy process improvement\n4. Horizontal requestio data warehouse\n1.00 188.07 188.07\n\nSubtotal 5 001.55\nTax (10%) 506.15\nTotal Due 5 507.70\n\nPAYMENT INFORMATION\nBank: Brown Jones Credit Union\nAccount: LUV29304540450305\n\nThank you for your business!",
+  "processing_time_seconds": 29.53,
+  "file_size_bytes": 70062,
+  "success": true
+}

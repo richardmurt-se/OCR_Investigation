@@ -1,0 +1,140 @@
+{
+  "filename": "158009246.pdf",
+  "invoice": {
+    "client_name": "ICON OWNER POOL 1 LA BUS PRK",
+    "client_address": "",
+    "seller_name": "SOUTHERN CALIFORNIA EDISON",
+    "seller_address": "",
+    "invoice_number": "700586121938",
+    "invoice_date": "18/10/2023",
+    "due_date": "07/11/2023"
+  },
+  "items": [
+    {
+      "description": "Previous Month\nBilled Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "135.02",
+      "category": null
+    },
+    {
+      "description": "Balance Carry Forward",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Previous Month\nTotal Payment Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-135.02",
+      "category": null
+    },
+    {
+      "description": "Late Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Current Month\nBilled Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "125.88",
+      "category": null
+    },
+    {
+      "description": "Current Month\nActual Unpaid Principal Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "125.88",
+      "category": null
+    },
+    {
+      "description": "Late Fee Adjustment",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wildfire Fund Charge-Delivery",
+      "quantity": "759.00",
+      "unit_price": "0.01",
+      "total_price": "4.02",
+      "category": null
+    },
+    {
+      "description": "Customer Charge-Delivery",
+      "quantity": "12.00",
+      "unit_price": "135.60",
+      "total_price": "4.68",
+      "category": null
+    },
+    {
+      "description": "Customer Charge-Delivery",
+      "quantity": "17.00",
+      "unit_price": "137.52",
+      "total_price": "6.72",
+      "category": null
+    },
+    {
+      "description": "Energy Charge-Delivery",
+      "quantity": "313.00",
+      "unit_price": "0.06",
+      "total_price": "17.43",
+      "category": null
+    },
+    {
+      "description": "Energy Charge-Delivery",
+      "quantity": "446.00",
+      "unit_price": "0.06",
+      "total_price": "25.00",
+      "category": null
+    },
+    {
+      "description": "Fixed Recovery Charge-Delivery",
+      "quantity": "313.00",
+      "unit_price": "0.00",
+      "total_price": "0.47",
+      "category": null
+    },
+    {
+      "description": "Fixed Recovery Charge-Delivery",
+      "quantity": "446.00",
+      "unit_price": "0.00",
+      "total_price": "0.78",
+      "category": null
+    },
+    {
+      "description": "Energy Charge-Scegen",
+      "quantity": "313.00",
+      "unit_price": "0.09",
+      "total_price": "27.41",
+      "category": null
+    },
+    {
+      "description": "Energy Charge-Scegen",
+      "quantity": "446.00",
+      "unit_price": "0.09",
+      "total_price": "39.14",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "0.23",
+    "discount": "",
+    "total": "125.88"
+  },
+  "payment_instructions": {
+    "due_date": "07/11/2023",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 12.978,
+  "file_size_bytes": 46397
+}

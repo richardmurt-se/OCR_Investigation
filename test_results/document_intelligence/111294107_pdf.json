@@ -1,0 +1,35 @@
+{
+  "filename": "111294107.pdf",
+  "invoice": {
+    "client_name": "BELLSOUTH TELECOMMUNIC",
+    "client_address": "PO BOX 182333\nCOLUMBUS OH 43218-2333",
+    "seller_name": "Oconee EMC",
+    "seller_address": "P. O. Box 37\nDudley, GA 31022-0037",
+    "invoice_number": "",
+    "invoice_date": "11/08/2018",
+    "due_date": "26/08/2018"
+  },
+  "items": [
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "22.00",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "23.54"
+  },
+  "payment_instructions": {
+    "due_date": "26/08/2018",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.285,
+  "file_size_bytes": 754678
+}

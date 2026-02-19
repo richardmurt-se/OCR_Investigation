@@ -1,0 +1,189 @@
+{
+  "filename": "172305705.pdf",
+  "invoice": {
+    "client_name": "WELLS FARGO BANK NATIONAL ASSOCIATION",
+    "client_address": "",
+    "seller_name": "OF AUS",
+    "seller_address": "P.O. Box 2267 Austin, TX 78783-2267",
+    "invoice_number": "483249699377",
+    "invoice_date": "13/12/2024",
+    "due_date": "30/12/2024"
+  },
+  "items": [
+    {
+      "description": "Electric Service",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "877.43",
+      "category": null
+    },
+    {
+      "description": "Water Service",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "51.72",
+      "category": null
+    },
+    {
+      "description": "Wastewater Service",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "23.63",
+      "category": null
+    },
+    {
+      "description": "Clean Community Service",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "19.35",
+      "category": null
+    },
+    {
+      "description": "Street Service",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "550.47",
+      "category": null
+    },
+    {
+      "description": "Customer Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "57.22",
+      "category": null
+    },
+    {
+      "description": "Demand Charge 24.80",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "232.13",
+      "category": null
+    },
+    {
+      "description": "Energy Charge 6,000",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "110.40",
+      "category": null
+    },
+    {
+      "description": "Community Benefit Charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "44.52",
+      "category": null
+    },
+    {
+      "description": "Regulatory Charges 24.80",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "92.50",
+      "category": null
+    },
+    {
+      "description": "Power Supply Adjustment 6,000",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "319.32",
+      "category": null
+    },
+    {
+      "description": "Power Supply Administrative Adjustment 6,000",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-45.54",
+      "category": null
+    },
+    {
+      "description": "Customer Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "19.38",
+      "category": null
+    },
+    {
+      "description": "Fixed Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "22.90",
+      "category": null
+    },
+    {
+      "description": "1,100 Gallons at $5.46 per 1,000 - Off Peak",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "6.01",
+      "category": null
+    },
+    {
+      "description": "1,100",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.33",
+      "category": null
+    },
+    {
+      "description": "1,100 Gallons at $0.05 per 1,000 - Reserve Fund Surcharge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.06",
+      "category": null
+    },
+    {
+      "description": "Backflow Prev Fee 1 @ $2.87 ea",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2.87",
+      "category": null
+    },
+    {
+      "description": "Customer Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "10.70",
+      "category": null
+    },
+    {
+      "description": "1,100 Gallons\n$11.30 per 1,000",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "12.43",
+      "category": null
+    },
+    {
+      "description": "1,100",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.33",
+      "category": null
+    },
+    {
+      "description": "Austin Resource Recovery",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "14.65",
+      "category": null
+    },
+    {
+      "description": "Austin Code Department",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "4.70",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "550.47"
+  },
+  "payment_instructions": {
+    "due_date": "30/12/2024",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 10.351,
+  "file_size_bytes": 559794
+}

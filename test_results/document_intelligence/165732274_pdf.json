@@ -1,0 +1,27 @@
+{
+  "filename": "165732274.pdf",
+  "invoice": {
+    "client_name": "",
+    "client_address": "",
+    "seller_name": "",
+    "seller_address": "",
+    "invoice_number": "",
+    "invoice_date": "",
+    "due_date": ""
+  },
+  "items": [],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": ""
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.426,
+  "file_size_bytes": 62901
+}

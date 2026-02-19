@@ -1,0 +1,91 @@
+{
+  "filename": "175784418.pdf",
+  "invoice": {
+    "client_name": "CHURCH OF JESUS CHRIST",
+    "client_address": "POCAHONTAS\nPO BOX 182764\nCOLUMBUS OH 43218-2764",
+    "seller_name": "CLAY COUNTY ELECTRIC\nCOOPERATIVE CORPORATION",
+    "seller_address": "PO BOX 459\nCORNING AR 72422-0459",
+    "invoice_number": "",
+    "invoice_date": "11/03/2025",
+    "due_date": "03/04/2025"
+  },
+  "items": [
+    {
+      "description": "SERVICE AVAILABILITY",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "30.00",
+      "category": null
+    },
+    {
+      "description": "ENERGY CHARGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "130.32",
+      "category": null
+    },
+    {
+      "description": "DEMAND CHARGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "FUEL TO/RTO RIDER ADJ 0.011884/KWH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "15.21",
+      "category": null
+    },
+    {
+      "description": "COST OF DEBT ADJ 0.001882/KWH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2.41",
+      "category": null
+    },
+    {
+      "description": "FRANCHISE TAX",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "8.90",
+      "category": null
+    },
+    {
+      "description": "STATE TAX",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "12.14",
+      "category": null
+    },
+    {
+      "description": "COUNTY TAX",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2.34",
+      "category": null
+    },
+    {
+      "description": "TOWN TAX",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "3.74",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "205.06"
+  },
+  "payment_instructions": {
+    "due_date": "03/04/2025",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.475,
+  "file_size_bytes": 914047
+}

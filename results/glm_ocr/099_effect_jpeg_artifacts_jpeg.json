@@ -1,0 +1,8 @@
+{
+  "filename": "099_effect_jpeg_artifacts.jpeg",
+  "model_name": "glm-ocr",
+  "raw_text": "Anderson-Gibson\n61634 Davis Mission | Amberland, VT 48365\n\nINVOICE\nNo: INV/3499450791\nDate: 11/22/2025\nDue: 02/16/2026\n\nFROM\nAnderson-Gibson\n61634 Davis Mission\nAmberland, VT 48365\n\nBILL TO\nRay, Abbott and Garrett\n02086 Haynes Harbor Act, 046\nWest Kelseyside, UT 24081\n\n# Description Quantity Unit Price Amount\n1 Compatible intangible workforce 7.00 209.26 1 454.82\n2 Reactive needs-based data-warehouse 6.00 58.04 383.64\n3 Down-sized motivating core 4.00 216.60 887.60\n4 Vision-oriented 3rdgeneration software 7.00 164.21 1 149.47\n5 Pre-emptive system-worthy model 7.00 293.16 2 652.12\n\nSubtotal 5 887.65\nTax (10%) 588.76\nTotal Due 6 476.41\n\nPAYMENT INFORMATION\nBank: Scott-Gutierrez Financial\nAccount: TMSB56338324084931\nMethod: ACH\n\nThank you for your business.",
+  "processing_time_seconds": 47.185,
+  "file_size_bytes": 52075,
+  "success": true
+}

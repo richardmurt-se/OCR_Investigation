@@ -1,0 +1,8 @@
+{
+  "filename": "087_effect_patch_blur.png",
+  "model_name": "deepseek-ocr-2",
+  "raw_text": "<|ref|>sub_title<|/ref|><|det|>[[20, 115, 70, 128]]<|/det|>\n## FROM\n\n<|ref|>text<|/ref|><|det|>[[20, 135, 188, 173]]<|/det|>\nJames-Smith\n18447 Cassidy Fork Apt. 873\nRaymondburgh, VA 55330\n\n<|ref|>sub_title<|/ref|><|det|>[[20, 116, 70, 128]]<|/det|>\n## FROM\n\n<|ref|>sub_title<|/ref|><|det|>[[542, 115, 602, 128]]<|/det|>\n## BILL TO\n\n<|ref|>text<|/ref|><|det|>[[541, 135, 725, 173]]<|/det|>\nBrown, Obrien and Ortiz\n5308 Rodriguez Dale Suite 402\nLake Cindy, GU 69667\n\n<|ref|>table<|/ref|><|det|>[[20, 195, 974, 477]]<|/det|>\n<table><tr><td>#</td><td>Description</td><td>Quantity</td><td>Unit Price</td><td>Amount</td></tr><tr><td>1</td><td>Customizable attitude-oriented neural-net</td><td>5.00</td><td>107.16</td><td>535.80</td></tr><tr><td>2</td><td>Future-proofed upward-trending time-frame</td><td>5.00</td><td>319.28</td><td>1 596.40</td></tr><tr><td>3</td><td>Organic neutral superstructure</td><td>8.00</td><td>127.47</td><td>1 019.76</td></tr><tr><td>4</td><td>Decentralized value-added help-desk</td><td>4.00</td><td>394.59</td><td>1 578.36</td></tr><tr><td>5</td><td>Reverse-engineered analyzing middleware</td><td>5.00</td><td>25.12</td><td>125.60</td></tr><tr><td></td><td></td><td></td><td>Subtotal</td><td>4 855.92</td></tr><tr><td></td><td></td><td></td><td>Tax (10%)</td><td>485.59</td></tr><tr><td></td><td></td><td></td><td>Discount</td><td>-242.80</td></tr><tr><td></td><td></td><td></td><td>Total Due</td><td>5 098.71</td></tr></table>",
+  "processing_time_seconds": 19.653,
+  "file_size_bytes": 48746,
+  "success": true
+}

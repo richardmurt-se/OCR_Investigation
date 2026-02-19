@@ -1,0 +1,49 @@
+{
+  "filename": "137181252.pdf",
+  "invoice": {
+    "client_name": "2201 COLLINS FEE LLC",
+    "client_address": "PO BOX 2440\nSPOKANE WA 99210",
+    "seller_name": "FPL",
+    "seller_address": "",
+    "invoice_number": "4842119127210707",
+    "invoice_date": "07/07/2021",
+    "due_date": "29/07/2021"
+  },
+  "items": [
+    {
+      "description": "Electrical Service Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "34.22",
+      "category": null
+    },
+    {
+      "description": "Franchise Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.89",
+      "category": null
+    },
+    {
+      "description": "Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "40.18"
+  },
+  "payment_instructions": {
+    "due_date": "29/07/2021",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 11.133,
+  "file_size_bytes": 74295
+}

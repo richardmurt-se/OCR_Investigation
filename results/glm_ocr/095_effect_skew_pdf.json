@@ -1,0 +1,8 @@
+{
+  "filename": "095_effect_skew.pdf",
+  "model_name": "glm-ocr",
+  "raw_text": "Wolf PLC\nHoward Glens | New Kelly, AK 01507\n\nINVOICE\nNo. BILL1691165758\nDate 02/18/2024\n\nFROM\nWolf PLC\n65571 Amber Turnpike Apt. 363\nJaneborough, IL 47039\n\nBILL TO\nRichardson-Smith\n65571 Amber Turnpike Apt. 363\nJaneborough, IL 47039\n\n# Description Quantity Unit Price Amount\n1 Digitized even-keeled focus group 9.00 153.95 1 385.04\n2 Down-sized optimal strategy 7.00 84.29 590.03\n3 Realigned system-worthy Graphic Interface 10.00 422.38 4 223.80\n4 Assimilated zero tolerance productivity 8.00 301.03 2 413.04\n\nSubtotal 8 612.51\nTax (10%) 861.25\nTotal Due 8 473.76\n\nThank you for your business",
+  "processing_time_seconds": 29.567,
+  "file_size_bytes": 90258,
+  "success": true
+}

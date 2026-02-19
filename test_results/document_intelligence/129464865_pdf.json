@@ -1,0 +1,77 @@
+{
+  "filename": "129464865.pdf",
+  "invoice": {
+    "client_name": "BECTON DICKINSON & CO\nCASS INFORMATION SYSTEMS",
+    "client_address": "PO BOX 183099\nCOLUMBUS OH 43218-3099",
+    "seller_name": "AQUARION\nWater Company",
+    "seller_address": "PO BOX 3664\nPORTLAND ME 04104-3664",
+    "invoice_number": "",
+    "invoice_date": "22/07/2020",
+    "due_date": "16/08/2020"
+  },
+  "items": [
+    {
+      "description": "Previous Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "3 712.43",
+      "category": null
+    },
+    {
+      "description": "Basic Service",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "108.50",
+      "category": null
+    },
+    {
+      "description": "Usage Charge 110 thou. g @ $5.6600",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "622.60",
+      "category": null
+    },
+    {
+      "description": "Usage Charge 996 thou. g @ $2.7850",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2 773.86",
+      "category": null
+    },
+    {
+      "description": "WICA",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "313.34",
+      "category": null
+    },
+    {
+      "description": "Water Revenue Adjustment (WRA)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "118.12",
+      "category": null
+    },
+    {
+      "description": "DPH Safe Drinking Water Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.16",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "3 936.58"
+  },
+  "payment_instructions": {
+    "due_date": "16/08/2020",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 10.59,
+  "file_size_bytes": 891754
+}

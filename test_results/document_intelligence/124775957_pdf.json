@@ -1,0 +1,70 @@
+{
+  "filename": "124775957.pdf",
+  "invoice": {
+    "client_name": "DELL PRODUCTS LP STR 100763",
+    "client_address": "PO BOX 182596\nCOLUMBUS OH 43218-2596",
+    "seller_name": "The City of\nOKLAHOMA CITY",
+    "seller_address": "1 N. Walker Ave., Oklahoma City, OK 73102",
+    "invoice_number": "",
+    "invoice_date": "23/12/2019",
+    "due_date": "07/01/2020"
+  },
+  "items": [
+    {
+      "description": "Up to AWC of 86",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "168.85",
+      "category": null
+    },
+    {
+      "description": "WATER BASE CHARGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "151.68",
+      "category": null
+    },
+    {
+      "description": "FIRELINE PROTECTION",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "56.70",
+      "category": null
+    },
+    {
+      "description": "SEWER CHARGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "248.05",
+      "category": null
+    },
+    {
+      "description": "SEWER BASE CHARGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "49.34",
+      "category": null
+    },
+    {
+      "description": "DRAINAGE FEE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "55.46",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "730.08"
+  },
+  "payment_instructions": {
+    "due_date": "07/01/2020",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.334,
+  "file_size_bytes": 780695
+}

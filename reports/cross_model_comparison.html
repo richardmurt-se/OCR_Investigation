@@ -154,17 +154,31 @@
     <!-- Header -->
     <div class="header">
         <h1>OCR Cross-Model Comparison Report</h1>
-        <div class="subtitle">Comparing 2 models &middot; Extraction Accuracy</div>
+        <div class="subtitle">Comparing 4 models &middot; Extraction Accuracy</div>
     </div>
 
     <!-- Section 1: Summary Cards -->
     <div class="cards-grid">
+        
+        <div class="card" style="border-left-color: #6366f1;">
+            
+            <div class="card-label">Deepseek Ocr2</div>
+            <div class="card-value" style="color: #6366f1;">50.9%</div>
+            <div class="card-detail">468 docs &middot; 21.36s/doc &middot; $0.0000 total</div>
+        </div>
         
         <div class="card" style="border-left-color: #3b82f6;">
             <span class="badge-winner">Best</span>
             <div class="card-label">Azure Document Intelligence</div>
             <div class="card-value" style="color: #3b82f6;">89.5%</div>
             <div class="card-detail">468 docs &middot; 6.23s/doc &middot; $0.7140 total</div>
+        </div>
+        
+        <div class="card" style="border-left-color: #0ea5e9;">
+            
+            <div class="card-label">Glm Ocr</div>
+            <div class="card-value" style="color: #0ea5e9;">82.3%</div>
+            <div class="card-detail">468 docs &middot; 43.63s/doc &middot; $0.0000 total</div>
         </div>
         
         <div class="card" style="border-left-color: #22c55e;">
@@ -195,6 +209,16 @@
                 <tbody>
                     
                     <tr>
+                        <td><span class="color-dot" style="background:#6366f1;"></span>Deepseek Ocr2</td>
+                        <td class="text-right acc-low">50.9%</td>
+                        <td class="text-right">21.36s</td>
+                        <td class="text-right">2.8 docs/min</td>
+                        <td class="text-right">$0.0000</td>
+                        <td class="text-right">$0.0000</td>
+                        <td class="text-right">-</td>
+                    </tr>
+                    
+                    <tr>
                         <td><span class="color-dot" style="background:#3b82f6;"></span>Azure Document Intelligence</td>
                         <td class="text-right acc-mid">89.5%</td>
                         <td class="text-right">6.23s</td>
@@ -202,6 +226,16 @@
                         <td class="text-right">$0.7140</td>
                         <td class="text-right">$0.0020</td>
                         <td class="text-right">83.4%</td>
+                    </tr>
+                    
+                    <tr>
+                        <td><span class="color-dot" style="background:#0ea5e9;"></span>Glm Ocr</td>
+                        <td class="text-right acc-mid">82.3%</td>
+                        <td class="text-right">43.63s</td>
+                        <td class="text-right">1.4 docs/min</td>
+                        <td class="text-right">$0.0000</td>
+                        <td class="text-right">$0.0000</td>
+                        <td class="text-right">-</td>
                     </tr>
                     
                     <tr>
@@ -265,7 +299,11 @@
                     <tr>
                         <th>Effect Type</th>
                         
+                        <th class="text-right">Deepseek Ocr2</th>
+                        
                         <th class="text-right">Azure Document Intelligence</th>
+                        
+                        <th class="text-right">Glm Ocr</th>
                         
                         <th class="text-right">PaddleOCR</th>
                         
@@ -275,10 +313,34 @@
                     
                     
                     <tr>
+                        <td>Hole Punches</td>
+                        
+                        
+                        <td class="text-right acc-low">53.5%</td>
+                        
+                        
+                        <td class="text-right acc-high">97.0%</td>
+                        
+                        
+                        <td class="text-right acc-high">96.0%</td>
+                        
+                        
+                        <td class="text-right acc-mid">75.8%</td>
+                        
+                    </tr>
+                    
+                    
+                    <tr>
                         <td>Fold Lines</td>
                         
                         
+                        <td class="text-right acc-low">54.5%</td>
+                        
+                        
                         <td class="text-right acc-high">99.0%</td>
+                        
+                        
+                        <td class="text-right acc-high">91.9%</td>
                         
                         
                         <td class="text-right acc-mid">75.8%</td>
@@ -290,7 +352,13 @@
                         <td>Coffee Stains</td>
                         
                         
+                        <td class="text-right acc-low">57.6%</td>
+                        
+                        
                         <td class="text-right acc-high">98.0%</td>
+                        
+                        
+                        <td class="text-right acc-mid">86.9%</td>
                         
                         
                         <td class="text-right acc-mid">76.8%</td>
@@ -299,49 +367,19 @@
                     
                     
                     <tr>
-                        <td>Moire Patterns</td>
-                        
-                        
-                        <td class="text-right acc-high">99.0%</td>
-                        
-                        
-                        <td class="text-right acc-mid">75.8%</td>
-                        
-                    </tr>
-                    
-                    
-                    <tr>
                         <td>Watermark</td>
                         
                         
-                        <td class="text-right acc-high">98.0%</td>
-                        
-                        
-                        <td class="text-right acc-mid">75.8%</td>
-                        
-                    </tr>
-                    
-                    
-                    <tr>
-                        <td>Hole Punches</td>
-                        
-                        
-                        <td class="text-right acc-high">97.0%</td>
-                        
-                        
-                        <td class="text-right acc-mid">75.8%</td>
-                        
-                    </tr>
-                    
-                    
-                    <tr>
-                        <td>Show Through</td>
+                        <td class="text-right acc-low">53.5%</td>
                         
                         
                         <td class="text-right acc-high">98.0%</td>
                         
                         
-                        <td class="text-right acc-mid">74.7%</td>
+                        <td class="text-right acc-high">90.9%</td>
+                        
+                        
+                        <td class="text-right acc-mid">75.8%</td>
                         
                     </tr>
                     
@@ -350,7 +388,13 @@
                         <td>Patch Blur</td>
                         
                         
+                        <td class="text-right acc-low">55.6%</td>
+                        
+                        
                         <td class="text-right acc-high">94.9%</td>
+                        
+                        
+                        <td class="text-right acc-mid">87.9%</td>
                         
                         
                         <td class="text-right acc-mid">76.8%</td>
@@ -362,7 +406,13 @@
                         <td>Page Curl</td>
                         
                         
+                        <td class="text-right acc-low">53.5%</td>
+                        
+                        
                         <td class="text-right acc-high">94.9%</td>
+                        
+                        
+                        <td class="text-right acc-high">90.9%</td>
                         
                         
                         <td class="text-right acc-mid">75.8%</td>
@@ -371,67 +421,67 @@
                     
                     
                     <tr>
-                        <td>Gaussian Noise</td>
+                        <td>Moire Patterns</td>
+                        
+                        
+                        <td class="text-right acc-low">49.5%</td>
                         
                         
                         <td class="text-right acc-high">99.0%</td>
                         
                         
+                        <td class="text-right acc-mid">89.9%</td>
+                        
+                        
+                        <td class="text-right acc-mid">75.8%</td>
+                        
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>Show Through</td>
+                        
+                        
+                        <td class="text-right acc-low">57.6%</td>
+                        
+                        
+                        <td class="text-right acc-high">98.0%</td>
+                        
+                        
+                        <td class="text-right acc-mid">82.8%</td>
+                        
+                        
+                        <td class="text-right acc-mid">74.7%</td>
+                        
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>Gaussian Noise</td>
+                        
+                        
+                        <td class="text-right acc-low">56.6%</td>
+                        
+                        
+                        <td class="text-right acc-high">99.0%</td>
+                        
+                        
+                        <td class="text-right acc-mid">84.8%</td>
+                        
+                        
                         <td class="text-right acc-mid">71.7%</td>
-                        
-                    </tr>
-                    
-                    
-                    <tr>
-                        <td>Stamps</td>
-                        
-                        
-                        <td class="text-right acc-high">92.9%</td>
-                        
-                        
-                        <td class="text-right acc-mid">73.7%</td>
-                        
-                    </tr>
-                    
-                    
-                    <tr>
-                        <td>Edge Blur</td>
-                        
-                        
-                        <td class="text-right acc-high">92.9%</td>
-                        
-                        
-                        <td class="text-right acc-mid">71.7%</td>
-                        
-                    </tr>
-                    
-                    
-                    <tr>
-                        <td>None</td>
-                        
-                        
-                        <td class="text-right acc-high">92.5%</td>
-                        
-                        
-                        <td class="text-right acc-mid">71.6%</td>
-                        
-                    </tr>
-                    
-                    
-                    <tr>
-                        <td>Thermal Fade</td>
-                        
-                        
-                        <td class="text-right acc-high">90.9%</td>
-                        
-                        
-                        <td class="text-right acc-mid">72.7%</td>
                         
                     </tr>
                     
                     
                     <tr>
                         <td>Handwritten Annotations</td>
+                        
+                        
+                        <td class="text-right acc-low">48.5%</td>
+                        
+                        
+                        <td class="text-right acc-high">91.9%</td>
                         
                         
                         <td class="text-right acc-high">91.9%</td>
@@ -443,13 +493,55 @@
                     
                     
                     <tr>
-                        <td>Bleed Through</td>
+                        <td>None</td>
                         
                         
-                        <td class="text-right acc-mid">88.9%</td>
+                        <td class="text-right acc-low">54.4%</td>
                         
                         
-                        <td class="text-right acc-mid">71.7%</td>
+                        <td class="text-right acc-high">92.5%</td>
+                        
+                        
+                        <td class="text-right acc-mid">84.6%</td>
+                        
+                        
+                        <td class="text-right acc-mid">71.6%</td>
+                        
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>Thermal Fade</td>
+                        
+                        
+                        <td class="text-right acc-low">57.6%</td>
+                        
+                        
+                        <td class="text-right acc-high">90.9%</td>
+                        
+                        
+                        <td class="text-right acc-mid">80.8%</td>
+                        
+                        
+                        <td class="text-right acc-mid">72.7%</td>
+                        
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>Stamps</td>
+                        
+                        
+                        <td class="text-right acc-low">42.4%</td>
+                        
+                        
+                        <td class="text-right acc-high">92.9%</td>
+                        
+                        
+                        <td class="text-right acc-high">92.9%</td>
+                        
+                        
+                        <td class="text-right acc-mid">73.7%</td>
                         
                     </tr>
                     
@@ -458,7 +550,13 @@
                         <td>Wrinkles Crumples</td>
                         
                         
+                        <td class="text-right acc-low">52.5%</td>
+                        
+                        
                         <td class="text-right acc-mid">89.9%</td>
+                        
+                        
+                        <td class="text-right acc-mid">75.8%</td>
                         
                         
                         <td class="text-right acc-mid">70.7%</td>
@@ -467,34 +565,16 @@
                     
                     
                     <tr>
-                        <td>Band Stretch</td>
-                        
-                        
-                        <td class="text-right acc-mid">84.8%</td>
-                        
-                        
-                        <td class="text-right acc-mid">74.7%</td>
-                        
-                    </tr>
-                    
-                    
-                    <tr>
-                        <td>Brightness Contrast</td>
-                        
-                        
-                        <td class="text-right acc-high">90.9%</td>
-                        
-                        
-                        <td class="text-right acc-low">67.7%</td>
-                        
-                    </tr>
-                    
-                    
-                    <tr>
                         <td>Uneven Lighting</td>
                         
                         
+                        <td class="text-right acc-low">47.5%</td>
+                        
+                        
                         <td class="text-right acc-high">92.9%</td>
+                        
+                        
+                        <td class="text-right acc-mid">86.9%</td>
                         
                         
                         <td class="text-right acc-low">60.6%</td>
@@ -503,10 +583,106 @@
                     
                     
                     <tr>
-                        <td>Skew</td>
+                        <td>Band Stretch</td>
+                        
+                        
+                        <td class="text-right acc-low">41.4%</td>
+                        
+                        
+                        <td class="text-right acc-mid">84.8%</td>
                         
                         
                         <td class="text-right acc-mid">85.9%</td>
+                        
+                        
+                        <td class="text-right acc-mid">74.7%</td>
+                        
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>Bleed Through</td>
+                        
+                        
+                        <td class="text-right acc-low">34.3%</td>
+                        
+                        
+                        <td class="text-right acc-mid">88.9%</td>
+                        
+                        
+                        <td class="text-right acc-mid">83.8%</td>
+                        
+                        
+                        <td class="text-right acc-mid">71.7%</td>
+                        
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>Edge Blur</td>
+                        
+                        
+                        <td class="text-right acc-low">47.5%</td>
+                        
+                        
+                        <td class="text-right acc-high">92.9%</td>
+                        
+                        
+                        <td class="text-right acc-low">60.6%</td>
+                        
+                        
+                        <td class="text-right acc-mid">71.7%</td>
+                        
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>Jpeg Artifacts</td>
+                        
+                        
+                        <td class="text-right acc-low">46.5%</td>
+                        
+                        
+                        <td class="text-right acc-mid">76.8%</td>
+                        
+                        
+                        <td class="text-right acc-mid">85.9%</td>
+                        
+                        
+                        <td class="text-right acc-low">60.6%</td>
+                        
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>Brightness Contrast</td>
+                        
+                        
+                        <td class="text-right acc-low">37.4%</td>
+                        
+                        
+                        <td class="text-right acc-high">90.9%</td>
+                        
+                        
+                        <td class="text-right acc-low">60.6%</td>
+                        
+                        
+                        <td class="text-right acc-low">67.7%</td>
+                        
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>Skew</td>
+                        
+                        
+                        <td class="text-right acc-low">31.3%</td>
+                        
+                        
+                        <td class="text-right acc-mid">85.9%</td>
+                        
+                        
+                        <td class="text-right acc-low">69.7%</td>
                         
                         
                         <td class="text-right acc-low">64.6%</td>
@@ -518,7 +694,13 @@
                         <td>Perspective Warp</td>
                         
                         
+                        <td class="text-right acc-low">50.5%</td>
+                        
+                        
                         <td class="text-right acc-mid">75.8%</td>
+                        
+                        
+                        <td class="text-right acc-low">61.6%</td>
                         
                         
                         <td class="text-right acc-low">63.6%</td>
@@ -527,22 +709,16 @@
                     
                     
                     <tr>
-                        <td>Jpeg Artifacts</td>
-                        
-                        
-                        <td class="text-right acc-mid">76.8%</td>
-                        
-                        
-                        <td class="text-right acc-low">60.6%</td>
-                        
-                    </tr>
-                    
-                    
-                    <tr>
                         <td>Salt Pepper Noise</td>
                         
                         
+                        <td class="text-right acc-low">40.4%</td>
+                        
+                        
                         <td class="text-right acc-mid">71.7%</td>
+                        
+                        
+                        <td class="text-right acc-mid">76.8%</td>
                         
                         
                         <td class="text-right acc-low">54.5%</td>
@@ -554,7 +730,13 @@
                         <td>Low Dpi</td>
                         
                         
+                        <td class="text-right acc-low">31.3%</td>
+                        
+                        
                         <td class="text-right acc-low">30.3%</td>
+                        
+                        
+                        <td class="text-right acc-low">57.6%</td>
                         
                         
                         <td class="text-right acc-low">28.3%</td>
@@ -566,7 +748,13 @@
                         <td>Motion Blur</td>
                         
                         
+                        <td class="text-right acc-low">23.2%</td>
+                        
+                        
                         <td class="text-right acc-low">30.3%</td>
+                        
+                        
+                        <td class="text-right acc-low">36.4%</td>
                         
                         
                         <td class="text-right acc-low">17.2%</td>
@@ -582,10 +770,10 @@
 
 <script>
 // ---- Data from Jinja ----
-const models = [{"avg_confidence": 0.834, "avg_time": 6.231, "by_effect": {"band_stretch": {"avg_accuracy": 0.772, "avg_extraction_accuracy": 0.848, "avg_field_accuracy": 0.657, "avg_items_f1": 0.904, "avg_overall_accuracy": 0.772, "avg_schema_accuracy": 0.657, "count": 9, "max_extraction": 0.909, "max_schema": 0.727, "min_extraction": 0.818, "min_schema": 0.545}, "bleed_through": {"avg_accuracy": 0.776, "avg_extraction_accuracy": 0.889, "avg_field_accuracy": 0.606, "avg_items_f1": 0.958, "avg_overall_accuracy": 0.776, "avg_schema_accuracy": 0.606, "count": 9, "max_extraction": 1.0, "max_schema": 0.727, "min_extraction": 0.818, "min_schema": 0.455}, "brightness_contrast": {"avg_accuracy": 0.768, "avg_extraction_accuracy": 0.909, "avg_field_accuracy": 0.556, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.768, "avg_schema_accuracy": 0.556, "count": 9, "max_extraction": 1.0, "max_schema": 0.636, "min_extraction": 0.818, "min_schema": 0.455}, "coffee_stains": {"avg_accuracy": 0.834, "avg_extraction_accuracy": 0.98, "avg_field_accuracy": 0.616, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.834, "avg_schema_accuracy": 0.616, "count": 9, "max_extraction": 1.0, "max_schema": 0.727, "min_extraction": 0.909, "min_schema": 0.545}, "edge_blur": {"avg_accuracy": 0.808, "avg_extraction_accuracy": 0.929, "avg_field_accuracy": 0.626, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.808, "avg_schema_accuracy": 0.626, "count": 9, "max_extraction": 1.0, "max_schema": 0.727, "min_extraction": 0.818, "min_schema": 0.545}, "fold_lines": {"avg_accuracy": 0.881, "avg_extraction_accuracy": 0.99, "avg_field_accuracy": 0.717, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.881, "avg_schema_accuracy": 0.717, "count": 9, "max_extraction": 1.0, "max_schema": 0.818, "min_extraction": 0.909, "min_schema": 0.545}, "gaussian_noise": {"avg_accuracy": 0.873, "avg_extraction_accuracy": 0.99, "avg_field_accuracy": 0.697, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.873, "avg_schema_accuracy": 0.697, "count": 9, "max_extraction": 1.0, "max_schema": 0.818, "min_extraction": 0.909, "min_schema": 0.545}, "handwritten_annotations": {"avg_accuracy": 0.766, "avg_extraction_accuracy": 0.919, "avg_field_accuracy": 0.535, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.766, "avg_schema_accuracy": 0.535, "count": 9, "max_extraction": 1.0, "max_schema": 0.636, "min_extraction": 0.727, "min_schema": 0.364}, "hole_punches": {"avg_accuracy": 0.824, "avg_extraction_accuracy": 0.97, "avg_field_accuracy": 0.606, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.824, "avg_schema_accuracy": 0.606, "count": 9, "max_extraction": 1.0, "max_schema": 0.727, "min_extraction": 0.818, "min_schema": 0.455}, "jpeg_artifacts": {"avg_accuracy": 0.687, "avg_extraction_accuracy": 0.768, "avg_field_accuracy": 0.566, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.687, "avg_schema_accuracy": 0.566, "count": 9, "max_extraction": 0.909, "max_schema": 0.636, "min_extraction": 0.636, "min_schema": 0.455}, "low_dpi": {"avg_accuracy": 0.267, "avg_extraction_accuracy": 0.303, "avg_field_accuracy": 0.212, "avg_items_f1": 0.267, "avg_overall_accuracy": 0.267, "avg_schema_accuracy": 0.212, "count": 9, "max_extraction": 0.364, "max_schema": 0.273, "min_extraction": 0.273, "min_schema": 0.091}, "moire_patterns": {"avg_accuracy": 0.897, "avg_extraction_accuracy": 0.99, "avg_field_accuracy": 0.758, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.897, "avg_schema_accuracy": 0.758, "count": 9, "max_extraction": 1.0, "max_schema": 0.818, "min_extraction": 0.909, "min_schema": 0.727}, "motion_blur": {"avg_accuracy": 0.291, "avg_extraction_accuracy": 0.303, "avg_field_accuracy": 0.273, "avg_items_f1": 0.022, "avg_overall_accuracy": 0.291, "avg_schema_accuracy": 0.273, "count": 9, "max_extraction": 0.364, "max_schema": 0.364, "min_extraction": 0.182, "min_schema": 0.182}, "none": {"avg_accuracy": 0.817, "avg_extraction_accuracy": 0.925, "avg_field_accuracy": 0.655, "avg_items_f1": 0.98, "avg_overall_accuracy": 0.817, "avg_schema_accuracy": 0.655, "count": 252, "max_extraction": 1.0, "max_schema": 1.0, "min_extraction": 0.545, "min_schema": 0.182}, "page_curl": {"avg_accuracy": 0.836, "avg_extraction_accuracy": 0.949, "avg_field_accuracy": 0.667, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.836, "avg_schema_accuracy": 0.667, "count": 9, "max_extraction": 1.0, "max_schema": 0.727, "min_extraction": 0.909, "min_schema": 0.636}, "patch_blur": {"avg_accuracy": 0.828, "avg_extraction_accuracy": 0.949, "avg_field_accuracy": 0.646, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.828, "avg_schema_accuracy": 0.646, "count": 9, "max_extraction": 1.0, "max_schema": 0.727, "min_extraction": 0.818, "min_schema": 0.636}, "perspective_warp": {"avg_accuracy": 0.677, "avg_extraction_accuracy": 0.758, "avg_field_accuracy": 0.556, "avg_items_f1": 0.978, "avg_overall_accuracy": 0.677, "avg_schema_accuracy": 0.556, "count": 9, "max_extraction": 0.909, "max_schema": 0.636, "min_extraction": 0.636, "min_schema": 0.455}, "salt_pepper_noise": {"avg_accuracy": 0.624, "avg_extraction_accuracy": 0.717, "avg_field_accuracy": 0.485, "avg_items_f1": 0.914, "avg_overall_accuracy": 0.624, "avg_schema_accuracy": 0.485, "count": 9, "max_extraction": 0.818, "max_schema": 0.545, "min_extraction": 0.636, "min_schema": 0.364}, "show_through": {"avg_accuracy": 0.855, "avg_extraction_accuracy": 0.98, "avg_field_accuracy": 0.667, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.855, "avg_schema_accuracy": 0.667, "count": 9, "max_extraction": 1.0, "max_schema": 0.727, "min_extraction": 0.909, "min_schema": 0.545}, "skew": {"avg_accuracy": 0.721, "avg_extraction_accuracy": 0.859, "avg_field_accuracy": 0.515, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.721, "avg_schema_accuracy": 0.515, "count": 9, "max_extraction": 1.0, "max_schema": 0.636, "min_extraction": 0.727, "min_schema": 0.455}, "stamps": {"avg_accuracy": 0.784, "avg_extraction_accuracy": 0.929, "avg_field_accuracy": 0.566, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.784, "avg_schema_accuracy": 0.566, "count": 9, "max_extraction": 1.0, "max_schema": 0.636, "min_extraction": 0.727, "min_schema": 0.545}, "thermal_fade": {"avg_accuracy": 0.796, "avg_extraction_accuracy": 0.909, "avg_field_accuracy": 0.626, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.796, "avg_schema_accuracy": 0.626, "count": 9, "max_extraction": 0.909, "max_schema": 0.727, "min_extraction": 0.909, "min_schema": 0.455}, "uneven_lighting": {"avg_accuracy": 0.812, "avg_extraction_accuracy": 0.929, "avg_field_accuracy": 0.636, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.812, "avg_schema_accuracy": 0.636, "count": 9, "max_extraction": 1.0, "max_schema": 0.727, "min_extraction": 0.818, "min_schema": 0.455}, "watermark": {"avg_accuracy": 0.855, "avg_extraction_accuracy": 0.98, "avg_field_accuracy": 0.667, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.855, "avg_schema_accuracy": 0.667, "count": 9, "max_extraction": 1.0, "max_schema": 0.727, "min_extraction": 0.909, "min_schema": 0.545}, "wrinkles_crumples": {"avg_accuracy": 0.802, "avg_extraction_accuracy": 0.899, "avg_field_accuracy": 0.657, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.802, "avg_schema_accuracy": 0.657, "count": 9, "max_extraction": 1.0, "max_schema": 0.727, "min_extraction": 0.727, "min_schema": 0.545}}, "by_format": {"jpeg": {"avg_accuracy": 0.785, "avg_extraction_accuracy": 0.894, "avg_field_accuracy": 0.621, "avg_items_f1": 0.949, "avg_overall_accuracy": 0.785, "avg_schema_accuracy": 0.621, "count": 156, "max_extraction": 1.0, "max_schema": 1.0, "min_extraction": 0.182, "min_schema": 0.091}, "pdf": {"avg_accuracy": 0.789, "avg_extraction_accuracy": 0.895, "avg_field_accuracy": 0.632, "avg_items_f1": 0.959, "avg_overall_accuracy": 0.789, "avg_schema_accuracy": 0.632, "count": 156, "max_extraction": 1.0, "max_schema": 0.909, "min_extraction": 0.182, "min_schema": 0.091}, "png": {"avg_accuracy": 0.786, "avg_extraction_accuracy": 0.896, "avg_field_accuracy": 0.619, "avg_items_f1": 0.947, "avg_overall_accuracy": 0.786, "avg_schema_accuracy": 0.619, "count": 156, "max_extraction": 1.0, "max_schema": 1.0, "min_extraction": 0.182, "min_schema": 0.091}}, "color": "#3b82f6", "cost_per_page": 0.002, "display_name": "Azure Document Intelligence", "extraction_accuracy": 0.895, "is_best_extraction": true, "name": "document_intelligence", "throughput": 9.629, "total_cost": 0.714, "total_documents": 468}, {"avg_confidence": 0.957, "avg_time": 3.025, "by_effect": {"band_stretch": {"avg_accuracy": 0.521, "avg_extraction_accuracy": 0.747, "avg_field_accuracy": 0.182, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.521, "avg_schema_accuracy": 0.182, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.636, "min_schema": 0.182}, "bleed_through": {"avg_accuracy": 0.503, "avg_extraction_accuracy": 0.717, "avg_field_accuracy": 0.182, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.503, "avg_schema_accuracy": 0.182, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.545, "min_schema": 0.182}, "brightness_contrast": {"avg_accuracy": 0.442, "avg_extraction_accuracy": 0.677, "avg_field_accuracy": 0.091, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.442, "avg_schema_accuracy": 0.091, "count": 9, "max_extraction": 0.818, "max_schema": 0.091, "min_extraction": 0.364, "min_schema": 0.091}, "coffee_stains": {"avg_accuracy": 0.521, "avg_extraction_accuracy": 0.768, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.521, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.636, "min_schema": 0.091}, "edge_blur": {"avg_accuracy": 0.479, "avg_extraction_accuracy": 0.717, "avg_field_accuracy": 0.121, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.479, "avg_schema_accuracy": 0.121, "count": 9, "max_extraction": 1.0, "max_schema": 0.182, "min_extraction": 0.273, "min_schema": 0.091}, "fold_lines": {"avg_accuracy": 0.515, "avg_extraction_accuracy": 0.758, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.515, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.545, "min_schema": 0.091}, "gaussian_noise": {"avg_accuracy": 0.491, "avg_extraction_accuracy": 0.717, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.491, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.636, "min_schema": 0.091}, "handwritten_annotations": {"avg_accuracy": 0.467, "avg_extraction_accuracy": 0.717, "avg_field_accuracy": 0.091, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.467, "avg_schema_accuracy": 0.091, "count": 9, "max_extraction": 0.818, "max_schema": 0.091, "min_extraction": 0.455, "min_schema": 0.091}, "hole_punches": {"avg_accuracy": 0.503, "avg_extraction_accuracy": 0.758, "avg_field_accuracy": 0.121, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.503, "avg_schema_accuracy": 0.121, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.545, "min_schema": 0.091}, "jpeg_artifacts": {"avg_accuracy": 0.436, "avg_extraction_accuracy": 0.606, "avg_field_accuracy": 0.182, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.436, "avg_schema_accuracy": 0.182, "count": 9, "max_extraction": 0.636, "max_schema": 0.182, "min_extraction": 0.545, "min_schema": 0.182}, "low_dpi": {"avg_accuracy": 0.23, "avg_extraction_accuracy": 0.283, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.23, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.364, "max_schema": 0.182, "min_extraction": 0.182, "min_schema": 0.091}, "moire_patterns": {"avg_accuracy": 0.527, "avg_extraction_accuracy": 0.758, "avg_field_accuracy": 0.182, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.527, "avg_schema_accuracy": 0.182, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.545, "min_schema": 0.182}, "motion_blur": {"avg_accuracy": 0.164, "avg_extraction_accuracy": 0.172, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.164, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.273, "max_schema": 0.182, "min_extraction": 0.091, "min_schema": 0.091}, "none": {"avg_accuracy": 0.488, "avg_extraction_accuracy": 0.716, "avg_field_accuracy": 0.146, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.488, "avg_schema_accuracy": 0.146, "count": 252, "max_extraction": 1.0, "max_schema": 0.182, "min_extraction": 0.182, "min_schema": 0.091}, "page_curl": {"avg_accuracy": 0.527, "avg_extraction_accuracy": 0.758, "avg_field_accuracy": 0.182, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.527, "avg_schema_accuracy": 0.182, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.636, "min_schema": 0.182}, "patch_blur": {"avg_accuracy": 0.521, "avg_extraction_accuracy": 0.768, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.521, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.636, "min_schema": 0.091}, "perspective_warp": {"avg_accuracy": 0.43, "avg_extraction_accuracy": 0.636, "avg_field_accuracy": 0.121, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.43, "avg_schema_accuracy": 0.121, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.455, "min_schema": 0.091}, "salt_pepper_noise": {"avg_accuracy": 0.388, "avg_extraction_accuracy": 0.545, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.388, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.727, "max_schema": 0.182, "min_extraction": 0.364, "min_schema": 0.091}, "show_through": {"avg_accuracy": 0.509, "avg_extraction_accuracy": 0.747, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.509, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.636, "min_schema": 0.091}, "skew": {"avg_accuracy": 0.448, "avg_extraction_accuracy": 0.646, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.448, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.455, "min_schema": 0.091}, "stamps": {"avg_accuracy": 0.479, "avg_extraction_accuracy": 0.737, "avg_field_accuracy": 0.091, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.479, "avg_schema_accuracy": 0.091, "count": 9, "max_extraction": 0.818, "max_schema": 0.091, "min_extraction": 0.455, "min_schema": 0.091}, "thermal_fade": {"avg_accuracy": 0.497, "avg_extraction_accuracy": 0.727, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.497, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.455, "min_schema": 0.091}, "uneven_lighting": {"avg_accuracy": 0.412, "avg_extraction_accuracy": 0.606, "avg_field_accuracy": 0.121, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.412, "avg_schema_accuracy": 0.121, "count": 9, "max_extraction": 0.727, "max_schema": 0.182, "min_extraction": 0.455, "min_schema": 0.091}, "watermark": {"avg_accuracy": 0.515, "avg_extraction_accuracy": 0.758, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.515, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.545, "min_schema": 0.091}, "wrinkles_crumples": {"avg_accuracy": 0.485, "avg_extraction_accuracy": 0.707, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.485, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.545, "min_schema": 0.091}}, "by_format": {"jpeg": {"avg_accuracy": 0.405, "avg_extraction_accuracy": 0.578, "avg_field_accuracy": 0.146, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.405, "avg_schema_accuracy": 0.146, "count": 156, "max_extraction": 0.909, "max_schema": 0.182, "min_extraction": 0.091, "min_schema": 0.091}, "pdf": {"avg_accuracy": 0.511, "avg_extraction_accuracy": 0.755, "avg_field_accuracy": 0.146, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.511, "avg_schema_accuracy": 0.146, "count": 156, "max_extraction": 1.0, "max_schema": 0.182, "min_extraction": 0.182, "min_schema": 0.091}, "png": {"avg_accuracy": 0.508, "avg_extraction_accuracy": 0.749, "avg_field_accuracy": 0.146, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.508, "avg_schema_accuracy": 0.146, "count": 156, "max_extraction": 1.0, "max_schema": 0.182, "min_extraction": 0.091, "min_schema": 0.091}}, "color": "#22c55e", "cost_per_page": 0.0, "display_name": "PaddleOCR", "extraction_accuracy": 0.694, "is_best_extraction": false, "name": "paddle_ocr", "throughput": 19.833, "total_cost": 0.0, "total_documents": 468}];
-const effectChart = {"datasets": [{"color": "#3b82f6", "data": [99.0, 98.0, 99.0, 98.0, 97.0, 98.0, 94.9, 94.9, 99.0, 92.9, 92.9, 92.5, 90.9, 91.9, 88.9, 89.9, 84.8, 90.9, 92.9, 85.9, 75.8, 76.8, 71.7, 30.3, 30.3], "label": "Azure Document Intelligence"}, {"color": "#22c55e", "data": [75.8, 76.8, 75.8, 75.8, 75.8, 74.7, 76.8, 75.8, 71.7, 73.7, 71.7, 71.6, 72.7, 71.7, 71.7, 70.7, 74.7, 67.7, 60.6, 64.6, 63.6, 60.6, 54.5, 28.3, 17.2], "label": "PaddleOCR"}], "labels": ["Fold Lines", "Coffee Stains", "Moire Patterns", "Watermark", "Hole Punches", "Show Through", "Patch Blur", "Page Curl", "Gaussian Noise", "Stamps", "Edge Blur", "None", "Thermal Fade", "Handwritten Annotations", "Bleed Through", "Wrinkles Crumples", "Band Stretch", "Brightness Contrast", "Uneven Lighting", "Skew", "Perspective Warp", "Jpeg Artifacts", "Salt Pepper Noise", "Low Dpi", "Motion Blur"]};
-const formatChart = {"datasets": [{"color": "#3b82f6", "data": [89.4, 89.5, 89.6], "label": "Azure Document Intelligence"}, {"color": "#22c55e", "data": [57.8, 75.5, 74.9], "label": "PaddleOCR"}], "labels": ["JPEG", "PDF", "PNG"]};
-const languageChart = {"datasets": [{"color": "#3b82f6", "data": [69.7, 96.0, 89.0, 100.0, 92.9, 93.9, 97.0, 97.0], "label": "Azure Document Intelligence"}, {"color": "#22c55e", "data": [42.5, 57.6, 70.7, 77.8, 58.6, 55.5, 65.6, 67.7], "label": "PaddleOCR"}], "labels": ["Arabic", "Chinese", "English", "French", "Hungarian", "Japanese", "Portuguese", "Spanish"]};
+const models = [{"avg_confidence": 0.0, "avg_time": 21.357, "by_effect": {"band_stretch": {"avg_accuracy": 0.321, "avg_extraction_accuracy": 0.414, "avg_field_accuracy": 0.182, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.321, "avg_schema_accuracy": 0.182, "count": 9, "max_extraction": 0.636, "max_schema": 0.182, "min_extraction": 0.182, "min_schema": 0.182}, "bleed_through": {"avg_accuracy": 0.279, "avg_extraction_accuracy": 0.343, "avg_field_accuracy": 0.182, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.279, "avg_schema_accuracy": 0.182, "count": 9, "max_extraction": 0.636, "max_schema": 0.182, "min_extraction": 0.182, "min_schema": 0.182}, "brightness_contrast": {"avg_accuracy": 0.261, "avg_extraction_accuracy": 0.374, "avg_field_accuracy": 0.091, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.261, "avg_schema_accuracy": 0.091, "count": 9, "max_extraction": 0.636, "max_schema": 0.091, "min_extraction": 0.091, "min_schema": 0.091}, "coffee_stains": {"avg_accuracy": 0.406, "avg_extraction_accuracy": 0.576, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.406, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.091, "min_schema": 0.091}, "edge_blur": {"avg_accuracy": 0.333, "avg_extraction_accuracy": 0.475, "avg_field_accuracy": 0.121, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.333, "avg_schema_accuracy": 0.121, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.091, "min_schema": 0.091}, "fold_lines": {"avg_accuracy": 0.388, "avg_extraction_accuracy": 0.545, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.388, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.091, "min_schema": 0.091}, "gaussian_noise": {"avg_accuracy": 0.4, "avg_extraction_accuracy": 0.566, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.4, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.909, "max_schema": 0.182, "min_extraction": 0.091, "min_schema": 0.091}, "handwritten_annotations": {"avg_accuracy": 0.327, "avg_extraction_accuracy": 0.485, "avg_field_accuracy": 0.091, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.327, "avg_schema_accuracy": 0.091, "count": 9, "max_extraction": 0.818, "max_schema": 0.091, "min_extraction": 0.091, "min_schema": 0.091}, "hole_punches": {"avg_accuracy": 0.37, "avg_extraction_accuracy": 0.535, "avg_field_accuracy": 0.121, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.37, "avg_schema_accuracy": 0.121, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.091, "min_schema": 0.091}, "jpeg_artifacts": {"avg_accuracy": 0.352, "avg_extraction_accuracy": 0.465, "avg_field_accuracy": 0.182, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.352, "avg_schema_accuracy": 0.182, "count": 9, "max_extraction": 0.727, "max_schema": 0.182, "min_extraction": 0.182, "min_schema": 0.182}, "low_dpi": {"avg_accuracy": 0.248, "avg_extraction_accuracy": 0.313, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.248, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.545, "max_schema": 0.182, "min_extraction": 0.091, "min_schema": 0.091}, "moire_patterns": {"avg_accuracy": 0.37, "avg_extraction_accuracy": 0.495, "avg_field_accuracy": 0.182, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.37, "avg_schema_accuracy": 0.182, "count": 9, "max_extraction": 0.727, "max_schema": 0.182, "min_extraction": 0.182, "min_schema": 0.182}, "motion_blur": {"avg_accuracy": 0.2, "avg_extraction_accuracy": 0.232, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.2, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.364, "max_schema": 0.182, "min_extraction": 0.091, "min_schema": 0.091}, "none": {"avg_accuracy": 0.385, "avg_extraction_accuracy": 0.544, "avg_field_accuracy": 0.146, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.385, "avg_schema_accuracy": 0.146, "count": 252, "max_extraction": 1.0, "max_schema": 0.182, "min_extraction": 0.091, "min_schema": 0.091}, "page_curl": {"avg_accuracy": 0.394, "avg_extraction_accuracy": 0.535, "avg_field_accuracy": 0.182, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.394, "avg_schema_accuracy": 0.182, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.182, "min_schema": 0.182}, "patch_blur": {"avg_accuracy": 0.394, "avg_extraction_accuracy": 0.556, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.394, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.091, "min_schema": 0.091}, "perspective_warp": {"avg_accuracy": 0.352, "avg_extraction_accuracy": 0.505, "avg_field_accuracy": 0.121, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.352, "avg_schema_accuracy": 0.121, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.091, "min_schema": 0.091}, "salt_pepper_noise": {"avg_accuracy": 0.303, "avg_extraction_accuracy": 0.404, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.303, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.091, "min_schema": 0.091}, "show_through": {"avg_accuracy": 0.406, "avg_extraction_accuracy": 0.576, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.406, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.091, "min_schema": 0.091}, "skew": {"avg_accuracy": 0.248, "avg_extraction_accuracy": 0.313, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.248, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.545, "max_schema": 0.182, "min_extraction": 0.091, "min_schema": 0.091}, "stamps": {"avg_accuracy": 0.291, "avg_extraction_accuracy": 0.424, "avg_field_accuracy": 0.091, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.291, "avg_schema_accuracy": 0.091, "count": 9, "max_extraction": 0.727, "max_schema": 0.091, "min_extraction": 0.091, "min_schema": 0.091}, "thermal_fade": {"avg_accuracy": 0.406, "avg_extraction_accuracy": 0.576, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.406, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.091, "min_schema": 0.091}, "uneven_lighting": {"avg_accuracy": 0.333, "avg_extraction_accuracy": 0.475, "avg_field_accuracy": 0.121, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.333, "avg_schema_accuracy": 0.121, "count": 9, "max_extraction": 0.727, "max_schema": 0.182, "min_extraction": 0.091, "min_schema": 0.091}, "watermark": {"avg_accuracy": 0.382, "avg_extraction_accuracy": 0.535, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.382, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.091, "min_schema": 0.091}, "wrinkles_crumples": {"avg_accuracy": 0.376, "avg_extraction_accuracy": 0.525, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.376, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.091, "min_schema": 0.091}}, "by_format": {"jpeg": {"avg_accuracy": 0.474, "avg_extraction_accuracy": 0.692, "avg_field_accuracy": 0.146, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.474, "avg_schema_accuracy": 0.146, "count": 156, "max_extraction": 1.0, "max_schema": 0.182, "min_extraction": 0.182, "min_schema": 0.091}, "pdf": {"avg_accuracy": 0.146, "avg_extraction_accuracy": 0.146, "avg_field_accuracy": 0.146, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.146, "avg_schema_accuracy": 0.146, "count": 156, "max_extraction": 0.182, "max_schema": 0.182, "min_extraction": 0.091, "min_schema": 0.091}, "png": {"avg_accuracy": 0.472, "avg_extraction_accuracy": 0.689, "avg_field_accuracy": 0.146, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.472, "avg_schema_accuracy": 0.146, "count": 156, "max_extraction": 1.0, "max_schema": 0.182, "min_extraction": 0.182, "min_schema": 0.091}}, "color": "#6366f1", "cost_per_page": 0.0, "display_name": "Deepseek Ocr2", "extraction_accuracy": 0.509, "is_best_extraction": false, "name": "deepseek_ocr2", "throughput": 2.809, "total_cost": 0.0, "total_documents": 468}, {"avg_confidence": 0.834, "avg_time": 6.231, "by_effect": {"band_stretch": {"avg_accuracy": 0.772, "avg_extraction_accuracy": 0.848, "avg_field_accuracy": 0.657, "avg_items_f1": 0.904, "avg_overall_accuracy": 0.772, "avg_schema_accuracy": 0.657, "count": 9, "max_extraction": 0.909, "max_schema": 0.727, "min_extraction": 0.818, "min_schema": 0.545}, "bleed_through": {"avg_accuracy": 0.776, "avg_extraction_accuracy": 0.889, "avg_field_accuracy": 0.606, "avg_items_f1": 0.958, "avg_overall_accuracy": 0.776, "avg_schema_accuracy": 0.606, "count": 9, "max_extraction": 1.0, "max_schema": 0.727, "min_extraction": 0.818, "min_schema": 0.455}, "brightness_contrast": {"avg_accuracy": 0.768, "avg_extraction_accuracy": 0.909, "avg_field_accuracy": 0.556, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.768, "avg_schema_accuracy": 0.556, "count": 9, "max_extraction": 1.0, "max_schema": 0.636, "min_extraction": 0.818, "min_schema": 0.455}, "coffee_stains": {"avg_accuracy": 0.834, "avg_extraction_accuracy": 0.98, "avg_field_accuracy": 0.616, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.834, "avg_schema_accuracy": 0.616, "count": 9, "max_extraction": 1.0, "max_schema": 0.727, "min_extraction": 0.909, "min_schema": 0.545}, "edge_blur": {"avg_accuracy": 0.808, "avg_extraction_accuracy": 0.929, "avg_field_accuracy": 0.626, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.808, "avg_schema_accuracy": 0.626, "count": 9, "max_extraction": 1.0, "max_schema": 0.727, "min_extraction": 0.818, "min_schema": 0.545}, "fold_lines": {"avg_accuracy": 0.881, "avg_extraction_accuracy": 0.99, "avg_field_accuracy": 0.717, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.881, "avg_schema_accuracy": 0.717, "count": 9, "max_extraction": 1.0, "max_schema": 0.818, "min_extraction": 0.909, "min_schema": 0.545}, "gaussian_noise": {"avg_accuracy": 0.873, "avg_extraction_accuracy": 0.99, "avg_field_accuracy": 0.697, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.873, "avg_schema_accuracy": 0.697, "count": 9, "max_extraction": 1.0, "max_schema": 0.818, "min_extraction": 0.909, "min_schema": 0.545}, "handwritten_annotations": {"avg_accuracy": 0.766, "avg_extraction_accuracy": 0.919, "avg_field_accuracy": 0.535, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.766, "avg_schema_accuracy": 0.535, "count": 9, "max_extraction": 1.0, "max_schema": 0.636, "min_extraction": 0.727, "min_schema": 0.364}, "hole_punches": {"avg_accuracy": 0.824, "avg_extraction_accuracy": 0.97, "avg_field_accuracy": 0.606, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.824, "avg_schema_accuracy": 0.606, "count": 9, "max_extraction": 1.0, "max_schema": 0.727, "min_extraction": 0.818, "min_schema": 0.455}, "jpeg_artifacts": {"avg_accuracy": 0.687, "avg_extraction_accuracy": 0.768, "avg_field_accuracy": 0.566, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.687, "avg_schema_accuracy": 0.566, "count": 9, "max_extraction": 0.909, "max_schema": 0.636, "min_extraction": 0.636, "min_schema": 0.455}, "low_dpi": {"avg_accuracy": 0.267, "avg_extraction_accuracy": 0.303, "avg_field_accuracy": 0.212, "avg_items_f1": 0.267, "avg_overall_accuracy": 0.267, "avg_schema_accuracy": 0.212, "count": 9, "max_extraction": 0.364, "max_schema": 0.273, "min_extraction": 0.273, "min_schema": 0.091}, "moire_patterns": {"avg_accuracy": 0.897, "avg_extraction_accuracy": 0.99, "avg_field_accuracy": 0.758, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.897, "avg_schema_accuracy": 0.758, "count": 9, "max_extraction": 1.0, "max_schema": 0.818, "min_extraction": 0.909, "min_schema": 0.727}, "motion_blur": {"avg_accuracy": 0.291, "avg_extraction_accuracy": 0.303, "avg_field_accuracy": 0.273, "avg_items_f1": 0.022, "avg_overall_accuracy": 0.291, "avg_schema_accuracy": 0.273, "count": 9, "max_extraction": 0.364, "max_schema": 0.364, "min_extraction": 0.182, "min_schema": 0.182}, "none": {"avg_accuracy": 0.817, "avg_extraction_accuracy": 0.925, "avg_field_accuracy": 0.655, "avg_items_f1": 0.98, "avg_overall_accuracy": 0.817, "avg_schema_accuracy": 0.655, "count": 252, "max_extraction": 1.0, "max_schema": 1.0, "min_extraction": 0.545, "min_schema": 0.182}, "page_curl": {"avg_accuracy": 0.836, "avg_extraction_accuracy": 0.949, "avg_field_accuracy": 0.667, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.836, "avg_schema_accuracy": 0.667, "count": 9, "max_extraction": 1.0, "max_schema": 0.727, "min_extraction": 0.909, "min_schema": 0.636}, "patch_blur": {"avg_accuracy": 0.828, "avg_extraction_accuracy": 0.949, "avg_field_accuracy": 0.646, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.828, "avg_schema_accuracy": 0.646, "count": 9, "max_extraction": 1.0, "max_schema": 0.727, "min_extraction": 0.818, "min_schema": 0.636}, "perspective_warp": {"avg_accuracy": 0.677, "avg_extraction_accuracy": 0.758, "avg_field_accuracy": 0.556, "avg_items_f1": 0.978, "avg_overall_accuracy": 0.677, "avg_schema_accuracy": 0.556, "count": 9, "max_extraction": 0.909, "max_schema": 0.636, "min_extraction": 0.636, "min_schema": 0.455}, "salt_pepper_noise": {"avg_accuracy": 0.624, "avg_extraction_accuracy": 0.717, "avg_field_accuracy": 0.485, "avg_items_f1": 0.914, "avg_overall_accuracy": 0.624, "avg_schema_accuracy": 0.485, "count": 9, "max_extraction": 0.818, "max_schema": 0.545, "min_extraction": 0.636, "min_schema": 0.364}, "show_through": {"avg_accuracy": 0.855, "avg_extraction_accuracy": 0.98, "avg_field_accuracy": 0.667, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.855, "avg_schema_accuracy": 0.667, "count": 9, "max_extraction": 1.0, "max_schema": 0.727, "min_extraction": 0.909, "min_schema": 0.545}, "skew": {"avg_accuracy": 0.721, "avg_extraction_accuracy": 0.859, "avg_field_accuracy": 0.515, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.721, "avg_schema_accuracy": 0.515, "count": 9, "max_extraction": 1.0, "max_schema": 0.636, "min_extraction": 0.727, "min_schema": 0.455}, "stamps": {"avg_accuracy": 0.784, "avg_extraction_accuracy": 0.929, "avg_field_accuracy": 0.566, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.784, "avg_schema_accuracy": 0.566, "count": 9, "max_extraction": 1.0, "max_schema": 0.636, "min_extraction": 0.727, "min_schema": 0.545}, "thermal_fade": {"avg_accuracy": 0.796, "avg_extraction_accuracy": 0.909, "avg_field_accuracy": 0.626, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.796, "avg_schema_accuracy": 0.626, "count": 9, "max_extraction": 0.909, "max_schema": 0.727, "min_extraction": 0.909, "min_schema": 0.455}, "uneven_lighting": {"avg_accuracy": 0.812, "avg_extraction_accuracy": 0.929, "avg_field_accuracy": 0.636, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.812, "avg_schema_accuracy": 0.636, "count": 9, "max_extraction": 1.0, "max_schema": 0.727, "min_extraction": 0.818, "min_schema": 0.455}, "watermark": {"avg_accuracy": 0.855, "avg_extraction_accuracy": 0.98, "avg_field_accuracy": 0.667, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.855, "avg_schema_accuracy": 0.667, "count": 9, "max_extraction": 1.0, "max_schema": 0.727, "min_extraction": 0.909, "min_schema": 0.545}, "wrinkles_crumples": {"avg_accuracy": 0.802, "avg_extraction_accuracy": 0.899, "avg_field_accuracy": 0.657, "avg_items_f1": 1.0, "avg_overall_accuracy": 0.802, "avg_schema_accuracy": 0.657, "count": 9, "max_extraction": 1.0, "max_schema": 0.727, "min_extraction": 0.727, "min_schema": 0.545}}, "by_format": {"jpeg": {"avg_accuracy": 0.785, "avg_extraction_accuracy": 0.894, "avg_field_accuracy": 0.621, "avg_items_f1": 0.949, "avg_overall_accuracy": 0.785, "avg_schema_accuracy": 0.621, "count": 156, "max_extraction": 1.0, "max_schema": 1.0, "min_extraction": 0.182, "min_schema": 0.091}, "pdf": {"avg_accuracy": 0.789, "avg_extraction_accuracy": 0.895, "avg_field_accuracy": 0.632, "avg_items_f1": 0.959, "avg_overall_accuracy": 0.789, "avg_schema_accuracy": 0.632, "count": 156, "max_extraction": 1.0, "max_schema": 0.909, "min_extraction": 0.182, "min_schema": 0.091}, "png": {"avg_accuracy": 0.786, "avg_extraction_accuracy": 0.896, "avg_field_accuracy": 0.619, "avg_items_f1": 0.947, "avg_overall_accuracy": 0.786, "avg_schema_accuracy": 0.619, "count": 156, "max_extraction": 1.0, "max_schema": 1.0, "min_extraction": 0.182, "min_schema": 0.091}}, "color": "#3b82f6", "cost_per_page": 0.002, "display_name": "Azure Document Intelligence", "extraction_accuracy": 0.895, "is_best_extraction": true, "name": "document_intelligence", "throughput": 9.629, "total_cost": 0.714, "total_documents": 468}, {"avg_confidence": 0.0, "avg_time": 43.635, "by_effect": {"band_stretch": {"avg_accuracy": 0.588, "avg_extraction_accuracy": 0.859, "avg_field_accuracy": 0.182, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.588, "avg_schema_accuracy": 0.182, "count": 9, "max_extraction": 0.909, "max_schema": 0.182, "min_extraction": 0.727, "min_schema": 0.182}, "bleed_through": {"avg_accuracy": 0.576, "avg_extraction_accuracy": 0.838, "avg_field_accuracy": 0.182, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.576, "avg_schema_accuracy": 0.182, "count": 9, "max_extraction": 1.0, "max_schema": 0.182, "min_extraction": 0.545, "min_schema": 0.182}, "brightness_contrast": {"avg_accuracy": 0.4, "avg_extraction_accuracy": 0.606, "avg_field_accuracy": 0.091, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.4, "avg_schema_accuracy": 0.091, "count": 9, "max_extraction": 0.818, "max_schema": 0.091, "min_extraction": 0.364, "min_schema": 0.091}, "coffee_stains": {"avg_accuracy": 0.582, "avg_extraction_accuracy": 0.869, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.582, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 1.0, "max_schema": 0.182, "min_extraction": 0.727, "min_schema": 0.091}, "edge_blur": {"avg_accuracy": 0.412, "avg_extraction_accuracy": 0.606, "avg_field_accuracy": 0.121, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.412, "avg_schema_accuracy": 0.121, "count": 9, "max_extraction": 0.909, "max_schema": 0.182, "min_extraction": 0.364, "min_schema": 0.091}, "fold_lines": {"avg_accuracy": 0.612, "avg_extraction_accuracy": 0.919, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.612, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 1.0, "max_schema": 0.182, "min_extraction": 0.727, "min_schema": 0.091}, "gaussian_noise": {"avg_accuracy": 0.57, "avg_extraction_accuracy": 0.848, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.57, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 1.0, "max_schema": 0.182, "min_extraction": 0.727, "min_schema": 0.091}, "handwritten_annotations": {"avg_accuracy": 0.588, "avg_extraction_accuracy": 0.919, "avg_field_accuracy": 0.091, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.588, "avg_schema_accuracy": 0.091, "count": 9, "max_extraction": 1.0, "max_schema": 0.091, "min_extraction": 0.727, "min_schema": 0.091}, "hole_punches": {"avg_accuracy": 0.624, "avg_extraction_accuracy": 0.96, "avg_field_accuracy": 0.121, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.624, "avg_schema_accuracy": 0.121, "count": 9, "max_extraction": 1.0, "max_schema": 0.182, "min_extraction": 0.818, "min_schema": 0.091}, "jpeg_artifacts": {"avg_accuracy": 0.588, "avg_extraction_accuracy": 0.859, "avg_field_accuracy": 0.182, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.588, "avg_schema_accuracy": 0.182, "count": 9, "max_extraction": 1.0, "max_schema": 0.182, "min_extraction": 0.636, "min_schema": 0.182}, "low_dpi": {"avg_accuracy": 0.406, "avg_extraction_accuracy": 0.576, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.406, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.909, "max_schema": 0.182, "min_extraction": 0.364, "min_schema": 0.091}, "moire_patterns": {"avg_accuracy": 0.612, "avg_extraction_accuracy": 0.899, "avg_field_accuracy": 0.182, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.612, "avg_schema_accuracy": 0.182, "count": 9, "max_extraction": 1.0, "max_schema": 0.182, "min_extraction": 0.636, "min_schema": 0.182}, "motion_blur": {"avg_accuracy": 0.279, "avg_extraction_accuracy": 0.364, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.279, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.636, "max_schema": 0.182, "min_extraction": 0.182, "min_schema": 0.091}, "none": {"avg_accuracy": 0.566, "avg_extraction_accuracy": 0.846, "avg_field_accuracy": 0.146, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.566, "avg_schema_accuracy": 0.146, "count": 252, "max_extraction": 1.0, "max_schema": 0.182, "min_extraction": 0.182, "min_schema": 0.091}, "page_curl": {"avg_accuracy": 0.618, "avg_extraction_accuracy": 0.909, "avg_field_accuracy": 0.182, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.618, "avg_schema_accuracy": 0.182, "count": 9, "max_extraction": 1.0, "max_schema": 0.182, "min_extraction": 0.636, "min_schema": 0.182}, "patch_blur": {"avg_accuracy": 0.588, "avg_extraction_accuracy": 0.879, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.588, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 1.0, "max_schema": 0.182, "min_extraction": 0.636, "min_schema": 0.091}, "perspective_warp": {"avg_accuracy": 0.418, "avg_extraction_accuracy": 0.616, "avg_field_accuracy": 0.121, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.418, "avg_schema_accuracy": 0.121, "count": 9, "max_extraction": 0.909, "max_schema": 0.182, "min_extraction": 0.273, "min_schema": 0.091}, "salt_pepper_noise": {"avg_accuracy": 0.521, "avg_extraction_accuracy": 0.768, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.521, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.909, "max_schema": 0.182, "min_extraction": 0.545, "min_schema": 0.091}, "show_through": {"avg_accuracy": 0.558, "avg_extraction_accuracy": 0.828, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.558, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.909, "max_schema": 0.182, "min_extraction": 0.636, "min_schema": 0.091}, "skew": {"avg_accuracy": 0.479, "avg_extraction_accuracy": 0.697, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.479, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.545, "min_schema": 0.091}, "stamps": {"avg_accuracy": 0.594, "avg_extraction_accuracy": 0.929, "avg_field_accuracy": 0.091, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.594, "avg_schema_accuracy": 0.091, "count": 9, "max_extraction": 1.0, "max_schema": 0.091, "min_extraction": 0.727, "min_schema": 0.091}, "thermal_fade": {"avg_accuracy": 0.545, "avg_extraction_accuracy": 0.808, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.545, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 1.0, "max_schema": 0.182, "min_extraction": 0.545, "min_schema": 0.091}, "uneven_lighting": {"avg_accuracy": 0.57, "avg_extraction_accuracy": 0.869, "avg_field_accuracy": 0.121, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.57, "avg_schema_accuracy": 0.121, "count": 9, "max_extraction": 1.0, "max_schema": 0.182, "min_extraction": 0.636, "min_schema": 0.091}, "watermark": {"avg_accuracy": 0.606, "avg_extraction_accuracy": 0.909, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.606, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 1.0, "max_schema": 0.182, "min_extraction": 0.636, "min_schema": 0.091}, "wrinkles_crumples": {"avg_accuracy": 0.515, "avg_extraction_accuracy": 0.758, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.515, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 1.0, "max_schema": 0.182, "min_extraction": 0.455, "min_schema": 0.091}}, "by_format": {"jpeg": {"avg_accuracy": 0.577, "avg_extraction_accuracy": 0.865, "avg_field_accuracy": 0.146, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.577, "avg_schema_accuracy": 0.146, "count": 156, "max_extraction": 1.0, "max_schema": 0.182, "min_extraction": 0.182, "min_schema": 0.091}, "pdf": {"avg_accuracy": 0.501, "avg_extraction_accuracy": 0.737, "avg_field_accuracy": 0.146, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.501, "avg_schema_accuracy": 0.146, "count": 156, "max_extraction": 1.0, "max_schema": 0.182, "min_extraction": 0.182, "min_schema": 0.091}, "png": {"avg_accuracy": 0.578, "avg_extraction_accuracy": 0.866, "avg_field_accuracy": 0.146, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.578, "avg_schema_accuracy": 0.146, "count": 156, "max_extraction": 1.0, "max_schema": 0.182, "min_extraction": 0.182, "min_schema": 0.091}}, "color": "#0ea5e9", "cost_per_page": 0.0, "display_name": "Glm Ocr", "extraction_accuracy": 0.823, "is_best_extraction": false, "name": "glm_ocr", "throughput": 1.375, "total_cost": 0.0, "total_documents": 468}, {"avg_confidence": 0.957, "avg_time": 3.025, "by_effect": {"band_stretch": {"avg_accuracy": 0.521, "avg_extraction_accuracy": 0.747, "avg_field_accuracy": 0.182, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.521, "avg_schema_accuracy": 0.182, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.636, "min_schema": 0.182}, "bleed_through": {"avg_accuracy": 0.503, "avg_extraction_accuracy": 0.717, "avg_field_accuracy": 0.182, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.503, "avg_schema_accuracy": 0.182, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.545, "min_schema": 0.182}, "brightness_contrast": {"avg_accuracy": 0.442, "avg_extraction_accuracy": 0.677, "avg_field_accuracy": 0.091, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.442, "avg_schema_accuracy": 0.091, "count": 9, "max_extraction": 0.818, "max_schema": 0.091, "min_extraction": 0.364, "min_schema": 0.091}, "coffee_stains": {"avg_accuracy": 0.521, "avg_extraction_accuracy": 0.768, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.521, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.636, "min_schema": 0.091}, "edge_blur": {"avg_accuracy": 0.479, "avg_extraction_accuracy": 0.717, "avg_field_accuracy": 0.121, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.479, "avg_schema_accuracy": 0.121, "count": 9, "max_extraction": 1.0, "max_schema": 0.182, "min_extraction": 0.273, "min_schema": 0.091}, "fold_lines": {"avg_accuracy": 0.515, "avg_extraction_accuracy": 0.758, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.515, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.545, "min_schema": 0.091}, "gaussian_noise": {"avg_accuracy": 0.491, "avg_extraction_accuracy": 0.717, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.491, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.636, "min_schema": 0.091}, "handwritten_annotations": {"avg_accuracy": 0.467, "avg_extraction_accuracy": 0.717, "avg_field_accuracy": 0.091, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.467, "avg_schema_accuracy": 0.091, "count": 9, "max_extraction": 0.818, "max_schema": 0.091, "min_extraction": 0.455, "min_schema": 0.091}, "hole_punches": {"avg_accuracy": 0.503, "avg_extraction_accuracy": 0.758, "avg_field_accuracy": 0.121, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.503, "avg_schema_accuracy": 0.121, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.545, "min_schema": 0.091}, "jpeg_artifacts": {"avg_accuracy": 0.436, "avg_extraction_accuracy": 0.606, "avg_field_accuracy": 0.182, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.436, "avg_schema_accuracy": 0.182, "count": 9, "max_extraction": 0.636, "max_schema": 0.182, "min_extraction": 0.545, "min_schema": 0.182}, "low_dpi": {"avg_accuracy": 0.23, "avg_extraction_accuracy": 0.283, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.23, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.364, "max_schema": 0.182, "min_extraction": 0.182, "min_schema": 0.091}, "moire_patterns": {"avg_accuracy": 0.527, "avg_extraction_accuracy": 0.758, "avg_field_accuracy": 0.182, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.527, "avg_schema_accuracy": 0.182, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.545, "min_schema": 0.182}, "motion_blur": {"avg_accuracy": 0.164, "avg_extraction_accuracy": 0.172, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.164, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.273, "max_schema": 0.182, "min_extraction": 0.091, "min_schema": 0.091}, "none": {"avg_accuracy": 0.488, "avg_extraction_accuracy": 0.716, "avg_field_accuracy": 0.146, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.488, "avg_schema_accuracy": 0.146, "count": 252, "max_extraction": 1.0, "max_schema": 0.182, "min_extraction": 0.182, "min_schema": 0.091}, "page_curl": {"avg_accuracy": 0.527, "avg_extraction_accuracy": 0.758, "avg_field_accuracy": 0.182, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.527, "avg_schema_accuracy": 0.182, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.636, "min_schema": 0.182}, "patch_blur": {"avg_accuracy": 0.521, "avg_extraction_accuracy": 0.768, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.521, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.636, "min_schema": 0.091}, "perspective_warp": {"avg_accuracy": 0.43, "avg_extraction_accuracy": 0.636, "avg_field_accuracy": 0.121, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.43, "avg_schema_accuracy": 0.121, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.455, "min_schema": 0.091}, "salt_pepper_noise": {"avg_accuracy": 0.388, "avg_extraction_accuracy": 0.545, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.388, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.727, "max_schema": 0.182, "min_extraction": 0.364, "min_schema": 0.091}, "show_through": {"avg_accuracy": 0.509, "avg_extraction_accuracy": 0.747, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.509, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.636, "min_schema": 0.091}, "skew": {"avg_accuracy": 0.448, "avg_extraction_accuracy": 0.646, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.448, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.455, "min_schema": 0.091}, "stamps": {"avg_accuracy": 0.479, "avg_extraction_accuracy": 0.737, "avg_field_accuracy": 0.091, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.479, "avg_schema_accuracy": 0.091, "count": 9, "max_extraction": 0.818, "max_schema": 0.091, "min_extraction": 0.455, "min_schema": 0.091}, "thermal_fade": {"avg_accuracy": 0.497, "avg_extraction_accuracy": 0.727, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.497, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.455, "min_schema": 0.091}, "uneven_lighting": {"avg_accuracy": 0.412, "avg_extraction_accuracy": 0.606, "avg_field_accuracy": 0.121, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.412, "avg_schema_accuracy": 0.121, "count": 9, "max_extraction": 0.727, "max_schema": 0.182, "min_extraction": 0.455, "min_schema": 0.091}, "watermark": {"avg_accuracy": 0.515, "avg_extraction_accuracy": 0.758, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.515, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.545, "min_schema": 0.091}, "wrinkles_crumples": {"avg_accuracy": 0.485, "avg_extraction_accuracy": 0.707, "avg_field_accuracy": 0.152, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.485, "avg_schema_accuracy": 0.152, "count": 9, "max_extraction": 0.818, "max_schema": 0.182, "min_extraction": 0.545, "min_schema": 0.091}}, "by_format": {"jpeg": {"avg_accuracy": 0.405, "avg_extraction_accuracy": 0.578, "avg_field_accuracy": 0.146, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.405, "avg_schema_accuracy": 0.146, "count": 156, "max_extraction": 0.909, "max_schema": 0.182, "min_extraction": 0.091, "min_schema": 0.091}, "pdf": {"avg_accuracy": 0.511, "avg_extraction_accuracy": 0.755, "avg_field_accuracy": 0.146, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.511, "avg_schema_accuracy": 0.146, "count": 156, "max_extraction": 1.0, "max_schema": 0.182, "min_extraction": 0.182, "min_schema": 0.091}, "png": {"avg_accuracy": 0.508, "avg_extraction_accuracy": 0.749, "avg_field_accuracy": 0.146, "avg_items_f1": 0.0, "avg_overall_accuracy": 0.508, "avg_schema_accuracy": 0.146, "count": 156, "max_extraction": 1.0, "max_schema": 0.182, "min_extraction": 0.091, "min_schema": 0.091}}, "color": "#22c55e", "cost_per_page": 0.0, "display_name": "PaddleOCR", "extraction_accuracy": 0.694, "is_best_extraction": false, "name": "paddle_ocr", "throughput": 19.833, "total_cost": 0.0, "total_documents": 468}];
+const effectChart = {"datasets": [{"color": "#6366f1", "data": [53.5, 54.5, 57.6, 53.5, 55.6, 53.5, 49.5, 57.6, 56.6, 48.5, 54.4, 57.6, 42.4, 52.5, 47.5, 41.4, 34.3, 47.5, 46.5, 37.4, 31.3, 50.5, 40.4, 31.3, 23.2], "label": "Deepseek Ocr2"}, {"color": "#3b82f6", "data": [97.0, 99.0, 98.0, 98.0, 94.9, 94.9, 99.0, 98.0, 99.0, 91.9, 92.5, 90.9, 92.9, 89.9, 92.9, 84.8, 88.9, 92.9, 76.8, 90.9, 85.9, 75.8, 71.7, 30.3, 30.3], "label": "Azure Document Intelligence"}, {"color": "#0ea5e9", "data": [96.0, 91.9, 86.9, 90.9, 87.9, 90.9, 89.9, 82.8, 84.8, 91.9, 84.6, 80.8, 92.9, 75.8, 86.9, 85.9, 83.8, 60.6, 85.9, 60.6, 69.7, 61.6, 76.8, 57.6, 36.4], "label": "Glm Ocr"}, {"color": "#22c55e", "data": [75.8, 75.8, 76.8, 75.8, 76.8, 75.8, 75.8, 74.7, 71.7, 71.7, 71.6, 72.7, 73.7, 70.7, 60.6, 74.7, 71.7, 71.7, 60.6, 67.7, 64.6, 63.6, 54.5, 28.3, 17.2], "label": "PaddleOCR"}], "labels": ["Hole Punches", "Fold Lines", "Coffee Stains", "Watermark", "Patch Blur", "Page Curl", "Moire Patterns", "Show Through", "Gaussian Noise", "Handwritten Annotations", "None", "Thermal Fade", "Stamps", "Wrinkles Crumples", "Uneven Lighting", "Band Stretch", "Bleed Through", "Edge Blur", "Jpeg Artifacts", "Brightness Contrast", "Skew", "Perspective Warp", "Salt Pepper Noise", "Low Dpi", "Motion Blur"]};
+const formatChart = {"datasets": [{"color": "#6366f1", "data": [69.2, 14.6, 68.9], "label": "Deepseek Ocr2"}, {"color": "#3b82f6", "data": [89.4, 89.5, 89.6], "label": "Azure Document Intelligence"}, {"color": "#0ea5e9", "data": [86.5, 73.7, 86.6], "label": "Glm Ocr"}, {"color": "#22c55e", "data": [57.8, 75.5, 74.9], "label": "PaddleOCR"}], "labels": ["JPEG", "PDF", "PNG"]};
+const languageChart = {"datasets": [{"color": "#6366f1", "data": [31.3, 54.5, 50.9, 52.5, 51.5, 59.6, 54.5, 54.5], "label": "Deepseek Ocr2"}, {"color": "#3b82f6", "data": [69.7, 96.0, 89.0, 100.0, 92.9, 93.9, 97.0, 97.0], "label": "Azure Document Intelligence"}, {"color": "#0ea5e9", "data": [43.5, 89.9, 82.2, 96.0, 84.8, 83.8, 91.9, 88.9], "label": "Glm Ocr"}, {"color": "#22c55e", "data": [42.5, 57.6, 70.7, 77.8, 58.6, 55.5, 65.6, 67.7], "label": "PaddleOCR"}], "labels": ["Arabic", "Chinese", "English", "French", "Hungarian", "Japanese", "Portuguese", "Spanish"]};
 
 // ---- Chart 1: Extraction Accuracy Bar ----
 new Chart(document.getElementById('chartAccuracy'), {

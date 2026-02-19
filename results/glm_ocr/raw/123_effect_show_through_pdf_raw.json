@@ -1,0 +1,8 @@
+{
+  "content": "Booth-Tran\n3996 Joanna Overpass Apt. 411 | Kanemouth, GU 92496\n\nINVOICE\nNo: FAC-5270057\nDate: 10/02/2025\nDue: 02/19/2026\n\nFROM\nBooth-Tran\n3996 Joanna Overpass Apt. 411\nKanemouth, GU 92496\n\nBILL TO\nRobinson PLC\n44900 Tasha Overpass\nBrownsport, HI 62725\n\n# Description Quantity Unit Price Amount\n1 Quality-focused motivating approach 1.00 248.42 248.42\n2 Integrated transitional conglomeration 8.00 209.64 1 677.12\n3 Managed asymmetric methodology 3.00 57.02 171.06\n4 Compatible bottom-line emulation 2.00 154.70 309.40\n\nSubtotal 2 406.00\nTax (10%) 240.00\nTotal Due 2 646.00\n\nPAYMENT INFORMATION\nBank: Watts, Le and Stephenson Financial\nAccount: KFWB19640781563245\nMethod: ACH",
+  "detections": [
+    {
+      "text": "Booth-Tran\n3996 Joanna Overpass Apt. 411 | Kanemouth, GU 92496\n\nINVOICE\nNo: FAC-5270057\nDate: 10/02/2025\nDue: 02/19/2026\n\nFROM\nBooth-Tran\n3996 Joanna Overpass Apt. 411\nKanemouth, GU 92496\n\nBILL TO\nRobinson PLC\n44900 Tasha Overpass\nBrownsport, HI 62725\n\n# Description Quantity Unit Price Amount\n1 Quality-focused motivating approach 1.00 248.42 248.42\n2 Integrated transitional conglomeration 8.00 209.64 1 677.12\n3 Managed asymmetric methodology 3.00 57.02 171.06\n4 Compatible bottom-line emulation 2.00 154.70 309.40\n\nSubtotal 2 406.00\nTax (10%) 240.00\nTotal Due 2 646.00\n\nPAYMENT INFORMATION\nBank: Watts, Le and Stephenson Financial\nAccount: KFWB19640781563245\nMethod: ACH"
+    }
+  ]
+}

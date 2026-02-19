@@ -1,0 +1,56 @@
+{
+  "filename": "175409219.pdf",
+  "invoice": {
+    "client_name": "VGP HOLDING LLC",
+    "client_address": "3536 S 1ST ST\nSAINT LOUIS MO 63118-3315",
+    "seller_name": "spire",
+    "seller_address": "",
+    "invoice_number": "",
+    "invoice_date": "06/03/2025",
+    "due_date": "17/03/2025"
+  },
+  "items": [
+    {
+      "description": "Customer charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "145.43",
+      "category": null
+    },
+    {
+      "description": "Usage: 4,625 Ccf @ $0.15689",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "725.62",
+      "category": null
+    },
+    {
+      "description": "Pipeline upgrade charge (ISRS)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "15.02",
+      "category": null
+    },
+    {
+      "description": "Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2 427.47",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "2 427.47",
+    "tax": "416.28",
+    "discount": "",
+    "total": "3 729.82"
+  },
+  "payment_instructions": {
+    "due_date": "17/03/2025",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 10.69,
+  "file_size_bytes": 868459
+}

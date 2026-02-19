@@ -1,0 +1,8 @@
+{
+  "filename": "123_effect_show_through.jpeg",
+  "model_name": "glm-ocr",
+  "raw_text": "Booth-Tran\n3996 Joanna Overpass Apt. 411 | Kanemouth, GU 93486\n\nINVOICE\nNo: FAC-5270057\nDate: 10/02/2025\nDue: 02/19/2026\n\nFROM\nBooth-Tran\n3996 Joanna Overpass Apt. 411\nKanemouth, GU 93486\n\nBILL TO\nRobinson PLC\n44969 Tasha Overpass\nBrownport, HI 62725\n\n# Description Quantity Unit Price Amount\n1 Quality-focused motivating approach 1.00 248.42 248.42\n2 Integrated transitional conglomeration 8.00 209.64 1 677.12\n3 Managed asymmetric methodology 3.00 57.02 171.06\n4 Compatible bottom-line emulation 2.00 154.70 309.40\n\nSubtotal 2 406.00\nTax (10%) 240.60\nTotal Due 2 648.60\n\nPAYMENT INFORMATION\nBank: Watts, Le and Stephenson Financial\nAccount: KFWB16640781563245\nMethod: ACH\n\nThank you for your business",
+  "processing_time_seconds": 46.917,
+  "file_size_bytes": 69345,
+  "success": true
+}

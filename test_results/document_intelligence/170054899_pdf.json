@@ -1,0 +1,42 @@
+{
+  "filename": "170054899.pdf",
+  "invoice": {
+    "client_name": "TRUIST BANK",
+    "client_address": "PO BOX 2440\nSPOKANE WA 99210-2440",
+    "seller_name": "SUMMER\nIL\nP\nCOMMISSIONERS OF PUBL\nWORKS",
+    "seller_address": "PO BOX 817\nSUMMERVILLE SC 29484-0817",
+    "invoice_number": "03",
+    "invoice_date": "21/09/2024",
+    "due_date": "21/10/2024"
+  },
+  "items": [
+    {
+      "description": "SW SEWER",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "27.50",
+      "category": null
+    },
+    {
+      "description": "WA WATER",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "14.25",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "41.75"
+  },
+  "payment_instructions": {
+    "due_date": "21/10/2024",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.537,
+  "file_size_bytes": 120317
+}

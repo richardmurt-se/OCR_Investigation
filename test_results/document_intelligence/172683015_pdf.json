@@ -1,0 +1,126 @@
+{
+  "filename": "172683015.pdf",
+  "invoice": {
+    "client_name": "701900 FERGUSON\nKIMBERLY-FERGUSON ENT",
+    "client_address": "PO BOX 182265\nCOLUMBUS, OH 43218\nUSA",
+    "seller_name": "Casper\nWYO",
+    "seller_address": "200 North David Street\nCasper, WY 82601",
+    "invoice_number": "1269817",
+    "invoice_date": "06/12/2024",
+    "due_date": "02/01/2025"
+  },
+  "items": [
+    {
+      "description": "Commercial Water Inside City",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "17.36",
+      "category": null
+    },
+    {
+      "description": "BASE CHARGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "10.17",
+      "category": null
+    },
+    {
+      "description": "FIRST 1,500 GAL",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "NEXT 500 GAL",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2.40",
+      "category": null
+    },
+    {
+      "description": "EACH ADDITIONAL 1,000 GAL",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "4.79",
+      "category": null
+    },
+    {
+      "description": "Commercial Water Inside City",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "BASE CHARGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "FIRST 1,500 GAL - 0 at $0.00",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Commercial Sewer Inside City",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "38.65",
+      "category": null
+    },
+    {
+      "description": "BASE CHARGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "12.75",
+      "category": null
+    },
+    {
+      "description": "FIRST 2,000 GAL - 2 at $0.00",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "EACH ADDITIONAL 1,000 GAL - 5 at $5.18",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "25.90",
+      "category": null
+    },
+    {
+      "description": "Commercial 4YD Inside City",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "145.00",
+      "category": null
+    },
+    {
+      "description": "BASE CHARGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "145.00",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "201.01"
+  },
+  "payment_instructions": {
+    "due_date": "02/01/2025",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.356,
+  "file_size_bytes": 786717
+}

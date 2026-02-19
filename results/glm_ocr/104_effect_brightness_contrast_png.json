@@ -1,0 +1,8 @@
+{
+  "filename": "104_effect_brightness_contrast.png",
+  "model_name": "glm-ocr",
+  "raw_text": "Martinez Ltd\n62496 Parker Via Apt. 285 | Williamsport, VA 12310\n\nINVOICE\nNo: INV/43184683\nDate: 05/14/2025\n\nFROM\nMartinez Ltd\n62496 Parker Via Apt. 285\nWilliamsport, VA 12310\n\nBILL TO\nMejia, Reyes and Garcia\n7630 Smith Corner\nBergenton, NJ 22667\n\n# Description\nQuantity Unit Price Amount\n1 Optimized exuding analyzer 5.00 192.94 964.70\n2 Pre-emptive incremental adapter 1.00 474.66 474.66\n3 Quality-focused high-level firmware 10.00 492.76 4 927.60\n4 Object-based empowering functionalities 8.00 447.69 3 581.52\n5 User-centric well-modulated data-warehouse 8.00 329.11 2 632.88\n6 Synergistic asynchronous implementation 3.00 432.62 1 297.86\n7 Expanded 3rdgeneration parallelism 9.00 10.31 92.79\n8 Enterprise-wide clear-thinking Local Area Network 7.00 95.23 666.61\n\nSubtotal 14 638.62\nTax (10%) 1 483.88\nDiscount -1 483.88\nTotal Due 14 638.62\n\nThank you for your business",
+  "processing_time_seconds": 49.118,
+  "file_size_bytes": 28223,
+  "success": true
+}

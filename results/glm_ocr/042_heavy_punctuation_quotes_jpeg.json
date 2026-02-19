@@ -1,0 +1,8 @@
+{
+  "filename": "042_heavy_punctuation_quotes.jpeg",
+  "model_name": "glm-ocr",
+  "raw_text": "\u00abBarker, Evans and Pope\u00bb\n\"Excellence in every detail\" \u2014 Your Trusted Partner\n02355 Holmes Expressway Apt. 254 , New Emilyhaven, FM 29641\n\n\u00abFrom\u00bb:\n\"Barker, Evans and Pope\"\n02355 Holmes Expressway Apt. 254\nNew Emilyhaven, FM 29641\n\n\u00abBill To\u00bb:\n'Clark, Hatfield and Medina'\n0187 Morgan Mews Apt. 648\nWest Tracy, NM 88514\n\n# <Description> / <Details>\n**1** \"Persevering methodical paradigm #1 Rated (SKU: ev-0625)\" \u2014 'Model: MDL-0400' \u00abPremium Quality\u00bb\n**2** \"NEW: Implemented bottom-line intranet (Ld.) @ 38% discount\" \u2014 'Model: MDL-0200' \u00abPremium Quality\u00bb\n**3** \"NEW: Progressive high-level Local Area Network & Co., Model: pjY-860\" \u2014 'Model: MDL-0300' \u00abPremium Quality\u00bb\n**4** \"*** Up-sized analyzing policy $$$, Model: oeU-163\" \u2014 'Model: MDL-0400' \u00abPremium Quality\u00bb\n**5** \"NEW: Multi-channeled asymmetric architecture: Premium (SKU: Mm-4457)\" \u2014 'Model: MDL-0500' \u00abPremium Quality\u00bb\n**6** \"NEW: Reverse-engineered local structure, Inc. @ 46% discount\" \u2014 'Model: MDL-0600' \u00abPremium Quality>\n\n\"Qty\" \"Price\" \"Total\"\n\n**Subtotal**: \"8 047.61\"\n**Tax (10%)**: '804.76'\n**TOTAL**: \"8 852.37\"\n\n\u00abNotes & Terms\u00bb:\nPayment is due within '30 days' of 'invoice date'. All items are sold \"as-is\" with 'standard warranty'. For questions, contact us at <support@company.com> or call (555) 123-4567.\n\u00abBarker, Evans and Pope\u00bb \u2014 \"Your satisfaction is our priority\" \u2014 Thank you!",
+  "processing_time_seconds": 50.792,
+  "file_size_bytes": 104634,
+  "success": true
+}

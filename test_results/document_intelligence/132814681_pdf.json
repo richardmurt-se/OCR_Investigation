@@ -1,0 +1,77 @@
+{
+  "filename": "132814681.pdf",
+  "invoice": {
+    "client_name": "AUTO ZONE STORE 643\nC/O AMERESCO ATTN 2B7D1-X",
+    "client_address": "PO BOX 182463\nCOLUMBUS OH 43218-2463",
+    "seller_name": "SOUTH BEND MUNICIPAL UTILITIES",
+    "seller_address": "125 WEST COLFAX AVENUE\nSOUTH BEND, INDIANA 46601-1601",
+    "invoice_number": "15-02",
+    "invoice_date": "22/12/2020",
+    "due_date": "15/01/2021"
+  },
+  "items": [
+    {
+      "description": "WA WATER CHARGE 3/4\"",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "16.65",
+      "category": null
+    },
+    {
+      "description": "WA WATER LEAK INSURANCE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2.10",
+      "category": null
+    },
+    {
+      "description": "SA SEWER CHARGE 3/4\"",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "51.53",
+      "category": null
+    },
+    {
+      "description": "SA SEWER INSURANCE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.18",
+      "category": null
+    },
+    {
+      "description": "S2 STORMWATER NON-RES",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "5.00",
+      "category": null
+    },
+    {
+      "description": "FH FIRE HYDRANT PROTECT",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "3.35",
+      "category": null
+    },
+    {
+      "description": "CA CLEAN AIR/RELEAF",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.99",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "1.17",
+    "discount": "",
+    "total": "81.97"
+  },
+  "payment_instructions": {
+    "due_date": "15/01/2021",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.225,
+  "file_size_bytes": 716104
+}

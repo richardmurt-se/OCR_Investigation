@@ -1,0 +1,70 @@
+{
+  "filename": "139846255.pdf",
+  "invoice": {
+    "client_name": "VALVOLINE LLC",
+    "client_address": "PO BOX 2410\nOMAHA NE 68103-2410",
+    "seller_name": "THE CITY OF\nCOLUMBUS",
+    "seller_address": "910 Dublin Rd\nColumbus, OH 43215-1169",
+    "invoice_number": "",
+    "invoice_date": "09/11/2021",
+    "due_date": "07/12/2021"
+  },
+  "items": [
+    {
+      "description": "WATER USAGE",
+      "quantity": "9.00",
+      "unit_price": "3.72",
+      "total_price": "33.48",
+      "category": null
+    },
+    {
+      "description": "WATER BASE CHARGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "28.92",
+      "category": null
+    },
+    {
+      "description": "SEWER USAGE",
+      "quantity": "9.00",
+      "unit_price": "4.64",
+      "total_price": "41.76",
+      "category": null
+    },
+    {
+      "description": "SEWER SERV CHARGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "13.95",
+      "category": null
+    },
+    {
+      "description": "CLEAN RIVER FUND",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "104.85",
+      "category": null
+    },
+    {
+      "description": "STORMWATER CHARGES",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "135.09",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "358.05"
+  },
+  "payment_instructions": {
+    "due_date": "07/12/2021",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 11.219,
+  "file_size_bytes": 1275791
+}

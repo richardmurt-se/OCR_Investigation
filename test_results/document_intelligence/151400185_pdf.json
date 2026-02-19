@@ -1,0 +1,49 @@
+{
+  "filename": "151400185.pdf",
+  "invoice": {
+    "client_name": "Apple American Group LLC",
+    "client_address": "PO Box 182596\nColumbus, OH 43218-0000",
+    "seller_name": "TIGER\nNatural Gas, Inc:",
+    "seller_address": "7812 East 108th St, Suite C\nTulsa, OK 74133",
+    "invoice_number": "0123946667",
+    "invoice_date": "17/02/2023",
+    "due_date": "27/02/2023"
+  },
+  "items": [
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Index Price",
+      "quantity": "247.21",
+      "unit_price": "5.19",
+      "total_price": "1 282.77",
+      "category": null
+    },
+    {
+      "description": "Index Price",
+      "quantity": "15.79",
+      "unit_price": "22.00",
+      "total_price": "347.38",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "167.34",
+    "discount": "",
+    "total": "2 170.87"
+  },
+  "payment_instructions": {
+    "due_date": "27/02/2023",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.661,
+  "file_size_bytes": 113103
+}

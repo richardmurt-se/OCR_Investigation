@@ -1,0 +1,91 @@
+{
+  "filename": "120648184.pdf",
+  "invoice": {
+    "client_name": "AT&T",
+    "client_address": "PO BOX 182552\nCOLUMBUS OH 43218-2552",
+    "seller_name": "NVEnergy",
+    "seller_address": "",
+    "invoice_number": "",
+    "invoice_date": "03/07/2019",
+    "due_date": "20/07/2019"
+  },
+  "items": [
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Electric Consumption",
+      "quantity": "278.00",
+      "unit_price": "0.08",
+      "total_price": "21.20",
+      "category": null
+    },
+    {
+      "description": "Temp. Green Power Financing",
+      "quantity": "278.00",
+      "unit_price": "0.00",
+      "total_price": "0.27",
+      "category": null
+    },
+    {
+      "description": "Renewable Energy Program",
+      "quantity": "278.00",
+      "unit_price": "0.00",
+      "total_price": "1.01",
+      "category": null
+    },
+    {
+      "description": "Energy Efficiency Charge",
+      "quantity": "278.00",
+      "unit_price": "0.00",
+      "total_price": "0.38",
+      "category": null
+    },
+    {
+      "description": "Tax Reduction",
+      "quantity": "278.00",
+      "unit_price": "0.00",
+      "total_price": "0.96",
+      "category": null
+    },
+    {
+      "description": "Basic Service Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "32.00",
+      "category": null
+    },
+    {
+      "description": "Local Government Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2.70",
+      "category": null
+    },
+    {
+      "description": "Universal Energy Charge",
+      "quantity": "278.00",
+      "unit_price": "0.00",
+      "total_price": "0.11",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "0.96",
+    "discount": "",
+    "total": "56.71"
+  },
+  "payment_instructions": {
+    "due_date": "20/07/2019",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 12.901,
+  "file_size_bytes": 896505
+}

@@ -1,0 +1,8 @@
+{
+  "filename": "067_multilingual_fr_standard.png",
+  "model_name": "deepseek-ocr-2",
+  "raw_text": "<|ref|>text<|/ref|><|det|>[[24, 115, 50, 128]]<|/det|>\nDE\n\n<|ref|>text<|/ref|><|det|>[[24, 134, 180, 173]]<|/det|>\nBriand Bouvet SARL\nchemin No\u00e9mi Guillet\n50863 Daniel-sur-Rodriguez\n\n<|ref|>text<|/ref|><|det|>[[540, 114, 557, 128]]<|/det|>\n\u00c2\n\n<|ref|>text<|/ref|><|det|>[[540, 134, 625, 173]]<|/det|>\nMercier\navenue Roux\n27328 Boulay\n\n<|ref|>table<|/ref|><|det|>[[24, 197, 975, 428]]<|/det|>\n<table><tr><td>#</td><td>Description</td><td>Quantit\u00e9</td><td>Prix</td><td>Total</td></tr><tr><td>1</td><td>La possibilit\u00e9 de changer autrement</td><td>8.00</td><td>130.02</td><td>1 040.16</td></tr><tr><td>2</td><td>L&#x27;art de changer de mani\u00e8re s\u00fbre</td><td>6.00</td><td>413.50</td><td>2 481.00</td></tr><tr><td>3</td><td>Le plaisir de changer \u00e0 l&#x27;\u00e9tat pur</td><td>1.00</td><td>460.59</td><td>460.59</td></tr><tr><td>4</td><td>L&#x27;avantage d&#x27;innover avant-tout</td><td>9.00</td><td>350.31</td><td>3 152.79</td></tr><tr><td></td><td></td><td></td><td>Sous-total</td><td>7 134.54</td></tr><tr><td></td><td></td><td></td><td>Taxe</td><td>713.45</td></tr><tr><td></td><td></td><td></td><td>Total</td><td>7 847.99</td></tr></table>\n\n<|ref|>text<|/ref|><|det|>[[430, 453, 568, 465]]<|/det|>\nMerci pour votre confiance",
+  "processing_time_seconds": 17.799,
+  "file_size_bytes": 25810,
+  "success": true
+}

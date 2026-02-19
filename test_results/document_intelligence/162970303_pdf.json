@@ -1,0 +1,63 @@
+{
+  "filename": "162970303.pdf",
+  "invoice": {
+    "client_name": "Marriott International",
+    "client_address": "",
+    "seller_name": "Resource Advisor\nFulton County\nFinance\nDepartment, GA",
+    "seller_address": "",
+    "invoice_number": "338999405",
+    "invoice_date": "11/03/2024",
+    "due_date": "01/04/2024"
+  },
+  "items": [
+    {
+      "description": "Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "10.20",
+      "category": null
+    },
+    {
+      "description": "Sewer Vol. Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 833.91",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "58.61",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "967.59",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "2 870.31"
+  },
+  "payment_instructions": {
+    "due_date": "01/04/2024",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.548,
+  "file_size_bytes": 25715
+}

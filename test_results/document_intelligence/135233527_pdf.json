@@ -1,0 +1,112 @@
+{
+  "filename": "135233527.pdf",
+  "invoice": {
+    "client_name": "ECOVA",
+    "client_address": "",
+    "seller_name": "WARE\nDISPOSAL",
+    "seller_address": "PO BOX 1318\nSANTA ANA, CA 92702",
+    "invoice_number": "714846",
+    "invoice_date": "15/03/2021",
+    "due_date": "25/03/2021"
+  },
+  "items": [
+    {
+      "description": "4YD TRASH SERVICE\n# P/U: 4",
+      "quantity": "1.00",
+      "unit_price": "",
+      "total_price": "-756.18",
+      "category": null
+    },
+    {
+      "description": "AIR REG COMP FEE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-83.18",
+      "category": null
+    },
+    {
+      "description": "ST COMPLI RECYCLE FEE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-45.37",
+      "category": null
+    },
+    {
+      "description": "4YD TRASH SERVICE\n# P/U: 4",
+      "quantity": "1.00",
+      "unit_price": "",
+      "total_price": "756.18",
+      "category": null
+    },
+    {
+      "description": "AIR REG COMP FEE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "83.18",
+      "category": null
+    },
+    {
+      "description": "ST COMPLI RECYCLE FEE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "45.37",
+      "category": null
+    },
+    {
+      "description": "3YD RECYCLE SVC\n# P/U: 3",
+      "quantity": "1.00",
+      "unit_price": "",
+      "total_price": "-379.99",
+      "category": null
+    },
+    {
+      "description": "AIR REG COMP FEE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-41.80",
+      "category": null
+    },
+    {
+      "description": "ST COMPLI RECYCLE FEE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-22.80",
+      "category": null
+    },
+    {
+      "description": "3YD RECYCLE SVC\n# P/U: 3",
+      "quantity": "1.00",
+      "unit_price": "",
+      "total_price": "379.99",
+      "category": null
+    },
+    {
+      "description": "AIR REG COMP FEE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "41.80",
+      "category": null
+    },
+    {
+      "description": "ST COMPLI RECYCLE FEE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "22.80",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "0.00"
+  },
+  "payment_instructions": {
+    "due_date": "25/03/2021",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.592,
+  "file_size_bytes": 104028
+}

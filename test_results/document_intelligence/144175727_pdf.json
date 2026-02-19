@@ -1,0 +1,91 @@
+{
+  "filename": "144175727.pdf",
+  "invoice": {
+    "client_name": "Marriott International",
+    "client_address": "",
+    "seller_name": "Carroll Electric\nCooperative\nCorporation",
+    "seller_address": "",
+    "invoice_number": "120354175",
+    "invoice_date": "",
+    "due_date": "18/03/2022"
+  },
+  "items": [
+    {
+      "description": "KW UNSPECIFIED",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 698.84",
+      "category": null
+    },
+    {
+      "description": "KWH UNSPECIFIED",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "3 057.94",
+      "category": null
+    },
+    {
+      "description": "CITY TAX",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "122.39",
+      "category": null
+    },
+    {
+      "description": "COUNTY TAX",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "61.19",
+      "category": null
+    },
+    {
+      "description": "DEBT ADJUSTMENT",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "120.02",
+      "category": null
+    },
+    {
+      "description": "ENERGY ADJUSTMENT",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "880.10",
+      "category": null
+    },
+    {
+      "description": "MUNICIPAL TAX",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "235.36",
+      "category": null
+    },
+    {
+      "description": "SERVICE AVAILABILITY CHARGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "127.20",
+      "category": null
+    },
+    {
+      "description": "STATE TAX",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "397.76",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "6 700.80"
+  },
+  "payment_instructions": {
+    "due_date": "18/03/2022",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.405,
+  "file_size_bytes": 25857
+}

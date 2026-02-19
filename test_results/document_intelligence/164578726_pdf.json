@@ -1,0 +1,56 @@
+{
+  "filename": "164578726.pdf",
+  "invoice": {
+    "client_name": "TRUIST BANK\nC/O ENGIE MS 2534",
+    "client_address": "PO BOX 2440\nSPOKANE, WA 99210-2440",
+    "seller_name": "CLERMONT.",
+    "seller_address": "685 W. Montrose Street\nClermont, FL 34711",
+    "invoice_number": "2354919",
+    "invoice_date": "03/05/2024",
+    "due_date": "24/05/2024"
+  },
+  "items": [
+    {
+      "description": "WATER",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.67",
+      "category": null
+    },
+    {
+      "description": "SEWER",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "57.51",
+      "category": null
+    },
+    {
+      "description": "STORMWATER",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "90.40",
+      "category": null
+    },
+    {
+      "description": "UTILITY TAX",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "0.58",
+    "discount": "",
+    "total": "160.16"
+  },
+  "payment_instructions": {
+    "due_date": "24/05/2024",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 9.925,
+  "file_size_bytes": 291860
+}

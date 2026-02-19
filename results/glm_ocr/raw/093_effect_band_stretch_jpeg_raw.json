@@ -1,0 +1,8 @@
+{
+  "content": "Smith-Cuevas\n178 Gaines Station Suite 481 | Port Edward, MH 77983\n\nINVOICE\nNo: FAC/35604246\nDate: 10/17/2025\n\nM\nSmith-Cuevas\nGaines Station Suite 481\nEdward, MH 77983\n\nBILL TO\nArnold LLC\nUnit 1792 Box 1810\nDPO AP 12408\n\n# Description Quantity Unit Price Amount\n1 Pre-emptive transitional approach 9.00 190.19 1 711.71\n2 Optimized logistical architecture 8.00 488.36 3 906.88\n3 Multi-tiered value-added challenge 1.00 301.07 301.07\n4 Digitized bottom-line software 9.00 229.34 2 064.06\n\nSubtotal 7 983.72\nTax (10%) 798.37\nTotal Due 8 782.09\n\nThank you for your business",
+  "detections": [
+    {
+      "text": "Smith-Cuevas\n178 Gaines Station Suite 481 | Port Edward, MH 77983\n\nINVOICE\nNo: FAC/35604246\nDate: 10/17/2025\n\nM\nSmith-Cuevas\nGaines Station Suite 481\nEdward, MH 77983\n\nBILL TO\nArnold LLC\nUnit 1792 Box 1810\nDPO AP 12408\n\n# Description Quantity Unit Price Amount\n1 Pre-emptive transitional approach 9.00 190.19 1 711.71\n2 Optimized logistical architecture 8.00 488.36 3 906.88\n3 Multi-tiered value-added challenge 1.00 301.07 301.07\n4 Digitized bottom-line software 9.00 229.34 2 064.06\n\nSubtotal 7 983.72\nTax (10%) 798.37\nTotal Due 8 782.09\n\nThank you for your business"
+    }
+  ]
+}

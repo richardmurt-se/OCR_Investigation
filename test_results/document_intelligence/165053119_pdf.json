@@ -1,0 +1,49 @@
+{
+  "filename": "165053119.pdf",
+  "invoice": {
+    "client_name": "CRYSTAL MARTIN CEYLON (PVT)\nLTD",
+    "client_address": "",
+    "seller_name": "BOI\nSRI LANKA",
+    "seller_address": "EXPORT PROCESSING ZONE\nKATUNAYAKE",
+    "invoice_number": "2402012005121",
+    "invoice_date": "31/05/2024",
+    "due_date": "10/06/2024"
+  },
+  "items": [
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "911 173.13",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "911 173.13",
+    "tax": "",
+    "discount": "",
+    "total": "911 173.13"
+  },
+  "payment_instructions": {
+    "due_date": "10/06/2024",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.638,
+  "file_size_bytes": 101067
+}

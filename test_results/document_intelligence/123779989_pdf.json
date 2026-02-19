@@ -1,0 +1,140 @@
+{
+  "filename": "123779989.pdf",
+  "invoice": {
+    "client_name": "JPMORGAN CHASE BANK NA SITE#B1554 - LA/FAIRFAX",
+    "client_address": "PO Box 182269\nColumbus OH 43218",
+    "seller_name": "LA\nLos Angeles\nDWP\nDepartment of\nWater & Power",
+    "seller_address": "P.O. Box 30808 . Los Angeles, CA 90030-0808",
+    "invoice_number": "",
+    "invoice_date": "01/11/2019",
+    "due_date": "20/11/2019"
+  },
+  "items": [
+    {
+      "description": "10/22/19",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Electric Charges\n4,320\nWater Charges 10/1/19 - 10/31/19",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 019.60",
+      "category": null
+    },
+    {
+      "description": "Service Charge - 62 days",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "14.47",
+      "category": null
+    },
+    {
+      "description": "Facilities Charge - 62 days",
+      "quantity": "4.00",
+      "unit_price": "5.36",
+      "total_price": "44.31",
+      "category": null
+    },
+    {
+      "description": "ESA - 62 days",
+      "quantity": "4.00",
+      "unit_price": "0.46",
+      "total_price": "3.80",
+      "category": null
+    },
+    {
+      "description": "RCA - 62 days",
+      "quantity": "4.00",
+      "unit_price": "0.96",
+      "total_price": "7.94",
+      "category": null
+    },
+    {
+      "description": "IRCA - 62 days",
+      "quantity": "",
+      "unit_price": "2.02",
+      "total_price": "16.70",
+      "category": null
+    },
+    {
+      "description": "IRCA based on KWH - 62 days",
+      "quantity": "80.00",
+      "unit_price": "0.00",
+      "total_price": "0.22",
+      "category": null
+    },
+    {
+      "description": "Energy Charge Low Season - 31 days",
+      "quantity": "40.00",
+      "unit_price": "0.05",
+      "total_price": "2.19",
+      "category": null
+    },
+    {
+      "description": "Energy Charge High Season - 31 days",
+      "quantity": "40.00",
+      "unit_price": "0.08",
+      "total_price": "3.28",
+      "category": null
+    },
+    {
+      "description": "ECA - 62 days",
+      "quantity": "80.00",
+      "unit_price": "0.06",
+      "total_price": "4.55",
+      "category": null
+    },
+    {
+      "description": "VEA - 31 days",
+      "quantity": "",
+      "unit_price": "0.00",
+      "total_price": "0.06",
+      "category": null
+    },
+    {
+      "description": "VEA - 31 days",
+      "quantity": "",
+      "unit_price": "-0.00",
+      "total_price": "0.09",
+      "category": null
+    },
+    {
+      "description": "CRPSEA - 31 days",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "0.24",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "31 days",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.81",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "99.66",
+    "tax": "12.46",
+    "discount": "",
+    "total": "361.41"
+  },
+  "payment_instructions": {
+    "due_date": "20/11/2019",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 16.09,
+  "file_size_bytes": 1655585
+}

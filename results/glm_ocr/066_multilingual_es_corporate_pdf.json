@@ -1,0 +1,8 @@
+{
+  "filename": "066_multilingual_es_corporate.pdf",
+  "model_name": "glm-ocr",
+  "raw_text": "Viviana Campoy Fabra S.A.\nVia Aurelia Godoy 622 Puerta 6 \u00b7 Ciudad, 40140\n\nFACTURA\n#FAC/518160994\n10/13/2025\n\nVENDEDOR\nViviana Campoy Fabra S.A.\nVia Aurelia Godoy 622 Puerta 6\nCiudad, 40140\n\nCOMPRADOR\nHnos Canizares S.A.U\nRambla Avenida Casanovas 7 Apt. 26\nLlida, 54032\n\nN\u00ba DESCRIPCI\u00d3N CAPITAD PRECIO UNIT. IMPORTE\n1 Mandatory multi-state Internet solution 5.00 130.60 653.00\n2 Operative zero tolerance initiative 10.00 13.50 135.00\n3 Extended uniform productivity 1.00 306.54 306.54\n4 Reduced radical conglomeration 7.00 84.24 589.68\n5 Robust content-based contingency 4.00 40.56 162.24\n6 Cloned mission-critical website 3.00 101.06 303.18\n7 Cloned multi-tasking analyzer 4.00 208.62 834.48\n\nSubtotal 2 984.12\nIVA (10%) 298.41\nDescuento -298.41\nTOTAL A PAGAR 2 984.12\n\nDATOS BANCARIOS\nBanco: Nilo y Famero S.A. Cooperativa de Cr\u00e9dito\nCurenta: 9417908291973848411\nFecha de vencimiento: 03/12/2026\n\nViviana Campoy Fabra S.A. \u00b7 Partura #FAC/518160994 \u00b7 10/13/2025",
+  "processing_time_seconds": 34.16,
+  "file_size_bytes": 141548,
+  "success": true
+}

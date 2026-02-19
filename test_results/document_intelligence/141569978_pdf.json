@@ -1,0 +1,98 @@
+{
+  "filename": "141569978.pdf",
+  "invoice": {
+    "client_name": "GROEP ZORG HEILIGE\nFAMILIE",
+    "client_address": "",
+    "seller_name": "Resource Advisor",
+    "seller_address": "",
+    "invoice_number": "",
+    "invoice_date": "20/10/2021",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Global consumption (Normal)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2 493.60",
+      "category": null
+    },
+    {
+      "description": "Charges according to consumption",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 300.76",
+      "category": null
+    },
+    {
+      "description": "Public service Obligation",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "62.38",
+      "category": null
+    },
+    {
+      "description": "Unfunded pensions",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "19.30",
+      "category": null
+    },
+    {
+      "description": "Retribution authorities",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "21.01",
+      "category": null
+    },
+    {
+      "description": "Fix term",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "10.10",
+      "category": null
+    },
+    {
+      "description": "Fixed term",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "56.33",
+      "category": null
+    },
+    {
+      "description": "Subscribed Power",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "209.78",
+      "category": null
+    },
+    {
+      "description": "Energy Contribution",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "142.79",
+      "category": null
+    },
+    {
+      "description": "Federal Contribution",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "98.39",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "906.37",
+    "discount": "",
+    "total": ""
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.433,
+  "file_size_bytes": 25949
+}

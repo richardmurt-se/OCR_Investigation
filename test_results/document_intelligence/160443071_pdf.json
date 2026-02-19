@@ -1,0 +1,49 @@
+{
+  "filename": "160443071.pdf",
+  "invoice": {
+    "client_name": "WELLS FARGO\nCASS INFO SYSTEM",
+    "client_address": "PO BOX 183079\nCOLUMBUS, OH 43218-3079",
+    "seller_name": "nationalgrid",
+    "seller_address": "PO Box 1040\nNorthborough, MA 01532-4040",
+    "invoice_number": "",
+    "invoice_date": "02/01/2024",
+    "due_date": "Jan 16"
+  },
+  "items": [
+    {
+      "description": "Distribution Adjustment:\n553 therms x 0.18690 per therm",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "103.36",
+      "category": null
+    },
+    {
+      "description": "Minimum Charge\n$.6333 per day for 33 days",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "20.90",
+      "category": null
+    },
+    {
+      "description": "First 553.0 therms @ $.6689",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "369.90",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "58.96",
+    "discount": "",
+    "total": "1 002.27"
+  },
+  "payment_instructions": {
+    "due_date": "Jan 16",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 17.436,
+  "file_size_bytes": 1030520
+}

@@ -1,0 +1,8 @@
+{
+  "content": "FACTURE\nINV-744402\n01/13/2026 \u00b7 \u00c9ch\u00e9ance 03/02/2026\n\nDE\nBarthelemy\nrue Constance Breton\n41630 Barthelemy-la-For\u00eat\n\n\u00c0\nSauvage Valette SARL\n28, chemin Denis\n12824 Delaunay\n\nDESCRIPTION QT\u00c9 PRIX TOTAL\nL'avantage d'\u00e9voluer autrement 8.00 65.47 523.76\nLa libert\u00e9 de rouler sans soucis 4.00 188.32 745.28\nLe plaisir de rouler plus rapidement 2.00 29.37 58.74\nL'assurance de rouler de mani\u00e8re s\u00fbre 8.00 460.61 3 684.88\n\nSous-total 5 012.66\nTaxe 501.27\nTotal 5 513.93\n\nCharpentier Caisse 02800362883084896458071\nMerci",
+  "detections": [
+    {
+      "text": "FACTURE\nINV-744402\n01/13/2026 \u00b7 \u00c9ch\u00e9ance 03/02/2026\n\nDE\nBarthelemy\nrue Constance Breton\n41630 Barthelemy-la-For\u00eat\n\n\u00c0\nSauvage Valette SARL\n28, chemin Denis\n12824 Delaunay\n\nDESCRIPTION QT\u00c9 PRIX TOTAL\nL'avantage d'\u00e9voluer autrement 8.00 65.47 523.76\nLa libert\u00e9 de rouler sans soucis 4.00 188.32 745.28\nLe plaisir de rouler plus rapidement 2.00 29.37 58.74\nL'assurance de rouler de mani\u00e8re s\u00fbre 8.00 460.61 3 684.88\n\nSous-total 5 012.66\nTaxe 501.27\nTotal 5 513.93\n\nCharpentier Caisse 02800362883084896458071\nMerci"
+    }
+  ]
+}

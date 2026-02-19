@@ -1,0 +1,105 @@
+{
+  "filename": "155806322.pdf",
+  "invoice": {
+    "client_name": "CARRABBA'S ITALIAN GRILL\n% CARRABBA;S C8604",
+    "client_address": "PO BOX 182943\nCOLUMBUS OH 43218",
+    "seller_name": "aes\nOhio",
+    "seller_address": "6555 Sierra Drive,\nIrving, TX 75039;",
+    "invoice_number": "",
+    "invoice_date": "20/07/2023",
+    "due_date": "10/08/2023"
+  },
+  "items": [
+    {
+      "description": "Previous Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2 630.38",
+      "category": null
+    },
+    {
+      "description": "07/12/2023 Payment - Thank You",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-2 630.38",
+      "category": null
+    },
+    {
+      "description": "Delivery Total Billed This Month",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 085.48",
+      "category": null
+    },
+    {
+      "description": "Supply Total Billed This Month",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 618.86",
+      "category": null
+    },
+    {
+      "description": "PROMPT AMOUNT pay by 08/10/2023",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2 704.34",
+      "category": null
+    },
+    {
+      "description": "LATE AMOUNT",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Customer Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "25.77",
+      "category": null
+    },
+    {
+      "description": "Other Delivery Charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 059.71",
+      "category": null
+    },
+    {
+      "description": "Renewable Energy Programs",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "38.19",
+      "category": null
+    },
+    {
+      "description": "Energy Efficiency Programs",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Peak Demand Programs",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "2 704.34"
+  },
+  "payment_instructions": {
+    "due_date": "10/08/2023",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 11.776,
+  "file_size_bytes": 1773367
+}

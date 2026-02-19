@@ -1,0 +1,42 @@
+{
+  "filename": "137573563.pdf",
+  "invoice": {
+    "client_name": "AKZO NOBEL PACKAGING COATINGS LTD",
+    "client_address": "UNIT 101\nTENTH AVENUE\nTENTH AVENUE\nDEESIDE INDUSTRIAL PARK\nDEESIDE CH5 2UA",
+    "seller_name": "TOTAL GAS & POWER",
+    "seller_address": "Bridge Gate, 55-57 High Street, Redhill, Surrey RH1 1RX, United Kingdom\nBridge Gate, 55-57 High Street, Redhill, Surrey RH1 1RX, United Kingdom",
+    "invoice_number": "233405793/21",
+    "invoice_date": "16/03/2021",
+    "due_date": "15/04/2021"
+  },
+  "items": [
+    {
+      "description": "",
+      "quantity": "690197.00",
+      "unit_price": "1.64",
+      "total_price": "11 335.11",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "11103.00",
+      "unit_price": "1.64",
+      "total_price": "182.35",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "2 977.39",
+    "discount": "",
+    "total": "31 323.25"
+  },
+  "payment_instructions": {
+    "due_date": "15/04/2021",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 24.275,
+  "file_size_bytes": 168385
+}

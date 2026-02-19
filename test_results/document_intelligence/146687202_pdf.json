@@ -1,0 +1,294 @@
+{
+  "filename": "146687202.pdf",
+  "invoice": {
+    "client_name": "HERITAGE INN OF NEWARK, LLC",
+    "client_address": "PO BOX 2440\nSPOKANE WA 99210-2440",
+    "seller_name": "PG&E",
+    "seller_address": "",
+    "invoice_number": "5082186195508770968110",
+    "invoice_date": "07/07/2022",
+    "due_date": "25/07/2022"
+  },
+  "items": [
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Nuclear Decommissioning",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-0.18",
+      "category": null
+    },
+    {
+      "description": "Wildfire",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "6.19",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "17.96",
+      "category": null
+    },
+    {
+      "description": "Transmission",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Nuclear Decommissioning\nWildfire",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-5.72",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-188.52",
+      "category": null
+    },
+    {
+      "description": "PCIA",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "580.51",
+      "category": null
+    },
+    {
+      "description": "Customer Charge",
+      "quantity": "1.00",
+      "unit_price": "5.91",
+      "total_price": "5.91",
+      "category": null
+    },
+    {
+      "description": "Max Peak",
+      "quantity": "67.20",
+      "unit_price": "2.24",
+      "total_price": "5.19",
+      "category": null
+    },
+    {
+      "description": "Max Demand",
+      "quantity": "68.40",
+      "unit_price": "25.59",
+      "total_price": "60.36",
+      "category": null
+    },
+    {
+      "description": "Peak",
+      "quantity": "300.90",
+      "unit_price": "0.17",
+      "total_price": "52.22",
+      "category": null
+    },
+    {
+      "description": "Off Peak",
+      "quantity": "764.40",
+      "unit_price": "0.13",
+      "total_price": "101.76",
+      "category": null
+    },
+    {
+      "description": "Super Off Peak",
+      "quantity": "284.10",
+      "unit_price": "0.08",
+      "total_price": "22.40",
+      "category": null
+    },
+    {
+      "description": "Generation Credit",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Franchise Fee Surcharge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.30",
+      "category": null
+    },
+    {
+      "description": "Newark Utility Users' Tax (3.250%)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "3.71",
+      "category": null
+    },
+    {
+      "description": "Customer Charge",
+      "quantity": "28.00",
+      "unit_price": "6.42",
+      "total_price": "179.76",
+      "category": null
+    },
+    {
+      "description": "Max Peak",
+      "quantity": "130.80",
+      "unit_price": "",
+      "total_price": "4 154.93",
+      "category": null
+    },
+    {
+      "description": "Max Part Peak",
+      "quantity": "128.40",
+      "unit_price": "6.81",
+      "total_price": "844.25",
+      "category": null
+    },
+    {
+      "description": "Max Demand",
+      "quantity": "130.80",
+      "unit_price": "",
+      "total_price": "3 292.37",
+      "category": null
+    },
+    {
+      "description": "Peak",
+      "quantity": "10538.00",
+      "unit_price": "0.20",
+      "total_price": "2 065.32",
+      "category": null
+    },
+    {
+      "description": "Part Peak",
+      "quantity": "7885.35",
+      "unit_price": "0.16",
+      "total_price": "1 252.04",
+      "category": null
+    },
+    {
+      "description": "Off Peak",
+      "quantity": "25521.00",
+      "unit_price": "0.13",
+      "total_price": "3 380.55",
+      "category": null
+    },
+    {
+      "description": "Max Peak Demand Winter",
+      "quantity": "67.20",
+      "unit_price": "0.08",
+      "total_price": "5.19",
+      "category": null
+    },
+    {
+      "description": "Off-peak Summer",
+      "quantity": "25521.00",
+      "unit_price": "0.11",
+      "total_price": "2 803.26",
+      "category": null
+    },
+    {
+      "description": "Max Peak Demand Summer",
+      "quantity": "130.80",
+      "unit_price": "18.06",
+      "total_price": "2 361.62",
+      "category": null
+    },
+    {
+      "description": "Peak Winter",
+      "quantity": "300.90",
+      "unit_price": "0.15",
+      "total_price": "45.55",
+      "category": null
+    },
+    {
+      "description": "Super-off-peak Winter",
+      "quantity": "284.10",
+      "unit_price": "0.06",
+      "total_price": "16.10",
+      "category": null
+    },
+    {
+      "description": "Max Part-peak Demand",
+      "quantity": "128.40",
+      "unit_price": "2.63",
+      "total_price": "337.21",
+      "category": null
+    },
+    {
+      "description": "Off-peak Winter",
+      "quantity": "764.40",
+      "unit_price": "0.11",
+      "total_price": "84.80",
+      "category": null
+    },
+    {
+      "description": "Part-peak Summer",
+      "quantity": "7885.35",
+      "unit_price": "0.14",
+      "total_price": "1 073.67",
+      "category": null
+    },
+    {
+      "description": "Peak Summer\nPower",
+      "quantity": "10538.00",
+      "unit_price": "0.17",
+      "total_price": "1 826.94",
+      "category": null
+    },
+    {
+      "description": "Franchise\nSurcharge Credit",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Bright Choice",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Customer Charge",
+      "quantity": "29.00",
+      "unit_price": "",
+      "total_price": "27.69",
+      "category": null
+    },
+    {
+      "description": "Charges First 4000",
+      "quantity": "1170.00",
+      "unit_price": "1.57",
+      "total_price": "1 841.16",
+      "category": null
+    },
+    {
+      "description": "Gas PPP Surcharge ($0.06237/Therm)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "72.97",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "17 844.56"
+  },
+  "payment_instructions": {
+    "due_date": "25/07/2022",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 23.221,
+  "file_size_bytes": 52816
+}

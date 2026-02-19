@@ -1,0 +1,35 @@
+{
+  "filename": "158723767.pdf",
+  "invoice": {
+    "client_name": "HUT AMERICAN C/O FLYNN RESTAURANT GROUP",
+    "client_address": "PO BOX 182596 MS 5\nCOLUMBUS, OH 43218-2596",
+    "seller_name": "Suburban\nPropane",
+    "seller_address": "PO BOX 260\nWHIPPANY, NJ 07981",
+    "invoice_number": "",
+    "invoice_date": "26/10/2023",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "PROPANE PRICE PER GALLON 1.5771",
+      "quantity": "178.30",
+      "unit_price": "",
+      "total_price": "281.20",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "21.09",
+    "discount": "",
+    "total": "302.29"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.642,
+  "file_size_bytes": 840895
+}

@@ -1,0 +1,8 @@
+{
+  "filename": "017_clean_standard.pdf",
+  "model_name": "glm-ocr",
+  "raw_text": "Craig and Sons\nUSCGC Cox | FPO AA 13957\n\nINVOICE\nNo: FAC1098289\nDate: 10/07/2024\n\nFROM\nCraig and Sons\nUSCGC Cox\nFPO AA 13957\n\nBILL TO\nSingleton, James and Morris\n12194 Tara Inlet\nPort Jasminfort, NM 32076\n\n# Description Quantity Unit Price Amount\n1 Versatile hybrid attitude 2.00 342.09 684.18\n2 Adaptive cohesive application 2.00 150.73 301.46\n3 Public-key directional challenge 8.00 411.51 3,292.08\n4 Cross-group modular parallelism 10.00 305.34 3,053.40\n5 Re-engineered 24/7 data-warehouse 1.00 455.08 455.08\n6 Optimized heuristic capability 6.00 111.99 671.94\n7 Persevering asymmetric policy 9.00 147.60 1,328.40\n8 Compatible real-time help-desk 1.00 100.90 100.90\n\nSubtotal 9,887.44\nTax (10%) 988.74\nDiscount -988.74\nTotal Due 9,887.44\n\nThank you for your business",
+  "processing_time_seconds": 31.234,
+  "file_size_bytes": 109914,
+  "success": true
+}

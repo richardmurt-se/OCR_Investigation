@@ -1,0 +1,112 @@
+{
+  "filename": "132593399.pdf",
+  "invoice": {
+    "client_name": "WELLFORD PROPERTIES LIMITED",
+    "client_address": "22/F\nRAILWAY PLAZA\n39 CHATHAM ROAD SOUTH\nTSIM SHA TSUI KOWLOON",
+    "seller_name": "CLP中中電",
+    "seller_address": "",
+    "invoice_number": "",
+    "invoice_date": "20/11/2023",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "高峰時段",
+      "quantity": "61082.00",
+      "unit_price": "73.80",
+      "total_price": "45 078.52",
+      "category": null
+    },
+    {
+      "description": "非高峰時段",
+      "quantity": "81740.00",
+      "unit_price": "66.10",
+      "total_price": "54 030.14",
+      "category": null
+    },
+    {
+      "description": "高峰時段",
+      "quantity": "0.00",
+      "unit_price": "68.40",
+      "total_price": "19 015.20",
+      "category": null
+    },
+    {
+      "description": "非高峰時段",
+      "quantity": "0.00",
+      "unit_price": "26.80",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "全年用電量\n數",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 710 564.00",
+      "category": null
+    },
+    {
+      "description": "每日平均用電量",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "4 673.00",
+      "category": null
+    },
+    {
+      "description": "每月平均用電量",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "142 547.00",
+      "category": null
+    },
+    {
+      "description": "高",
+      "quantity": "1.00",
+      "unit_price": "",
+      "total_price": "46 416.00",
+      "category": null
+    },
+    {
+      "description": "高峰",
+      "quantity": "1.00",
+      "unit_price": "",
+      "total_price": "14 666.00",
+      "category": null
+    },
+    {
+      "description": "非高",
+      "quantity": "1.00",
+      "unit_price": "",
+      "total_price": "81 740.00",
+      "category": null
+    },
+    {
+      "description": "燃料調整費",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "10 821.58",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "24.10",
+      "total_price": "24 427.76",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "118 123.86",
+    "tax": "",
+    "discount": "",
+    "total": "35 249.34"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 10.678,
+  "file_size_bytes": 887884
+}

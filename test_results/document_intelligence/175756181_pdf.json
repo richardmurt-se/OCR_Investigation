@@ -1,0 +1,56 @@
+{
+  "filename": "175756181.pdf",
+  "invoice": {
+    "client_name": "LA QUINTA INN 971",
+    "client_address": "P.O.BOX 2440\nSPOKANE WA 992102440",
+    "seller_name": "R\nRockdale Water Resources",
+    "seller_address": "P.O. BOX 1378\nCONYERS, GA 30012-1378",
+    "invoice_number": "5694380",
+    "invoice_date": "31/01/2025",
+    "due_date": "20/02/2025"
+  },
+  "items": [
+    {
+      "description": "Sewer Industrial Monitoring Fe",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "25.00",
+      "category": null
+    },
+    {
+      "description": "Non Residential 3\" Base and Vo",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Sewer 3\" Base and Volume",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "296.15",
+      "category": null
+    },
+    {
+      "description": "Non Residential 3\" Base and Vo",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 213.23",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "1 534.38"
+  },
+  "payment_instructions": {
+    "due_date": "20/02/2025",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.744,
+  "file_size_bytes": 75962
+}

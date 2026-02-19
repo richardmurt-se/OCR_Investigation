@@ -1,0 +1,8 @@
+{
+  "content": "INVOICE\nINV2411994133\n08/18/2025\n\nFROM Balogh Kht.\nSzeknemelli ot 100.\nH-1162 Pusztahidhida\n\nTO T\u00f6r\u00f6k Kft.\nVacamaii ter 193.\nH-4669 Budapest\n\nDESCRIPTION QTY PRICE TOTAL\nVision-oriented 3rdgeneration success 2.00 52.88 105.76\nMandatory homogeneous structure 5.00 369.97 1 849.85\nUniversal national data-warehouse 1.00 253.30 253.30\nProgressive bandwidth-monitored monitoring 3.00 95.62 286.86\n\nSubtotal 2 495.77\nTax 249.58\nDiscount -249.58\nTotal 2 495.77\n\nThank you",
+  "detections": [
+    {
+      "text": "INVOICE\nINV2411994133\n08/18/2025\n\nFROM Balogh Kht.\nSzeknemelli ot 100.\nH-1162 Pusztahidhida\n\nTO T\u00f6r\u00f6k Kft.\nVacamaii ter 193.\nH-4669 Budapest\n\nDESCRIPTION QTY PRICE TOTAL\nVision-oriented 3rdgeneration success 2.00 52.88 105.76\nMandatory homogeneous structure 5.00 369.97 1 849.85\nUniversal national data-warehouse 1.00 253.30 253.30\nProgressive bandwidth-monitored monitoring 3.00 95.62 286.86\n\nSubtotal 2 495.77\nTax 249.58\nDiscount -249.58\nTotal 2 495.77\n\nThank you"
+    }
+  ]
+}

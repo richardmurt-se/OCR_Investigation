@@ -1,0 +1,8 @@
+{
+  "filename": "028_clean_modern.png",
+  "model_name": "glm-ocr",
+  "raw_text": "Edwards-Michael\n6208 Amy Lodge Suite 460 - Jacobshire, AK 95754\n\nINVOICE\nINV-235339\n03/16/2024\n\nFROM\nEdwards-Michael\n6208 Amy Lodge Suite 460\nJacobshire, AK 95754\n\nBILL TO\nDean-Barker\n2125 Wise Way Suite 611\nNew Michellemouth, NC 94465\n\nDESCRIPTION QTY RATE AMOUNT\nEnterprise-wide regional alliance 10.00 493.74 4 937.40\nStand-alone bandwidth-monitored strategy 9.00 16.76 150.84\nOptimized systematic database 2.00 366.56 733.12\nOrganic intangible portal 10.00 292.02 2 920.20\nSelf-enabling multi-tasking migration 9.00 386.12 3 475.08\n\nSubtotal 12 216.64\nTax 1 221.66\nTotal 13 438.30\n\nPAYMENT DETAILS\nBank: Castaneda-Barnes Bank\nAccount: ZHFK10868336657721\nDue: 03/09/2026\n\nThank You!\nEdwards-Michael",
+  "processing_time_seconds": 46.599,
+  "file_size_bytes": 113045,
+  "success": true
+}

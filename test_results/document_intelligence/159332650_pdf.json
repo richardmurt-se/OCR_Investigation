@@ -1,0 +1,161 @@
+{
+  "filename": "159332650.pdf",
+  "invoice": {
+    "client_name": "Bath & Body Works",
+    "client_address": "",
+    "seller_name": "Dominion\nEnergy",
+    "seller_address": "",
+    "invoice_number": "005553158659",
+    "invoice_date": "04/12/2023",
+    "due_date": "02/01/2024"
+  },
+  "items": [
+    {
+      "description": "Balance Carry Forward",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Late Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Late Fee Adjustment",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Local Tax",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "10.44",
+      "category": null
+    },
+    {
+      "description": "Local Tax",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "92.52",
+      "category": null
+    },
+    {
+      "description": "Rider Vcr 2023 Credit",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-2.53",
+      "category": null
+    },
+    {
+      "description": "Distribution Service\nBasic Customer Charge",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "14.54",
+      "category": null
+    },
+    {
+      "description": "Distribution Service\nDistribution Service Kwh",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "130.81",
+      "category": null
+    },
+    {
+      "description": "Electricity Supply Svc Ess\nGeneration",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "276.73",
+      "category": null
+    },
+    {
+      "description": "Electricity Supply Svc Ess\nTransmission",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Electricity Supply Svc Ess\nFuel",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Electricity Supply Svc Ess\nRider Rggi Regional Ghg Initiative",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "39.95",
+      "category": null
+    },
+    {
+      "description": "Non-Bypassable Charges\nRider Ce Clean Energy Projects",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "11.66",
+      "category": null
+    },
+    {
+      "description": "Non-Bypassable Charges - Rider Rps Renewable Energy Pgm",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "11.88",
+      "category": null
+    },
+    {
+      "description": "Non-Bypassable Charges\nRider Ccr Coal Ash Closure",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "26.52",
+      "category": null
+    },
+    {
+      "description": "Non-Bypassable Charges\nRider Osw Off-Shore Wind",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "34.21",
+      "category": null
+    },
+    {
+      "description": "Non-Bypassable Charges - Rider Ppa Power Purchase Agreement",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "-2.49",
+      "category": null
+    },
+    {
+      "description": "Rider Pipp Universal Service Fee",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "0.45",
+      "category": null
+    },
+    {
+      "description": "Sales And Use Surcharge",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "4.51",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "904.82"
+  },
+  "payment_instructions": {
+    "due_date": "02/01/2024",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.529,
+  "file_size_bytes": 46008
+}

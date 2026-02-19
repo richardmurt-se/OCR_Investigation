@@ -1,0 +1,511 @@
+{
+  "filename": "139494462.pdf",
+  "invoice": {
+    "client_name": "Celgene",
+    "client_address": "10300 Campus Point Drive Suite 150\nSan Diego, CA 92121",
+    "seller_name": "SDG&E at 1-800-411-SDGE",
+    "seller_address": "10996 Torreyana Road, Suite 250, San Diego, CA 92121",
+    "invoice_number": "15",
+    "invoice_date": "28/10/2020",
+    "due_date": "10/11/2020"
+  },
+  "items": [
+    {
+      "description": "Electric",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "165 075.64",
+      "category": null
+    },
+    {
+      "description": "Gas",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "8 609.54",
+      "category": null
+    },
+    {
+      "description": "Non-recoverable",
+      "quantity": "2878.72",
+      "unit_price": "",
+      "total_price": "654.92",
+      "category": null
+    },
+    {
+      "description": "Albireo Energy",
+      "quantity": "1129.96",
+      "unit_price": "",
+      "total_price": "257.07",
+      "category": null
+    },
+    {
+      "description": "UCSD",
+      "quantity": "17460.63",
+      "unit_price": "",
+      "total_price": "3 972.35",
+      "category": null
+    },
+    {
+      "description": "Suite 225 Vacant",
+      "quantity": "8932.09",
+      "unit_price": "",
+      "total_price": "2 032.08",
+      "category": null
+    },
+    {
+      "description": "Celgene",
+      "quantity": "37898.62",
+      "unit_price": "",
+      "total_price": "8 622.06",
+      "category": null
+    },
+    {
+      "description": "Fitness Center",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Green Acre",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Truvian",
+      "quantity": "4089.39",
+      "unit_price": "",
+      "total_price": "930.35",
+      "category": null
+    },
+    {
+      "description": "Tech tenant",
+      "quantity": "17290.24",
+      "unit_price": "",
+      "total_price": "3 933.59",
+      "category": null
+    },
+    {
+      "description": "Non-recoverable",
+      "quantity": "38.49",
+      "unit_price": "",
+      "total_price": "31.01",
+      "category": null
+    },
+    {
+      "description": "Albireo Energy",
+      "quantity": "15.11",
+      "unit_price": "",
+      "total_price": "12.17",
+      "category": null
+    },
+    {
+      "description": "UCSD",
+      "quantity": "233.48",
+      "unit_price": "",
+      "total_price": "188.10",
+      "category": null
+    },
+    {
+      "description": "Suite 225 Vacant",
+      "quantity": "119.44",
+      "unit_price": "",
+      "total_price": "96.23",
+      "category": null
+    },
+    {
+      "description": "Celgene",
+      "quantity": "506.77",
+      "unit_price": "",
+      "total_price": "408.28",
+      "category": null
+    },
+    {
+      "description": "Fitness Center",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Green Acre",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Truvian",
+      "quantity": "54.68",
+      "unit_price": "",
+      "total_price": "44.06",
+      "category": null
+    },
+    {
+      "description": "Tech tenant",
+      "quantity": "231.20",
+      "unit_price": "",
+      "total_price": "186.27",
+      "category": null
+    },
+    {
+      "description": "House Meter 1",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "159 438.43",
+      "category": null
+    },
+    {
+      "description": "House Meter 2",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "160 453.77",
+      "category": null
+    },
+    {
+      "description": "House Meter 3",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "House Meter 4: HHWB",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2 065.43",
+      "category": null
+    },
+    {
+      "description": "House Meter 5",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "292 936.75",
+      "category": null
+    },
+    {
+      "description": "House Meter 6",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "142 010.00",
+      "category": null
+    },
+    {
+      "description": "Common Area",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Common Area",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 483.81",
+      "category": null
+    },
+    {
+      "description": "Tech tenant",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "9 279.75",
+      "category": null
+    },
+    {
+      "description": "Tech tenant",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "5 886.50",
+      "category": null
+    },
+    {
+      "description": "Tech tenant",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2 063.25",
+      "category": null
+    },
+    {
+      "description": "Tech tenant",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "6 051.62",
+      "category": null
+    },
+    {
+      "description": "Tech tenant",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "8 884.88",
+      "category": null
+    },
+    {
+      "description": "Tech tenant",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 661.57",
+      "category": null
+    },
+    {
+      "description": "Engineering Meter",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2 588.13",
+      "category": null
+    },
+    {
+      "description": "No load",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Truvian 9",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "72 322.00",
+      "category": null
+    },
+    {
+      "description": "Truvian 10",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "7 163.88",
+      "category": null
+    },
+    {
+      "description": "Covance Meter 7",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.97",
+      "category": null
+    },
+    {
+      "description": "Covance Meter 8",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2 423.00",
+      "category": null
+    },
+    {
+      "description": "Covance Meter 9",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "3 108.25",
+      "category": null
+    },
+    {
+      "description": "UCSD Meter 1",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2 808.81",
+      "category": null
+    },
+    {
+      "description": "UCSD Meter 2",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "7 645.43",
+      "category": null
+    },
+    {
+      "description": "UCSD Meter 3",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "124 251.00",
+      "category": null
+    },
+    {
+      "description": "UCSD Meter 4",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "13 824.75",
+      "category": null
+    },
+    {
+      "description": "UCSD Meter 5",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "8 143.88",
+      "category": null
+    },
+    {
+      "description": "UCSD Meter 6",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "7 388.81",
+      "category": null
+    },
+    {
+      "description": "UCSD Meter 7",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "5 026.34",
+      "category": null
+    },
+    {
+      "description": "UCSD Meter 8",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "52 939.50",
+      "category": null
+    },
+    {
+      "description": "Celgene SHA",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "643 260.00",
+      "category": null
+    },
+    {
+      "description": "Celgene SHB",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "125 982.00",
+      "category": null
+    },
+    {
+      "description": "Celgene PLDP-OP",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "9 298.00",
+      "category": null
+    },
+    {
+      "description": "Celgene MHDP-PB",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "87 648.00",
+      "category": null
+    },
+    {
+      "description": "Electric",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "330 236.63",
+      "category": null
+    },
+    {
+      "description": "Time of Use Customer Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "59.77",
+      "category": null
+    },
+    {
+      "description": "Summer On-Peak Demand",
+      "quantity": "672.00",
+      "unit_price": "18.95",
+      "total_price": "50 634.40",
+      "category": null
+    },
+    {
+      "description": "Summer Non-Coincident Demand",
+      "quantity": "704.00",
+      "unit_price": "23.94",
+      "total_price": "64 733.76",
+      "category": null
+    },
+    {
+      "description": "DWR Bond Charge",
+      "quantity": "1503000.00",
+      "unit_price": "0.01",
+      "total_price": "8 717.40",
+      "category": null
+    },
+    {
+      "description": "DWR Revenue Adjustment",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-120.24",
+      "category": null
+    },
+    {
+      "description": "Capacity Reservation Demand",
+      "quantity": "0.00",
+      "unit_price": "4.47",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "CPP Period",
+      "quantity": "19256.00",
+      "unit_price": "1.75",
+      "total_price": "33 739.40",
+      "category": null
+    },
+    {
+      "description": "Gas",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 451.81",
+      "category": null
+    },
+    {
+      "description": "City of\nDiego Franchise Fee Differential",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "13.96",
+      "category": null
+    },
+    {
+      "description": "Public Purpose Program",
+      "quantity": "1802.00",
+      "unit_price": "0.04",
+      "total_price": "73.97",
+      "category": null
+    },
+    {
+      "description": "State Regulatory Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "8.81",
+      "category": null
+    },
+    {
+      "description": "Gas",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "8 194.61",
+      "category": null
+    },
+    {
+      "description": "Diego Franchise Fee Differential",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "78.12",
+      "category": null
+    },
+    {
+      "description": "Public Purpose Program",
+      "quantity": "11582.00",
+      "unit_price": "0.04",
+      "total_price": "475.44",
+      "category": null
+    },
+    {
+      "description": "State Regulatory Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "56.64",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "96.74",
+    "discount": "",
+    "total": "21 368.54"
+  },
+  "payment_instructions": {
+    "due_date": "10/11/2020",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 18.579,
+  "file_size_bytes": 718649
+}

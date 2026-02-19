@@ -1,0 +1,91 @@
+{
+  "filename": "139245743.pdf",
+  "invoice": {
+    "client_name": "CAMERON UNIVERSITY\nBASEBALL FIELD",
+    "client_address": "2800 W GORE BLVD\nLAWTON OK 73505-6320",
+    "seller_name": "City of Lawton",
+    "seller_address": "212 SW 9TH STREET\nLAWTON, OK 73501",
+    "invoice_number": "010",
+    "invoice_date": "16/09/2021",
+    "due_date": "06/10/2021"
+  },
+  "items": [
+    {
+      "description": "Previous Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "95.55",
+      "category": null
+    },
+    {
+      "description": "Payments Through 09/16/2021",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-95.55",
+      "category": null
+    },
+    {
+      "description": "Adjustments/Late Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Water - Inside Governmnt",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "210.24",
+      "category": null
+    },
+    {
+      "description": "Pumping Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2.25",
+      "category": null
+    },
+    {
+      "description": "Capital Outlay (Rolling Stock)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "7.00",
+      "category": null
+    },
+    {
+      "description": "Drainage Maintenance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2.00",
+      "category": null
+    },
+    {
+      "description": "Storm Water Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.75",
+      "category": null
+    },
+    {
+      "description": "Waurika Water Purchase",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "7.50",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "229.74"
+  },
+  "payment_instructions": {
+    "due_date": "06/10/2021",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.895,
+  "file_size_bytes": 123172
+}

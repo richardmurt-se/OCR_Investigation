@@ -1,0 +1,8 @@
+{
+  "content": "Woods-Hayes\n2105 Winters Rue | South Ashley, SC 07131\n\nINVOICE\nNo: BILL-770407\nDate: 10/21/2024\nDue: 02/11/2026\n\nFROM\nWoods-Hayes\n2105 Winters Rue\nSouth Ashley, SC 07131\n\nBILL TO\nRobinson Inc\n1972 Reynolds Row\nPort Zachary, NY 52065\n\n# Description Quantity Unit Price Amount\n1 Persistent clear-thinking extranet 2.00 455.55 611.10\n2 Customizable empowering flexibility 6.00 274.97 1 649.82\n3 Open-architected directional system engine 4.00 328.84 1 315.36\n4 Managed regional alliance 1.00 265.29 265.29\n\nSubtotal 4 141.57\nTax (10%) 414.15\nTotal Due 4 555.73\n\nPAYMENT INFORMATION\nBank: Lee, Weaver and Burton Financial\nAccount: THS2441398885343\nMethod: ACH\n\nThank you for your business",
+  "detections": [
+    {
+      "text": "Woods-Hayes\n2105 Winters Rue | South Ashley, SC 07131\n\nINVOICE\nNo: BILL-770407\nDate: 10/21/2024\nDue: 02/11/2026\n\nFROM\nWoods-Hayes\n2105 Winters Rue\nSouth Ashley, SC 07131\n\nBILL TO\nRobinson Inc\n1972 Reynolds Row\nPort Zachary, NY 52065\n\n# Description Quantity Unit Price Amount\n1 Persistent clear-thinking extranet 2.00 455.55 611.10\n2 Customizable empowering flexibility 6.00 274.97 1 649.82\n3 Open-architected directional system engine 4.00 328.84 1 315.36\n4 Managed regional alliance 1.00 265.29 265.29\n\nSubtotal 4 141.57\nTax (10%) 414.15\nTotal Due 4 555.73\n\nPAYMENT INFORMATION\nBank: Lee, Weaver and Burton Financial\nAccount: THS2441398885343\nMethod: ACH\n\nThank you for your business"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "filename": "023_clean_corporate.png",
+  "model_name": "glm-ocr",
+  "raw_text": "Morton-Bryant\nUSS Mora - FPO AP 98327\n\nINVOICE\n#6536170030\n03/06/2024\n\nSELLER\nMorton-Bryant\nUSS Mora\nFPO AP 98327\n\nBUYER\nMyers, Heath and Gray\n9202 John Mill\nWest Jillside, MT 12779\n\nNO. DESCRIPTION QUANTITY UNIT PRICE AMOUNT\n1 Open-architected neutral pricing structure 4.00 157.22 628.88\n2 Secured methodical groupware 8.00 137.32 1 098.56\n3 Streamlined 24/7 moderator 2.00 45.57 91.14\n\nSubtotal 1 818.58\nTax (10%) 181.86\nDiscount -90.93\nTOTAL DUE 1 909.51\n\nBANKING DETAILS\nBank: Brown, Russo and Mercer Bank\nAccount: OTPQ092241414884328\nDue Date: 02/22/2026\n\nMorton-Bryant - Invoice #6536170030 - 03/06/2024",
+  "processing_time_seconds": 46.016,
+  "file_size_bytes": 32974,
+  "success": true
+}

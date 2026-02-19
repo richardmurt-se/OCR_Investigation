@@ -1,0 +1,77 @@
+{
+  "filename": "121955122.pdf",
+  "invoice": {
+    "client_name": "LUXOTTICA RETAIL NORTH AMERICA INC.\nLUXOTTICA RETAIL NORTH AMERICA, INC.\nC/O CASS INFORMATION SYSTEMS, INC/, MAIL STOP #6.",
+    "client_address": "PO BOX 182724\nCOLUMBUS OH 43218-2724",
+    "seller_name": "Constellation.\nExelon",
+    "seller_address": "PO Box 4911\nHouston, TX 77210-4911",
+    "invoice_number": "15495574701",
+    "invoice_date": "09/08/2019",
+    "due_date": "12/09/2019"
+  },
+  "items": [
+    {
+      "description": "Retail Service Charge",
+      "quantity": "2667.00",
+      "unit_price": "0.00",
+      "total_price": "3.47",
+      "category": null
+    },
+    {
+      "description": "Line Losses on Market Purchase",
+      "quantity": "145.10",
+      "unit_price": "0.03",
+      "total_price": "4.78",
+      "category": null
+    },
+    {
+      "description": "Renewable Portfolio Standards",
+      "quantity": "2667.00",
+      "unit_price": "0.01",
+      "total_price": "16.14",
+      "category": null
+    },
+    {
+      "description": "Market Energy - Day Ahead",
+      "quantity": "2667.00",
+      "unit_price": "0.03",
+      "total_price": "87.86",
+      "category": null
+    },
+    {
+      "description": "Reliability Must Run",
+      "quantity": "2812.10",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Capacity Charge",
+      "quantity": "8.05",
+      "unit_price": "9.71",
+      "total_price": "78.17",
+      "category": null
+    },
+    {
+      "description": "Ancillary Services",
+      "quantity": "2667.00",
+      "unit_price": "0.00",
+      "total_price": "4.12",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "186.29",
+    "tax": "12.35",
+    "discount": "",
+    "total": "206.89"
+  },
+  "payment_instructions": {
+    "due_date": "12/09/2019",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 13.534,
+  "file_size_bytes": 1449649
+}

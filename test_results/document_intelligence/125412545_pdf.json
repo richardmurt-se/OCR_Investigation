@@ -1,0 +1,70 @@
+{
+  "filename": "125412545.pdf",
+  "invoice": {
+    "client_name": "PNC BANK, NATIONAL ASSOCIATI\nC/O CASS",
+    "client_address": "PO BOX 182725\nCOLUMBUS OH 43218",
+    "seller_name": "MidAmerican Energy Services, LLC,",
+    "seller_address": "PO Box 8019 Davenport IA 52808-8019",
+    "invoice_number": "10232331",
+    "invoice_date": "22/01/2020",
+    "due_date": "13/02/2020"
+  },
+  "items": [
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "426.45",
+      "category": null
+    },
+    {
+      "description": "Bundled Fixed Supply",
+      "quantity": "5615.00",
+      "unit_price": "0.06",
+      "total_price": "342.35",
+      "category": null
+    },
+    {
+      "description": "RTO Adjustment",
+      "quantity": "5615.00",
+      "unit_price": "0.01",
+      "total_price": "30.94",
+      "category": null
+    },
+    {
+      "description": "Renewable Compliance Charge",
+      "quantity": "5615.00",
+      "unit_price": "0.00",
+      "total_price": "5.28",
+      "category": null
+    },
+    {
+      "description": "PA Gross Receipts Tax",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "23.74",
+      "category": null
+    },
+    {
+      "description": "PA State Sales Tax",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "24.14",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "426.45",
+    "tax": "47.88",
+    "discount": "",
+    "total": "426.45"
+  },
+  "payment_instructions": {
+    "due_date": "13/02/2020",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 11.043,
+  "file_size_bytes": 1326871
+}

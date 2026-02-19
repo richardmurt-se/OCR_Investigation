@@ -1,0 +1,27 @@
+{
+  "filename": "116992510.pdf",
+  "invoice": {
+    "client_name": "SHERATON CENTRE RPO",
+    "client_address": "PO BOX 2440\nSPOKANE WA 99210",
+    "seller_name": "conEdison",
+    "seller_address": "P.O. Box 138\nNew York, NY 10276-0138",
+    "invoice_number": "4461090076500140100015",
+    "invoice_date": "26/03/2019",
+    "due_date": "19/04/2019"
+  },
+  "items": [],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "7.87",
+    "discount": "",
+    "total": "182.82"
+  },
+  "payment_instructions": {
+    "due_date": "19/04/2019",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 13.449,
+  "file_size_bytes": 45117
+}

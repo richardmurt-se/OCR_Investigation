@@ -1,0 +1,133 @@
+{
+  "filename": "156342422.pdf",
+  "invoice": {
+    "client_name": "Donaldson",
+    "client_address": "",
+    "seller_name": "Xcel Energy®",
+    "seller_address": "",
+    "invoice_number": "5157388802230816",
+    "invoice_date": "16/08/2023",
+    "due_date": "13/09/2023"
+  },
+  "items": [
+    {
+      "description": "Previous Month\nBilled Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "24.85",
+      "category": null
+    },
+    {
+      "description": "Previous Month\nTotal Payment Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-24.85",
+      "category": null
+    },
+    {
+      "description": "Late Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Current Month\nBilled Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "30.27",
+      "category": null
+    },
+    {
+      "description": "Current Month\nActual Unpaid Principal Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Late Fee Adjustment",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "County Tax",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "City Fees",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "9.20",
+      "category": null
+    },
+    {
+      "description": "Transit Improvement",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "0.15",
+      "category": null
+    },
+    {
+      "description": "Fuel Cost Charge",
+      "quantity": "36.00",
+      "unit_price": "0.04",
+      "total_price": "1.52",
+      "category": null
+    },
+    {
+      "description": "Resource Adjustment",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "1.03",
+      "category": null
+    },
+    {
+      "description": "Basic Service Chg",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "10.00",
+      "category": null
+    },
+    {
+      "description": "Energy Charge Summer",
+      "quantity": "36.00",
+      "unit_price": "0.09",
+      "total_price": "3.33",
+      "category": null
+    },
+    {
+      "description": "Interim Rate Adj",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "1.80",
+      "category": null
+    },
+    {
+      "description": "Affordability Chrg",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "1.27",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "30.27"
+  },
+  "payment_instructions": {
+    "due_date": "13/09/2023",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.553,
+  "file_size_bytes": 49839
+}

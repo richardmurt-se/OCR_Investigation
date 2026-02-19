@@ -1,0 +1,8 @@
+{
+  "filename": "126_effect_perspective_warp.pdf",
+  "model_name": "glm-ocr",
+  "raw_text": "Baker, Reynolds and Cooke\n315 Charles Harbors Suite 265 | Franciscomouth, FL 42713\n\nINVOICE\nNo: 6544734962\nDate: 11/13/2024\n\nFROM\nBaker, Reynolds and Cooke\n315 Charles Harbors Suite 265\nFranciscomouth, FL 42713\n\nBILL TO\nTerry, Farmer and Serrano\n17644 Stephanie Hollow\nSalt John, PA 46469\n\n# Description Quantity Unit Price Amount\n1 Polarized needs-based open architecture 2.00 187.18 294.30\n2 Horizontal bandwidth-monitored access 7.00 242.56 1 607.92\n3 Diverse contextually-based framework 10.00 209.37 2 063.70\nSubtotal 4 185.92\nTax (10%) 415.99\nDiscount -200.30\nTotal Due 4 085.21\n\nThank you for your business",
+  "processing_time_seconds": 28.723,
+  "file_size_bytes": 80630,
+  "success": true
+}

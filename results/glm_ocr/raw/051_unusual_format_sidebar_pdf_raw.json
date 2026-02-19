@@ -1,0 +1,8 @@
+{
+  "content": "INVOICE\n\nDATE: 08/29/2025\nISSUE DATE: 02/22/2026\n\nSUMMARY\nSubtotal 3 024.47\nTax 302.45\nDiscount -151.22\nTOTAL 3 175.70\n\nDATE: 02/22/2026\n\nFROM: Boyd, Simmons and Smith\nClerk John Course\nPort Dawnshire, ID 49012\n\nTO: Brown-Edwards\nDent 8634 Box 3955\nDPO AP 72176\n\nLINE ITEMS\n\n01 Distributed coherent capacity *4.00 328.56\n02 Synergized human-resource intranet *2.00 556.96\n03 Fundamental optimizing implementation *5.00 2 138.95\n\nNote: Payment is due upon receipt. Please reference invoice number BILL-68886577 on all correspondence.",
+  "detections": [
+    {
+      "text": "INVOICE\n\nDATE: 08/29/2025\nISSUE DATE: 02/22/2026\n\nSUMMARY\nSubtotal 3 024.47\nTax 302.45\nDiscount -151.22\nTOTAL 3 175.70\n\nDATE: 02/22/2026\n\nFROM: Boyd, Simmons and Smith\nClerk John Course\nPort Dawnshire, ID 49012\n\nTO: Brown-Edwards\nDent 8634 Box 3955\nDPO AP 72176\n\nLINE ITEMS\n\n01 Distributed coherent capacity *4.00 328.56\n02 Synergized human-resource intranet *2.00 556.96\n03 Fundamental optimizing implementation *5.00 2 138.95\n\nNote: Payment is due upon receipt. Please reference invoice number BILL-68886577 on all correspondence."
+    }
+  ]
+}

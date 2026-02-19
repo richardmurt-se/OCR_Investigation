@@ -1,0 +1,8 @@
+{
+  "filename": "007_clean_corporate.png",
+  "model_name": "glm-ocr",
+  "raw_text": "Martinez, Gardner and Smith\n0311 Jackson Drive \u2022 New Jamestown, NC 35096\n\nINVOICE\n#FAC/158694\n11/10/2024\n\nSELLER\nMartinez, Gardner and Smith\n0311 Jackson Drive\nNew Jamestown, NC 35096\n\nBUYER\nWheeler Inc\n3974 Shelly Underpass Apt. 636\nLeeville, ID 51840\n\nNO. DESCRIPTION QUANTITY UNIT PRICE AMOUNT\n1 Assimilated executive Graphical User Interface 3.00 483.79 1 451.37\n2 Optional dedicated product 7.00 202.41 1 416.87\n3 Devolved intangible encryption 7.00 381.45 2 670.15\n4 Horizontal bandwidth-monitored algorithm 10.00 131.47 1 314.70\n5 User-centric modular productivity 2.00 244.04 486.08\n6 Object-based upward-trending conglomeration 8.00 197.40 1 579.20\n7 Function-based contextually-based Graphic Interface 8.00 338.75 2 710.00\n8 Balanced neutral capacity 8.00 106.19 849.52\n\nSubtotal 12 479.89\nTax (10%) 1 247.99\nTOTAL DUE 13 727.88\n\nMartinez, Gardner and Smith - Invoice #FAC/158694 - 11/10/2024",
+  "processing_time_seconds": 48.616,
+  "file_size_bytes": 41234,
+  "success": true
+}

@@ -1,0 +1,8 @@
+{
+  "content": "Massey Group\n95001 Kim Sour Apt. 800 | West Christopherville, CA 80768\n\nINVOICE\nNo. 89V 247182179\nDate: 04/16/2024\nDate: 02/19/2024\n\nFROM Massey Group\n95001 Kim Sour Apt. 800\nWest Christopherville, CA 80768\n\nBILL TO Burke Lee\n2000 Ford Springs Suite 118\nTranlantic, TX 30240\n\n# Description\nQuantity Unit Price Amount\n1 Rutual demand-driven productivity 5.00 200.47 1 002.28\n2 Rutual web-enabled Local Area network 6.00 179.30 1 426.40\n3 Persistent solution-oriented challenge 5.00 368.80 1 804.00\n4 Customer-focused background concept 2.00 181.28 362.56\n5 Synchronized disintermediate help desk 8.00 190.88 1 710.88\n\nSubtotal 8 441.18\nTax (10%) 644.12\nTotal Due 7 088.28\n\nPAYMENT INFORMATION\nBank: Massey Lt Financial\nAccount: A39977211457862138\nMethod: ACH",
+  "detections": [
+    {
+      "text": "Massey Group\n95001 Kim Sour Apt. 800 | West Christopherville, CA 80768\n\nINVOICE\nNo. 89V 247182179\nDate: 04/16/2024\nDate: 02/19/2024\n\nFROM Massey Group\n95001 Kim Sour Apt. 800\nWest Christopherville, CA 80768\n\nBILL TO Burke Lee\n2000 Ford Springs Suite 118\nTranlantic, TX 30240\n\n# Description\nQuantity Unit Price Amount\n1 Rutual demand-driven productivity 5.00 200.47 1 002.28\n2 Rutual web-enabled Local Area network 6.00 179.30 1 426.40\n3 Persistent solution-oriented challenge 5.00 368.80 1 804.00\n4 Customer-focused background concept 2.00 181.28 362.56\n5 Synchronized disintermediate help desk 8.00 190.88 1 710.88\n\nSubtotal 8 441.18\nTax (10%) 644.12\nTotal Due 7 088.28\n\nPAYMENT INFORMATION\nBank: Massey Lt Financial\nAccount: A39977211457862138\nMethod: ACH"
+    }
+  ]
+}

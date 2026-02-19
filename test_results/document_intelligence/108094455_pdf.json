@@ -1,0 +1,42 @@
+{
+  "filename": "108094455.pdf",
+  "invoice": {
+    "client_name": "SUNGLASS HUT #1712/CASS",
+    "client_address": "P.O. Box 182724\nColumbus, OH 43218",
+    "seller_name": "SSG\nSUSTAINABLE\nSOLUTIONS\nGROUP",
+    "seller_address": "7977 Hwy 92\nWoodstock, GA 30189",
+    "invoice_number": "REP0378413",
+    "invoice_date": "22/04/2018",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Monthly Waste Reduction Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "47.44",
+      "category": null
+    },
+    {
+      "description": "Processing Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.00",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "48.44",
+    "tax": "0.00",
+    "discount": "",
+    "total": "48.44"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.122,
+  "file_size_bytes": 548502
+}

@@ -1,0 +1,119 @@
+{
+  "filename": "171207622.pdf",
+  "invoice": {
+    "client_name": "VICGOV DOT\nINTELLIGENT\nTRANSPORT SYSTE\nUNMETERED STREET\nLIGHTING",
+    "client_address": "",
+    "seller_name": "Red Energy Pty\nLimited",
+    "seller_address": "",
+    "invoice_number": "515911614811",
+    "invoice_date": "18/11/2024",
+    "due_date": "18/12/2024"
+  },
+  "items": [
+    {
+      "description": "ENERGY - Peak Energy",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "264.21",
+      "category": null
+    },
+    {
+      "description": "ENERGY - Off Peak Energy",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "660.06",
+      "category": null
+    },
+    {
+      "description": "NETWORK - Peak Network",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "595.87",
+      "category": null
+    },
+    {
+      "description": "NETWORK - Off Peak Network",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "516.18",
+      "category": null
+    },
+    {
+      "description": "NETWORK - Unmetered Data Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "56.93",
+      "category": null
+    },
+    {
+      "description": "ENVIRONMENTAL - Environment Fee SREC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "134.67",
+      "category": null
+    },
+    {
+      "description": "ENVIRONMENTAL - Environment Fee LREC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "129.06",
+      "category": null
+    },
+    {
+      "description": "ENVIRONMENTAL - Environment Fee VEEC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "282.51",
+      "category": null
+    },
+    {
+      "description": "MARKET - Market Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "8.00",
+      "category": null
+    },
+    {
+      "description": "MARKET - Market Fee FRC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.95",
+      "category": null
+    },
+    {
+      "description": "MARKET - Market Fee Ancillary Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2.60",
+      "category": null
+    },
+    {
+      "description": "OTHER - Invoice Validation Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "15.80",
+      "category": null
+    },
+    {
+      "description": "OTHER - Network Charges Correction - GST incl\nOther Charges\nAdjustment",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-57.59",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "260.92",
+    "discount": "",
+    "total": ""
+  },
+  "payment_instructions": {
+    "due_date": "18/12/2024",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.495,
+  "file_size_bytes": 26383
+}

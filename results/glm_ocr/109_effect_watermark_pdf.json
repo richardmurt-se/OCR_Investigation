@@ -1,0 +1,8 @@
+{
+  "filename": "109_effect_watermark.pdf",
+  "model_name": "glm-ocr",
+  "raw_text": "Tran, Anderson and Martinez\nUSNS Lymn | FPO AP 40752\n\nINVOICE\nNo: BILL/83390041\nDate: 05/07/2024\nDue: 03/07/2026\n\nFROM\nTran, Anderson and Martinez\nUSNS Lymn\nFPO AP 40752\n\nBILL TO\nLam Group\n628 Perez Hills Suite 733\nCarlsburgh, AZ 28196\n\n# Description Quantity Unit Price Amount\n1 Down-sized high-level encryption 4.00 109.44 437.76\n2 Multi-lateral didactic monitoring 8.00 253.37 2 026.96\n3 Front-line dedicated service-desk 8.00 353.36 2 826.88\n4 Profit-focused responsive toolset 10.00 226.58 2 265.80\n\nSubtotal 7 557.40\nTax (10%) 755.74\nTotal Due 8 313.14\n\nPAYMENT INFORMATION\nBank: Taylor, Alexander and Good Credit Union\nAccount: VAF/61707701582540\nMethod: ACH\n\nThank you for your business",
+  "processing_time_seconds": 29.977,
+  "file_size_bytes": 46414,
+  "success": true
+}

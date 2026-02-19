@@ -1,0 +1,8 @@
+{
+  "filename": "011_clean_corporate.jpeg",
+  "model_name": "deepseek-ocr-2",
+  "raw_text": "<|ref|>sub_title<|/ref|><|det|>[[64, 150, 125, 163]]<|/det|>\nSELLER \n\n<|ref|>text<|/ref|><|det|>[[64, 174, 268, 188]]<|/det|>\nMolina, Spencer and Roach \n\n<|ref|>text<|/ref|><|det|>[[64, 190, 220, 213]]<|/det|>\n0458 Mary Summit Apt. 970\nWest Andrebury, PR 88586 \n\n<|ref|>sub_title<|/ref|><|det|>[[526, 150, 585, 163]]<|/det|>\nBUYER \n\n<|ref|>text<|/ref|><|det|>[[526, 174, 702, 188]]<|/det|>\nFlores, Cole and Ramos \n\n<|ref|>text<|/ref|><|det|>[[526, 190, 678, 213]]<|/det|>\n382 Melissa Spring Suite 331\nCurtisville, FL 45383 \n\n<|ref|>table<|/ref|><|det|>[[45, 245, 950, 355]]<|/det|>\n<table><tr><td>NO.</td><td>DESCRIPTION</td><td>QUANTITY</td><td>UNIT PRICE</td><td>AMOUNT</td></tr><tr><td>1</td><td>User-centric modular toolset</td><td>9.00</td><td>318.81</td><td>2 869.29</td></tr><tr><td>2</td><td>Expanded global throughput</td><td>8.00</td><td>290.71</td><td>2 325.68</td></tr><tr><td>3</td><td>Ameliorated foreground forecast</td><td>8.00</td><td>470.55</td><td>3 764.40</td></tr></table>\n\n<|ref|>table<|/ref|><|det|>[[590, 376, 950, 483]]<|/det|>\n<table><tr><td>Subtotal</td><td>8 959.37</td></tr><tr><td>Tax (10%)</td><td>895.94</td></tr><tr><td>Discount</td><td>-447.97</td></tr><tr><td>TOTAL DUE</td><td>9 407.34</td></tr></table>\n\n<|ref|>sub_title<|/ref|><|det|>[[64, 511, 210, 524]]<|/det|>\nBANKING DETAILS \n\n<|ref|>text<|/ref|><|det|>[[64, 529, 277, 565]]<|/det|>\nBank: Henderson-Carroll Credit Union\nAccount: LKBQ78534176570940\nDue Date: 03/03/2026",
+  "processing_time_seconds": 19.74,
+  "file_size_bytes": 77824,
+  "success": true
+}

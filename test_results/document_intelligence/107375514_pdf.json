@@ -1,0 +1,49 @@
+{
+  "filename": "107375514.pdf",
+  "invoice": {
+    "client_name": "HOTEL HQ - STORE 6198\nLIQUORLAND (AUSTRALIA) PTY LTD\nC/O SCHNEIDER ELECTRIC",
+    "client_address": "PO BOX 16224\nCOLLINS STREET WEST VIC 8007",
+    "seller_name": "origin",
+    "seller_address": "GPO Box 1199 Adelaide SA 5001",
+    "invoice_number": "1000136594",
+    "invoice_date": "30/03/2018",
+    "due_date": "29/04/2018"
+  },
+  "items": [
+    {
+      "description": "LP Gas Insitu Delivery",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "749.82",
+      "category": null
+    },
+    {
+      "description": "GST",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "74.98",
+      "category": null
+    },
+    {
+      "description": "LPG Propane LT",
+      "quantity": "134.90",
+      "unit_price": "0.66",
+      "total_price": "749.82",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "74.98",
+    "discount": "",
+    "total": "824.80"
+  },
+  "payment_instructions": {
+    "due_date": "29/04/2018",
+    "bank_name": "[DocumentField(value_type=dictionary, value={'BPayBillerCode': DocumentField(value_type=string, value='31', content=31, bounding_regions=[BoundingRegion(page_number=2, polygon=[Point(x=6.2157, y=9.3079), Point(x=6.3576, y=9.3079), Point(x=6.3627, y=9.4245), Point(x=6.2207, y=9.4245)])], spans=[DocumentSpan(offset=2292, length=2)], confidence=0.665), 'BPayReference': DocumentField(value_type=string, value='200 308469 8', content=200 308469 8, bounding_regions=[BoundingRegion(page_number=2, polygon=[Point(x=5.8051, y=9.436), Point(x=6.5359, y=9.4404), Point(x=6.5351, y=9.567), Point(x=5.8043, y=9.5626)])], spans=[DocumentSpan(offset=2380, length=12)], confidence=0.933)}, content=None, bounding_regions=[], spans=[], confidence=0.995), DocumentField(value_type=dictionary, value={'PostBillpayBillerCode': DocumentField(value_type=string, value='0810', content=0810, bounding_regions=[BoundingRegion(page_number=2, polygon=[Point(x=2.0837, y=10.1698), Point(x=2.3676, y=10.1698), Point(x=2.3676, y=10.3219), Point(x=2.0837, y=10.3219)])], spans=[DocumentSpan(offset=2569, length=4)], confidence=0.974), 'PostBillpayReference': DocumentField(value_type=string, value='2003 0846 98', content=2003 0846 98, bounding_regions=[BoundingRegion(page_number=2, polygon=[Point(x=1.5818, y=10.3067), Point(x=2.3271, y=10.3067), Point(x=2.3271, y=10.4436), Point(x=1.5818, y=10.4436)])], spans=[DocumentSpan(offset=2605, length=12)], confidence=0.861)}, content=None, bounding_regions=[], spans=[], confidence=0.995), DocumentField(value_type=dictionary, value={'PostBillpayBillerCode': DocumentField(value_type=string, value='5660', content=5660, bounding_regions=[BoundingRegion(page_number=2, polygon=[Point(x=6.2055, y=10.1799), Point(x=6.4844, y=10.1799), Point(x=6.4844, y=10.3067), Point(x=6.2106, y=10.3067)])], spans=[DocumentSpan(offset=2595, length=4)], confidence=0.536)}, content=None, bounding_regions=[], spans=[], confidence=0.995)]",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.702,
+  "file_size_bytes": 249702
+}

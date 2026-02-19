@@ -1,0 +1,112 @@
+{
+  "filename": "147415087.pdf",
+  "invoice": {
+    "client_name": "ARRIVA PLC",
+    "client_address": "",
+    "seller_name": "Resource Advisor",
+    "seller_address": "",
+    "invoice_number": "SO04380977.60",
+    "invoice_date": "15/07/2022",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Gas Cost",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "14.72",
+      "category": null
+    },
+    {
+      "description": "Standing Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "451.32",
+      "category": null
+    },
+    {
+      "description": "CCL",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "SC VAT",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "22.57",
+      "category": null
+    },
+    {
+      "description": "Commercial VAT Content",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Domestic VAT Content",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.74",
+      "category": null
+    },
+    {
+      "description": "CCL Com VAT",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Consumption",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "28.00",
+      "category": null
+    },
+    {
+      "description": "Previous Reading (Actual)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "417 956.00",
+      "category": null
+    },
+    {
+      "description": "Current Reading (Actual)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "417 984.00",
+      "category": null
+    },
+    {
+      "description": "Unit Price per kWh - 0.046152",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Alt Account Info - AG02602223",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "489.35"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.463,
+  "file_size_bytes": 26019
+}

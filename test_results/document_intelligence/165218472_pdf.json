@@ -1,0 +1,56 @@
+{
+  "filename": "165218472.pdf",
+  "invoice": {
+    "client_name": "PET SMART 1894",
+    "client_address": "PO BOX 182040\nCOLUMBUS OH 43218-2040",
+    "seller_name": "spire &.",
+    "seller_address": "",
+    "invoice_number": "",
+    "invoice_date": "11/06/2024",
+    "due_date": "26/06/2024"
+  },
+  "items": [
+    {
+      "description": "Customer charge (1 meter(s) at $189.61 per meter)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "189.61",
+      "category": null
+    },
+    {
+      "description": "Usage: 31.35 Ccf @ $0.15823",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "4.96",
+      "category": null
+    },
+    {
+      "description": "Pipeline upgrade charge (ISRS) (for 2 of 32 days)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.06",
+      "category": null
+    },
+    {
+      "description": "Pipeline upgrade charge (ISRS) (for 30 of 32 days)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "28.64",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "224.27",
+    "tax": "50.69",
+    "discount": "",
+    "total": "306.25"
+  },
+  "payment_instructions": {
+    "due_date": "26/06/2024",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 10.655,
+  "file_size_bytes": 863622
+}

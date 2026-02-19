@@ -1,0 +1,49 @@
+{
+  "filename": "110260196.pdf",
+  "invoice": {
+    "client_name": "FAIRFIELD INN & SUITES BY MARR",
+    "client_address": "60 OAK KNOLL DR\nSANTA CRUZ CA 95060-1309",
+    "seller_name": "greenwaste",
+    "seller_address": "1500 Berger Drive\nSan Jose, CA 95112",
+    "invoice_number": "0003503497",
+    "invoice_date": "01/07/2018",
+    "due_date": "31/07/2018"
+  },
+  "items": [
+    {
+      "description": "Capitola City Surcharge - Monthly",
+      "quantity": "1.00",
+      "unit_price": "0.39",
+      "total_price": "0.39",
+      "category": null
+    },
+    {
+      "description": "Front Load Recycle",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Front Load Trash",
+      "quantity": "1.00",
+      "unit_price": "1 487.07",
+      "total_price": "1 487.07",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "1 487.46"
+  },
+  "payment_instructions": {
+    "due_date": "31/07/2018",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.584,
+  "file_size_bytes": 189554
+}

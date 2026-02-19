@@ -1,0 +1,84 @@
+{
+  "filename": "113216837.pdf",
+  "invoice": {
+    "client_name": "PANERA LLC",
+    "client_address": "PO BOX 182308\nCOLUMBUS OH 43218-2308",
+    "seller_name": "JEA.",
+    "seller_address": "21 West Church Street, Jacksonville, FL 32202-3139",
+    "invoice_number": "16",
+    "invoice_date": "16/10/2018",
+    "due_date": "07/11/2018"
+  },
+  "items": [
+    {
+      "description": "Electric",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "45 144.82",
+      "category": null
+    },
+    {
+      "description": "Sewer",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "6 035.00",
+      "category": null
+    },
+    {
+      "description": "Water",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2 424.49",
+      "category": null
+    },
+    {
+      "description": "($0.06447 per",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "578.88",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "135.59",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "85.00",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "169.20",
+      "category": null
+    },
+    {
+      "description": "Sewer Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "571.90",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "53 604.31"
+  },
+  "payment_instructions": {
+    "due_date": "07/11/2018",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 18.401,
+  "file_size_bytes": 3490494
+}

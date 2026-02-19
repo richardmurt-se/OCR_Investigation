@@ -1,0 +1,8 @@
+{
+  "filename": "132_effect_motion_blur.jpeg",
+  "model_name": "glm-ocr",
+  "raw_text": "Young Back\n1199 and January 24, 1999\n\nINVOICE\nNo. NO. 4100001\nDate 04/24/1999\n\n1048\nYoung Back\n1048 and January 24, 1999\nCustumers Rentals\n1048 and January 24, 1999\nCustumers Rentals\n\n# Description Quantity Net Price Amount\n1 Expensive rent security 0.50 14.80 288.00\n2 Mature gift receipt 0.50 88.00 1750.00\n3 Customized gift delivery 0.50 99.14 1482.00\n\nTotal 482.60",
+  "processing_time_seconds": 42.778,
+  "file_size_bytes": 37553,
+  "success": true
+}

@@ -1,0 +1,8 @@
+{
+  "content": "Morton-Bryant\nUSS Mon - FPO AP 98327\n\nINVOICE\n#6536470030\n03/06/2024\n\nSELLER\nMorton-Bryant\nUSS Mon\nFPO AP 98327\n\nBUYER\nMyers, Heath and Gray\n9022 John MII\nWest Jillide, MT 12779\n\nNO. DESCRIPTION QUANTITY UNIT PRICE AMOUNT\n1 Open-architected neutral pricing structure 4.00 157.22 628.88\n2 Secured methodical groupware 8.00 137.32 1 098.56\n3 Streamlined 2.4/7 moderator 2.00 45.57 91.14\n\nSubtotal 1 818.58\nTax (10%) 181.86\nDiscount -90.93\nTOTAL DUE 1 909.51\n\nBANKING DETAILS\nBank: Morton, Birmingham and Mover Bank\nAccount: OTFPO9224441884358\nDue Date: 02/22/2026\n\nMorton-Bryant - Invoice #6536470030 - 03/06/2024",
+  "detections": [
+    {
+      "text": "Morton-Bryant\nUSS Mon - FPO AP 98327\n\nINVOICE\n#6536470030\n03/06/2024\n\nSELLER\nMorton-Bryant\nUSS Mon\nFPO AP 98327\n\nBUYER\nMyers, Heath and Gray\n9022 John MII\nWest Jillide, MT 12779\n\nNO. DESCRIPTION QUANTITY UNIT PRICE AMOUNT\n1 Open-architected neutral pricing structure 4.00 157.22 628.88\n2 Secured methodical groupware 8.00 137.32 1 098.56\n3 Streamlined 2.4/7 moderator 2.00 45.57 91.14\n\nSubtotal 1 818.58\nTax (10%) 181.86\nDiscount -90.93\nTOTAL DUE 1 909.51\n\nBANKING DETAILS\nBank: Morton, Birmingham and Mover Bank\nAccount: OTFPO9224441884358\nDue Date: 02/22/2026\n\nMorton-Bryant - Invoice #6536470030 - 03/06/2024"
+    }
+  ]
+}

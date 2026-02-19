@@ -1,0 +1,8 @@
+{
+  "filename": "034_complex_tables_spanning.pdf",
+  "model_name": "glm-ocr",
+  "raw_text": "Lee PLC\n087 Cynthia Knoll Suite 316 | Robertsville, OH 20013\nNo: INV-27996560\nDate: 09/10/2025\n\nSeller: Lee PLC \u2014 087 Cynthia Knoll Suite 316, Robertsville, OH 20013\nInvoice #: INV-27996560\nDate: 08/20/2025\nShip To: Lewis and Sons, 087 GI Plains, Antiochshire, No 75814\nDue: On Receipt\n\n# | SKU | Description | Quantity | Pricing | Total\n--- | --- | --- | --- | --- |\n| ITM0010 | Open architected secondary solution | Model UX-45G, Serial 6520318564 | 7.00 | 149.69 | 1 047.83 |\n| ITM0020 | Optional content sensitive implementation | Model BUT-90G, Serial 847218324 | 6.00 | 96.41 | 578.46 |\n| Item 1-5 | \u2014 Batch 1 Complete \u2014 | | | |\n| ITM0030 | Balanced upward trending secured line - 911GB, 42\" display | 2.00 | 2.00 | 371.38 | 742.76 |\n| ITM0040 | Mandatory optimizing info-mediaries (City: 96 units/pack) | 9.00 | 9.00 | 481.68 | 4 424.48 |\n| ITM0010 | Business-focused explicit array (City: 6 units/pack) | 5.00 | 5.00 | 1 445.40 | 1 445.40 |\n\nPayment due upon receipt.\n\nSubtotal: 8 238.85\nTax (10%): 823.89\nDiscount: -821.89\nShipping: 0.00\nTOTAL DUE: 8 238.85\n\nNotes: This invoice contains items spanning multiple categories. All prices are in local currency. Tax calculated at standard rate. Lee PLC Invoice #INV-27996560-08/10/2025",
+  "processing_time_seconds": 36.497,
+  "file_size_bytes": 127338,
+  "success": true
+}

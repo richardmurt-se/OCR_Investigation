@@ -1,0 +1,77 @@
+{
+  "filename": "117488739.pdf",
+  "invoice": {
+    "client_name": "AT&T",
+    "client_address": "",
+    "seller_name": "CALPINE\nENERGY SOLUTIONS",
+    "seller_address": "",
+    "invoice_number": "191010010566293",
+    "invoice_date": "11/04/2019",
+    "due_date": "26/04/2019"
+  },
+  "items": [
+    {
+      "description": "Previous Month\nBilled Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "19.26",
+      "category": null
+    },
+    {
+      "description": "Previous Month\nTotal Payment Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Late Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Current Month\nBilled Amount\nMonth",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "17.01",
+      "category": null
+    },
+    {
+      "description": "Late Fee Adjustment",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Generation",
+      "quantity": "331.00",
+      "unit_price": "0.05",
+      "total_price": "17.31",
+      "category": null
+    },
+    {
+      "description": "Arr Credit 3/4/19 - 4/1/19: 0 Obl * 29 Days |",
+      "quantity": "0.02",
+      "unit_price": "-13.62",
+      "total_price": "-0.30",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "17.01"
+  },
+  "payment_instructions": {
+    "due_date": "26/04/2019",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.589,
+  "file_size_bytes": 69248
+}

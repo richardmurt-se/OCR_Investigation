@@ -1,0 +1,8 @@
+{
+  "filename": "033_complex_tables_grouped.pdf",
+  "model_name": "glm-ocr",
+  "raw_text": "Dyer, Page and Edwards\n6728 Fox Squares . East Saraschchester, KY 61247\n\nINVOICE\n#BILL-512845 | 11/24/2025\n\nFROM\nDyer, Page and Edwards\n6728 Fox Squares\nEast Saraschchester, KY 61247\n\nBILL TO\nUnderwood Inc\n4048 William Ochard Apt. 835\nJenkinson, CO 36197\n\nGROUP A: Products\n# Code Description Quantity Unit Price Amount\n1 P-0100 Inverse bi-directional open architecture - 710GB, 38\" display 5.00 120.18 608.90\n2 P-0200 Cloned methodical utilization 5.00 148.39 741.95\n3 P-0300 Ameliorated multimedia superstructure | Model: BJQ-1467, Serial: B564225561 1.00 10.73 10.73\n\nGroup A Subtotal: \u2013\n\nGROUP B: Services\n# Code Description Hours/Qty Rate Amount\n1 S-0100 Synchronized systematic strategy - 567GB, 49\" display 8.00 84.25 674.00\n2 S-0200 Synergized uniform productivity | Model: IWE-9078, Serial: 6825697518 9.00 243.26 2 189.34\n3 S-0300 Multi-channeled discrete extranet (Qty: 52 units/pack) 4.00 353.94 1 415.76\n\nGroup B Subtotal: \u2013\n\nProducts Total: \u2013\nServices Total: \u2013\nSubtotal: 5 632.68\nTax (10%): 563.27\nTOTAL: 6 195.95\n\nPayment Information:\nRate: Goble, Bill and Dawson Financial | Account: S2Y52290796045922\nDue Date: 03/06/2028",
+  "processing_time_seconds": 35.131,
+  "file_size_bytes": 129311,
+  "success": true
+}

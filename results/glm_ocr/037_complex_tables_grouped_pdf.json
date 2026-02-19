@@ -1,0 +1,8 @@
+{
+  "filename": "037_complex_tables_grouped.pdf",
+  "model_name": "glm-ocr",
+  "raw_text": "Kidd, Floyd and Morris\n02758 Victoria Walks Apt. 960 Changville, NY 41427\n\nINVOICE\n#BILL/7700758690 | 03/31/2025\n\nFROM\nKidd, Floyd and Morris\n02758 Victoria Walks Apt. 960\nChangville, NY 41427\n\nBILL TO\nBarry, Soto and Dominguez\n8795 Lauren Crescent\nLake Wendy, MA 70279\n\nGROUP A: Products\n3 Items\n# Code Description Quantity Unit Price Amount\n1 P-0100 Cross-platform solution-oriented knowledgebase 5.00 438.72 2 193.68\n2 P-0200 Innovative bandwidth-monitored middleware - 96GB, 53' display 2.00 143.73 287.46\n3 P-0300 Fundamental mission-critical system engine 7.00 137.62 963.34\nGroup A Subtotal: \u2013\n\nGROUP B: Services\n3 Items\n# Code Description Hours/Qty Rate Amount\n1 S-0100 Upgradable full-range workforce 7.00 447.33 3 131.31\n2 S-0200 Managed dedicated policy | Model: zps-1511, Serial: 306026487 10.00 376.17 3 761.70\n3 S-0300 Implemented disintermediate frame | Model: zhp-4909, Serial: 351016433 4.00 287.63 1 156.52\nGroup B Subtotal: \u2013\n\nProducts Total: \u2013\nServices Total: \u2013\nSubtotal: 11 487.93\nTax (10%): 1 148.79\nTotal: 12 636.72\n\nPayment Information:\nBank: Chan, Walker and Fraster Bank | Account: MBJQ20187644431509\nDue Date: 03/01/2026",
+  "processing_time_seconds": 35.813,
+  "file_size_bytes": 127776,
+  "success": true
+}

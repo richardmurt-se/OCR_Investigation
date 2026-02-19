@@ -1,0 +1,84 @@
+{
+  "filename": "161451416.pdf",
+  "invoice": {
+    "client_name": "ARBYS #5312",
+    "client_address": "PO BOX 2440\nSPOKANE WA 99210-2440",
+    "seller_name": "MINNESOTA\nRESOURCES:",
+    "seller_address": "",
+    "invoice_number": "4912865001",
+    "invoice_date": "09/02/2024",
+    "due_date": "04/03/2024"
+  },
+  "items": [
+    {
+      "description": "Monthly Customer Charge",
+      "quantity": "28.00",
+      "unit_price": "45.00",
+      "total_price": "45.00",
+      "category": null
+    },
+    {
+      "description": "Interim Customer Charge",
+      "quantity": "28.00",
+      "unit_price": "14.77",
+      "total_price": "14.77",
+      "category": null
+    },
+    {
+      "description": "Distribution Charge",
+      "quantity": "853.10",
+      "unit_price": "0.17",
+      "total_price": "143.81",
+      "category": null
+    },
+    {
+      "description": "Interim Distribution Charge",
+      "quantity": "853.10",
+      "unit_price": "0.06",
+      "total_price": "47.19",
+      "category": null
+    },
+    {
+      "description": "Base Gas Cost",
+      "quantity": "853.10",
+      "unit_price": "0.91",
+      "total_price": "779.57",
+      "category": null
+    },
+    {
+      "description": "Purchased Gas Adjustment (PGA)",
+      "quantity": "853.10",
+      "unit_price": "-0.40",
+      "total_price": "-245.44",
+      "category": null
+    },
+    {
+      "description": "Purchased Gas Adjustment (PGA)",
+      "quantity": "853.10",
+      "unit_price": "-0.37",
+      "total_price": "-90.17",
+      "category": null
+    },
+    {
+      "description": "Conservation Cost Recovery Adj",
+      "quantity": "853.10",
+      "unit_price": "0.00",
+      "total_price": "1.32",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "763.42",
+    "tax": "",
+    "discount": "",
+    "total": "763.42"
+  },
+  "payment_instructions": {
+    "due_date": "04/03/2024",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 10.064,
+  "file_size_bytes": 86073
+}

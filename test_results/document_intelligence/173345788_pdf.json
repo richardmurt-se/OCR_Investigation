@@ -1,0 +1,84 @@
+{
+  "filename": "173345788.pdf",
+  "invoice": {
+    "client_name": "PETSMART INC.\nC/O 740900 PETSMART, MAIL STOP #1",
+    "client_address": "PO BOX 182040\nCOLUMBUS OH 43218-2040",
+    "seller_name": "CALIFORNIA\nAMERICAN WATER",
+    "seller_address": "P.O. BOX 91623\nRANTOUL, IL 61866-8623",
+    "invoice_number": "",
+    "invoice_date": "09/01/2025",
+    "due_date": "31/01/2025"
+  },
+  "items": [
+    {
+      "description": "Prior",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "254.48",
+      "category": null
+    },
+    {
+      "description": "Water Service Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "168.08",
+      "category": null
+    },
+    {
+      "description": "Water Usage Charge",
+      "quantity": "124.00",
+      "unit_price": "0.62",
+      "total_price": "77.21",
+      "category": null
+    },
+    {
+      "description": "WRAM/MCBA Surcharge",
+      "quantity": "124.00",
+      "unit_price": "0.05",
+      "total_price": "5.74",
+      "category": null
+    },
+    {
+      "description": "Customer Assistance Program Surcharge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.77",
+      "category": null
+    },
+    {
+      "description": "Purchased Water Surcharge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.91",
+      "category": null
+    },
+    {
+      "description": "Interim True Up Surcharge",
+      "quantity": "124.00",
+      "unit_price": "0.00",
+      "total_price": "0.17",
+      "category": null
+    },
+    {
+      "description": "Purchased Power Surcharge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.60",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "254.48",
+    "tax": "4.32",
+    "discount": "",
+    "total": "258.80"
+  },
+  "payment_instructions": {
+    "due_date": "31/01/2025",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 13.782,
+  "file_size_bytes": 2511959
+}

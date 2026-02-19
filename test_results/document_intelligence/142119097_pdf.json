@@ -1,0 +1,84 @@
+{
+  "filename": "142119097.pdf",
+  "invoice": {
+    "client_name": "JOHN Q. HAMMONS HOTELS\nC/O ENGIE INSIGHT - MS 5126",
+    "client_address": "SPOKANE, WA 99210 -- 2440",
+    "seller_name": "Direct\nEnergy\nBusiness",
+    "seller_address": "1001 Liberty Avenue\nPittsburgh, PA 15222",
+    "invoice_number": "220330048099323",
+    "invoice_date": "02/02/2022",
+    "due_date": "22/02/2022"
+  },
+  "items": [
+    {
+      "description": "Fixed Price\n274,818",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "CUSTOMER CHARGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "9.25",
+      "category": null
+    },
+    {
+      "description": "TRANSMISSION COST RECOVERY FACTOR",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "3 471.82",
+      "category": null
+    },
+    {
+      "description": "METERING CHARGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "30.82",
+      "category": null
+    },
+    {
+      "description": "NUCLEAR DECOMMISSIONING CHARGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "30.21",
+      "category": null
+    },
+    {
+      "description": "DISTRIBUTION SYSTEM CHARGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2 563.48",
+      "category": null
+    },
+    {
+      "description": "ENERGY EFFICIENCY COST RECOVERY",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "130.54",
+      "category": null
+    },
+    {
+      "description": "DISTRIBUTION COST RECOVERY FACTOR",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "279.76",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "1 981.18",
+    "discount": "",
+    "total": "21 039.75"
+  },
+  "payment_instructions": {
+    "due_date": "22/02/2022",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 9.802,
+  "file_size_bytes": 64871
+}

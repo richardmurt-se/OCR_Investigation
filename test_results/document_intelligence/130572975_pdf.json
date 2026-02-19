@@ -1,0 +1,35 @@
+{
+  "filename": "130572975.pdf",
+  "invoice": {
+    "client_name": "PCA MIAMI FULL LINE PLANT",
+    "client_address": "3500 NW 110TH ST\nMIAMI FL 33167-3724",
+    "seller_name": "AmeriGas®",
+    "seller_address": "10052 NW 89th Ave\nMedley FL 33178-1409",
+    "invoice_number": "3103301419",
+    "invoice_date": "26/02/2020",
+    "due_date": "27/03/2020"
+  },
+  "items": [
+    {
+      "description": "33.5 LB CYLINDER LIQUID\nSITE:103520195",
+      "quantity": "20.00",
+      "unit_price": "6.86",
+      "total_price": "137.24",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "156.46"
+  },
+  "payment_instructions": {
+    "due_date": "27/03/2020",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.547,
+  "file_size_bytes": 63547
+}

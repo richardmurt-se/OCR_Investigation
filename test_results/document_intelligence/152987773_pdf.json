@@ -1,0 +1,42 @@
+{
+  "filename": "152987773.pdf",
+  "invoice": {
+    "client_name": "RUBY TUESDAY\nRUBY\nMAIL",
+    "client_address": "PO BOX 182213\nCOLUMBUS OH 43218-2213",
+    "seller_name": "CITY OF EDEN",
+    "seller_address": "P.O. Box 70\nEden, NC 27289-0070",
+    "invoice_number": "",
+    "invoice_date": "14/04/2023",
+    "due_date": "04/05/2023"
+  },
+  "items": [
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "439.87",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "735.18",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "1 175.05"
+  },
+  "payment_instructions": {
+    "due_date": "04/05/2023",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.729,
+  "file_size_bytes": 257800
+}

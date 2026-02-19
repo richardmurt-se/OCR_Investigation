@@ -1,0 +1,8 @@
+{
+  "content": "Martinez Inc\nUnit 2889 Box 4283 DPO AA 10861\n\nINVOICE\n\nNo: BILL/91137331\nDate: 10/04/2025\nDue: 02/26/2026\n\nFROM\nMartinez Inc\nUnit 2889 Box 4283\nDPO AA 10861\n\nBILL TO\nAlvarez, Thompson and Smith\n05217 Brown Drive Apt. 482\nWest Oscarville, AK 57000\n\n# Description Quantity Unit Price Amount\n1 Re-contextualized composite pricing structure 8.00 30.37 242.96\n2 Diverse upward-trending synergy 4.00 476.63 1 806.52\n3 Fully-configurable explicit contingency 2.00 24.99 49.98\n4 Distributed zero administration analyzer 10.00 379.25 3 792.50\n\nSubtotal 5 991.96\nTax (10%) 599.20\nTotal Due 6 591.16\n\nPAYMENT INFORMATION\nBank: King and Sons Bank\nAccount: EDI/W53289400720069\nMethod: Wire Transfer\n\nThank you for your business",
+  "detections": [
+    {
+      "text": "Martinez Inc\nUnit 2889 Box 4283 DPO AA 10861\n\nINVOICE\n\nNo: BILL/91137331\nDate: 10/04/2025\nDue: 02/26/2026\n\nFROM\nMartinez Inc\nUnit 2889 Box 4283\nDPO AA 10861\n\nBILL TO\nAlvarez, Thompson and Smith\n05217 Brown Drive Apt. 482\nWest Oscarville, AK 57000\n\n# Description Quantity Unit Price Amount\n1 Re-contextualized composite pricing structure 8.00 30.37 242.96\n2 Diverse upward-trending synergy 4.00 476.63 1 806.52\n3 Fully-configurable explicit contingency 2.00 24.99 49.98\n4 Distributed zero administration analyzer 10.00 379.25 3 792.50\n\nSubtotal 5 991.96\nTax (10%) 599.20\nTotal Due 6 591.16\n\nPAYMENT INFORMATION\nBank: King and Sons Bank\nAccount: EDI/W53289400720069\nMethod: Wire Transfer\n\nThank you for your business"
+    }
+  ]
+}

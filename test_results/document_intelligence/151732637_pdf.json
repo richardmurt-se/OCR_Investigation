@@ -1,0 +1,203 @@
+{
+  "filename": "151732637.pdf",
+  "invoice": {
+    "client_name": "MINTUS",
+    "client_address": "",
+    "seller_name": "Resource Advisor",
+    "seller_address": "",
+    "invoice_number": "",
+    "invoice_date": "02/08/2021",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Consumption peak (Normal)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 342.65",
+      "category": null
+    },
+    {
+      "description": "Consumption off-peak (Normal)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "828.76",
+      "category": null
+    },
+    {
+      "description": "Contribution cogeneration (CHP)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "144.03",
+      "category": null
+    },
+    {
+      "description": "Contribution renewable energy",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "962.60",
+      "category": null
+    },
+    {
+      "description": "Power",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "213.78",
+      "category": null
+    },
+    {
+      "description": "Subscribed Power",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "213.78",
+      "category": null
+    },
+    {
+      "description": "Charges according to consumption",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "36.40",
+      "category": null
+    },
+    {
+      "description": "Netlosses",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "14.71",
+      "category": null
+    },
+    {
+      "description": "System Management",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "10.28",
+      "category": null
+    },
+    {
+      "description": "Public service Obligation",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "135.60",
+      "category": null
+    },
+    {
+      "description": "Unfunded pensions",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "4.92",
+      "category": null
+    },
+    {
+      "description": "Retribution authorities",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "3.05",
+      "category": null
+    },
+    {
+      "description": "Fix term",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "6.83",
+      "category": null
+    },
+    {
+      "description": "Subscribed Power",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "409.71",
+      "category": null
+    },
+    {
+      "description": "System Management",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "108.93",
+      "category": null
+    },
+    {
+      "description": "Primary frequency control",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "33.00",
+      "category": null
+    },
+    {
+      "description": "Connection Offshore Windturbines",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "4.00",
+      "category": null
+    },
+    {
+      "description": "Measures to support renewable energy",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "26.34",
+      "category": null
+    },
+    {
+      "description": "Green certificates",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "450.88",
+      "category": null
+    },
+    {
+      "description": "Contribution REG-URE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2.99",
+      "category": null
+    },
+    {
+      "description": "PSO Strategic reserve",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2.43",
+      "category": null
+    },
+    {
+      "description": "Marketintegration",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "17.47",
+      "category": null
+    },
+    {
+      "description": "Levy for the taxes \"pylons\" and \"trenches\"",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "21.17",
+      "category": null
+    },
+    {
+      "description": "Contribution Energiefonds",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "155.51",
+      "category": null
+    },
+    {
+      "description": "Federal Contribution",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "135.50",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "1 003.91",
+    "discount": "",
+    "total": "6 075.45"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.498,
+  "file_size_bytes": 26970
+}

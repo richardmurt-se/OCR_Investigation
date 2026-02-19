@@ -1,0 +1,35 @@
+{
+  "filename": "156769110.pdf",
+  "invoice": {
+    "client_name": "",
+    "client_address": "",
+    "seller_name": "景洪云旅投旅游开发有限公司西双版纳云投喜来登酒店\n景洪市给排水有限责任公司",
+    "seller_address": "",
+    "invoice_number": ":23532000000017019010",
+    "invoice_date": "24/08/2023",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "*水冰雪*自来水(生产经\n营水费)",
+      "quantity": "11331.00",
+      "unit_price": "3.01",
+      "total_price": "34 103.01",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "34 103.01",
+    "tax": "1 023.09",
+    "discount": "",
+    "total": "35 126.00"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.858,
+  "file_size_bytes": 132615
+}

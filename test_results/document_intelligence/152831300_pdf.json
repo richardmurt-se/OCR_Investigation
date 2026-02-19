@@ -1,0 +1,56 @@
+{
+  "filename": "152831300.pdf",
+  "invoice": {
+    "client_name": "Mac's Convenience Store",
+    "client_address": "PO BOX 182487\nCOLUMBUS OH 43218-2487",
+    "seller_name": "NORTH WEST\nUTILITY DISTRICT",
+    "seller_address": "9905 DAYTON PIKE, SODDY DAISY, TN 37379",
+    "invoice_number": "",
+    "invoice_date": "31/03/2023",
+    "due_date": "21/04/2023"
+  },
+  "items": [
+    {
+      "description": "Water",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "52.91",
+      "category": null
+    },
+    {
+      "description": "Sewer",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "207.46",
+      "category": null
+    },
+    {
+      "description": "Sewer PSLP",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "8.00",
+      "category": null
+    },
+    {
+      "description": "Sales",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "4.89",
+    "discount": "",
+    "total": "273.26"
+  },
+  "payment_instructions": {
+    "due_date": "21/04/2023",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.104,
+  "file_size_bytes": 509159
+}

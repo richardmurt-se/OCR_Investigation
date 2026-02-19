@@ -1,0 +1,8 @@
+{
+  "content": "INVOICE\nINV863393\n11/15/2024\n\nFROM\nAlvarez, Kelly and Morris\n188 Vanessa Keys\nLoganville, ME 35474\n\nTO\nTyler and Sons\n99807 Webb Village\nPort Anthony, KS 19546\n\nDESCRIPTION QTY PRICE TOTAL\nObject-based static archive 8.00 96.99 775.92\nUpgradable client-server utilization 5.00 447.62 2 238.10\nFocused attitude-oriented middleware 9.00 373.31 3 359.79\nVision-oriented exuding knowledge user 3.00 178.99 536.97\nRobust cohesive monitoring 9.00 187.35 1 508.15\nDevolved incremental array 4.00 220.92 883.68\n\nSubtotal 9 300.61\nTax 930.06\nTotal 10 230.67\n\nThank you",
+  "detections": [
+    {
+      "text": "INVOICE\nINV863393\n11/15/2024\n\nFROM\nAlvarez, Kelly and Morris\n188 Vanessa Keys\nLoganville, ME 35474\n\nTO\nTyler and Sons\n99807 Webb Village\nPort Anthony, KS 19546\n\nDESCRIPTION QTY PRICE TOTAL\nObject-based static archive 8.00 96.99 775.92\nUpgradable client-server utilization 5.00 447.62 2 238.10\nFocused attitude-oriented middleware 9.00 373.31 3 359.79\nVision-oriented exuding knowledge user 3.00 178.99 536.97\nRobust cohesive monitoring 9.00 187.35 1 508.15\nDevolved incremental array 4.00 220.92 883.68\n\nSubtotal 9 300.61\nTax 930.06\nTotal 10 230.67\n\nThank you"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "filename": "151995015.pdf",
+  "invoice": {
+    "client_name": "WASHINGTON MUTUAL\nc/o JP MORGAN CHASE NA",
+    "client_address": "P.O. BOX 182269\nCOLUMBUS, OH 43218-2269",
+    "seller_name": "CALIFORNIA\nAMERICAN WATER",
+    "seller_address": "P.O. BOX 91623\nRANTOUL, IL 61866-8623",
+    "invoice_number": "",
+    "invoice_date": "13/03/2023",
+    "due_date": "27/04/2023"
+  },
+  "items": [
+    {
+      "description": "Prior Billing:",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "303.01",
+      "category": null
+    },
+    {
+      "description": "Payments\nThank You!",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "110.61",
+      "category": null
+    },
+    {
+      "description": "Service Related Charges:",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "387.22",
+      "category": null
+    },
+    {
+      "description": "Water Service",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "373.17",
+      "category": null
+    },
+    {
+      "description": "Water Service Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "100.13",
+      "category": null
+    },
+    {
+      "description": "Water Usage Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "273.04",
+      "category": null
+    },
+    {
+      "description": "Customer Assistance Program Surcharge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.59",
+      "category": null
+    },
+    {
+      "description": "CIAC Surcharge",
+      "quantity": "1.00",
+      "unit_price": "",
+      "total_price": "0.26",
+      "category": null
+    },
+    {
+      "description": "Consolidated\nBalancing",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Purchased Water Surcharge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "WRAM/MCBA Surcredit",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-7.88",
+      "category": null
+    },
+    {
+      "description": "Interim True Up Surcharge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "10.23",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "387.22",
+    "tax": "10.84",
+    "discount": "",
+    "total": "590.46"
+  },
+  "payment_instructions": {
+    "due_date": "27/04/2023",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 14.475,
+  "file_size_bytes": 1184579
+}

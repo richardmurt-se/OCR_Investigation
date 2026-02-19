@@ -1,0 +1,56 @@
+{
+  "filename": "129043937.pdf",
+  "invoice": {
+    "client_name": "FERGUSON ENTERPRISES, INC.",
+    "client_address": "PO BOX 182265\nCOLUMBUS OH 43218-2265",
+    "seller_name": "CONNEXUS® ENERGY",
+    "seller_address": "14601 Ramsey Boulevard, Ramsey, MN 55303",
+    "invoice_number": "",
+    "invoice_date": "09/07/2020",
+    "due_date": "01/08/2020"
+  },
+  "items": [
+    {
+      "description": "Previous Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "290.78",
+      "category": null
+    },
+    {
+      "description": "Payments - Thank You!",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "290.78",
+      "category": null
+    },
+    {
+      "description": "New Charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "350.91",
+      "category": null
+    },
+    {
+      "description": "Energy",
+      "quantity": "2438.00",
+      "unit_price": "0.13",
+      "total_price": "",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "350.91"
+  },
+  "payment_instructions": {
+    "due_date": "01/08/2020",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.124,
+  "file_size_bytes": 625731
+}

@@ -1,0 +1,8 @@
+{
+  "filename": "153_effect_hole_punches.png",
+  "model_name": "deepseek-ocr-2",
+  "raw_text": "<|ref|>text<|/ref|><|det|>[[22, 116, 66, 128]]<|/det|>\nFROM\n\n<|ref|>text<|/ref|><|det|>[[22, 135, 130, 148]]<|/det|>\nBeasley-Salas\n\n<|ref|>text<|/ref|><|det|>[[22, 150, 175, 171]]<|/det|>\n5740 Jennifer Expressway\nSouth Jessicaberg, AR 90631\n\n<|ref|>text<|/ref|><|det|>[[546, 116, 601, 129]]<|/det|>\nBILL TO\n\n<|ref|>text<|/ref|><|det|>[[546, 135, 627, 148]]<|/det|>\nWhite-Park\n\n<|ref|>text<|/ref|><|det|>[[546, 150, 629, 171]]<|/det|>\nUSNV Wallace\nFPO AA 90280\n\n<|ref|>table<|/ref|><|det|>[[20, 196, 974, 456]]<|/det|>\n<table><tr><td>#</td><td>Description</td><td>Quantity</td><td>Unit Price</td><td>Amount</td></tr><tr><td>1</td><td>De-engineered cohesive budgetary management</td><td>1.00</td><td>469.96</td><td>469.96</td></tr><tr><td>2</td><td>Horizontal multi-tasking support</td><td>10.00</td><td>199.93</td><td>1 999.30</td></tr><tr><td>3</td><td>Total foreground matrix</td><td>7.00</td><td>74.55</td><td>521.85</td></tr><tr><td>4</td><td>Progressive content-based synergy</td><td>10.00</td><td>294.35</td><td>2 943.50</td></tr><tr><td>5</td><td>Synergistic systemic complexity</td><td>10.00</td><td>52.04</td><td>520.40</td></tr><tr><td></td><td></td><td></td><td>Subtotal</td><td>6 455.01</td></tr><tr><td></td><td></td><td></td><td>Tax (10%)</td><td>645.50</td></tr><tr><td></td><td></td><td></td><td>Total Due</td><td>7 100.51</td></tr></table>\n\n<|ref|>text<|/ref|><|det|>[[425, 481, 571, 493]]<|/det|>\nThank you for your business\n\n<|ref|>image<|/ref|><|det|>[[40, 496, 75, 520]]<|/det|>",
+  "processing_time_seconds": 19.411,
+  "file_size_bytes": 29997,
+  "success": true
+}

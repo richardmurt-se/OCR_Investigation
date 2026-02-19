@@ -1,0 +1,126 @@
+{
+  "filename": "124060234.pdf",
+  "invoice": {
+    "client_name": "Barnes and Noble",
+    "client_address": "",
+    "seller_name": "ENGie",
+    "seller_address": "P.O. Box 25225\nLehigh Valley Pa 18002-5225",
+    "invoice_number": "9778288000",
+    "invoice_date": "15/11/2019",
+    "due_date": "05/12/2019"
+  },
+  "items": [
+    {
+      "description": "Previous Month\nActual Unpaid Principal Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "3 263.93",
+      "category": null
+    },
+    {
+      "description": "Balance Carry Forward",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Previous Month\nTotal Payment Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-3 263.93",
+      "category": null
+    },
+    {
+      "description": "Late Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Current Month\nBeginning Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Late Fee Adjustment",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Energy 27400 Kwh At $0.0463 Per Kwh",
+      "quantity": "27400.00",
+      "unit_price": "0.05",
+      "total_price": "1 268.62",
+      "category": null
+    },
+    {
+      "description": "Customer Charge",
+      "quantity": "1.00",
+      "unit_price": "9.25",
+      "total_price": "9.25",
+      "category": null
+    },
+    {
+      "description": "Metering Charge",
+      "quantity": "1.00",
+      "unit_price": "30.82",
+      "total_price": "30.82",
+      "category": null
+    },
+    {
+      "description": "Energy Efficiency Cost Recovery 27400 Kwh @\n$0.000414/Kwh",
+      "quantity": "27400.00",
+      "unit_price": "0.00",
+      "total_price": "11.34",
+      "category": null
+    },
+    {
+      "description": "Distribution Cost Recovery Factor 104 Kw @\n$0.099593/KW",
+      "quantity": "104.00",
+      "unit_price": "0.10",
+      "total_price": "10.36",
+      "category": null
+    },
+    {
+      "description": "Distribution System Charge 104 Kw @ $4.49733/KW",
+      "quantity": "104.00",
+      "unit_price": "4.50",
+      "total_price": "467.72",
+      "category": null
+    },
+    {
+      "description": "Nuclear Decommission 104 Kw @ $0.053/Kw",
+      "quantity": "104.00",
+      "unit_price": "0.05",
+      "total_price": "5.51",
+      "category": null
+    },
+    {
+      "description": "Transmission Cost Recovery Factor 92 Kw @\n$3.860599/KW",
+      "quantity": "92.00",
+      "unit_price": "3.86",
+      "total_price": "355.18",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "2 386.88"
+  },
+  "payment_instructions": {
+    "due_date": "05/12/2019",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.511,
+  "file_size_bytes": 45324
+}

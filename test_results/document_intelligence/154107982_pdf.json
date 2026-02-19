@@ -1,0 +1,56 @@
+{
+  "filename": "154107982.pdf",
+  "invoice": {
+    "client_name": "LHOIST NORTH AMERICA OF ARIZONA, INC\nATTN ACCOUNTS PAYABLE\nPO # 1501190030",
+    "client_address": "PO BOX 985004\n/\nFORT WORTH, CA 76185-5004",
+    "seller_name": "PG&E",
+    "seller_address": "70 GARDEN CT STE 300\nMONTEREY CA 93940",
+    "invoice_number": "",
+    "invoice_date": "03/05/2023",
+    "due_date": "22/05/2023"
+  },
+  "items": [
+    {
+      "description": "Due on Previous Statement",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "112.13",
+      "category": null
+    },
+    {
+      "description": "Payment(s) Received Since Last Statement",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-10.07",
+      "category": null
+    },
+    {
+      "description": "Current PG&E Electric Delivery Charges\nCoast Community Energy Electric Generation Charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "26.28",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "26.28",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "0.00"
+  },
+  "payment_instructions": {
+    "due_date": "22/05/2023",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 17.901,
+  "file_size_bytes": 395584
+}

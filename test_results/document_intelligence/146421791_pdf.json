@@ -1,0 +1,42 @@
+{
+  "filename": "146421791.pdf",
+  "invoice": {
+    "client_name": "JACOBS DOUWE EGBERTS NL BV",
+    "client_address": "Vleutensevaart 35\n3532 AD UTRECHT",
+    "seller_name": "VATTENFALL",
+    "seller_address": "Postbus 41920\n1009 DC Amsterdam",
+    "invoice_number": "40052413407",
+    "invoice_date": "02/05/2022",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Totaal levering tegen 21% BTW",
+      "quantity": "",
+      "unit_price": "2 526.67",
+      "total_price": "3 057.27",
+      "category": null
+    },
+    {
+      "description": "Nederlandse Wind Fixed Volume",
+      "quantity": "666667.00",
+      "unit_price": "0.00",
+      "total_price": "2 526.67",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "2 526.67",
+    "tax": "530.60",
+    "discount": "",
+    "total": "3 057.27"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "[DocumentField(value_type=dictionary, value={'IBAN': DocumentField(value_type=string, value='NL54INGB0000000503.', content=NL54INGB0000000503., bounding_regions=[BoundingRegion(page_number=1, polygon=[Point(x=4.5111, y=4.9632), Point(x=5.5705, y=4.9632), Point(x=5.5705, y=5.0646), Point(x=4.5111, y=5.0646)])], spans=[DocumentSpan(offset=670, length=19)], confidence=0.87)}, content=None, bounding_regions=[], spans=[], confidence=0.995), DocumentField(value_type=dictionary, value={'IBAN': DocumentField(value_type=string, value='NL42INGB0000827935', content=NL42INGB0000827935, bounding_regions=[BoundingRegion(page_number=2, polygon=[Point(x=6.346, y=10.5956), Point(x=7.6132, y=10.5906), Point(x=7.6132, y=10.7021), Point(x=6.346, y=10.7072)])], spans=[DocumentSpan(offset=2436, length=18)], confidence=0.983), 'SWIFT': DocumentField(value_type=string, value='INGBNL2A', content=INGBNL2A, bounding_regions=[BoundingRegion(page_number=2, polygon=[Point(x=7.0708, y=10.474), Point(x=7.6081, y=10.4689), Point(x=7.6081, y=10.5754), Point(x=7.0708, y=10.5754)])], spans=[DocumentSpan(offset=2388, length=8)], confidence=0.957)}, content=None, bounding_regions=[], spans=[], confidence=0.995), DocumentField(value_type=dictionary, value={'IBAN': DocumentField(value_type=string, value='NL42INGB0000827935', content=NL42INGB0000827935, bounding_regions=[BoundingRegion(page_number=3, polygon=[Point(x=6.3511, y=10.5906), Point(x=7.6182, y=10.5906), Point(x=7.6132, y=10.7021), Point(x=6.3511, y=10.7072)])], spans=[DocumentSpan(offset=3342, length=18)], confidence=0.984), 'SWIFT': DocumentField(value_type=string, value='INGBNL2A', content=INGBNL2A, bounding_regions=[BoundingRegion(page_number=3, polygon=[Point(x=7.0708, y=10.474), Point(x=7.6132, y=10.474), Point(x=7.6132, y=10.5754), Point(x=7.0708, y=10.5754)])], spans=[DocumentSpan(offset=3294, length=8)], confidence=0.963)}, content=None, bounding_regions=[], spans=[], confidence=0.995)]",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 9.578,
+  "file_size_bytes": 29734
+}

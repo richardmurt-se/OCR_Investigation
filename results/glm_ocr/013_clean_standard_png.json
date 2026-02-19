@@ -1,0 +1,8 @@
+{
+  "filename": "013_clean_standard.png",
+  "model_name": "glm-ocr",
+  "raw_text": "Webb Group\n120 Daniel Fields Apt. 416 | East Jaclynburgh, IL 22743\n\nINVOICE\nNo: 30352086\nDate: 04/15/2024\n\nFROM\nWebb Group\n120 Daniel Fields Apt. 416\nEast Jaclynburgh, IL 22743\n\nBILL TO\nAguilar-Smith\n96114 Perez Mountains Suite 651\nKathleenhaven, KS 18637\n\n# Description Quantity Unit Price Amount\n1 Open-architected scalable challenge 3.00 336.24 1 008.72\n2 Synchronized 3rdgeneration help-desk 5.00 410.82 2 054.10\n3 Synergistic mobile Internet solution 1.00 490.00 490.00\n4 Pre-emptive fault-tolerant approach 7.00 332.34 2 326.38\n\nSubtotal 5 879.20\nTax (10%) 587.92\nTotal Due 6 487.12\n\nThank you for your business",
+  "processing_time_seconds": 44.921,
+  "file_size_bytes": 26847,
+  "success": true
+}

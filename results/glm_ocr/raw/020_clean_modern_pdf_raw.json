@@ -1,0 +1,8 @@
+{
+  "content": "Moore LLC\nUnit 1945 Box 2198 DPO AP 40808\n\nINVOICE\n556314353\n08/12/2025\n\nFROM\nMoore LLC\nUnit 1945 Box 2198\nDPO AP 40808\n\nBILL TO\nThomas-Brooks\n843 Carroll Islands Apt. 823\nWest Heatherburgh, IN 05757\n\nDESCRIPTION QTY RATE AMOUNT\nFunction-based empowering success 4.00 269.72 1 078.88\nDe-engineered explicit projection 8.00 190.59 1 524.72\nProgressive logistical toolset 4.00 457.19 1 828.76\nImplemented heuristic benchmark 1.00 212.89 212.89\nProfit-focused background benchmark 2.00 350.35 700.70\n\nSubtotal 5 345.95\nTax 534.60\nTotal 5 880.55\n\nPAYMENT DETAILS\nBank: Lee PLC Financial\nAccount: BADA08838032197178\nDue: 03/11/2026\n\nThank You!\nMoore LLC",
+  "detections": [
+    {
+      "text": "Moore LLC\nUnit 1945 Box 2198 DPO AP 40808\n\nINVOICE\n556314353\n08/12/2025\n\nFROM\nMoore LLC\nUnit 1945 Box 2198\nDPO AP 40808\n\nBILL TO\nThomas-Brooks\n843 Carroll Islands Apt. 823\nWest Heatherburgh, IN 05757\n\nDESCRIPTION QTY RATE AMOUNT\nFunction-based empowering success 4.00 269.72 1 078.88\nDe-engineered explicit projection 8.00 190.59 1 524.72\nProgressive logistical toolset 4.00 457.19 1 828.76\nImplemented heuristic benchmark 1.00 212.89 212.89\nProfit-focused background benchmark 2.00 350.35 700.70\n\nSubtotal 5 345.95\nTax 534.60\nTotal 5 880.55\n\nPAYMENT DETAILS\nBank: Lee PLC Financial\nAccount: BADA08838032197178\nDue: 03/11/2026\n\nThank You!\nMoore LLC"
+    }
+  ]
+}

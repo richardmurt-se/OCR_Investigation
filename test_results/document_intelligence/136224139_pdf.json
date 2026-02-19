@@ -1,0 +1,154 @@
+{
+  "filename": "136224139.pdf",
+  "invoice": {
+    "client_name": "Ferguson Enterprises Inc",
+    "client_address": "",
+    "seller_name": "SOUTHERN CALIFORNIA EDISON",
+    "seller_address": "",
+    "invoice_number": "700030671545",
+    "invoice_date": "24/05/2021",
+    "due_date": "14/06/2021"
+  },
+  "items": [
+    {
+      "description": "Previous Month\nBilled Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "31.94",
+      "category": null
+    },
+    {
+      "description": "Balance Carry Forward",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "31.94",
+      "category": null
+    },
+    {
+      "description": "Total Payment Amount\nPrevious Month",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Late Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Current Month\nBilled Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "101.90",
+      "category": null
+    },
+    {
+      "description": "Current Month\nActual",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Late Fee Adjustment",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Customer Charge-Delivery",
+      "quantity": "1.00",
+      "unit_price": "0.46",
+      "total_price": "14.17",
+      "category": null
+    },
+    {
+      "description": "3 Phase Service Chg-Delivery",
+      "quantity": "1.00",
+      "unit_price": "0.03",
+      "total_price": "0.96",
+      "category": null
+    },
+    {
+      "description": "Ca Climate Credit-Delivery",
+      "quantity": "696.00",
+      "unit_price": "0.00",
+      "total_price": "-2.20",
+      "category": null
+    },
+    {
+      "description": "Ctc",
+      "quantity": "696.00",
+      "unit_price": "0.00",
+      "total_price": "-0.01",
+      "category": null
+    },
+    {
+      "description": "Pcia",
+      "quantity": "696.00",
+      "unit_price": "0.02",
+      "total_price": "15.76",
+      "category": null
+    },
+    {
+      "description": "Dwr Bond Charge",
+      "quantity": "696.00",
+      "unit_price": "0.01",
+      "total_price": "4.04",
+      "category": null
+    },
+    {
+      "description": "Generation Municipal Surcharge",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "0.38",
+      "category": null
+    },
+    {
+      "description": "Los Angeles Co Uut",
+      "quantity": "97.51",
+      "unit_price": "0.04",
+      "total_price": "4.39",
+      "category": null
+    },
+    {
+      "description": "Mid Peak-Delivery",
+      "quantity": "52.00",
+      "unit_price": "0.14",
+      "total_price": "7.36",
+      "category": null
+    },
+    {
+      "description": "Off Peak-Delivery",
+      "quantity": "174.00",
+      "unit_price": "0.09",
+      "total_price": "16.32",
+      "category": null
+    },
+    {
+      "description": "Super Off Peak-Delivery",
+      "quantity": "470.00",
+      "unit_price": "0.09",
+      "total_price": "40.73",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "31.94"
+  },
+  "payment_instructions": {
+    "due_date": "14/06/2021",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.514,
+  "file_size_bytes": 46581
+}

@@ -1,0 +1,42 @@
+{
+  "filename": "116351407.pdf",
+  "invoice": {
+    "client_name": "AT&T WIRELESS",
+    "client_address": "PO BOX 182576\nCOLUMBUS OH 43218-2576",
+    "seller_name": "Consumers Power",
+    "seller_address": "P.O. BOX 1180\n6990 WEST HILLS ROAD\nPHILOMATH, OR 97370",
+    "invoice_number": "05",
+    "invoice_date": "25/02/1940",
+    "due_date": "20/03/2019"
+  },
+  "items": [
+    {
+      "description": "Basic Service Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "20.00",
+      "category": null
+    },
+    {
+      "description": "KWH Revenue",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "365.57",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "385.57"
+  },
+  "payment_instructions": {
+    "due_date": "20/03/2019",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.473,
+  "file_size_bytes": 916154
+}

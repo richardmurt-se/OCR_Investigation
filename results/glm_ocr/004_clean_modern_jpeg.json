@@ -1,0 +1,8 @@
+{
+  "filename": "004_clean_modern.jpeg",
+  "model_name": "glm-ocr",
+  "raw_text": "Cervantes, Gonzalez and Holt\n37570 John Drives Apt. 708 - West Derek, PR 37135\n\nINVOICE\n41999408\n05/12/2024\n\nFROM\nCervantes, Gonzalez and Holt\n37570 John Drives Apt. 708\nWest Derek, PR 37135\n\nBILL TO\nBrennan-Crawford\n63753 Davis Land Suite 940\nJonathanborough, NY 41811\n\nDESCRIPTION QTY RATE AMOUNT\nBalanced composite parallelism 4.00 78.09 312.36\nMonitored regional circuit 2.00 450.49 900.98\nAdvanced needs-based middleware 6.00 253.24 1 519.44\n\nSubtotal 2 732.78\nTax 273.28\nDiscount -136.64\nTotal 2 869.42\n\nThank You!\nCervantes, Gonzalez and Holt",
+  "processing_time_seconds": 44.271,
+  "file_size_bytes": 50045,
+  "success": true
+}

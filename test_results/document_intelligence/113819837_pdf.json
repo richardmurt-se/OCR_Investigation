@@ -1,0 +1,273 @@
+{
+  "filename": "113819837.pdf",
+  "invoice": {
+    "client_name": "ACTAVIS ITALY SPA A SOCIO UNICO",
+    "client_address": "VIALE LUIGI PASTEUR 10\n20014 NERVIANO MI",
+    "seller_name": "EDISON",
+    "seller_address": "31 - 20121 Milano",
+    "invoice_number": "5400105322",
+    "invoice_date": "13/11/2018",
+    "due_date": "11/02/2019"
+  },
+  "items": [
+    {
+      "description": "Totale Servizi di vendita",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "128 468.32",
+      "category": null
+    },
+    {
+      "description": "Totale Dispacciamento",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "17 150.35",
+      "category": null
+    },
+    {
+      "description": "Totale Servizi di rete",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "46 100.28",
+      "category": null
+    },
+    {
+      "description": "Totale Imposte",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "7 320.00",
+      "category": null
+    },
+    {
+      "description": "Costi di Generazione F0",
+      "quantity": "687.24",
+      "unit_price": "0.07",
+      "total_price": "126 196.78",
+      "category": null
+    },
+    {
+      "description": "Corrispettivi per le perdite F0",
+      "quantity": "30.37",
+      "unit_price": "0.07",
+      "total_price": "2 271.54",
+      "category": null
+    },
+    {
+      "description": "Art. 44.3",
+      "quantity": "717.61",
+      "unit_price": "0.01",
+      "total_price": "11 667.73",
+      "category": null
+    },
+    {
+      "description": "Art. 45",
+      "quantity": "717.61",
+      "unit_price": "0.00",
+      "total_price": "2 380.61",
+      "category": null
+    },
+    {
+      "description": "Art. 48",
+      "quantity": "717.61",
+      "unit_price": "0.00",
+      "total_price": "1 167.98",
+      "category": null
+    },
+    {
+      "description": "Art. 46",
+      "quantity": "717.61",
+      "unit_price": "0.00",
+      "total_price": "668.15",
+      "category": null
+    },
+    {
+      "description": "Art. 73",
+      "quantity": "717.61",
+      "unit_price": "0.00",
+      "total_price": "257.64",
+      "category": null
+    },
+    {
+      "description": "Art. 44bis",
+      "quantity": "717.61",
+      "unit_price": "0.00",
+      "total_price": "115.08",
+      "category": null
+    },
+    {
+      "description": "Art. 25bis",
+      "quantity": "717.61",
+      "unit_price": "0.00",
+      "total_price": "893.16",
+      "category": null
+    },
+    {
+      "description": "Componente TRAS",
+      "quantity": "687.24",
+      "unit_price": "0.00",
+      "total_price": "1 096.71",
+      "category": null
+    },
+    {
+      "description": "Distribuzione - Quota Energia",
+      "quantity": "687.24",
+      "unit_price": "0.00",
+      "total_price": "337.45",
+      "category": null
+    },
+    {
+      "description": "ASOS Quote Variabili",
+      "quantity": "687.24",
+      "unit_price": "0.02",
+      "total_price": "35 907.84",
+      "category": null
+    },
+    {
+      "description": "Componente UC3 variabile",
+      "quantity": "687.24",
+      "unit_price": "0.00",
+      "total_price": "253.09",
+      "category": null
+    },
+    {
+      "description": "Gestione Misure",
+      "quantity": "1.00",
+      "unit_price": "81.18",
+      "total_price": "81.18",
+      "category": null
+    },
+    {
+      "description": "Distribuzione - Quota fissa",
+      "quantity": "1.00",
+      "unit_price": "1 638.11",
+      "total_price": "1 638.11",
+      "category": null
+    },
+    {
+      "description": "ASOS Quote Fisse",
+      "quantity": "1.00",
+      "unit_price": "586.74",
+      "total_price": "586.74",
+      "category": null
+    },
+    {
+      "description": "Distribuzione - Quota potenza",
+      "quantity": "2746.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "ASOS Quote Potenza",
+      "quantity": "2746.00",
+      "unit_price": "0.57",
+      "total_price": "1 577.30",
+      "category": null
+    },
+    {
+      "description": "Componente potenza Tras",
+      "quantity": "2746.00",
+      "unit_price": "1.68",
+      "total_price": "4 621.86",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "687.24",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "957.59",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "878.31",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "783.86",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "437.58",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "491.75",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "546.42",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "199 038.95",
+    "tax": "",
+    "discount": "",
+    "total": "199 038.95"
+  },
+  "payment_instructions": {
+    "due_date": "11/02/2019",
+    "bank_name": "SDD\n90 giorni data fattura",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 14.034,
+  "file_size_bytes": 97431
+}

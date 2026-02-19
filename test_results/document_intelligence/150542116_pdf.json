@@ -1,0 +1,49 @@
+{
+  "filename": "150542116.pdf",
+  "invoice": {
+    "client_name": "FedEx\nLease No. 97-1004",
+    "client_address": "",
+    "seller_name": "dba HECKMAN FREEWAY PARK",
+    "seller_address": "724 N. Industrial Dr., Bldg #1\nCamp Verde, AZ 86322",
+    "invoice_number": "0123-4B-U",
+    "invoice_date": "04/01/2023",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Water",
+      "quantity": "870.00",
+      "unit_price": "0.02",
+      "total_price": "15.66",
+      "category": null
+    },
+    {
+      "description": "Propane",
+      "quantity": "315.00",
+      "unit_price": "2.60",
+      "total_price": "819.00",
+      "category": null
+    },
+    {
+      "description": "Sewer",
+      "quantity": "1.00",
+      "unit_price": "31.60",
+      "total_price": "31.60",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "866.26"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.573,
+  "file_size_bytes": 74467
+}

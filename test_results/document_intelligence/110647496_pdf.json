@@ -1,0 +1,105 @@
+{
+  "filename": "110647496.pdf",
+  "invoice": {
+    "client_name": "MACY'S CORP SERVICES",
+    "client_address": "PO BOX 182351\nCOLUMBUS OH 43218-2351",
+    "seller_name": "KCP&L.",
+    "seller_address": "",
+    "invoice_number": "",
+    "invoice_date": "29/12/2017",
+    "due_date": "19/01/2018"
+  },
+  "items": [
+    {
+      "description": "Electric",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "10 125.37",
+      "category": null
+    },
+    {
+      "description": "Customer Charge MOLGS",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "72.26",
+      "category": null
+    },
+    {
+      "description": "Facilities Charge 150",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "331.65",
+      "category": null
+    },
+    {
+      "description": "Facilities Charge 296",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "654.46",
+      "category": null
+    },
+    {
+      "description": "Base Demand Charge 284",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "167.56",
+      "category": null
+    },
+    {
+      "description": "Base Energy Charge 51,120",
+      "quantity": "",
+      "unit_price": "0.07",
+      "total_price": "3 534.95",
+      "category": null
+    },
+    {
+      "description": "Base Energy Charge 46,080",
+      "quantity": "",
+      "unit_price": "0.06",
+      "total_price": "2 920.55",
+      "category": null
+    },
+    {
+      "description": "FAC 97,200",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "44.71",
+      "category": null
+    },
+    {
+      "description": "RESRAM Chg 97,200",
+      "quantity": "",
+      "unit_price": "0.00",
+      "total_price": "82.62",
+      "category": null
+    },
+    {
+      "description": "DSIM Charge 97,200",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "967.14",
+      "category": null
+    },
+    {
+      "description": "City License Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "660.56",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "10 125.37"
+  },
+  "payment_instructions": {
+    "due_date": "19/01/2018",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 11.895,
+  "file_size_bytes": 145671
+}

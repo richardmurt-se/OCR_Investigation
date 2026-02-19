@@ -1,0 +1,8 @@
+{
+  "filename": "067_multilingual_fr_standard.pdf",
+  "model_name": "glm-ocr",
+  "raw_text": "Briand Bouvet SARL\nchemin Noemi Gullet | 50863 Daniel-sur-Rodiguez\nFACTURE\nN\u00b0: BILL/4210706739\nDate: 05/02/2025\n\nDE\nBriand Bouvet SARL\nchemin Noemi Gullet\n50863 Daniel-sur-Rodiguez\nA\nMercier\navenue Roux\n27326 Boulay\n\n# Description Quantit\u00e9 Prix Total\n1 La possibilit\u00e9 de changer autrement 8.00 130.02 1 040.16\n2 L'art de changer de mani\u00e8re sire 6.00 413.50 2 481.00\n3 Le plasir de changer \u00e0 l'\u00e9tat pur 1.00 460.59 460.59\n4 L'avantage d'innover avant-tout 9.00 350.31 3 152.79\n\nSous-total 7 134.54\nTaxe 713.45\nTotal 7 847.99\n\nMerci pour votre confiance",
+  "processing_time_seconds": 28.504,
+  "file_size_bytes": 104735,
+  "success": true
+}

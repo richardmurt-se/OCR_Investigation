@@ -1,0 +1,8 @@
+{
+  "filename": "002_clean_minimal.pdf",
+  "model_name": "glm-ocr",
+  "raw_text": "INVOICE\nBILL-12611910\n10/08/2025\n\nFROM Allen-James\n086 Kara Station Apt. 924\nZacharyhaven, MP 89662\n\nTO Price Inc\n3028 Hernandez Pass Apt. 331\nDianashire, MD 27728\n\nDESCRIPTION QTY PRICE TOTAL\nSynergized scalable matrices 3.00 383.63 1 150.89\nSelf-enabling systematic firmware 9.00 370.01 3 330.09\nSynergistic actuating knowledge user 5.00 174.29 871.45\n\nSubtotal 5 352.43\nTax 535.24\nTotal 5 887.67\n\nThank you",
+  "processing_time_seconds": 26.416,
+  "file_size_bytes": 96548,
+  "success": true
+}

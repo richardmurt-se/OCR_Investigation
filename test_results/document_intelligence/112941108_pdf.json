@@ -1,0 +1,91 @@
+{
+  "filename": "112941108.pdf",
+  "invoice": {
+    "client_name": "At&T Mobility",
+    "client_address": "PO BOX 182576\nCOLUMBUS OH 43218-2576",
+    "seller_name": "AVISTA®",
+    "seller_address": "1411 E. Mission Ave.\nSpokane WA 99252-0001",
+    "invoice_number": "",
+    "invoice_date": "03/10/2018",
+    "due_date": "23/10/2018"
+  },
+  "items": [
+    {
+      "description": "Electric\nElectric",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "277.83",
+      "category": null
+    },
+    {
+      "description": "First 20 KW",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "First 3,650 kWh",
+      "quantity": "1688.11",
+      "unit_price": "0.12",
+      "total_price": "198.86",
+      "category": null
+    },
+    {
+      "description": "First 3,650 kWh",
+      "quantity": "1463.03",
+      "unit_price": "0.12",
+      "total_price": "174.31",
+      "category": null
+    },
+    {
+      "description": "Basic Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "20.00",
+      "category": null
+    },
+    {
+      "description": "First 20 KW",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "First 3,650 kWh",
+      "quantity": "3650.00",
+      "unit_price": "",
+      "total_price": "429.97",
+      "category": null
+    },
+    {
+      "description": "Over 3,650 kWh",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "74.26",
+      "category": null
+    },
+    {
+      "description": "Basic Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "20.00",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "126.25",
+    "tax": "",
+    "discount": "",
+    "total": "917.40"
+  },
+  "payment_instructions": {
+    "due_date": "23/10/2018",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.292,
+  "file_size_bytes": 773943
+}

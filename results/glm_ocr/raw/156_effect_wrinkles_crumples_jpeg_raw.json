@@ -1,0 +1,8 @@
+{
+  "content": "Anderson and Sons\n83998 Smith Inlet Apt. 240 | Jasmineside, PW 89552\n\nINVOICE\nNo: FAC117441113\nDate: 05/22/2025\nDue: 02/21/2026\n\nFROM\nAnderson and Sons\n83998 Smith Inlet Apt. 240\nJasmineside, PW 89552\n\nBILL TO\nRamos Ltd\n67888 Mokinney Loop\nLake Juliefurt, IA 69467\n\n# Description Quantity Unit Price Amount\n1 Adaptive system-worthy help-desk 3.00 277.71 833.13\n2 Expanded needs-based open system 4.00 58.48 233.92\n3 Progressive static system engine 5.00 189.85 949.25\n4 Organized disintermediate structure 8.00 407.64 3 281.12\n5 Decentralized bandwidth-monitored matrix 6.00 286.25 1 717.50\n6 Managed national infrastructure 3.00 118.40 355.20\n\nSubtotal 7 350.12\nTax (10%) 735.01\nTotal Due 8 085.13\n\nPAYMENT INFORMATION\nBank: Turner, Arellano and Martin Financial\nAccount: YGRU11504210330732\nMethod: Credit Card",
+  "detections": [
+    {
+      "text": "Anderson and Sons\n83998 Smith Inlet Apt. 240 | Jasmineside, PW 89552\n\nINVOICE\nNo: FAC117441113\nDate: 05/22/2025\nDue: 02/21/2026\n\nFROM\nAnderson and Sons\n83998 Smith Inlet Apt. 240\nJasmineside, PW 89552\n\nBILL TO\nRamos Ltd\n67888 Mokinney Loop\nLake Juliefurt, IA 69467\n\n# Description Quantity Unit Price Amount\n1 Adaptive system-worthy help-desk 3.00 277.71 833.13\n2 Expanded needs-based open system 4.00 58.48 233.92\n3 Progressive static system engine 5.00 189.85 949.25\n4 Organized disintermediate structure 8.00 407.64 3 281.12\n5 Decentralized bandwidth-monitored matrix 6.00 286.25 1 717.50\n6 Managed national infrastructure 3.00 118.40 355.20\n\nSubtotal 7 350.12\nTax (10%) 735.01\nTotal Due 8 085.13\n\nPAYMENT INFORMATION\nBank: Turner, Arellano and Martin Financial\nAccount: YGRU11504210330732\nMethod: Credit Card"
+    }
+  ]
+}

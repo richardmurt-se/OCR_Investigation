@@ -1,0 +1,8 @@
+{
+  "content": "FACTURA\nFAC-80090268\n03/16/2024 \u00b7 Vence 02/17/2026\n\nDE\nInmobiliaria Aroca S.L.\nPlaza Rupena Valdes 3 Apt. 72\nLas Palmas, 07959\n\nPARA\nFamilia Arellano S.L.\nRonda de Eloy Cortina 16\nGrona, 34064\n\nDESCRIPCI\u00d3N CANT. PRECIO TOTAL\nIntegrated asymmetric hardware 6.00 345.43 2 072.58\nDevolved even-keeled focus group 3.00 37.14 111.42\nSynergized homogeneous application 2.00 213.96 427.92\nHorizontal methodical structure 10.00 67.62 676.20\nManaged regional pricing structure 1.00 181.34 181.34\nRobust real-time methodology 8.00 256.99 2 055.92\nCustomer-focused upward-trending system engine 6.00 471.26 2 827.56\n\nSubtotal 8 352.94\nImpuesto 835.29\nTotal 9 188.23",
+  "detections": [
+    {
+      "text": "FACTURA\nFAC-80090268\n03/16/2024 \u00b7 Vence 02/17/2026\n\nDE\nInmobiliaria Aroca S.L.\nPlaza Rupena Valdes 3 Apt. 72\nLas Palmas, 07959\n\nPARA\nFamilia Arellano S.L.\nRonda de Eloy Cortina 16\nGrona, 34064\n\nDESCRIPCI\u00d3N CANT. PRECIO TOTAL\nIntegrated asymmetric hardware 6.00 345.43 2 072.58\nDevolved even-keeled focus group 3.00 37.14 111.42\nSynergized homogeneous application 2.00 213.96 427.92\nHorizontal methodical structure 10.00 67.62 676.20\nManaged regional pricing structure 1.00 181.34 181.34\nRobust real-time methodology 8.00 256.99 2 055.92\nCustomer-focused upward-trending system engine 6.00 471.26 2 827.56\n\nSubtotal 8 352.94\nImpuesto 835.29\nTotal 9 188.23"
+    }
+  ]
+}

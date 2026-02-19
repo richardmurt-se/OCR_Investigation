@@ -1,0 +1,63 @@
+{
+  "filename": "148153390.pdf",
+  "invoice": {
+    "client_name": "714000 Georgia Pacific",
+    "client_address": "PO Box 182891\nColumbus OH 43218-2891",
+    "seller_name": "Millersburg",
+    "seller_address": "4222 NE Old Salem Road\nAlbany, OR 97321",
+    "invoice_number": "",
+    "invoice_date": "05/10/2022",
+    "due_date": "15/11/2022"
+  },
+  "items": [
+    {
+      "description": "Previous Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "735.94",
+      "category": null
+    },
+    {
+      "description": "Payments",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "735.94",
+      "category": null
+    },
+    {
+      "description": "Adjustments",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Water",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "602.96",
+      "category": null
+    },
+    {
+      "description": "Sewer",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "283.36",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "886.32"
+  },
+  "payment_instructions": {
+    "due_date": "15/11/2022",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.804,
+  "file_size_bytes": 347298
+}

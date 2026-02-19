@@ -1,0 +1,42 @@
+{
+  "filename": "136013521.pdf",
+  "invoice": {
+    "client_name": "Rolls Royce plc",
+    "client_address": "VICTORY",
+    "seller_name": "Resource Advisor",
+    "seller_address": "",
+    "invoice_number": "",
+    "invoice_date": "13/05/2021",
+    "due_date": "28/05/2021"
+  },
+  "items": [
+    {
+      "description": "Water",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "3.38",
+      "category": null
+    },
+    {
+      "description": "Water",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "624.31",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "627.69"
+  },
+  "payment_instructions": {
+    "due_date": "28/05/2021",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.543,
+  "file_size_bytes": 25695
+}

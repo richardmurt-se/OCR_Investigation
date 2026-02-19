@@ -1,0 +1,84 @@
+{
+  "filename": "169362940.pdf",
+  "invoice": {
+    "client_name": "BRINKER RESTAURANT CORP",
+    "client_address": "PO Box 182397\nColumbus OH 43218-2397",
+    "seller_name": "GRANGER-HUNTER\nIMPROVEMENT DISTRICT",
+    "seller_address": "2888 South 3600 West\nWest Valley City, UT, 84119",
+    "invoice_number": "",
+    "invoice_date": "14/09/2024",
+    "due_date": "09/10/2024"
+  },
+  "items": [
+    {
+      "description": "Previous Bill",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 483.05",
+      "category": null
+    },
+    {
+      "description": "Payments 09/04/2024",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-1 483.05",
+      "category": null
+    },
+    {
+      "description": "Adjustments",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "WATER",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "647.16",
+      "category": null
+    },
+    {
+      "description": "WATER",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "183.30",
+      "category": null
+    },
+    {
+      "description": "SEWER",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "661.06",
+      "category": null
+    },
+    {
+      "description": "CVWRF ASSESSMENT",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "92.00",
+      "category": null
+    },
+    {
+      "description": "AVAILABILITY FEE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "139.92",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "1 723.44"
+  },
+  "payment_instructions": {
+    "due_date": "09/10/2024",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.117,
+  "file_size_bytes": 634949
+}

@@ -1,0 +1,8 @@
+{
+  "filename": "077_multilingual_zh_minimal.pdf",
+  "model_name": "glm-ocr",
+  "raw_text": "\u53d1\u7968\nBILL4833666\n02/08/2024 - \u5230\u671f 03/03/2026\n\n\u5356\u65b9\n\u7f51\u65b0\u6052\u5929\u7f51\u7edc\u6709\u9650\u516c\u53f8\n\u5185\u8499\u53e4\u81ea\u6cbb\u533a\u5fd7\u5f3a\u53bf\u548c\u5e73\u516d\u5b89\u8defW\u5ea7 381577\n\n\u5356\u65b9\n\u76df\u65b0\u4f20\u5a92\u6709\u9650\u516c\u53f8\n\u5185\u8499\u53e4\u81ea\u6cbb\u533a\u67e5\u90fd\u53bf\u6c5f\u5317\u6210\u90fd\u8defB\u5ea7 754373\n\n\u63cf\u8ff0\t\u6570\u91cf\t\u5355\u4ef7\t\u91d1\u989d\nMandatory demand-driven portal\t10.00\t304.54\t3 045.40\nExpanded tertiary circuit\t8.00\t379.08\t3 032.64\nFocused actuating product\t6.00\t242.59\t1 455.54\nVirtual tertiary algorithm\t1.00\t217.86\t217.86\nProgrammable transitional migration\t7.00\t147.94\t1 035.58\nMulti-channeled static open architecture\t5.00\t35.72\t178.60\n\n\u5c0f\u8ba1\t8 965.62\n\u7a0e\u91d1\t896.56\n\u6298\u6263\t-448.28\n\n\u5408\u8ba1\t9 413.90\n\n\u5546\u8f6f\u4e92\u8054\u4f20\u5a92\u6709\u9650\u516c\u53f8\u5e94\u7528\u793e GCVA3769490624755 \u76f4\u63a5\u6263\u6b3e",
+  "processing_time_seconds": 29.475,
+  "file_size_bytes": 78221,
+  "success": true
+}

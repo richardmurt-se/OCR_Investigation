@@ -1,0 +1,98 @@
+{
+  "filename": "141003964.pdf",
+  "invoice": {
+    "client_name": "",
+    "client_address": "RODOVIA BR 163, 8 - TERMINAL RODOFERROVIARIO RONDONOPOL\nRURAL\nRONDONOPOLIS (AG:",
+    "seller_name": "enerGisa",
+    "seller_address": "Rua Vereador Joao Barbosa Caramuru, 184\nCuiabá/MT - CEP 78010-900",
+    "invoice_number": "2054477-2021-11-2",
+    "invoice_date": "01/12/2021",
+    "due_date": "14/12/2021"
+  },
+  "items": [
+    {
+      "description": "Consumo em kWh - Ponta",
+      "quantity": "4900.00",
+      "unit_price": "",
+      "total_price": "13 083.89",
+      "category": null
+    },
+    {
+      "description": "Consumo em kWh - Fora Ponta",
+      "quantity": "23800.00",
+      "unit_price": "",
+      "total_price": "12 424.24",
+      "category": null
+    },
+    {
+      "description": "Adic. B. Amarela",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "5 944.13",
+      "category": null
+    },
+    {
+      "description": "Demanda de Potência Medida - Fora Ponta",
+      "quantity": "220.50",
+      "unit_price": "",
+      "total_price": "6 580.11",
+      "category": null
+    },
+    {
+      "description": "Demanda Potência Ativa - Ultrap - F Ponta",
+      "quantity": "40.50",
+      "unit_price": "",
+      "total_price": "2 417.18",
+      "category": null
+    },
+    {
+      "description": "Contrib de llum Pub",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "187.95",
+      "category": null
+    },
+    {
+      "description": "Serviço distribuição ENERGISAMT",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "8 561.14",
+      "category": null
+    },
+    {
+      "description": "Compra de energia",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "14 584.72",
+      "category": null
+    },
+    {
+      "description": "Serviço de transmissão",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "698.87",
+      "category": null
+    },
+    {
+      "description": "Encargos setoriais\ndiretos\nencargos",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "40 637.50"
+  },
+  "payment_instructions": {
+    "due_date": "14/12/2021",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 14.332,
+  "file_size_bytes": 74255
+}

@@ -1,0 +1,42 @@
+{
+  "filename": "154168526.pdf",
+  "invoice": {
+    "client_name": "Marriott International",
+    "client_address": "",
+    "seller_name": "Resource Advisor\nDirect Energy",
+    "seller_address": "",
+    "invoice_number": "298581449",
+    "invoice_date": "23/06/2022",
+    "due_date": "08/07/2022"
+  },
+  "items": [
+    {
+      "description": "Natural Gas",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "74.39",
+      "category": null
+    },
+    {
+      "description": "Natural Gas",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "301.21",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "301.21"
+  },
+  "payment_instructions": {
+    "due_date": "08/07/2022",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.451,
+  "file_size_bytes": 25433
+}

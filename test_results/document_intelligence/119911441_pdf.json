@@ -1,0 +1,42 @@
+{
+  "filename": "119911441.pdf",
+  "invoice": {
+    "client_name": "JP MORGAN CHASE BANK NA",
+    "client_address": "PO BOX 2440\nSPOKANE, WA 99210-2440",
+    "seller_name": "SO CAL GAS CO",
+    "seller_address": "",
+    "invoice_number": "0944078154130809",
+    "invoice_date": "13/08/2013",
+    "due_date": "03/09/2013"
+  },
+  "items": [
+    {
+      "description": "GAS COMMODITY",
+      "quantity": "3.00",
+      "unit_price": "0.43",
+      "total_price": "1.30",
+      "category": null
+    },
+    {
+      "description": "PUBLIC PURPOSE SURCHARGE",
+      "quantity": "3.00",
+      "unit_price": "0.05",
+      "total_price": "0.16",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "0.21",
+    "discount": "",
+    "total": "3.06"
+  },
+  "payment_instructions": {
+    "due_date": "03/09/2013",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.816,
+  "file_size_bytes": 60432
+}

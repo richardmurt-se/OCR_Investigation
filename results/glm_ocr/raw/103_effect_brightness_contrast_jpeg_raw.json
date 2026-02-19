@@ -1,0 +1,8 @@
+{
+  "content": "Obrien Group\n8854 Aguilar Loaf | Russellville, L 83782\n\nINVOICE\nNo: 4578499101\nDate: 01/17/2025\nDue: 02/22/2026\n\nFROM\nObrien Group\n8854 Aguilar Loaf\nRussellville, L 83782\n\nBILL TO\nMaynard, Mullen and Oneal\n01262 Emily Harbors\nDavidton, CD 60702\n\n# Description\n1. Robust web-enabled protocol\n2. Automated neural productivity\n3. Exclusive unform architecture\n4. Progressive high-level circuit\n5. Networked 24/7 orchestration\n\nQuantity Unit Price Amount\n3.00 257.16 771.48\n6.00 422.91 2,114.55\n9.00 253.59 2,282.31\n10.00 484.09 4,840.90\n5.00 491.09 2,455.45\n\nSubtotal 12,484.89\nTax (10%) 1,246.47\nDiscount -1,246.47\nTotal Due 12,464.69\n\nPAYMENT INFORMATION\nBank: Sanchez, Abbott and White Bank\nAccount: RDR182369408830004",
+  "detections": [
+    {
+      "text": "Obrien Group\n8854 Aguilar Loaf | Russellville, L 83782\n\nINVOICE\nNo: 4578499101\nDate: 01/17/2025\nDue: 02/22/2026\n\nFROM\nObrien Group\n8854 Aguilar Loaf\nRussellville, L 83782\n\nBILL TO\nMaynard, Mullen and Oneal\n01262 Emily Harbors\nDavidton, CD 60702\n\n# Description\n1. Robust web-enabled protocol\n2. Automated neural productivity\n3. Exclusive unform architecture\n4. Progressive high-level circuit\n5. Networked 24/7 orchestration\n\nQuantity Unit Price Amount\n3.00 257.16 771.48\n6.00 422.91 2,114.55\n9.00 253.59 2,282.31\n10.00 484.09 4,840.90\n5.00 491.09 2,455.45\n\nSubtotal 12,484.89\nTax (10%) 1,246.47\nDiscount -1,246.47\nTotal Due 12,464.69\n\nPAYMENT INFORMATION\nBank: Sanchez, Abbott and White Bank\nAccount: RDR182369408830004"
+    }
+  ]
+}

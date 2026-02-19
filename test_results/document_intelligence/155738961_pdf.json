@@ -1,0 +1,147 @@
+{
+  "filename": "155738961.pdf",
+  "invoice": {
+    "client_name": "JP Morgan Chase",
+    "client_address": "",
+    "seller_name": "Gexa ENERGY'",
+    "seller_address": "",
+    "invoice_number": "44639817",
+    "invoice_date": "24/07/2023",
+    "due_date": "10/08/2023"
+  },
+  "items": [
+    {
+      "description": "Previous Month\nBalance Due",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 541.19",
+      "category": null
+    },
+    {
+      "description": "Balance Carry Forward",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Current Month\nBeginning Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Late Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Previous Month\nTotal Payment Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-1 541.19",
+      "category": null
+    },
+    {
+      "description": "Current Month\nBilled Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "3 977.93",
+      "category": null
+    },
+    {
+      "description": "Late Fee Adjustment",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Real\nAdder Charge\nCharges\nReal Time Index Price Charge\nCommercial Energy Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Del\nCity Sales",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Del\nGross Receipts\nLocal\nDel\nUtility",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Del - 53601 Rate Case Expense Surcharge",
+      "quantity": "71.00",
+      "unit_price": "0.01",
+      "total_price": "0.87",
+      "category": null
+    },
+    {
+      "description": "Del - Customer Charge",
+      "quantity": "1.00",
+      "unit_price": "11.13",
+      "total_price": "11.13",
+      "category": null
+    },
+    {
+      "description": "Del - Transmission Cost Recovery Factor",
+      "quantity": "60.00",
+      "unit_price": "3.97",
+      "total_price": "238.33",
+      "category": null
+    },
+    {
+      "description": "Del - Metering Charge",
+      "quantity": "1.00",
+      "unit_price": "21.30",
+      "total_price": "21.30",
+      "category": null
+    },
+    {
+      "description": "Del - Nuclear Decommissioning Charge",
+      "quantity": "71.00",
+      "unit_price": "0.04",
+      "total_price": "3.20",
+      "category": null
+    },
+    {
+      "description": "Del - Distribution System Charge",
+      "quantity": "71.00",
+      "unit_price": "5.12",
+      "total_price": "363.59",
+      "category": null
+    },
+    {
+      "description": "Del - Energy Efficiency Cost Recovery",
+      "quantity": "29760.00",
+      "unit_price": "0.00",
+      "total_price": "19.11",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "3 977.93"
+  },
+  "payment_instructions": {
+    "due_date": "10/08/2023",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.537,
+  "file_size_bytes": 45484
+}

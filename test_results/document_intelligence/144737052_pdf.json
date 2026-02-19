@@ -1,0 +1,42 @@
+{
+  "filename": "144737052.pdf",
+  "invoice": {
+    "client_name": "襄阳万富酒店管理有限公司富力皇冠假日酒店分公司",
+    "client_address": "湖北省襄阳市高新区长虹北路9号万达广场 0710-3288866",
+    "seller_name": "华润燃气有限",
+    "seller_address": "襄阳市樊城区内环路环球金融城2栋1单元17楼 0710-3257368",
+    "invoice_number": "01149250",
+    "invoice_date": "22/05/2022",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "*天然气*天然气",
+      "quantity": "913.00",
+      "unit_price": "2.74",
+      "total_price": "2 502.79",
+      "category": null
+    },
+    {
+      "description": "*天然气*天然气",
+      "quantity": "145.00",
+      "unit_price": "2.74",
+      "total_price": "397.49",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "2 502.79",
+    "tax": "225.25",
+    "discount": "",
+    "total": "2 728.00"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 12.845,
+  "file_size_bytes": 552236
+}

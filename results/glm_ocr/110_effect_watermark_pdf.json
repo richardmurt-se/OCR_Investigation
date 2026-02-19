@@ -1,0 +1,8 @@
+{
+  "filename": "110_effect_watermark.pdf",
+  "model_name": "glm-ocr",
+  "raw_text": "Phillips-Kidd\n35587 Nicole Stream Suite 644 | North Olivia, CA 38958\n\nINVOICE\nNo: INV3176967\nDate: 12/17/2024\nDue: 03/11/2026\n\nFROM\nPhillips-Kidd\n35587 Nicole Stream Suite 644\nNorth Olivia, CA 38958\n\nBILL TO\nHunter, Garcia and Jones\n02597 Foster Drives Suite 390\nHortonfort, GU 56007\n\n# Description Quantity Unit Price Amount\n1 Optimized solution-oriented migration 5.00 428.88 2 144.40\n2 Sharable uniform project 1.00 334.51 334.51\n3 Re-engineered directional benchmark 5.00 128.75 643.75\n4 Re-engineered needs-based open system 7.00 393.90 2 757.30\n\nSubtotal 5 879.00\nTax (10%) 588.00\nDiscount -588.00\nTotal Due 5 879.00\n\nPAYMENT INFORMATION\nBank: Lewis, Flores and Rivera Financial\nAccount: RICON030756140617752\nMethod: Check\n\nThank you for your business",
+  "processing_time_seconds": 30.324,
+  "file_size_bytes": 58036,
+  "success": true
+}

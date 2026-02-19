@@ -1,0 +1,35 @@
+{
+  "filename": "138736079.pdf",
+  "invoice": {
+    "client_name": "DAVITA ROANOKE CHOWAN DIALYSIS\nIRRIGATION",
+    "client_address": "PO BOX 182609\nColumbus OH 43218-",
+    "seller_name": "TOWN OF MURFREESBORO\nWATER DEPARTMENT",
+    "seller_address": "EESBORO, NC 27855.0006",
+    "invoice_number": "",
+    "invoice_date": "25/08/2021",
+    "due_date": "10/09/2021"
+  },
+  "items": [
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "23.00",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "23.00"
+  },
+  "payment_instructions": {
+    "due_date": "10/09/2021",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.655,
+  "file_size_bytes": 218765
+}

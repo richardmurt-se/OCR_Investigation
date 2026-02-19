@@ -1,0 +1,91 @@
+{
+  "filename": "136332217.pdf",
+  "invoice": {
+    "client_name": "SANTIO LIMITED",
+    "client_address": "",
+    "seller_name": "Resource Advisor\nGazprom",
+    "seller_address": "",
+    "invoice_number": "SO02996409.58",
+    "invoice_date": "14/05/2021",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Gas Cost",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "220.81",
+      "category": null
+    },
+    {
+      "description": "Standing Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "70.29",
+      "category": null
+    },
+    {
+      "description": "CCL",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "12.32",
+      "category": null
+    },
+    {
+      "description": "SC VAT",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "14.06",
+      "category": null
+    },
+    {
+      "description": "Commercial VAT Content",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "44.16",
+      "category": null
+    },
+    {
+      "description": "CCL Com VAT",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2.46",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Unit Price per kWh - 0.015838",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Alt Account Info",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "364.10"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.428,
+  "file_size_bytes": 25964
+}

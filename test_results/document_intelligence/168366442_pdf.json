@@ -1,0 +1,154 @@
+{
+  "filename": "168366442.pdf",
+  "invoice": {
+    "client_name": "DEUTSCHE BANK S.P.A.",
+    "client_address": "",
+    "seller_name": "Resource Advisor",
+    "seller_address": "",
+    "invoice_number": "",
+    "invoice_date": "18/04/2024",
+    "due_date": "17/05/2024"
+  },
+  "items": [
+    {
+      "description": "Corrispettivo di Potenza Onere UC6",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-20.00",
+      "category": null
+    },
+    {
+      "description": "Servizio di trasmissione TRASe - Quota energia",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-19.61",
+      "category": null
+    },
+    {
+      "description": "Servizio di distribuzione - Quota potenza",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-52.26",
+      "category": null
+    },
+    {
+      "description": "Servizio di distribuzione - Quota energia",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-1.17",
+      "category": null
+    },
+    {
+      "description": "Servizio di distribuzione - Quota fissa",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-0.42",
+      "category": null
+    },
+    {
+      "description": "Corrispettivo Variabile Onere UC6",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-0.13",
+      "category": null
+    },
+    {
+      "description": "Corrispettivo Variabile Onere UC3",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-2.89",
+      "category": null
+    },
+    {
+      "description": "Corrispettivo Fisso Onere UC6",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-0.14",
+      "category": null
+    },
+    {
+      "description": "Componente ASOS a copertura dei costi per il sostegno delle fonti\nrinnovabili e da cogenerazione",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-20.66",
+      "category": null
+    },
+    {
+      "description": "Componente ARIM a copertura di altri oneri relativi ad attività di\ninteresse generale",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-19.41",
+      "category": null
+    },
+    {
+      "description": "Componente ASOS a copertura dei costi per il sostegno delle fonti\nrinnovabili e da cogenerazione",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-66.90",
+      "category": null
+    },
+    {
+      "description": "Componente ARIM a copertura di altri oneri relativi ad attività di\ninteresse generale",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-8.84",
+      "category": null
+    },
+    {
+      "description": "Componente ASOS a copertura dei costi per il sostegno delle fonti\nrinnovabili e da cogenerazione",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-0.84",
+      "category": null
+    },
+    {
+      "description": "Componente ARIM a copertura di altri oneri relativi ad attività di\ninteresse generale",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-0.79",
+      "category": null
+    },
+    {
+      "description": "Servizio di misura - Quota fissa",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-1.75",
+      "category": null
+    },
+    {
+      "description": "Corrispettivo Perdite Energia Prezzo Fisso Prelievo Mese Contrattuale\n- F3",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-5.64",
+      "category": null
+    },
+    {
+      "description": "Corrispettivo Perdite Energia Prezzo Fisso Prelievo Mese Contrattuale\n- F2",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-3.76",
+      "category": null
+    },
+    {
+      "description": "Corrispettivo Perdite Energia Prezzo Fisso Prelievo Mese Contrattuale\n- F1",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-21.11",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "-49.79",
+    "discount": "",
+    "total": ""
+  },
+  "payment_instructions": {
+    "due_date": "17/05/2024",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.685,
+  "file_size_bytes": 26353
+}

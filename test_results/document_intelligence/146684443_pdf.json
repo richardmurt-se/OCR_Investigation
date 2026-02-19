@@ -1,0 +1,168 @@
+{
+  "filename": "146684443.pdf",
+  "invoice": {
+    "client_name": "CITY OF WHITTLESEA\nC/- BELGRAVIA HEALTH & LEISURE GROUP PTY LTD",
+    "client_address": "20 LONGSTAFF ROAD\nBAYSWATER VIC 3153",
+    "seller_name": "Red Energy Pty Ltd.",
+    "seller_address": "",
+    "invoice_number": "540591961415",
+    "invoice_date": "18/08/2022",
+    "due_date": "19/09/2022"
+  },
+  "items": [
+    {
+      "description": "Previous Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "26 408.00",
+      "category": null
+    },
+    {
+      "description": "Current Gas Charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "31 538.53",
+      "category": null
+    },
+    {
+      "description": "Energy",
+      "quantity": "2416.48",
+      "unit_price": "9.30",
+      "total_price": "22 473.30",
+      "category": null
+    },
+    {
+      "description": "Overrun Charge",
+      "quantity": "0.00",
+      "unit_price": "9.77",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Transmission Delivery Charge",
+      "quantity": "2416.48",
+      "unit_price": "0.37",
+      "total_price": "896.76",
+      "category": null
+    },
+    {
+      "description": "Peak Injection Charge",
+      "quantity": "0.00",
+      "unit_price": "1.94",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Daily Charge",
+      "quantity": "",
+      "unit_price": "0.19",
+      "total_price": "5.79",
+      "category": null
+    },
+    {
+      "description": "DUOS Volume block 1",
+      "quantity": "1.50",
+      "unit_price": "9.34",
+      "total_price": "14.01",
+      "category": null
+    },
+    {
+      "description": "DUOS Volume block 2",
+      "quantity": "15.00",
+      "unit_price": "3.96",
+      "total_price": "59.40",
+      "category": null
+    },
+    {
+      "description": "DUOS Volume block 3",
+      "quantity": "24.60",
+      "unit_price": "2.95",
+      "total_price": "72.66",
+      "category": null
+    },
+    {
+      "description": "DUOS Volume block 4",
+      "quantity": "2278.72",
+      "unit_price": "1.19",
+      "total_price": "2 718.29",
+      "category": null
+    },
+    {
+      "description": "AEMO Commodity Charge",
+      "quantity": "2416.48",
+      "unit_price": "0.10",
+      "total_price": "240.15",
+      "category": null
+    },
+    {
+      "description": "AEMO Distribution Meter Fee",
+      "quantity": "",
+      "unit_price": "1.56",
+      "total_price": "46.94",
+      "category": null
+    },
+    {
+      "description": "AEMO Gas Statement Of Opportunities Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.03",
+      "category": null
+    },
+    {
+      "description": "AEMO FRC Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.06",
+      "category": null
+    },
+    {
+      "description": "AEMO Bulletin Board Charge",
+      "quantity": "2416.48",
+      "unit_price": "0.00",
+      "total_price": "6.02",
+      "category": null
+    },
+    {
+      "description": "Environment Fee VEEC",
+      "quantity": "2416.48",
+      "unit_price": "0.84",
+      "total_price": "2 032.92",
+      "category": null
+    },
+    {
+      "description": "Datalogger Fee",
+      "quantity": "1.00",
+      "unit_price": "2.12",
+      "total_price": "63.62",
+      "category": null
+    },
+    {
+      "description": "AEMO ECA Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.04",
+      "category": null
+    },
+    {
+      "description": "Invoice Validation Services",
+      "quantity": "",
+      "unit_price": "1.38",
+      "total_price": "41.40",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "28 671.39",
+    "tax": "2 867.14",
+    "discount": "",
+    "total": "31 538.53"
+  },
+  "payment_instructions": {
+    "due_date": "19/09/2022",
+    "bank_name": "[DocumentField(value_type=dictionary, value={'BPayBillerCode': DocumentField(value_type=string, value='150821', content=150821, bounding_regions=[BoundingRegion(page_number=2, polygon=[Point(x=2.2814, y=10.1242), Point(x=2.6414, y=10.1242), Point(x=2.6414, y=10.256), Point(x=2.2814, y=10.2509)])], spans=[DocumentSpan(offset=2534, length=6)], confidence=0.991), 'BPayReference': DocumentField(value_type=string, value='5405 9194 329', content=5405 9194 329, bounding_regions=[BoundingRegion(page_number=2, polygon=[Point(x=2.0419, y=10.2686), Point(x=2.7935, y=10.2608), Point(x=2.7949, y=10.3929), Point(x=2.0433, y=10.4007)])], spans=[DocumentSpan(offset=2601, length=13)], confidence=0.988)}, content=None, bounding_regions=[], spans=[], confidence=0.995), DocumentField(value_type=dictionary, value={'PostBillpayBillerCode': DocumentField(value_type=string, value='2394', content=2394, bounding_regions=[BoundingRegion(page_number=2, polygon=[Point(x=5.805, y=9.5665), Point(x=6.0484, y=9.5614), Point(x=6.0484, y=9.6882), Point(x=5.8101, y=9.6932)])], spans=[DocumentSpan(offset=2431, length=4)], confidence=0.973), 'PostBillpayReference': DocumentField(value_type=string, value='5405 9194 329', content=5405 9194 329, bounding_regions=[BoundingRegion(page_number=2, polygon=[Point(x=5.4805, y=9.7034), Point(x=6.2258, y=9.7034), Point(x=6.2258, y=9.8301), Point(x=5.4805, y=9.8301)])], spans=[DocumentSpan(offset=2444, length=13)], confidence=0.982)}, content=None, bounding_regions=[], spans=[], confidence=0.995)]",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.38,
+  "file_size_bytes": 770898
+}

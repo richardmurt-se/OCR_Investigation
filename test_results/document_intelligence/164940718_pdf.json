@@ -1,0 +1,161 @@
+{
+  "filename": "164940718.pdf",
+  "invoice": {
+    "client_name": "Sherwin Williams",
+    "client_address": "",
+    "seller_name": "ENGie",
+    "seller_address": "",
+    "invoice_number": "0000338140",
+    "invoice_date": "10/06/2024",
+    "due_date": "01/07/2024"
+  },
+  "items": [
+    {
+      "description": "Previous Month\nActual Unpaid Principal Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "461.57",
+      "category": null
+    },
+    {
+      "description": "Balance Carry Forward",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Previous Month\nTotal Payment Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "461.57",
+      "category": null
+    },
+    {
+      "description": "Late Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Current Month\nBeginning Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Current Month\nBilled Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "622.47",
+      "category": null
+    },
+    {
+      "description": "Late Fee Adjustment",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Transmission Cost Recovery Factor",
+      "quantity": "19.00",
+      "unit_price": "4.37",
+      "total_price": "83.03",
+      "category": null
+    },
+    {
+      "description": "Metering Charge",
+      "quantity": "1.00",
+      "unit_price": "21.30",
+      "total_price": "21.30",
+      "category": null
+    },
+    {
+      "description": "Distribution System Charge",
+      "quantity": "19.00",
+      "unit_price": "5.12",
+      "total_price": "97.30",
+      "category": null
+    },
+    {
+      "description": "Distribution Cost Recovery Factor",
+      "quantity": "19.00",
+      "unit_price": "0.45",
+      "total_price": "8.60",
+      "category": null
+    },
+    {
+      "description": "Nuclear Decommissioning Charge",
+      "quantity": "19.00",
+      "unit_price": "0.04",
+      "total_price": "0.86",
+      "category": null
+    },
+    {
+      "description": "Energy Efficiency Cost Recovery",
+      "quantity": "5120.00",
+      "unit_price": "0.00",
+      "total_price": "2.08",
+      "category": null
+    },
+    {
+      "description": "53601 Rate Case Expense Surcharge",
+      "quantity": "19.00",
+      "unit_price": "0.01",
+      "total_price": "0.23",
+      "category": null
+    },
+    {
+      "description": "Customer Charge",
+      "quantity": "1.00",
+      "unit_price": "11.13",
+      "total_price": "11.13",
+      "category": null
+    },
+    {
+      "description": "Fixed Energy Charge",
+      "quantity": "5120.00",
+      "unit_price": "0.06",
+      "total_price": "328.29",
+      "category": null
+    },
+    {
+      "description": "Ancillary Svcs",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "2.85",
+      "category": null
+    },
+    {
+      "description": "Incremental_Admin_Fee",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "0.73",
+      "category": null
+    },
+    {
+      "description": "Ancillary Svcs\nSales",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "6.54",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "622.49"
+  },
+  "payment_instructions": {
+    "due_date": "01/07/2024",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.538,
+  "file_size_bytes": 45102
+}

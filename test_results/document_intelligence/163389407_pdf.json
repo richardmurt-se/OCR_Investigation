@@ -1,0 +1,133 @@
+{
+  "filename": "163389407.pdf",
+  "invoice": {
+    "client_name": "Church of Jesus Christ CPB",
+    "client_address": "",
+    "seller_name": "PACIFICORP",
+    "seller_address": "",
+    "invoice_number": "09382810054000240422",
+    "invoice_date": "22/04/2024",
+    "due_date": "14/05/2024"
+  },
+  "items": [
+    {
+      "description": "Beginning Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Late",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Total Payment Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-556.37",
+      "category": null
+    },
+    {
+      "description": "Municipal Tax",
+      "quantity": "",
+      "unit_price": "0.06",
+      "total_price": "33.28",
+      "category": null
+    },
+    {
+      "description": "State And Local Tax",
+      "quantity": "",
+      "unit_price": "0.07",
+      "total_price": "40.77",
+      "category": null
+    },
+    {
+      "description": "Basic Charge - 3P",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "53.00",
+      "category": null
+    },
+    {
+      "description": "First 50 Kwh/Kw, Winter",
+      "quantity": "1950.00",
+      "unit_price": "0.25",
+      "total_price": "485.88",
+      "category": null
+    },
+    {
+      "description": "All Additional Kwh, Winter",
+      "quantity": "850.00",
+      "unit_price": "0.09",
+      "total_price": "77.55",
+      "category": null
+    },
+    {
+      "description": "Off-Peak Kwh Credit, Per Kwh",
+      "quantity": "1680.00",
+      "unit_price": "0.07",
+      "total_price": "-123.93",
+      "category": null
+    },
+    {
+      "description": "Renewable Energy Adjustment",
+      "quantity": "0.00",
+      "unit_price": "0.00",
+      "total_price": "-0.26",
+      "category": null
+    },
+    {
+      "description": "Energy Balancing Account",
+      "quantity": "0.00",
+      "unit_price": "0.10",
+      "total_price": "43.69",
+      "category": null
+    },
+    {
+      "description": "Customer Efficiency Services",
+      "quantity": "0.00",
+      "unit_price": "0.04",
+      "total_price": "17.87",
+      "category": null
+    },
+    {
+      "description": "Elec Vehicle Infrastructure",
+      "quantity": "0.00",
+      "unit_price": "0.00",
+      "total_price": "1.35",
+      "category": null
+    },
+    {
+      "description": "Home Electric Lifeline Program",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "5.60",
+      "category": null
+    },
+    {
+      "description": "Paperless Bill Credit",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "-0.50",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "634.30"
+  },
+  "payment_instructions": {
+    "due_date": "14/05/2024",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.594,
+  "file_size_bytes": 44721
+}

@@ -1,0 +1,70 @@
+{
+  "filename": "143126172.pdf",
+  "invoice": {
+    "client_name": "Residence Inn by Marriott LLC\nA/F BRE Newton Hotels Property Owner LLC",
+    "client_address": "P. O. Box 2440\nSPOKANE, WA 99210-2440",
+    "seller_name": "Direct\nEnergy",
+    "seller_address": "",
+    "invoice_number": "HS91292822",
+    "invoice_date": "13/06/2019",
+    "due_date": "28/06/2019"
+  },
+  "items": [
+    {
+      "description": "Previous Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "72.73",
+      "category": null
+    },
+    {
+      "description": "Payment Received (May 24, 2019)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-72.73",
+      "category": null
+    },
+    {
+      "description": "Adjustments",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Late Payment Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Current Usage Charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "53.61",
+      "category": null
+    },
+    {
+      "description": "Commodity",
+      "quantity": "14.62",
+      "unit_price": "3.67",
+      "total_price": "53.61",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "3.22",
+    "discount": "",
+    "total": "56.83"
+  },
+  "payment_instructions": {
+    "due_date": "28/06/2019",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 9.817,
+  "file_size_bytes": 166081
+}

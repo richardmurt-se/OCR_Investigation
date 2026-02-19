@@ -1,0 +1,8 @@
+{
+  "content": "Lake-Brandt\n5454 Park Forge | Lake Tony, NY 88675\n\nINVOICE\nNo: FAC5170452\nDate: 09/20/2024\nDue: 03/07/2026\n\nFROM\nLake-Brandt\n5454 Park Forge\nLake Tony, NY 88675\n\nBILL TO\nPerez Inc\n0244 Donaldson Falls Apt. 549\nLindsayport, FL 89669\n\n# Description Quantity Unit Price Amount\n1 Streamlined asymmetric artificial intelligence 5.00 498.34 2 491.70\n2 Stand-alone systemic neural-net 2.00 60.17 120.34\n3 Networked impactful frame 6.00 421.58 2 529.48\n4 Exclusive systematic flexibility 4.00 350.80 1 403.20\n5 Persevering mobile knowledge user 5.00 473.95 2 369.75\n\nSubtotal 8 914.47\nTax(10%) 891.45\nDiscount -891.45\nTotal Due 8 914.47\n\nPAYMENT INFORMATION\nBank: Moore, Harrison and Maldonado Credit Union\nAccount: YQUK820948343198",
+  "detections": [
+    {
+      "text": "Lake-Brandt\n5454 Park Forge | Lake Tony, NY 88675\n\nINVOICE\nNo: FAC5170452\nDate: 09/20/2024\nDue: 03/07/2026\n\nFROM\nLake-Brandt\n5454 Park Forge\nLake Tony, NY 88675\n\nBILL TO\nPerez Inc\n0244 Donaldson Falls Apt. 549\nLindsayport, FL 89669\n\n# Description Quantity Unit Price Amount\n1 Streamlined asymmetric artificial intelligence 5.00 498.34 2 491.70\n2 Stand-alone systemic neural-net 2.00 60.17 120.34\n3 Networked impactful frame 6.00 421.58 2 529.48\n4 Exclusive systematic flexibility 4.00 350.80 1 403.20\n5 Persevering mobile knowledge user 5.00 473.95 2 369.75\n\nSubtotal 8 914.47\nTax(10%) 891.45\nDiscount -891.45\nTotal Due 8 914.47\n\nPAYMENT INFORMATION\nBank: Moore, Harrison and Maldonado Credit Union\nAccount: YQUK820948343198"
+    }
+  ]
+}

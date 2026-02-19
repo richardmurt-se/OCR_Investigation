@@ -1,0 +1,35 @@
+{
+  "filename": "156023311.pdf",
+  "invoice": {
+    "client_name": "CASS INFORMATION SYSTEMS",
+    "client_address": "PO BOX 182682\nCOLUMBUS, OH 43218",
+    "seller_name": "IEM INC.",
+    "seller_address": "PO Box 93538\nLas Vegas, NV 89193",
+    "invoice_number": "0146202-IN",
+    "invoice_date": "02/08/2023",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "RUBBISH REMOVAL\nAUGUST TRASH\nWANT TO PAY ONLINE? GO TO \"THEIEMGROUP.COM\"",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "450.91",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "450.91",
+    "tax": "0.00",
+    "discount": "",
+    "total": "450.91"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "DUE UPON RECEIPT",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.602,
+  "file_size_bytes": 53611
+}

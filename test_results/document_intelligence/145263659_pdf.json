@@ -1,0 +1,63 @@
+{
+  "filename": "145263659.pdf",
+  "invoice": {
+    "client_name": "BAVARSKI STOLP, D.O.O.",
+    "client_address": "SLOVENSKA CESTA 59\n1000 LJUBLJANA",
+    "seller_name": "energetika ljubljana",
+    "seller_address": "VEROVŠKOVA 62\n1000 LJUBLJANA\nVEROVŠKOVA 62\n1000 LJUBLJANA",
+    "invoice_number": "303-2-14695671",
+    "invoice_date": "",
+    "due_date": "19/07/2022"
+  },
+  "items": [
+    {
+      "description": "Dobavljena toplota",
+      "quantity": "50.40",
+      "unit_price": "84.94",
+      "total_price": "4 281.20",
+      "category": null
+    },
+    {
+      "description": "Prisp. za energ. učinkovitost",
+      "quantity": "50.40",
+      "unit_price": "0.80",
+      "total_price": "40.32",
+      "category": null
+    },
+    {
+      "description": "Prispevek SPTE in OVE",
+      "quantity": "50.40",
+      "unit_price": "0.99",
+      "total_price": "49.92",
+      "category": null
+    },
+    {
+      "description": "Obračunska moč",
+      "quantity": "1.02",
+      "unit_price": "2 258.29",
+      "total_price": "2 298.39",
+      "category": null
+    },
+    {
+      "description": "Vzdrževanje merilnika toplote [ETTS-DN50]",
+      "quantity": "1.00",
+      "unit_price": "20.85",
+      "total_price": "20.85",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "8 162.63"
+  },
+  "payment_instructions": {
+    "due_date": "19/07/2022",
+    "bank_name": "[DocumentField(value_type=dictionary, value={'IBAN': DocumentField(value_type=string, value='SI56 0292 4025 3764 022', content=SI56 0292 4025 3764 022, bounding_regions=[BoundingRegion(page_number=1, polygon=[Point(x=5.7461, y=0.3705), Point(x=6.6852, y=0.3705), Point(x=6.6852, y=0.4771), Point(x=5.7461, y=0.4771)])], spans=[DocumentSpan(offset=264, length=23)], confidence=0.697), 'SWIFT': DocumentField(value_type=string, value='LJBASI2X', content=LJBASI2X, bounding_regions=[BoundingRegion(page_number=1, polygon=[Point(x=6.8832, y=0.3705), Point(x=7.2791, y=0.3705), Point(x=7.2842, y=0.4771), Point(x=6.8883, y=0.4771)])], spans=[DocumentSpan(offset=293, length=8)], confidence=0.89)}, content=None, bounding_regions=[], spans=[], confidence=0.995), DocumentField(value_type=dictionary, value={'IBAN': DocumentField(value_type=string, value='SI56 0310 0100 0014 131', content=SI56 0310 0100 0014 131, bounding_regions=[BoundingRegion(page_number=1, polygon=[Point(x=5.7512, y=0.4873), Point(x=6.6801, y=0.4873), Point(x=6.6801, y=0.5989), Point(x=5.7512, y=0.5989)])], spans=[DocumentSpan(offset=330, length=23)], confidence=0.874), 'SWIFT': DocumentField(value_type=string, value='SKBASI2X', content=SKBASI2X, bounding_regions=[BoundingRegion(page_number=1, polygon=[Point(x=6.8933, y=0.4873), Point(x=7.3045, y=0.4873), Point(x=7.3045, y=0.5939), Point(x=6.8933, y=0.5939)])], spans=[DocumentSpan(offset=359, length=8)], confidence=0.943)}, content=None, bounding_regions=[], spans=[], confidence=0.995), DocumentField(value_type=dictionary, value={'IBAN': DocumentField(value_type=string, value='SI56 0400 1004 9023 789', content=SI56 0400 1004 9023 789, bounding_regions=[BoundingRegion(page_number=1, polygon=[Point(x=5.7512, y=0.5989), Point(x=6.6852, y=0.5989), Point(x=6.6852, y=0.7157), Point(x=5.7512, y=0.7157)])], spans=[DocumentSpan(offset=424, length=23)], confidence=0.889), 'SWIFT': DocumentField(value_type=string, value='KBMASI2X', content=KBMASI2X, bounding_regions=[BoundingRegion(page_number=1, polygon=[Point(x=6.8883, y=0.604), Point(x=7.3197, y=0.5989), Point(x=7.3197, y=0.7106), Point(x=6.8883, y=0.7106)])], spans=[DocumentSpan(offset=453, length=8)], confidence=0.955)}, content=None, bounding_regions=[], spans=[], confidence=0.995), DocumentField(value_type=dictionary, value={'IBAN': DocumentField(value_type=string, value='SI56 2900 0000 3105 894', content=SI56 2900 0000 3105 894, bounding_regions=[BoundingRegion(page_number=1, polygon=[Point(x=5.7411, y=0.7157), Point(x=6.6801, y=0.7157), Point(x=6.6801, y=0.8324), Point(x=5.7411, y=0.8324)])], spans=[DocumentSpan(offset=494, length=23)], confidence=0.87), 'SWIFT': DocumentField(value_type=string, value='BACXSI22', content=BACXSI22, bounding_regions=[BoundingRegion(page_number=1, polygon=[Point(x=6.8832, y=0.7208), Point(x=7.2994, y=0.7208), Point(x=7.2994, y=0.8324), Point(x=6.8832, y=0.8324)])], spans=[DocumentSpan(offset=523, length=8)], confidence=0.939)}, content=None, bounding_regions=[], spans=[], confidence=0.995), DocumentField(value_type=dictionary, value={'IBAN': DocumentField(value_type=string, value='SI56 0292 4025 3764 022', content=SI56 0292 4025 3764 022, bounding_regions=[BoundingRegion(page_number=2, polygon=[Point(x=5.7868, y=0.5736), Point(x=6.7258, y=0.5736), Point(x=6.7258, y=0.6903), Point(x=5.7868, y=0.6903)])], spans=[DocumentSpan(offset=2745, length=23)], confidence=0.947), 'SWIFT': DocumentField(value_type=string, value='LJBASI2X', content=LJBASI2X, bounding_regions=[BoundingRegion(page_number=2, polygon=[Point(x=6.9238, y=0.5786), Point(x=7.3248, y=0.5736), Point(x=7.3248, y=0.6852), Point(x=6.9238, y=0.6903)])], spans=[DocumentSpan(offset=2774, length=8)], confidence=0.949)}, content=None, bounding_regions=[], spans=[], confidence=0.995), DocumentField(value_type=dictionary, value={'IBAN': DocumentField(value_type=string, value='SI56 0310 0100 0014 131', content=SI56 0310 0100 0014 131, bounding_regions=[BoundingRegion(page_number=2, polygon=[Point(x=5.7868, y=0.6954), Point(x=6.7157, y=0.6954), Point(x=6.7157, y=0.807), Point(x=5.7868, y=0.807)])], spans=[DocumentSpan(offset=2811, length=23)], confidence=0.963), 'SWIFT': DocumentField(value_type=string, value='SKBASI2X', content=SKBASI2X, bounding_regions=[BoundingRegion(page_number=2, polygon=[Point(x=6.9289, y=0.7004), Point(x=7.335, y=0.7004), Point(x=7.335, y=0.802), Point(x=6.9289, y=0.807)])], spans=[DocumentSpan(offset=2840, length=8)], confidence=0.955)}, content=None, bounding_regions=[], spans=[], confidence=0.995), DocumentField(value_type=dictionary, value={'IBAN': DocumentField(value_type=string, value='SI56 0400 1004 9023 789', content=SI56 0400 1004 9023 789, bounding_regions=[BoundingRegion(page_number=2, polygon=[Point(x=5.7868, y=0.807), Point(x=6.7157, y=0.807), Point(x=6.7157, y=0.9238), Point(x=5.7868, y=0.9238)])], spans=[DocumentSpan(offset=2905, length=23)], confidence=0.955), 'SWIFT': DocumentField(value_type=string, value='KBMASI2X', content=KBMASI2X, bounding_regions=[BoundingRegion(page_number=2, polygon=[Point(x=6.9187, y=0.8121), Point(x=7.3553, y=0.807), Point(x=7.3553, y=0.9187), Point(x=6.9187, y=0.9187)])], spans=[DocumentSpan(offset=2934, length=8)], confidence=0.957)}, content=None, bounding_regions=[], spans=[], confidence=0.995), DocumentField(value_type=dictionary, value={'IBAN': DocumentField(value_type=string, value='SI56 2900 0000 3105 894', content=SI56 2900 0000 3105 894, bounding_regions=[BoundingRegion(page_number=2, polygon=[Point(x=5.7868, y=0.9238), Point(x=6.7208, y=0.9238), Point(x=6.7208, y=1.0405), Point(x=5.7868, y=1.0405)])], spans=[DocumentSpan(offset=2975, length=23)], confidence=0.964), 'SWIFT': DocumentField(value_type=string, value='BACXSI22', content=BACXSI22, bounding_regions=[BoundingRegion(page_number=2, polygon=[Point(x=6.9289, y=0.9289), Point(x=7.34, y=0.9289), Point(x=7.34, y=1.0405), Point(x=6.9289, y=1.0405)])], spans=[DocumentSpan(offset=3004, length=8)], confidence=0.96)}, content=None, bounding_regions=[], spans=[], confidence=0.995)]",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 9.797,
+  "file_size_bytes": 116516
+}

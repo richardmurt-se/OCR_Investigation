@@ -1,0 +1,77 @@
+{
+  "filename": "116164205.pdf",
+  "invoice": {
+    "client_name": "BELLSOUTH TELCOMMUNICATION",
+    "client_address": "PO BOX 182552\nCOLUMBUS OH 43218-2552",
+    "seller_name": "Clay Electric",
+    "seller_address": "300 North State Road 19\nPalatka FL 32177-2498",
+    "invoice_number": "",
+    "invoice_date": "15/02/2019",
+    "due_date": "01/03/2019"
+  },
+  "items": [
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "109.29",
+      "category": null
+    },
+    {
+      "description": "Energy",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "52.85",
+      "category": null
+    },
+    {
+      "description": "Access Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "23.00",
+      "category": null
+    },
+    {
+      "description": "Power Cost Adjustment .01740 X 650 KWH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.31",
+      "category": null
+    },
+    {
+      "description": "FLA Gross Receipts Tax",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2.23",
+      "category": null
+    },
+    {
+      "description": "Florida State Sales Tax",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "6.21",
+      "category": null
+    },
+    {
+      "description": "Putnam County Sales Tax",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.89",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "9.33",
+    "discount": "",
+    "total": "96.49"
+  },
+  "payment_instructions": {
+    "due_date": "01/03/2019",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 10.603,
+  "file_size_bytes": 723673
+}

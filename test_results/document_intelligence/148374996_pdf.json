@@ -1,0 +1,119 @@
+{
+  "filename": "148374996.pdf",
+  "invoice": {
+    "client_name": "KAY JEWLERS #4029",
+    "client_address": "PO BOX 182308\nCOLUMBUS, OH 43218- 2308",
+    "seller_name": "Orange & Rockland",
+    "seller_address": "PO Box 1005, Spring Valley, NY 10977",
+    "invoice_number": "",
+    "invoice_date": "30/09/2022",
+    "due_date": "23/10/2022"
+  },
+  "items": [
+    {
+      "description": "your\nSep 30, thank you",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Electricity charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "860.41",
+      "category": null
+    },
+    {
+      "description": "Billing Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.50",
+      "category": null
+    },
+    {
+      "description": "Basic Service Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "First 5.0",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "18.25",
+      "category": null
+    },
+    {
+      "description": "Next 13.8",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "331.06",
+      "category": null
+    },
+    {
+      "description": "First 1250",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "59.48",
+      "category": null
+    },
+    {
+      "description": "Next",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "64.21",
+      "category": null
+    },
+    {
+      "description": "Energy",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "EVMR",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "DRS",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "RDM",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "SBC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "69.91",
+    "discount": "",
+    "total": "931.82"
+  },
+  "payment_instructions": {
+    "due_date": "23/10/2022",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 14.168,
+  "file_size_bytes": 1076305
+}

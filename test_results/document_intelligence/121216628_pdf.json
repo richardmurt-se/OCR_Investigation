@@ -1,0 +1,98 @@
+{
+  "filename": "121216628.pdf",
+  "invoice": {
+    "client_name": "Fresenius Medical",
+    "client_address": "",
+    "seller_name": "Dominion\nEnergy",
+    "seller_address": "",
+    "invoice_number": "6275405725",
+    "invoice_date": "23/07/2019",
+    "due_date": "14/08/2019"
+  },
+  "items": [
+    {
+      "description": "Balance Carry Forward",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Late Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Late Fee Adjustment",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Consumption Tax",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.20",
+      "category": null
+    },
+    {
+      "description": "Distribution Service - Basic Customer Charge",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "10.78",
+      "category": null
+    },
+    {
+      "description": "Distribution Service - Distribution Service Kwh",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "15.23",
+      "category": null
+    },
+    {
+      "description": "Electricity Supply Svc Ess - Generation",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "35.82",
+      "category": null
+    },
+    {
+      "description": "Electricity Supply Svc Ess - Transmission",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "7.11",
+      "category": null
+    },
+    {
+      "description": "Electricity Supply Svc Ess - Fuel",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "19.50",
+      "category": null
+    },
+    {
+      "description": "Sales And Use Surcharge",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "0.42",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "88.86"
+  },
+  "payment_instructions": {
+    "due_date": "14/08/2019",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.483,
+  "file_size_bytes": 65123
+}

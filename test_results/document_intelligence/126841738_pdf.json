@@ -1,0 +1,70 @@
+{
+  "filename": "126841738.pdf",
+  "invoice": {
+    "client_name": "JP MORGAN CHASE BANK",
+    "client_address": "PO BOX 182269\nCOLUMBUS OH\n43218-2269",
+    "seller_name": "City of Austin Utility Customer Service,",
+    "seller_address": "P.O. Box 2267 Austin, TX 78783-2267",
+    "invoice_number": "214144165217",
+    "invoice_date": "03/04/2020",
+    "due_date": "20/04/2020"
+  },
+  "items": [
+    {
+      "description": "Electric Service",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "96.96",
+      "category": null
+    },
+    {
+      "description": "Clean Community Service",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "20.75",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "18.00",
+      "category": null
+    },
+    {
+      "description": "Energy Charge 737 kWh at $0.04802 per kWh\nCommunity",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "35.39",
+      "category": null
+    },
+    {
+      "description": "Regulatory Charges 737 kWh at $0.01252 per kWh",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "9.23",
+      "category": null
+    },
+    {
+      "description": "Power Supply Adjustment 737 kWh at $0.03139 per kWh (winter)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "23.13",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "117.71"
+  },
+  "payment_instructions": {
+    "due_date": "20/04/2020",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.498,
+  "file_size_bytes": 889721
+}

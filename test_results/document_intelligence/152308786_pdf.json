@@ -1,0 +1,112 @@
+{
+  "filename": "152308786.pdf",
+  "invoice": {
+    "client_name": "WARBURTONS LIMITED",
+    "client_address": "",
+    "seller_name": "Resource Advisor\nGazprom",
+    "seller_address": "",
+    "invoice_number": "INV02819984",
+    "invoice_date": "13/03/2023",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Gas Cost (Feb/01/2023 - Feb/28/2023)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "268 143.87",
+      "category": null
+    },
+    {
+      "description": "Standing Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "5 174.45",
+      "category": null
+    },
+    {
+      "description": "CCL",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2 701.04",
+      "category": null
+    },
+    {
+      "description": "SC VAT",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 034.89",
+      "category": null
+    },
+    {
+      "description": "Commercial VAT Content",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "53 628.77",
+      "category": null
+    },
+    {
+      "description": "Domestic VAT Content",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "CCL Com VAT",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "540.21",
+      "category": null
+    },
+    {
+      "description": "Consumption",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "311 146.00",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Current",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Unit Price per kWh - 0.078943 (Feb/01/2023 - Feb/28/2023)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Alt",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "331 223.23"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.435,
+  "file_size_bytes": 26056
+}

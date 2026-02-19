@@ -1,0 +1,77 @@
+{
+  "filename": "138755958.pdf",
+  "invoice": {
+    "client_name": "KINKO'S COPIES STORE 1806",
+    "client_address": "PO BOX 2440\nSPOKANE, WA 99210",
+    "seller_name": "",
+    "seller_address": "",
+    "invoice_number": "",
+    "invoice_date": "10/09/2021",
+    "due_date": "04/10/2021"
+  },
+  "items": [
+    {
+      "description": "Customer Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "50.00",
+      "category": null
+    },
+    {
+      "description": "KWH Energy Charge First",
+      "quantity": "100.00",
+      "unit_price": "0.12",
+      "total_price": "11.50",
+      "category": null
+    },
+    {
+      "description": "KWH Energy Charge Next",
+      "quantity": "6900.00",
+      "unit_price": "0.12",
+      "total_price": "793.50",
+      "category": null
+    },
+    {
+      "description": "KW Demand Tier I",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "160.00",
+      "category": null
+    },
+    {
+      "description": "KW Demand Tier 2",
+      "quantity": "0.00",
+      "unit_price": "8.00",
+      "total_price": "3.52",
+      "category": null
+    },
+    {
+      "description": "Delaware Green Energy Fund",
+      "quantity": "7000.00",
+      "unit_price": "0.00",
+      "total_price": "2.49",
+      "category": null
+    },
+    {
+      "description": "Revenue Stabilization Adj",
+      "quantity": "7000.00",
+      "unit_price": "-0.00",
+      "total_price": "-29.26",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "1 033.79",
+    "tax": "42.04",
+    "discount": "",
+    "total": "1 033.79"
+  },
+  "payment_instructions": {
+    "due_date": "04/10/2021",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.449,
+  "file_size_bytes": 58777
+}

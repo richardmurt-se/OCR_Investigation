@@ -1,0 +1,8 @@
+{
+  "content": "Stark-Hooper\n8795 Danny Junctions Apt. 978 | Port Charles, KY 80480\n\nINVOICE\nNo: FAC/19847197\nDate: 01/05/2023\nDue: 02/26/2024\n\nFROM\nStark-Hooper\n8795 Danny Junctions Apt. 978\nPort Charles, KY 80480\n\nBILL TO\nTownsend and Sons\n13103 Carney Junction Apt. 522\nRodriguezton, OR 75121\n\n# Description\nQuantity Unit Price Amount\n1 Multi-layered next generation orchestration 6.00 226.93 1 361.58\n2 Secured zero administration instruction set 5.00 98.30 491.50\n3 Configurable encompassing moderator 7.00 317.71 2 223.97\n4 Persevering motivating benchmark 5.00 322.92 1 614.60\n5 Adaptive value-added hub 3.00 363.30 1 089.90\n\nSubtotal 6 781.56\nTax (10%) 678.15\nTotal Due 7 459.70\n\nPAYMENT INFORMATION\nBank: Snyder Group Credit Union\nAccount: PGES49430124821052\n\nThank you for your business",
+  "detections": [
+    {
+      "text": "Stark-Hooper\n8795 Danny Junctions Apt. 978 | Port Charles, KY 80480\n\nINVOICE\nNo: FAC/19847197\nDate: 01/05/2023\nDue: 02/26/2024\n\nFROM\nStark-Hooper\n8795 Danny Junctions Apt. 978\nPort Charles, KY 80480\n\nBILL TO\nTownsend and Sons\n13103 Carney Junction Apt. 522\nRodriguezton, OR 75121\n\n# Description\nQuantity Unit Price Amount\n1 Multi-layered next generation orchestration 6.00 226.93 1 361.58\n2 Secured zero administration instruction set 5.00 98.30 491.50\n3 Configurable encompassing moderator 7.00 317.71 2 223.97\n4 Persevering motivating benchmark 5.00 322.92 1 614.60\n5 Adaptive value-added hub 3.00 363.30 1 089.90\n\nSubtotal 6 781.56\nTax (10%) 678.15\nTotal Due 7 459.70\n\nPAYMENT INFORMATION\nBank: Snyder Group Credit Union\nAccount: PGES49430124821052\n\nThank you for your business"
+    }
+  ]
+}

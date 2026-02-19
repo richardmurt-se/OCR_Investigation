@@ -1,0 +1,42 @@
+{
+  "filename": "127319760.pdf",
+  "invoice": {
+    "client_name": "NEPTCO INC\nSTORAGE",
+    "client_address": "295 UNIVERSITY AVE\nWESTWOOD MA 02090-2315",
+    "seller_name": "DUKE\nENERGY®",
+    "seller_address": "PO BOX 1090 CHARLOTTE NC 28201-1090",
+    "invoice_number": "",
+    "invoice_date": "29/04/2020",
+    "due_date": "13/05/2020"
+  },
+  "items": [
+    {
+      "description": "SGS - Small General Service",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "23.09",
+      "category": null
+    },
+    {
+      "description": "Renewable Energy Rider",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "4.65",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "1.94",
+    "discount": "",
+    "total": "29.68"
+  },
+  "payment_instructions": {
+    "due_date": "13/05/2020",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.452,
+  "file_size_bytes": 677865
+}

@@ -1,0 +1,8 @@
+{
+  "content": "Jones PLC\n211 Jennings Radial Apt. 464 | South Greggport, CA 27180\n\nINVOICE\nNo: 9621276961\nDate: 09/05/2025\n\nFROM\nJones PLC\n211 Jennings Radial Apt. 464\nSouth Greggport, CA 27180\n\nBILL TO\nFisher, Montgomery and Lee\n8402 Kelly Mill\nPort Stephanie, WA 74823\n\n# Description\nQuantity Unit Price Amount\n1 Implemented web-enabled capability 10.00 317.14 3 171.40\n2 Adaptive multi-tasking moratorium 2.00 142.13 284.26\n3 Triple-buffered contextually-based benchmark 4.00 131.81 527.24\n4 Grass-roots full-range initiative 6.00 28.04 188.24\n\nSubtotal 4 151.14\nTax (10%) 415.11\nTotal Due 4 508.25\n\nThank you for your business",
+  "detections": [
+    {
+      "text": "Jones PLC\n211 Jennings Radial Apt. 464 | South Greggport, CA 27180\n\nINVOICE\nNo: 9621276961\nDate: 09/05/2025\n\nFROM\nJones PLC\n211 Jennings Radial Apt. 464\nSouth Greggport, CA 27180\n\nBILL TO\nFisher, Montgomery and Lee\n8402 Kelly Mill\nPort Stephanie, WA 74823\n\n# Description\nQuantity Unit Price Amount\n1 Implemented web-enabled capability 10.00 317.14 3 171.40\n2 Adaptive multi-tasking moratorium 2.00 142.13 284.26\n3 Triple-buffered contextually-based benchmark 4.00 131.81 527.24\n4 Grass-roots full-range initiative 6.00 28.04 188.24\n\nSubtotal 4 151.14\nTax (10%) 415.11\nTotal Due 4 508.25\n\nThank you for your business"
+    }
+  ]
+}

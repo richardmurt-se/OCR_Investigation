@@ -1,0 +1,112 @@
+{
+  "filename": "150126281.pdf",
+  "invoice": {
+    "client_name": "ATTN CASS INFORMATION SYSTEMS\nFERGUSON ENTERPRISES\n701900 FERGUSON, MS #4",
+    "client_address": "PO Box 182265\nColumbus OH 43218-2265",
+    "seller_name": "New Mexico\nGAS COMPANY®\nEMERA",
+    "seller_address": "1700-C St. Michaels Dr. Suite 110 Santa Fe, NM 87505",
+    "invoice_number": "70490012082",
+    "invoice_date": "01/12/2022",
+    "due_date": "27/12/2022"
+  },
+  "items": [
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "575.68",
+      "category": null
+    },
+    {
+      "description": "Cost of Gas 02 DAYS-Oct",
+      "quantity": "39.92",
+      "unit_price": "0.99",
+      "total_price": "39.47",
+      "category": null
+    },
+    {
+      "description": "Cost of Gas 30 DAYS-Nov",
+      "quantity": "598.83",
+      "unit_price": "0.58",
+      "total_price": "346.96",
+      "category": null
+    },
+    {
+      "description": "Surcharge",
+      "quantity": "638.75",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Weather Adjustment",
+      "quantity": "638.75",
+      "unit_price": "0.00",
+      "total_price": "1.72",
+      "category": null
+    },
+    {
+      "description": "Distribution",
+      "quantity": "638.75",
+      "unit_price": "0.08",
+      "total_price": "50.33",
+      "category": null
+    },
+    {
+      "description": "Transmission",
+      "quantity": "638.75",
+      "unit_price": "0.07",
+      "total_price": "47.08",
+      "category": null
+    },
+    {
+      "description": "Access Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "23.50",
+      "category": null
+    },
+    {
+      "description": "Gas Energy Efficiency Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.82",
+      "category": null
+    },
+    {
+      "description": "Pipeline Safety Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.20",
+      "category": null
+    },
+    {
+      "description": "Franchise Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "10.42",
+      "category": null
+    },
+    {
+      "description": "Tax",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "44.18",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "44.18",
+    "discount": "",
+    "total": "575.68"
+  },
+  "payment_instructions": {
+    "due_date": "27/12/2022",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.363,
+  "file_size_bytes": 815521
+}

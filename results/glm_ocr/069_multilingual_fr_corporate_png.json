@@ -1,0 +1,8 @@
+{
+  "filename": "069_multilingual_fr_corporate.png",
+  "model_name": "glm-ocr",
+  "raw_text": "Leroux Grenier S.A.S.\n590, chemin Jean \u00b7 31407 Guillou\n\nFACTURE\n#INV/676112\n03/09/2025\n\nVENDEUR\nLeroux Grenier S.A.S.\n590, chemin Jean\n31407 Guillou\n\nACHETEUR\nSamson\n64, rue Margaux Gilbert\n78803 Hubert-sur-Mer\n\nN\u00b0 DESCRIPTION QUANTIT\u00c9 PRIX UNIT. MONTANT\n1 La possibilit\u00e9 d'avancer de mani\u00e8re s\u00fbre 2.00 343.87 687.74\n2 Le plaisir de louver \u00e0 sa source 4.00 344.53 1 378.12\n3 L'avantage de rouler en toute tranquilit\u00e9 5.00 380.79 1 903.95\n4 L'art d'atteindre vos buts de mani\u00e8re s\u00fbre 3.00 318.91 996.73\n5 La possibilit\u00e9 d'innover plus rapidement 3.00 167.60 502.80\n6 Le confort de rouler \u00e0 la pointe 7.00 46.00 322.00\n\nSous-total 5 751.34\nTVA (10%) 575.13\nRemise -575.13\nTOTAL \u00c2 PAYER 5 751.34\n\nCOORDONN\u00c9ES BANCAIRES\nBanque: Richard SARL Banque\nCompte: 80336785516168381002404\nDate d'\u00e9ch\u00e9ance: 02/13/2026\n\nLeroux Grenier S.A.S. - Facture #INV/676112 - 03/09/2025",
+  "processing_time_seconds": 50.896,
+  "file_size_bytes": 40748,
+  "success": true
+}

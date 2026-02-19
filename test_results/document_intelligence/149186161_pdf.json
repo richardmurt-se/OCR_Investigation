@@ -1,0 +1,112 @@
+{
+  "filename": "149186161.pdf",
+  "invoice": {
+    "client_name": "ATS Euromaster Limited",
+    "client_address": "",
+    "seller_name": "Resource Advisor\nGazprom Energy",
+    "seller_address": "",
+    "invoice_number": "SO01463112.72",
+    "invoice_date": "01/11/2022",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Gas Cost",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-70.28",
+      "category": null
+    },
+    {
+      "description": "Standing Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-27.05",
+      "category": null
+    },
+    {
+      "description": "CCL",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "SC VAT",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-1.35",
+      "category": null
+    },
+    {
+      "description": "Commercial VAT Content",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Domestic VAT Content",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-3.51",
+      "category": null
+    },
+    {
+      "description": "CCL Com VAT",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Consumption",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-274.00",
+      "category": null
+    },
+    {
+      "description": "Previous Reading (Actual)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Current Reading (Actual)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "8 880.00",
+      "category": null
+    },
+    {
+      "description": "Unit Price per kWh - 0.022975",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Alt",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": ""
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.5,
+  "file_size_bytes": 25981
+}

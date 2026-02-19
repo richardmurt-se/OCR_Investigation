@@ -1,0 +1,8 @@
+{
+  "content": "Phillips and Sons\n23750 Michael Bypass Suite 589 | North Loganhaven, CA 12679\n\nINVOICE\nNo: 99157123\nDate: 03/13/2024\n\nFROM\nPhillips and Sons\n23750 Michael Bypass Suite 589\nNorth Loganhaven, CA 12679\n\nBILL TO\nBowers Ltd\n77614 Craig Greens\nJasdiport, PM 80650\n\n# Description Quantity Unit Price Amount\n1 Cross-platform high-level middleware 8.00 332.52 2 600.16\n2 Focused asymmetric throughput 7.00 154.33 1 080.31\n3 Cross-group dynamic encoding 6.00 177.99 1 087.76\n4 Triple-buffered background emulation 9.00 344.98 3 104.82\n\nSubtotal 7 913.06\nTax (10%) 791.30\nTotal Due 8 704.35\n\nThank you for your business",
+  "detections": [
+    {
+      "text": "Phillips and Sons\n23750 Michael Bypass Suite 589 | North Loganhaven, CA 12679\n\nINVOICE\nNo: 99157123\nDate: 03/13/2024\n\nFROM\nPhillips and Sons\n23750 Michael Bypass Suite 589\nNorth Loganhaven, CA 12679\n\nBILL TO\nBowers Ltd\n77614 Craig Greens\nJasdiport, PM 80650\n\n# Description Quantity Unit Price Amount\n1 Cross-platform high-level middleware 8.00 332.52 2 600.16\n2 Focused asymmetric throughput 7.00 154.33 1 080.31\n3 Cross-group dynamic encoding 6.00 177.99 1 087.76\n4 Triple-buffered background emulation 9.00 344.98 3 104.82\n\nSubtotal 7 913.06\nTax (10%) 791.30\nTotal Due 8 704.35\n\nThank you for your business"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "filename": "129110228.pdf",
+  "invoice": {
+    "client_name": "BARNES AND NOBLE",
+    "client_address": "PO BOX 182512\nCOLUMBUS OH 43218-2512",
+    "seller_name": "SEMCOENERGY\nGAS COMPANY",
+    "seller_address": "PO BOX 5004 PORT HURON, MI 48061-5004",
+    "invoice_number": "",
+    "invoice_date": "",
+    "due_date": "04/08/2020"
+  },
+  "items": [
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "74.66",
+      "category": null
+    },
+    {
+      "description": "SEMCO Cost of Gas (0.203000)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.71",
+      "category": null
+    },
+    {
+      "description": "Customer Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "15.00",
+      "category": null
+    },
+    {
+      "description": "Distribution Charge (0.195560)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.64",
+      "category": null
+    },
+    {
+      "description": "Balancing Demand Charge (0.100000)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.84",
+      "category": null
+    },
+    {
+      "description": "Energy Waste Reduction",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.98",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "1.27",
+    "discount": "",
+    "total": "22.44"
+  },
+  "payment_instructions": {
+    "due_date": "04/08/2020",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.346,
+  "file_size_bytes": 838826
+}

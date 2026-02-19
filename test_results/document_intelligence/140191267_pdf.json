@@ -1,0 +1,91 @@
+{
+  "filename": "140191267.pdf",
+  "invoice": {
+    "client_name": "MARRIOTT HOTEL, STORE #3333709",
+    "client_address": "PO BOX 2440\nSPOKANE WA 99210-2440",
+    "seller_name": "City of Portland Utilities",
+    "seller_address": "PO Box 4216\nPortland, OR 97208-4216",
+    "invoice_number": "",
+    "invoice_date": "20/04/2021",
+    "due_date": "11/05/2021"
+  },
+  "items": [
+    {
+      "description": "Water Volume",
+      "quantity": "576.00",
+      "unit_price": "5.59",
+      "total_price": "3 221.57",
+      "category": null
+    },
+    {
+      "description": "Sewer Volume",
+      "quantity": "576.00",
+      "unit_price": "11.37",
+      "total_price": "6 546.24",
+      "category": null
+    },
+    {
+      "description": "Net Bio Oxygen Demand",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "534.00",
+      "category": null
+    },
+    {
+      "description": "Net Total Suspended Solids",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "95.41",
+      "category": null
+    },
+    {
+      "description": "Stormwater Off-site (Impervious Area 40000sq. ft.)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "369.51",
+      "category": null
+    },
+    {
+      "description": "Stormwater On-site",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "198.97",
+      "category": null
+    },
+    {
+      "description": "Portland Harbor Superfund",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "83.20",
+      "category": null
+    },
+    {
+      "description": "Base Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "55.83",
+      "category": null
+    },
+    {
+      "description": "Pre\nUrgent\nLast Chance Notice\nShut",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "30.00",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "11 104.73"
+  },
+  "payment_instructions": {
+    "due_date": "11/05/2021",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.765,
+  "file_size_bytes": 201902
+}

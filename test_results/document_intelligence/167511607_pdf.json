@@ -1,0 +1,63 @@
+{
+  "filename": "167511607.pdf",
+  "invoice": {
+    "client_name": "AUTOZONE #512\n712500 AUTOZONE, MS #1",
+    "client_address": "PO Box 182463\nColumbus, OH 43218-2463",
+    "seller_name": "Ada",
+    "seller_address": "210 W. 13th\nAda, OK 74820",
+    "invoice_number": "",
+    "invoice_date": "05/08/2024",
+    "due_date": "20/08/2024"
+  },
+  "items": [
+    {
+      "description": "SEWER",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "23.87",
+      "category": null
+    },
+    {
+      "description": "GARBAGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "397.60",
+      "category": null
+    },
+    {
+      "description": "WATER DEV",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "7.00",
+      "category": null
+    },
+    {
+      "description": "ENVIRONMENTAL PROJECTS",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "3.00",
+      "category": null
+    },
+    {
+      "description": "SEWER FUND",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "4.00",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "464.19"
+  },
+  "payment_instructions": {
+    "due_date": "20/08/2024",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.214,
+  "file_size_bytes": 644816
+}

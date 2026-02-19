@@ -1,0 +1,49 @@
+{
+  "filename": "141896416.pdf",
+  "invoice": {
+    "client_name": "DISCOUNT TIRE CO\nC/O FACILITY IQ-MS 930",
+    "client_address": "P.O. BOX 2440\nSPOKANE WA 99210",
+    "seller_name": "City of Naperville",
+    "seller_address": "400 S. Bagle Street\nNaperville, IL 606",
+    "invoice_number": "46-07",
+    "invoice_date": "11/02/2022",
+    "due_date": "08/03/2022"
+  },
+  "items": [
+    {
+      "description": "EL CUSTOMER CHARGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "31.55",
+      "category": null
+    },
+    {
+      "description": "EL FLAT GS 1",
+      "quantity": "",
+      "unit_price": "107 400.00",
+      "total_price": "201.38",
+      "category": null
+    },
+    {
+      "description": "EL PURCHASED POWER ADJ",
+      "quantity": "",
+      "unit_price": "-1 170.00",
+      "total_price": "-2.19",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "15.79",
+    "discount": "",
+    "total": "246.63"
+  },
+  "payment_instructions": {
+    "due_date": "08/03/2022",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.721,
+  "file_size_bytes": 148257
+}

@@ -1,0 +1,8 @@
+{
+  "filename": "147_effect_stamps.jpeg",
+  "model_name": "glm-ocr",
+  "raw_text": "Horne LLC\n50054 Williams Route Apt. 876 | West Sarahfort, DC 38965\n\nINVOICE\nNo: BILL-657000\nDate: 02/15/2025\n\nFROM\nHorne LLC\n50054 Williams Route Apt. 876\nWest Sarahfort, DC 38965\n\nBILL TO\nStone LLC\n17740 Lisa Plaza Apt. 946\nPort Elizabethside, AS 46255\n\n# Description\nQuantity Unit Price Amount\n1 Progressive 24/7 core 9.00 288.63 2 597.67\n2 Seamless uniform task force 8.00 341.00 2 728.00\n3 Vision-oriented web-enabled policy 1.00 292.60 292.60\n4 Focused web-enabled migration 1.00 378.93 378.93\n5 Reactive high-level contingency 3.00 201.71 605.13\n\nSubtotal 6 602.33\nTax (10%) 660.23\nDiscount -680.23\nTotal Due 6 602.33\n\nThank you for your business",
+  "processing_time_seconds": 45.555,
+  "file_size_bytes": 81564,
+  "success": true
+}

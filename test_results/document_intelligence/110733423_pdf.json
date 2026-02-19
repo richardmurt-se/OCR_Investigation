@@ -1,0 +1,49 @@
+{
+  "filename": "110733423.pdf",
+  "invoice": {
+    "client_name": "THE WOODLANDS WATERWAY MAR",
+    "client_address": "PO BOX 2440\nSPOKANE WA\n99210-2440",
+    "seller_name": "The Woodlands\nWJP\nJoint Powers Agency",
+    "seller_address": "2455 Lake Robbins Drive\nThe Woodlands, TX 77380",
+    "invoice_number": "",
+    "invoice_date": "24/07/2018",
+    "due_date": "20/08/2018"
+  },
+  "items": [
+    {
+      "description": "SPRINKLER",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "293.25",
+      "category": null
+    },
+    {
+      "description": "TCEO FEE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.47",
+      "category": null
+    },
+    {
+      "description": "SWC FEE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "234.60",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "529.32"
+  },
+  "payment_instructions": {
+    "due_date": "20/08/2018",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.613,
+  "file_size_bytes": 188888
+}

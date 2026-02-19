@@ -1,0 +1,112 @@
+{
+  "filename": "129468263.pdf",
+  "invoice": {
+    "client_name": "Iron Mountain",
+    "client_address": "PO BOX 182586\nCOLUMBUS OH 43218-2586",
+    "seller_name": "Louisville Water",
+    "seller_address": "550 South Third Street\nLouisville, KY 40202-1839",
+    "invoice_number": "",
+    "invoice_date": "21/07/2020",
+    "due_date": "11/08/2020"
+  },
+  "items": [
+    {
+      "description": "Previous Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "3 764.74",
+      "category": null
+    },
+    {
+      "description": "Payments Received",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-3 764.74",
+      "category": null
+    },
+    {
+      "description": "Louisville Water Charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "204.94",
+      "category": null
+    },
+    {
+      "description": "MSD Charges\nmsd",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 818.32",
+      "category": null
+    },
+    {
+      "description": "Water Domestic Service Charge 66 Days",
+      "quantity": "",
+      "unit_price": "0.42",
+      "total_price": "27.97",
+      "category": null
+    },
+    {
+      "description": "Water Fire Service Charge 66 Days",
+      "quantity": "",
+      "unit_price": "1.71",
+      "total_price": "112.72",
+      "category": null
+    },
+    {
+      "description": "Water Consumption Charge 6.0 CONS",
+      "quantity": "",
+      "unit_price": "3.49",
+      "total_price": "20.94",
+      "category": null
+    },
+    {
+      "description": "Cross Connection Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "39.20",
+      "category": null
+    },
+    {
+      "description": "EPA Consent Decree Surcharge 66 Days@",
+      "quantity": "",
+      "unit_price": "0.45",
+      "total_price": "29.86",
+      "category": null
+    },
+    {
+      "description": "Wastewater Service Charge 66 Days",
+      "quantity": "",
+      "unit_price": "0.55",
+      "total_price": "36.54",
+      "category": null
+    },
+    {
+      "description": "Wastewater Volume Charge 6.0 CONS",
+      "quantity": "",
+      "unit_price": "5.31",
+      "total_price": "31.86",
+      "category": null
+    },
+    {
+      "description": "Stormwater/Drainage Charge 64 Days",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 714.16",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "2 023.26"
+  },
+  "payment_instructions": {
+    "due_date": "11/08/2020",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.338,
+  "file_size_bytes": 770755
+}

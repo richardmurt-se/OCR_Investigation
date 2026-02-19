@@ -1,0 +1,8 @@
+{
+  "filename": "143_effect_fold_lines.jpeg",
+  "model_name": "glm-ocr",
+  "raw_text": "Tucker Inc\n62342 Cooley Cliffs | North Rachael, NH 07008\n\nINVOICE\nNo: FAC6231649\nDate: 02/09/2024\n\nFROM\nTucker Inc\n62342 Cooley Cliffs\nNorth Rachael, NH 07008\n\nBILL TO\nGarza-Liu\n450 Kaitlyn Glens\nEast Markville, PR 17603\n\n# Description Quantity Unit Price Amount\n1 Persevering 4thgeneration policy 7.00 482.25 3 375.75\n2 Function-based incremental array 7.00 401.91 2 813.37\n3 Total context-sensitive knowledgebase 7.00 253.26 1 772.82\n4 Mandatory radical standardization 6.00 339.21 2 035.26\n5 Compatible clear-thinking policy 7.00 382.34 2 678.38\n6 Grass-roots zero administration conglomeration 1.00 82.19 82.19\n7 Centralized eco-centric Local Area Network 9.00 253.61 2 282.49\n8 Cloned well-modulated instruction set 3.00 87.59 282.77\n\nSubtotal 15 301.03\nTax (10%) 1 530.10\nTotal Due 16 831.13\n\nThank you for your business",
+  "processing_time_seconds": 47.49,
+  "file_size_bytes": 65883,
+  "success": true
+}

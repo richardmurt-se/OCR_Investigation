@@ -1,0 +1,112 @@
+{
+  "filename": "111626112.pdf",
+  "invoice": {
+    "client_name": "Center",
+    "client_address": "PO BOX 182460\nCOLUMBUS OH 43218-2460",
+    "seller_name": "Nicor Gas",
+    "seller_address": "PO Box 2020\nAurora, IL 60507-2020",
+    "invoice_number": "",
+    "invoice_date": "27/08/2018",
+    "due_date": "11/09/2018"
+  },
+  "items": [
+    {
+      "description": "GAS (314.25",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "119.09",
+      "category": null
+    },
+    {
+      "description": "Monthly Customer Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "94.55",
+      "category": null
+    },
+    {
+      "description": "First 150 Therms\n150.00",
+      "quantity": "",
+      "unit_price": "0.12",
+      "total_price": "18.02",
+      "category": null
+    },
+    {
+      "description": "151 - 5000 Therms\n260.25",
+      "quantity": "",
+      "unit_price": "0.05",
+      "total_price": "14.29",
+      "category": null
+    },
+    {
+      "description": "Environmental Cost Recovery 410.25 @ $0.0053 =",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2.17",
+      "category": null
+    },
+    {
+      "description": "Franchise Cost Adjustment",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.28",
+      "category": null
+    },
+    {
+      "description": "Transportation Service Credit 410.25 Therms @ $-0.0026 =",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-1.07",
+      "category": null
+    },
+    {
+      "description": "Balancing and Storage Adjustment",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "8.31",
+      "category": null
+    },
+    {
+      "description": "Efficiency Program 410.25 @ $0.0056",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2.30",
+      "category": null
+    },
+    {
+      "description": "Tax Cost Adjustment 410.25 @ $-0.0008",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-0.33",
+      "category": null
+    },
+    {
+      "description": "Qualified Infrastructure Chrg $ 28.25 @ 2.26%",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.64",
+      "category": null
+    },
+    {
+      "description": "Qualified Infrastructure Chrg $ 92.83 @ 3.51%",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "3.26",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "37.83",
+    "discount": "",
+    "total": "180.25"
+  },
+  "payment_instructions": {
+    "due_date": "11/09/2018",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 21.807,
+  "file_size_bytes": 1604571
+}

@@ -1,0 +1,8 @@
+{
+  "filename": "013_clean_standard.png",
+  "model_name": "deepseek-ocr-2",
+  "raw_text": "<|ref|>sub_title<|/ref|><|det|>[[22, 115, 70, 128]]<|/det|>\n## FROM\n\n<|ref|>sub_title<|/ref|><|det|>[[23, 134, 116, 148]]<|/det|>\n## Webb Group\n\n<|ref|>text<|/ref|><|det|>[[22, 149, 180, 172]]<|/det|>\n120 Daniel Fields Apt. 416 | East Jaclynburgh, IL 22743\n\n<|ref|>sub_title<|/ref|><|det|>[[545, 115, 603, 129]]<|/det|>\n## BILL TO\n\n<|ref|>text<|/ref|><|det|>[[545, 134, 739, 172]]<|/det|>\nAguilar-Smith\n96114 Perez Mountains Suite 651\nKathleenhaven, KS 18837\n\n<|ref|>table<|/ref|><|det|>[[22, 195, 973, 430]]<|/det|>\n<table><tr><td>#</td><td>Description</td><td>Quantity</td><td>Unit Price</td><td>Amount</td></tr><tr><td>1</td><td>Open-architected scalable challenge</td><td>3.00</td><td>336.24</td><td>1 008.72</td></tr><tr><td>2</td><td>Synchronized 3rdgeneration help-desk</td><td>5.00</td><td>410.82</td><td>2 054.10</td></tr><tr><td>3</td><td>Synergistic mobile Internet solution</td><td>1.00</td><td>490.00</td><td>490.00</td></tr><tr><td>4</td><td>Pre-emptive fault-tolerant approach</td><td>7.00</td><td>332.34</td><td>2 326.38</td></tr><tr><td></td><td></td><td></td><td>Subtotal</td><td>5 879.20</td></tr><tr><td></td><td></td><td></td><td>Tax (10%)</td><td>587.92</td></tr><tr><td></td><td></td><td></td><td>Total Due</td><td>6 467.12</td></tr></table>\n\n<|ref|>text<|/ref|><|det|>[[426, 452, 571, 465]]<|/det|>\nThank you for your business",
+  "processing_time_seconds": 17.24,
+  "file_size_bytes": 26847,
+  "success": true
+}

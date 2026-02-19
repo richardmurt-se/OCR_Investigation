@@ -1,0 +1,84 @@
+{
+  "filename": "159707310.pdf",
+  "invoice": {
+    "client_name": "MARMAXX OPERATING CORP",
+    "client_address": "",
+    "seller_name": "OF AUS",
+    "seller_address": "P.O. Box 2267 Austin, TX 78783-2267",
+    "invoice_number": "704515549904",
+    "invoice_date": "13/12/2023",
+    "due_date": "02/01/2024"
+  },
+  "items": [
+    {
+      "description": "Electric Service",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "3 589.59",
+      "category": null
+    },
+    {
+      "description": "Customer Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "56.10",
+      "category": null
+    },
+    {
+      "description": "Demand Charge 84.00",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "771.12",
+      "category": null
+    },
+    {
+      "description": "Energy Charge 30,600",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "552.02",
+      "category": null
+    },
+    {
+      "description": "Community Benefit Charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "138.00",
+      "category": null
+    },
+    {
+      "description": "Regulatory Charges 84.00",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "321.72",
+      "category": null
+    },
+    {
+      "description": "Power Supply Adjustment 30,600",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 406.99",
+      "category": null
+    },
+    {
+      "description": "Power Supply Admin Adj 30,600",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "70.07",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "3 316.02",
+    "tax": "",
+    "discount": "",
+    "total": "3 589.59"
+  },
+  "payment_instructions": {
+    "due_date": "02/01/2024",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.18,
+  "file_size_bytes": 551623
+}

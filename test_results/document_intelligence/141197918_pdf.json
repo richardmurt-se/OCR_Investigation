@@ -1,0 +1,658 @@
+{
+  "filename": "141197918.pdf",
+  "invoice": {
+    "client_name": "ACCOUNTS PAYABLE TELX GROUP INC.\nC/O ENGIE INSIGHT",
+    "client_address": "PO BOX 2450\nSPOKANE WA 99210",
+    "seller_name": "METROPOLITAN TELECOMMUNICATION (MetTel)",
+    "seller_address": "P.O.BOX 9660\nMANCHESTER NH 031089660",
+    "invoice_number": "0100521574000020211023",
+    "invoice_date": "23/10/2021",
+    "due_date": "23/10/2021"
+  },
+  "items": [
+    {
+      "description": "Late Payment Charge",
+      "quantity": "1.00",
+      "unit_price": "",
+      "total_price": "5.66",
+      "category": null
+    },
+    {
+      "description": "Mobility Data As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Text As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Mobility Data As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Text As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Voice",
+      "quantity": "1.00",
+      "unit_price": "5.99",
+      "total_price": "5.99",
+      "category": null
+    },
+    {
+      "description": "Mobility Data As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Text As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Voice",
+      "quantity": "1.00",
+      "unit_price": "5.99",
+      "total_price": "5.99",
+      "category": null
+    },
+    {
+      "description": "Administrative Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Mobility Data As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Text As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Voice",
+      "quantity": "1.00",
+      "unit_price": "5.99",
+      "total_price": "5.99",
+      "category": null
+    },
+    {
+      "description": "Mobility Data As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Text As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Voice",
+      "quantity": "1.00",
+      "unit_price": "5.99",
+      "total_price": "5.99",
+      "category": null
+    },
+    {
+      "description": "Mobility Data As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Text As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Voice",
+      "quantity": "1.00",
+      "unit_price": "5.99",
+      "total_price": "5.99",
+      "category": null
+    },
+    {
+      "description": "Mobility Data As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Text As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Mobility Data As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Text As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Voice",
+      "quantity": "1.00",
+      "unit_price": "5.99",
+      "total_price": "5.99",
+      "category": null
+    },
+    {
+      "description": "Mobility Data As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Text As You Go\nWireless",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Mobility Data As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Text As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Voice",
+      "quantity": "1.00",
+      "unit_price": "5.99",
+      "total_price": "5.99",
+      "category": null
+    },
+    {
+      "description": "Mobility Data As You Go\nWireless Text As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Voice",
+      "quantity": "1.00",
+      "unit_price": "5.99",
+      "total_price": "5.99",
+      "category": null
+    },
+    {
+      "description": "Mobility Data As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Text As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Voice",
+      "quantity": "1.00",
+      "unit_price": "5.99",
+      "total_price": "5.99",
+      "category": null
+    },
+    {
+      "description": "Mobility Data As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Text As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Voice",
+      "quantity": "1.00",
+      "unit_price": "5.99",
+      "total_price": "5.99",
+      "category": null
+    },
+    {
+      "description": "Mobility Data As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Text As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Voice",
+      "quantity": "1.00",
+      "unit_price": "5.99",
+      "total_price": "5.99",
+      "category": null
+    },
+    {
+      "description": "Mobility Data As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Text As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Voice",
+      "quantity": "1.00",
+      "unit_price": "5.99",
+      "total_price": "5.99",
+      "category": null
+    },
+    {
+      "description": "Mobility Data As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Text As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Voice",
+      "quantity": "1.00",
+      "unit_price": "5.99",
+      "total_price": "5.99",
+      "category": null
+    },
+    {
+      "description": "Mobility Data As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Text As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Voice",
+      "quantity": "1.00",
+      "unit_price": "5.99",
+      "total_price": "5.99",
+      "category": null
+    },
+    {
+      "description": "Mobility Data As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Text As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Voice",
+      "quantity": "1.00",
+      "unit_price": "5.99",
+      "total_price": "5.99",
+      "category": null
+    },
+    {
+      "description": "Mobility Data As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Text As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Voice",
+      "quantity": "1.00",
+      "unit_price": "5.99",
+      "total_price": "5.99",
+      "category": null
+    },
+    {
+      "description": "Mobility Data As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Text As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Voice",
+      "quantity": "1.00",
+      "unit_price": "5.99",
+      "total_price": "5.99",
+      "category": null
+    },
+    {
+      "description": "Mobility Data As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Text As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Voice",
+      "quantity": "1.00",
+      "unit_price": "5.99",
+      "total_price": "5.99",
+      "category": null
+    },
+    {
+      "description": "and Local",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.86",
+      "category": null
+    },
+    {
+      "description": "Mobility Data As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Text As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Voice",
+      "quantity": "1.00",
+      "unit_price": "5.99",
+      "total_price": "5.99",
+      "category": null
+    },
+    {
+      "description": "Mobility Data As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Text As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Voice",
+      "quantity": "1.00",
+      "unit_price": "5.99",
+      "total_price": "5.99",
+      "category": null
+    },
+    {
+      "description": "Administrative",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.99",
+      "category": null
+    },
+    {
+      "description": "Mobility Data As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Text As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Voice",
+      "quantity": "1.00",
+      "unit_price": "5.99",
+      "total_price": "5.99",
+      "category": null
+    },
+    {
+      "description": "State and Local",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.91",
+      "category": null
+    },
+    {
+      "description": "State",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.57",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.99",
+      "category": null
+    },
+    {
+      "description": "Mobility Data As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Text As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Voice",
+      "quantity": "1.00",
+      "unit_price": "5.99",
+      "total_price": "5.99",
+      "category": null
+    },
+    {
+      "description": "Mobility Data As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Text As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Voice",
+      "quantity": "1.00",
+      "unit_price": "5.99",
+      "total_price": "5.99",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Text As You Go",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "1.00",
+      "unit_price": "5.99",
+      "total_price": "5.99",
+      "category": null
+    },
+    {
+      "description": "Wireless Voice",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Administrative Fee",
+      "quantity": "1.00",
+      "unit_price": "",
+      "total_price": "1.99",
+      "category": null
+    },
+    {
+      "description": "Mobility Data As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Text As You Go",
+      "quantity": "1.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Wireless Voice",
+      "quantity": "1.00",
+      "unit_price": "5.99",
+      "total_price": "5.99",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "12.09",
+    "tax": "",
+    "discount": "",
+    "total": "372.91"
+  },
+  "payment_instructions": {
+    "due_date": "23/10/2021",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 18.824,
+  "file_size_bytes": 131708
+}

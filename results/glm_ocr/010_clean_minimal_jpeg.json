@@ -1,0 +1,8 @@
+{
+  "filename": "010_clean_minimal.jpeg",
+  "model_name": "glm-ocr",
+  "raw_text": "INVOICE\nBILL-84279369\n07/26/2024 \u00b7 Due 02/28/2026\n\nFROM\nWilliams-Smith\n905 Alexandria Unions\nKerriburgh, MI 24633\n\nTO\nMartin PLC\n6227 Clarke Passage\nAmandashire, OK 62628\n\nDESCRIPTION QTY PRICE TOTAL\nUp-sized asynchronous benchmark 6.00 101.35 808.10\nOptional global installation 2.00 366.59 733.18\nUser-friendly human-resource utilization 7.00 212.69 1 488.83\nOptimized solution-oriented Graphical User Interface 9.00 339.35 3 054.15\nInverse heuristic flexibility 5.00 311.96 1 559.80\nVersatile disintermediate website 1.00 22.23 22.23\nAdaptive fault-tolerant matrices 10.00 254.19 2 541.90\n\nSubtotal 10 008.19\nTax 1 000.82\nTotal 11 009.01\n\nKlein Inc Credit Union EWZK20448158862225\n\nThank you",
+  "processing_time_seconds": 46.213,
+  "file_size_bytes": 53171,
+  "success": true
+}

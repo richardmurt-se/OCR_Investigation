@@ -1,0 +1,56 @@
+{
+  "filename": "148567363.pdf",
+  "invoice": {
+    "client_name": "INMOBILIARIA CANOPO, S DE RL DE CV",
+    "client_address": "SM ZT M SMZ L 41 AV. KUKULCAN CP 77500 Zona HOTELERA\nCANCÚN",
+    "seller_name": "DH\nCO",
+    "seller_address": "AV. SAYIL L-No. 4C-07, SM. 4-A, MZ. 01, PISOS 1 Y 2 CANCUN\nMUNICIPIO BENITO JUAREZ, Q. ROO C.P. 77500, MEXICO",
+    "invoice_number": "A065239869",
+    "invoice_date": "",
+    "due_date": "14/10/2022"
+  },
+  "items": [
+    {
+      "description": "Consumo de Agua Potable",
+      "quantity": "1.00",
+      "unit_price": "455 540.78",
+      "total_price": "455 540.78",
+      "category": null
+    },
+    {
+      "description": "Alcantarillado",
+      "quantity": "1.00",
+      "unit_price": "159 439.27",
+      "total_price": "159 439.27",
+      "category": null
+    },
+    {
+      "description": "Saneamiento",
+      "quantity": "1.00",
+      "unit_price": "22 777.04",
+      "total_price": "22 777.04",
+      "category": null
+    },
+    {
+      "description": "*Alcantarillado Descarga en\nExceso",
+      "quantity": "1.00",
+      "unit_price": "164 449.20",
+      "total_price": "164 449.20",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "128 353.00",
+    "discount": "",
+    "total": "930 559.29"
+  },
+  "payment_instructions": {
+    "due_date": "14/10/2022",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.793,
+  "file_size_bytes": 67554
+}

@@ -1,0 +1,8 @@
+{
+  "filename": "059_unusual_format_sidebar.png",
+  "model_name": "glm-ocr",
+  "raw_text": "INVOICE\n\nINVOICE NO\nINV364445\n\nISSUE DATE\n03/16/2024\n\nDEUE DATE\n02/26/2026\n\nSUBTARY\nSubtotal 5 630.75\nTax 563.08\nTOTAL 6 193.83\n\nBANK\nNelson, Garcia and Stone\nBank\n\nACCOUNT\nJCNX24800558649197\n\nFROM\nKirby-Mendez\n0189 Cunningham Knoll\nDebbiemouth, SD 18220\n\nTO\nWilliams-Clark\n9572 Patrick Village Suite 482\nJenkinsburgh, FM 63275\n\nLINE ITEMS\n\n01 Open-source local neural-net x1.00 107.87\n02 Right-sized transitional moderator x10.00 3 802.40\n03 Virtual incremental synergy x4.00 1 720.48\n\nNote: Payment is due upon receipt. Please reference invoice number INV364445 on all correspondence.",
+  "processing_time_seconds": 44.314,
+  "file_size_bytes": 28491,
+  "success": true
+}

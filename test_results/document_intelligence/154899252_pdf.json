@@ -1,0 +1,63 @@
+{
+  "filename": "154899252.pdf",
+  "invoice": {
+    "client_name": "BANCO BRADESCO SA",
+    "client_address": "R. SARGENTO BENEVIDES MONTES , S/N ,",
+    "seller_name": "-equatorial\nENERGIA",
+    "seller_address": "Av. Fernandes Lima, 3349\nGruta de Lourdes - Maceió - AL CEP: 57.052-902",
+    "invoice_number": "016158396",
+    "invoice_date": "19/06/2023",
+    "due_date": "26/06/2023"
+  },
+  "items": [
+    {
+      "description": "Custo de disponibilidade (kWh)",
+      "quantity": "100.00",
+      "unit_price": "0.83",
+      "total_price": "106.46",
+      "category": null
+    },
+    {
+      "description": "Cip-Ilum Pub Pref Munic",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Multa",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Correção Monetária",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Juros",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "125.60"
+  },
+  "payment_instructions": {
+    "due_date": "26/06/2023",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 15.59,
+  "file_size_bytes": 43032
+}

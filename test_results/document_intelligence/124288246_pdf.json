@@ -1,0 +1,133 @@
+{
+  "filename": "124288246.pdf",
+  "invoice": {
+    "client_name": "Apple American",
+    "client_address": "",
+    "seller_name": "Xcel Energy®",
+    "seller_address": "",
+    "invoice_number": "5198185325191129",
+    "invoice_date": "29/11/2019",
+    "due_date": "27/12/2019"
+  },
+  "items": [
+    {
+      "description": "Balance Carry Forward",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Billed Amount\nTotal Payment Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 839.84",
+      "category": null
+    },
+    {
+      "description": "Late Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Billed Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 453.63",
+      "category": null
+    },
+    {
+      "description": "Late Fee Adjustment",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "2019 Elec Fed Tax Cr",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-455.12",
+      "category": null
+    },
+    {
+      "description": "City Fees",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "26.00",
+      "category": null
+    },
+    {
+      "description": "Transit Improvement",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "8.88",
+      "category": null
+    },
+    {
+      "description": "Fuel Cost Charge",
+      "quantity": "20000.00",
+      "unit_price": "0.02",
+      "total_price": "456.25",
+      "category": null
+    },
+    {
+      "description": "Resource Adjustment",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "13.68",
+      "category": null
+    },
+    {
+      "description": "Basic Service Chg",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "25.64",
+      "category": null
+    },
+    {
+      "description": "Energy Charge",
+      "quantity": "20000.00",
+      "unit_price": "0.03",
+      "total_price": "681.40",
+      "category": null
+    },
+    {
+      "description": "Demand Charge Winter",
+      "quantity": "51.00",
+      "unit_price": "10.49",
+      "total_price": "534.99",
+      "category": null
+    },
+    {
+      "description": "Affordability Chrg",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "3.60",
+      "category": null
+    },
+    {
+      "description": "Sales True Up",
+      "quantity": "20000.00",
+      "unit_price": "0.00",
+      "total_price": "33.60",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "-455.12"
+  },
+  "payment_instructions": {
+    "due_date": "27/12/2019",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.488,
+  "file_size_bytes": 51820
+}

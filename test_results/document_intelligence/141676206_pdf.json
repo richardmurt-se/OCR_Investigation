@@ -1,0 +1,217 @@
+{
+  "filename": "141676206.pdf",
+  "invoice": {
+    "client_name": "Bobs Discount Furniture",
+    "client_address": "",
+    "seller_name": "SDGE\nSempra Energy",
+    "seller_address": "",
+    "invoice_number": "002379536153220207",
+    "invoice_date": "07/02/2022",
+    "due_date": "22/02/2022"
+  },
+  "items": [
+    {
+      "description": "Carry Forward",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Late Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Late Fee Adjustment",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Pcia",
+      "quantity": "1.00",
+      "unit_price": "",
+      "total_price": "286.06",
+      "category": null
+    },
+    {
+      "description": "Pcia",
+      "quantity": "1.00",
+      "unit_price": "",
+      "total_price": "30.85",
+      "category": null
+    },
+    {
+      "description": "Utility Service Credit",
+      "quantity": "1.00",
+      "unit_price": "",
+      "total_price": "-1.01",
+      "category": null
+    },
+    {
+      "description": "Economic Development Credit",
+      "quantity": "1.00",
+      "unit_price": "",
+      "total_price": "-0.14",
+      "category": null
+    },
+    {
+      "description": "Generation Demand",
+      "quantity": "50.90",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Electric Energy Charge Credit",
+      "quantity": "1.00",
+      "unit_price": "",
+      "total_price": "-2 148.24",
+      "category": null
+    },
+    {
+      "description": "Basic Service Fee",
+      "quantity": "1.00",
+      "unit_price": "",
+      "total_price": "199.35",
+      "category": null
+    },
+    {
+      "description": "Wild Fire Fund",
+      "quantity": "14413.00",
+      "unit_price": "0.01",
+      "total_price": "93.97",
+      "category": null
+    },
+    {
+      "description": "Winter On-Peak Demand",
+      "quantity": "50.90",
+      "unit_price": "25.56",
+      "total_price": "1 301.00",
+      "category": null
+    },
+    {
+      "description": "Non-Coincident Demand",
+      "quantity": "52.70",
+      "unit_price": "29.89",
+      "total_price": "1 575.20",
+      "category": null
+    },
+    {
+      "description": "Winter Electric Energy Charge - On Peak",
+      "quantity": "810.00",
+      "unit_price": "0.22",
+      "total_price": "1 047.62",
+      "category": null
+    },
+    {
+      "description": "Winter Electric Energy Charge - Off Peak",
+      "quantity": "22.00",
+      "unit_price": "0.12",
+      "total_price": "857.18",
+      "category": null
+    },
+    {
+      "description": "Winter Electric Energy Charge - Super Off Peak",
+      "quantity": "581.00",
+      "unit_price": "0.09",
+      "total_price": "243.44",
+      "category": null
+    },
+    {
+      "description": "Winter On Peak Energy Charge",
+      "quantity": "810.00",
+      "unit_price": "0.01",
+      "total_price": "35.98",
+      "category": null
+    },
+    {
+      "description": "Winter Off Peak Energy Charge",
+      "quantity": "22.00",
+      "unit_price": "0.01",
+      "total_price": "52.52",
+      "category": null
+    },
+    {
+      "description": "Winter Super Off Peak Energy Charge",
+      "quantity": "581.00",
+      "unit_price": "0.01",
+      "total_price": "19.31",
+      "category": null
+    },
+    {
+      "description": "Franchise Fee Equivalent Surcharge",
+      "quantity": "1.00",
+      "unit_price": "",
+      "total_price": "24.41",
+      "category": null
+    },
+    {
+      "description": "State Regulatory Fee",
+      "quantity": "1.00",
+      "unit_price": "",
+      "total_price": "18.74",
+      "category": null
+    },
+    {
+      "description": "Public Purpose Pgms",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "1.57",
+      "category": null
+    },
+    {
+      "description": "Customer Charge",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "10.00",
+      "category": null
+    },
+    {
+      "description": "Baseline Usage",
+      "quantity": "15.00",
+      "unit_price": "0.73",
+      "total_price": "10.93",
+      "category": null
+    },
+    {
+      "description": "Gas Energy Charge",
+      "quantity": "13.00",
+      "unit_price": "0.84",
+      "total_price": "10.88",
+      "category": null
+    },
+    {
+      "description": "Gas Energy Charge",
+      "quantity": "2.00",
+      "unit_price": "0.61",
+      "total_price": "1.21",
+      "category": null
+    },
+    {
+      "description": "State Regulatory Fee",
+      "quantity": "1.00",
+      "unit_price": "",
+      "total_price": "0.09",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "3 670.92"
+  },
+  "payment_instructions": {
+    "due_date": "22/02/2022",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.609,
+  "file_size_bytes": 55035
+}

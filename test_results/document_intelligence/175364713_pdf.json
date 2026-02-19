@@ -1,0 +1,70 @@
+{
+  "filename": "175364713.pdf",
+  "invoice": {
+    "client_name": "ITAU UNIBANCO S.A.",
+    "client_address": "CRISTOVAO NUNES PIRES 98 SL 210\n- TORRE NORDEM - FLORIANOPOLIS-",
+    "seller_name": "Celesc\nDistribuição S.A.",
+    "seller_address": "Av. Itamarati, nº 160 - Bloco A1, B1 e B2\nItacorubi\n- Florianópolis/SC",
+    "invoice_number": "037371426",
+    "invoice_date": "03/05/2025",
+    "due_date": "04/10/2025"
+  },
+  "items": [
+    {
+      "description": "PIS",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "7.63",
+      "category": null
+    },
+    {
+      "description": "COFINS",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "ICMS",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "40.89",
+      "category": null
+    },
+    {
+      "description": "(0D) Consumo TE",
+      "quantity": "308000.00",
+      "unit_price": "0.38",
+      "total_price": "117.63",
+      "category": null
+    },
+    {
+      "description": "(0E) Consumo TUSD",
+      "quantity": "308000.00",
+      "unit_price": "0.40",
+      "total_price": "122.87",
+      "category": null
+    },
+    {
+      "description": "(C0) COSIP Municipal",
+      "quantity": "0.00",
+      "unit_price": "0.00",
+      "total_price": "36.73",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "277.23"
+  },
+  "payment_instructions": {
+    "due_date": "04/10/2025",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 13.742,
+  "file_size_bytes": 574886
+}

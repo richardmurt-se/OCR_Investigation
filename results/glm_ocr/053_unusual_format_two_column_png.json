@@ -1,0 +1,8 @@
+{
+  "filename": "053_unusual_format_two_column.png",
+  "model_name": "glm-ocr",
+  "raw_text": "Bailey Group\n215 Case Estate Suite 771 \u00b7 Allisonland, NM 14260\n\nINVOICE\nNo: BILL-19041068 | Date: 08/18/2025\n\nPARTIES\n\nFROM (SELLER)\nBailey Group\n215 Case Estate Suite 771\nAllisonland, NM 14260\n\nTO (BUYER)\nPrice, Johnson and Rangel\n99454 Anderson Fields Apt. 582\nNew Dantelleport, FR 87356\n\nITEMS (1-3)\n\n| Description | Qty | Total |\n| :--- | :--- | :--- |\n| 1 Cross-platform cohesive open architectur... | 6.00 | 2 277.36 |\n| 2 Organized logistical knowledgebase | 3.00 | 617.85 |\n| 3 Adaptive demand-driven matrices | 1.00 | 173.08 |\n\nSUMMARY & PAYMENT\n\nInvoice Totals\nSubtotal 4 982.74\nTax (10%) 498.27\nTOTAL DUE 5 481.01\n\nPAYMENT INFORMATION\nBank: Harris-Nguyen Financial\nAccount: JMDF19578251920107\nDue: 02/23/2026\n\nITEMS (4-6)\n\n| Description | Qty | Total |\n| :--- | :--- | :--- |\n| 4 Switchable radical support | 9.00 | 107.37 |\n| 5 Switchable mobile service-desk | 2.00 | 575.12 |\n| 6 Front-line discrete architecture | 4.00 | 1 231.96 |\n\nBailey Group | Invoice #BILL-19041068 | 08/18/2025\nThank you for your business!",
+  "processing_time_seconds": 49.359,
+  "file_size_bytes": 42384,
+  "success": true
+}

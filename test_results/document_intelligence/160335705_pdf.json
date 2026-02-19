@@ -1,0 +1,27 @@
+{
+  "filename": "160335705.pdf",
+  "invoice": {
+    "client_name": "Southwinds Village Mhc\nLlc",
+    "client_address": "PO BOX 2899\nFARMINGTON HILLS MI 48333-2899",
+    "seller_name": "FPL",
+    "seller_address": "",
+    "invoice_number": "",
+    "invoice_date": "27/09/2023",
+    "due_date": "18/10/2023"
+  },
+  "items": [],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "0.65",
+    "discount": "",
+    "total": "11.99"
+  },
+  "payment_instructions": {
+    "due_date": "18/10/2023",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.333,
+  "file_size_bytes": 582811
+}

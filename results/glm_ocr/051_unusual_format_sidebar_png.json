@@ -1,0 +1,8 @@
+{
+  "filename": "051_unusual_format_sidebar.png",
+  "model_name": "glm-ocr",
+  "raw_text": "INVOICE\n\nINVOICE NO\nBILL-68886577\n\nISSUE DATE\n08/29/2025\n\nDEE DATE\n02/22/2026\n\nSUBTARY\nSubtotal 3 024.47\nTax 302.45\nDiscount -151.22\nTOTAL 3 175.70\n\nBANK\nGriffin, Robinson and\nBennett Financial\n\nACCOUNT\nIWLY16785305378653\n\nFROM\nBoyd, Simmons and Smith\n9447 John Course\nPort Dawnshire, ID 49012\n\nTO\nBrown-Edwards\nUnit 5684 Box 3955\nDPO AP 72176\n\nLINE ITEMS\n\n01 Distributed coherent capacity \u00d74.00 328.56\n02 Synergized human-resource intranet \u00d72.00 556.96\n03 Fundamental optimizing implementation \u00d75.00 2 138.95\n\nNote: Payment is due upon receipt. Please reference invoice number BILL-68886577 on all correspondence.",
+  "processing_time_seconds": 45.213,
+  "file_size_bytes": 29620,
+  "success": true
+}

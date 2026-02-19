@@ -1,0 +1,8 @@
+{
+  "filename": "080_multilingual_pt_minimal.pdf",
+  "model_name": "glm-ocr",
+  "raw_text": "FATURA\nBILL193353\n0126/2025\n\nDE\nMendon\u00e7a Cavalcante - ME\nTrevo Femandes, 381\nSanta Maria\n77356589 da Rosa de Sampato / SC\n\nPARA\nC\u00e2mara\nLago Melissa Fernandes, 56\nOutro\n03002-432 Pastor / RJ\n\nDESCRI\u00c7\u00c3O\nO conforto de evoluir com for\u00e7a total\n3.00\n43.06\n129.18\nO prazer de atingir seus objetivos em estado puro\n2.00\n193.21\n386.42\nO poder de ganhar com for\u00e7a total\n7.00\n499.15\n3 494.05\nA liberdade de evoluir mais rapidamente\n8.00\n261.86\n2 094.88\nO prazer de atingir seus objetivos com for\u00e7a total\n6.00\n21.99\n131.94\nO poder de concreitar seus projetos de maneira eficaz\n5.00\n223.97\n1 119.85\nA possibilidade de atingir seus objetivos com confian\u00e7a\n6.00\n233.19\n1 399.14\n\nSubtotal\n8 755.46\nImposto\n875.55\nDesconto\n-437.77\n\nTotal\n9 193.24",
+  "processing_time_seconds": 30.941,
+  "file_size_bytes": 97776,
+  "success": true
+}

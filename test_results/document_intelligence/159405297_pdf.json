@@ -1,0 +1,98 @@
+{
+  "filename": "159405297.pdf",
+  "invoice": {
+    "client_name": "Fresenius Medical",
+    "client_address": "",
+    "seller_name": "PSEG",
+    "seller_address": "",
+    "invoice_number": "600208817868",
+    "invoice_date": "05/12/2023",
+    "due_date": "20/12/2023"
+  },
+  "items": [
+    {
+      "description": "Balance Carry Forward",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-593.22",
+      "category": null
+    },
+    {
+      "description": "Previous Month\nBeginning Balance\nPrevious Month\nTotal Payment Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Late Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Current Month\nBilled Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "89.89",
+      "category": null
+    },
+    {
+      "description": "Late Fee Adjustment",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Service Charge",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "20.23",
+      "category": null
+    },
+    {
+      "description": "Generation Charge",
+      "quantity": "65.86",
+      "unit_price": "0.60",
+      "total_price": "39.75",
+      "category": null
+    },
+    {
+      "description": "Gas Balancing Charge",
+      "quantity": "43.08",
+      "unit_price": "0.10",
+      "total_price": "4.22",
+      "category": null
+    },
+    {
+      "description": "Societal Benefits",
+      "quantity": "65.86",
+      "unit_price": "0.05",
+      "total_price": "3.38",
+      "category": null
+    },
+    {
+      "description": "Distribution Charge",
+      "quantity": "65.86",
+      "unit_price": "0.34",
+      "total_price": "22.31",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "89.89"
+  },
+  "payment_instructions": {
+    "due_date": "20/12/2023",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.729,
+  "file_size_bytes": 48408
+}

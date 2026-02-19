@@ -1,0 +1,8 @@
+{
+  "content": "FATURA\nBILL193353\n01/26/2025\n\nDE\nMendon\u00e7a Cavalcante - ME\nTrevo Fernandes, 381\nSanta Maria\n77356589 da Rosa de Sampaio / SC\n\nPARA\nC\u00e2mara\nLago Melissa Fernandes, 56\nOutro\n03002-432 Pastor / RJ\n\nDESCRI\u00c7\u00c3O QTD. PRE\u00c7O TOTAL\nO conforto de evoluir com for\u00e7a total 3.00 43.08 129.18\nO prazer de atingir seus objetivos em estado puro 2.00 193.21 388.42\nO poder de ganhar com for\u00e7a total 7.00 499.15 3 494.05\nA liberdade de evoluir mais rapidamente 8.00 261.86 2 094.88\nO prazer de atingir seus objetivos com for\u00e7a total 6.00 21.99 131.94\nO poder de concretizar seus projetos de maneira eficaz 5.00 223.97 1 119.85\nA possibilidade de atingir seus objetivos com confian\u00e7a 6.00 233.19 1 399.14\n\nSubtotal 8 755.48\nImposto 875.55\nDesconto -437.77\n\nTotal 9 193.24\n\nObrigado",
+  "detections": [
+    {
+      "text": "FATURA\nBILL193353\n01/26/2025\n\nDE\nMendon\u00e7a Cavalcante - ME\nTrevo Fernandes, 381\nSanta Maria\n77356589 da Rosa de Sampaio / SC\n\nPARA\nC\u00e2mara\nLago Melissa Fernandes, 56\nOutro\n03002-432 Pastor / RJ\n\nDESCRI\u00c7\u00c3O QTD. PRE\u00c7O TOTAL\nO conforto de evoluir com for\u00e7a total 3.00 43.08 129.18\nO prazer de atingir seus objetivos em estado puro 2.00 193.21 388.42\nO poder de ganhar com for\u00e7a total 7.00 499.15 3 494.05\nA liberdade de evoluir mais rapidamente 8.00 261.86 2 094.88\nO prazer de atingir seus objetivos com for\u00e7a total 6.00 21.99 131.94\nO poder de concretizar seus projetos de maneira eficaz 5.00 223.97 1 119.85\nA possibilidade de atingir seus objetivos com confian\u00e7a 6.00 233.19 1 399.14\n\nSubtotal 8 755.48\nImposto 875.55\nDesconto -437.77\n\nTotal 9 193.24\n\nObrigado"
+    }
+  ]
+}

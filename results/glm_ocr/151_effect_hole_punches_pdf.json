@@ -1,0 +1,8 @@
+{
+  "filename": "151_effect_hole_punches.pdf",
+  "model_name": "glm-ocr",
+  "raw_text": "Wiley, Anderson and Mendez\n123 William Junction Suite 230 | Enimouth, HI 47792\n\nINVOICE\nNo: FAC823930\nDate: 12/05/2024\nDue: 03/06/2026\n\nFROM\nWiley, Anderson and Mendez\n123 William Junction Suite 230\nEnimouth, HI 47792\n\nBILL TO\nWarren, Turner and Gordon\nUSNS Schneider\nFPC AA 00568\n\n# Description Quantity Unit Price Amount\n1 Universal content-based structure 7.00 39.43 276.01\n2 Intuitive bandwidth-monitored ability 1.00 428.83 428.83\n3 Total zero tolerance firmware 2.00 372.84 745.68\n\nSubtotal 1 450.52\nTax (10%) 145.05\nDiscount -72.53\nTotal Due 1 523.04\n\nPAYMENT INFORMATION\nBank: Moore Inc Credit Union\nAccount: XKCY85770900207871\nMethod: ACH\n\nThank you for your business",
+  "processing_time_seconds": 28.818,
+  "file_size_bytes": 34370,
+  "success": true
+}

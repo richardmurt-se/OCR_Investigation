@@ -1,0 +1,77 @@
+{
+  "filename": "112780508.pdf",
+  "invoice": {
+    "client_name": "HENKEL CORPORATION, MS #4\nSEABROOK 233",
+    "client_address": "PO BOX 182553\nCOLUMBUS OH 43218-2553",
+    "seller_name": "Unitil",
+    "seller_address": "BATCHELDER RD, SEABROOK",
+    "invoice_number": "",
+    "invoice_date": "17/09/2018",
+    "due_date": "12/10/2018"
+  },
+  "items": [
+    {
+      "description": "CUSTOMER CHARGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "85.99",
+      "category": null
+    },
+    {
+      "description": "DEMAND CHARGE",
+      "quantity": "851.10",
+      "unit_price": "7.30",
+      "total_price": "6 213.03",
+      "category": null
+    },
+    {
+      "description": "DELIVERY CHARGE",
+      "quantity": "301442.00",
+      "unit_price": "0.03",
+      "total_price": "7 602.37",
+      "category": null
+    },
+    {
+      "description": "STRANDED COST CHARGE",
+      "quantity": "301442.00",
+      "unit_price": "0.00",
+      "total_price": "-75.36",
+      "category": null
+    },
+    {
+      "description": "TOC CREDIT",
+      "quantity": "851.10",
+      "unit_price": "-0.50",
+      "total_price": "-425.55",
+      "category": null
+    },
+    {
+      "description": "SYSTEM BENEFITS CHARGE",
+      "quantity": "301442.00",
+      "unit_price": "0.00",
+      "total_price": "1 374.58",
+      "category": null
+    },
+    {
+      "description": "NHE CNE CCI",
+      "quantity": "301442.00",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "165.79",
+    "discount": "",
+    "total": "14 940.85"
+  },
+  "payment_instructions": {
+    "due_date": "12/10/2018",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 16.222,
+  "file_size_bytes": 861603
+}

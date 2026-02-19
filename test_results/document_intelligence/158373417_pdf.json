@@ -1,0 +1,42 @@
+{
+  "filename": "158373417.pdf",
+  "invoice": {
+    "client_name": "GREIF INC",
+    "client_address": "PO BOX 8014\nDELAWARE, OH 43015",
+    "seller_name": "DEL CO\nWATER COMPANY",
+    "seller_address": "6658 Olentangy River Rd\nDelaware, OH 43015-9211",
+    "invoice_number": "",
+    "invoice_date": "25/10/2023",
+    "due_date": "14/11/2023"
+  },
+  "items": [
+    {
+      "description": "Water: Commercial",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "212.50",
+      "category": null
+    },
+    {
+      "description": "Fireline",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "90.00",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "212.50"
+  },
+  "payment_instructions": {
+    "due_date": "14/11/2023",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.183,
+  "file_size_bytes": 617150
+}

@@ -1,0 +1,84 @@
+{
+  "filename": "122564519.pdf",
+  "invoice": {
+    "client_name": "Sherwin Williams",
+    "client_address": "",
+    "seller_name": "SoCalGas\nSempra Energy",
+    "seller_address": "",
+    "invoice_number": "12882402741",
+    "invoice_date": "09/09/2019",
+    "due_date": "27/09/2019"
+  },
+  "items": [
+    {
+      "description": "Current Month\nActual Unpaid Principal Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "15.75",
+      "category": null
+    },
+    {
+      "description": "Balance Carry Forward",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Current Month\nBilled Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "15.75",
+      "category": null
+    },
+    {
+      "description": "Late Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Previous Month\nActual Unpaid Principal Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "15.23",
+      "category": null
+    },
+    {
+      "description": "Previous Month\nTotal Payment Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "15.23",
+      "category": null
+    },
+    {
+      "description": "Late Fee Adjustment",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Customer Charge",
+      "quantity": "30.00",
+      "unit_price": "0.49",
+      "total_price": "14.79",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "0.96",
+    "discount": "",
+    "total": "14.79"
+  },
+  "payment_instructions": {
+    "due_date": "27/09/2019",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.551,
+  "file_size_bytes": 70600
+}

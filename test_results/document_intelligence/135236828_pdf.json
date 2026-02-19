@@ -1,0 +1,84 @@
+{
+  "filename": "135236828.pdf",
+  "invoice": {
+    "client_name": "CIM J STREET HOTEL\nSACRAMENTO L P",
+    "client_address": "P.O BOX 2440\nSPOKANE WA 99210",
+    "seller_name": "SMUD",
+    "seller_address": "P.O. Box 15830, Sacramento, CA 95852-0830",
+    "invoice_number": "022",
+    "invoice_date": "09/03/2021",
+    "due_date": "05/04/2021"
+  },
+  "items": [
+    {
+      "description": "Electricity Usage",
+      "quantity": "123528.00",
+      "unit_price": "0.09",
+      "total_price": "11 117.52",
+      "category": null
+    },
+    {
+      "description": "Electricity Usage",
+      "quantity": "50622.00",
+      "unit_price": "0.11",
+      "total_price": "5 760.78",
+      "category": null
+    },
+    {
+      "description": "Site Infrastructure Charge",
+      "quantity": "673.00",
+      "unit_price": "3.16",
+      "total_price": "2 126.68",
+      "category": null
+    },
+    {
+      "description": "System Infrastructure Fixed Charge*",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "119.45",
+      "category": null
+    },
+    {
+      "description": "Power Factor Waiver Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "51.00",
+      "category": null
+    },
+    {
+      "description": "Energy Tracking Service Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "32.50",
+      "category": null
+    },
+    {
+      "description": "Sacramento City Tax*",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 440.59",
+      "category": null
+    },
+    {
+      "description": "State Surcharge*",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "52.24",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "1 440.59",
+    "discount": "",
+    "total": "20 700.76"
+  },
+  "payment_instructions": {
+    "due_date": "05/04/2021",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 9.7,
+  "file_size_bytes": 120211
+}

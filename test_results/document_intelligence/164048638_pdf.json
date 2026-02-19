@@ -1,0 +1,105 @@
+{
+  "filename": "164048638.pdf",
+  "invoice": {
+    "client_name": "Ferguson Enterprises Inc",
+    "client_address": "",
+    "seller_name": "CONSTELLATION NEWENERGY",
+    "seller_address": "1001 Louisiana St., Suite 2300\nHouston Tx 77002",
+    "invoice_number": "00683608803001001",
+    "invoice_date": "15/05/2024",
+    "due_date": "05/06/2024"
+  },
+  "items": [
+    {
+      "description": "Previous Month\nActual Unpaid Principal Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "439.16",
+      "category": null
+    },
+    {
+      "description": "Balance Carry Forward",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Current Month\nBeginning Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Late Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Current Month\nActual Unpaid Principal Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "416.47",
+      "category": null
+    },
+    {
+      "description": "Late Fee Adjustment",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Sup\nEnergy-Fixed Price",
+      "quantity": "2580.00",
+      "unit_price": "0.15",
+      "total_price": "375.85",
+      "category": null
+    },
+    {
+      "description": "Sup - Renewable Portfolio Standards Cost - Clean Energy Certificate\nExpansion",
+      "quantity": "2580.00",
+      "unit_price": "0.00",
+      "total_price": "6.95",
+      "category": null
+    },
+    {
+      "description": "Sup - Rps Ma Clean Peak Standard Passthrough Charges",
+      "quantity": "2580.00",
+      "unit_price": "0.00",
+      "total_price": "9.14",
+      "category": null
+    },
+    {
+      "description": "Sup - Isone Fuel Security Passthrough Charges",
+      "quantity": "2580.00",
+      "unit_price": "0.00",
+      "total_price": "5.47",
+      "category": null
+    },
+    {
+      "description": "Sup\nIsone Cost Of Service Passthrough Charges",
+      "quantity": "2580.00",
+      "unit_price": "0.00",
+      "total_price": "-5.44",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "416.47"
+  },
+  "payment_instructions": {
+    "due_date": "05/06/2024",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.452,
+  "file_size_bytes": 46653
+}

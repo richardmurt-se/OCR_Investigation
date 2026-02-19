@@ -1,0 +1,56 @@
+{
+  "filename": "156802465.pdf",
+  "invoice": {
+    "client_name": "GULF ICE SUITE 322",
+    "client_address": "PO BOX 182609\nCOLUMBUS OH 43218-2609",
+    "seller_name": "Montgomery Water Works",
+    "seller_address": "P.O. 1631\nMontgomery, Al 36102-1631",
+    "invoice_number": "",
+    "invoice_date": "29/08/2023",
+    "due_date": "15/09/2023"
+  },
+  "items": [
+    {
+      "description": "Previous Billing",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "101.00",
+      "category": null
+    },
+    {
+      "description": "Late Payment Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "9.71",
+      "category": null
+    },
+    {
+      "description": "Payment 08/22/23 - THANK YOU",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-101.00",
+      "category": null
+    },
+    {
+      "description": "Water Charge\nUtility Tax",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "97.12",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "3.88",
+    "discount": "",
+    "total": "101.00"
+  },
+  "payment_instructions": {
+    "due_date": "15/09/2023",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.599,
+  "file_size_bytes": 832131
+}

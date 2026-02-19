@@ -1,0 +1,8 @@
+{
+  "filename": "046_heavy_punctuation_quotes.png",
+  "model_name": "glm-ocr",
+  "raw_text": "\u00abVaughn-Williams\u00bb\n\"Excellence in Every Detail\" \u2014 Your Trusted Partner\n144 Robert Summit, Wallaceton, FM 38763\n\n\u00abFrom\u00bb:\n\"Vaughn-Williams\"\n144 Robert Summit\nWallaceton, FM 38763\n\n\u00abBill To\u00bb:\n'Duran-Villanueva'\n792 Christina Brooks\nWest Dana, RI 36305\n\n# <Description> / <Details>\n**Qty** | **Price** | **Total**\n------- | --- | ------\n1 | '7.00' | \"400.20\" | <2 801.40>\n2 | '3.00' | \"370.20\" | <1 110.60>\n3 | '8.00' | \"160.41\" | <1 283.28>\n4 | '7.00' | \"438.73\" | <3 071.11>\n5 | '2.00' | \"432.36\" | <864.72>\n6 | '2.00' | \"223.64\" | <447.28>\n7 | '1.00' | \"231.97\" | <231.97>\n8 | '7.00' | \"449.98\" | <3 149.86>\n\n<Subtotal> | \"12 960.22\"\nTax (10%) | '1 296.02'\nDiscount> | -1 296.02\"\nTOTAL> | \"12 960.22\"\n\n\u00abNotes & Terms\u00bb:\nPayment is due within 30 days of \"invoice date\". All items are sold \"as-is\" with 'standard warranty'. For questions, contact us at <support@company.com> or call (555) 123-4567.\n\n\u00abPayment Info\u00bb: Bank: 'Williams, Williams and Holden Credit Union' | Account: 'CJDM42449090294713'\n\n\u00abVaughn-Williams\u00bb \u2014 \"Your satisfaction is our priority\" \u2014 Thank you!",
+  "processing_time_seconds": 50.872,
+  "file_size_bytes": 62822,
+  "success": true
+}

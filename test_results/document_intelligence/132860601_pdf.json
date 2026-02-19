@@ -1,0 +1,70 @@
+{
+  "filename": "132860601.pdf",
+  "invoice": {
+    "client_name": "REINHART FOOD SERVICE",
+    "client_address": "PO BOX 414346\nKansas City MO 64141",
+    "seller_name": "ATMOS\nenergy.",
+    "seller_address": "",
+    "invoice_number": "",
+    "invoice_date": "17/07/2019",
+    "due_date": "06/08/2019"
+  },
+  "items": [
+    {
+      "description": "Previous Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Payment(s)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Current Charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-7.31",
+      "category": null
+    },
+    {
+      "description": "Monthly Customer Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "39.00",
+      "category": null
+    },
+    {
+      "description": "Distribution Service",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "4.67",
+      "category": null
+    },
+    {
+      "description": "Purchased Gas Adjustment 17.911 CCF @\n0.3439",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "6.16",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "6.15",
+    "discount": "",
+    "total": "-7.31"
+  },
+  "payment_instructions": {
+    "due_date": "06/08/2019",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 9.87,
+  "file_size_bytes": 232795
+}

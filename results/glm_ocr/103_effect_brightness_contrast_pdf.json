@@ -1,0 +1,8 @@
+{
+  "filename": "103_effect_brightness_contrast.pdf",
+  "model_name": "glm-ocr",
+  "raw_text": "Obrien Group\n8854 Aguilar Loaf | Russellville, IL 83762\n\nINVOICE\nNo: 4578499101\nDate: 01/11/2025\nDue: 02/22/2026\n\nFROM\nObrien Group\n8854 Aguilar Loaf\nRussville, IL 83762\n\nBILL TO\nMaynard, Mullen and Oneal\n01262 Emily Harbors\nDewitton, CO 90702\n\n# Description Quantity Unit Price Amount\n1 Robust web-enabled protocol 3.00 257.16 771.48\n2 Automated heuristic productivity 5.00 422.91 2 114.56\n3 Exclusive uniform architecture 9.00 253.09 2 282.31\n4 Progressive high-level circuit 10.00 484.09 4 840.90\n5 Networked 24/7 orchestration 5.00 491.09 2 455.45\n\nSubtotal 12 404.69\nTax (10%) 1 246.47\nDiscount -1 246.47\nTotal Due 12 404.69\n\nPAYMENT INFORMATION\nBank: Sanchez, Abbot and White Bank\nAccount: RDR 82355408830004",
+  "processing_time_seconds": 30.557,
+  "file_size_bytes": 27737,
+  "success": true
+}

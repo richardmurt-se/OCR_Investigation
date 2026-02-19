@@ -1,0 +1,8 @@
+{
+  "filename": "152_effect_hole_punches.jpeg",
+  "model_name": "deepseek-ocr-2",
+  "raw_text": "<|ref|>sub_title<|/ref|><|det|>[[22, 116, 70, 128]]<|/det|>\n## FROM\n\n<|ref|>sub_title<|/ref|><|det|>[[22, 134, 115, 147]]<|/det|>\n## Brown-Allen\n\n<|ref|>text<|/ref|><|det|>[[22, 150, 201, 172]]<|/det|>\n050 Kimberly Haven Suite 432\nRosalesfort, DE 49943\n\n<|ref|>sub_title<|/ref|><|det|>[[545, 116, 602, 129]]<|/det|>\n## BILL TO\n\n<|ref|>text<|/ref|><|det|>[[545, 134, 744, 172]]<|/det|>\nMiller, Koch and Rodriguez\n92116 Lisa Villages Suite 368\nSouth Adrianshire, AS 99257\n\n<|ref|>table<|/ref|><|det|>[[22, 197, 973, 476]]<|/det|>\n<table><tr><td>#</td><td>Description</td><td>Quantity</td><td>Unit Price</td><td>Amount</td></tr><tr><td>1</td><td>Organized zero administration analyzer</td><td>10.00</td><td>383.32</td><td>3 833.20</td></tr><tr><td>2</td><td>Sharable fault-tolerant leverage</td><td>9.00</td><td>462.29</td><td>4 160.61</td></tr><tr><td>3</td><td>Stand-alone human-resource matrices</td><td>7.00</td><td>206.38</td><td>1 444.66</td></tr><tr><td>4</td><td>Configurable multimedia open system</td><td>9.00</td><td>287.85</td><td>2 590.65</td></tr><tr><td>5</td><td>Ameliorated modular access</td><td>9.00</td><td>38.42</td><td>345.78</td></tr><tr><td></td><td></td><td></td><td>Subtotal</td><td>12 374.90</td></tr><tr><td></td><td></td><td></td><td>Tax (10%)</td><td>1 237.49</td></tr><tr><td></td><td></td><td></td><td>Discount</td><td>-618.75</td></tr><tr><td></td><td></td><td></td><td>Total Due</td><td>12 993.64</td></tr></table>\n\n<|ref|>text<|/ref|><|det|>[[425, 502, 572, 514]]<|/det|>\nThank you for your business",
+  "processing_time_seconds": 19.755,
+  "file_size_bytes": 59029,
+  "success": true
+}

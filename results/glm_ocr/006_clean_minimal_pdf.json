@@ -1,0 +1,8 @@
+{
+  "filename": "006_clean_minimal.pdf",
+  "model_name": "glm-ocr",
+  "raw_text": "INVOICE\nINV/450334240\n12/12/2025 - Due 02/16/2026\n\nFROM Snyder-Mills\n46604 Paul Ports\nCarlfurt, FL 55364\n\nTO Jensen-Burns\n362 Tomes Way Suite 664\nSouth Jeffery, VI 75043\n\nDESCRIPTION QTY PRICE TOTAL\nDigitized zero administration hardware 8.00 407.74 3 261.92\nUp-sized holistic product 5.00 481.19 2 405.95\nMandatory attitude-oriented secured line 8.00 344.86 2 758.88\nNetworked multi-tasking capacity 3.00 334.82 1 004.46\nDistributed disintermediate conglomeration 7.00 475.39 3 327.73\nProfit-focused zero tolerance system engine 10.00 188.58 1 885.80\nPersevering methodical matrix 7.00 74.29 520.03\n\nSubtotal 15 164.77\nTax 1 516.48\nDiscount -1 516.48\nTotal 15 164.77",
+  "processing_time_seconds": 29.83,
+  "file_size_bytes": 104251,
+  "success": true
+}

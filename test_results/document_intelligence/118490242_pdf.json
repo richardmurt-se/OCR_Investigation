@@ -1,0 +1,56 @@
+{
+  "filename": "118490242.pdf",
+  "invoice": {
+    "client_name": "AT&T MOBILITY",
+    "client_address": "PO BOX 182576\nCOLUMBUS OH\n43218-2576",
+    "seller_name": "NEBRASKA\nCITY\nNEBRASKA\nUTILITIES",
+    "seller_address": "100 CENTRAL AVENUE · P.O. BOX 670\nNEBRASKA CITY, NE 68410-0670",
+    "invoice_number": "",
+    "invoice_date": "14/05/2019",
+    "due_date": "27/05/2019"
+  },
+  "items": [
+    {
+      "description": "ELEC-BUS \"A\" RURAL WINTER",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "359.05",
+      "category": null
+    },
+    {
+      "description": "ELECTRIC PRODUCTION COST ADJ.",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "8.82",
+      "category": null
+    },
+    {
+      "description": "NEBRASKA STATE SALES TAX",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "20.23",
+      "category": null
+    },
+    {
+      "description": "ELECTRIC FRANCHISE FEE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "17.51",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "20.00",
+    "discount": "",
+    "total": "387.97"
+  },
+  "payment_instructions": {
+    "due_date": "27/05/2019",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 10.621,
+  "file_size_bytes": 869599
+}

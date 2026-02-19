@@ -1,0 +1,91 @@
+{
+  "filename": "125930282.pdf",
+  "invoice": {
+    "client_name": "SIMPLOT SHARED SERV",
+    "client_address": "PO BOX 27\nBOISE ID 83707-0027",
+    "seller_name": "IDAHO\nPOWER®\nIDACORP",
+    "seller_address": "P.O. BOX 70, BOISE, ID 83707",
+    "invoice_number": "",
+    "invoice_date": "06/06/2019",
+    "due_date": "21/06/2019"
+  },
+  "items": [
+    {
+      "description": "Previous Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "44.57",
+      "category": null
+    },
+    {
+      "description": "Payments Received - Thank You",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "44.57",
+      "category": null
+    },
+    {
+      "description": "Current Charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Service Charge, 28 days",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "4.38",
+      "category": null
+    },
+    {
+      "description": "Service Charge, 4 days",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.63",
+      "category": null
+    },
+    {
+      "description": "Non-Summer Energy Charge 176 kWh @ $0.097265 per kWh, 28 day",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "17.12",
+      "category": null
+    },
+    {
+      "description": "Summer Energy Charge 25 kWh @ $0.097383 per kWh, 4 days",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2.43",
+      "category": null
+    },
+    {
+      "description": "Power Cost and Fixed Cost Adjustments",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.57",
+      "category": null
+    },
+    {
+      "description": "Energy Efficiency Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.89",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "27.02"
+  },
+  "payment_instructions": {
+    "due_date": "21/06/2019",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.694,
+  "file_size_bytes": 231652
+}

@@ -1,0 +1,329 @@
+{
+  "filename": "143912416.pdf",
+  "invoice": {
+    "client_name": "THE SCOTTS COMPANY\nKEVIN SESTRICH",
+    "client_address": "PO BOX 182512\nCOLUMBUS OH 43218-2512",
+    "seller_name": "REPUBLIC\nSERVICES",
+    "seller_address": "3045 Donald Lee Hollowell Pkwy\nAtlanta GA 30318-440505",
+    "invoice_number": "0800-008842339",
+    "invoice_date": "30/04/2022",
+    "due_date": "20/05/2022"
+  },
+  "items": [
+    {
+      "description": "Service Attempt 04/04",
+      "quantity": "1.00",
+      "unit_price": "226.89",
+      "total_price": "226.89",
+      "category": null
+    },
+    {
+      "description": "Disposal/Recycling 04/05",
+      "quantity": "1.00",
+      "unit_price": "",
+      "total_price": "337.21",
+      "category": null
+    },
+    {
+      "description": "Pickup Service 04/05",
+      "quantity": "1.00",
+      "unit_price": "303.53",
+      "total_price": "303.53",
+      "category": null
+    },
+    {
+      "description": "Disposal/Recycling 04/06",
+      "quantity": "1.00",
+      "unit_price": "",
+      "total_price": "337.21",
+      "category": null
+    },
+    {
+      "description": "Pickup Service 04/06",
+      "quantity": "1.00",
+      "unit_price": "303.53",
+      "total_price": "303.53",
+      "category": null
+    },
+    {
+      "description": "Service Attempt 04/07",
+      "quantity": "1.00",
+      "unit_price": "226.89",
+      "total_price": "226.89",
+      "category": null
+    },
+    {
+      "description": "Service Attempt 04/08",
+      "quantity": "1.00",
+      "unit_price": "226.89",
+      "total_price": "226.89",
+      "category": null
+    },
+    {
+      "description": "Disposal/Recycling 04/11",
+      "quantity": "1.00",
+      "unit_price": "",
+      "total_price": "337.21",
+      "category": null
+    },
+    {
+      "description": "Pickup Service 04/11",
+      "quantity": "1.00",
+      "unit_price": "303.53",
+      "total_price": "303.53",
+      "category": null
+    },
+    {
+      "description": "Disposal/Recycling 04/12",
+      "quantity": "1.00",
+      "unit_price": "",
+      "total_price": "337.21",
+      "category": null
+    },
+    {
+      "description": "Pickup Service 04/12",
+      "quantity": "1.00",
+      "unit_price": "303.53",
+      "total_price": "303.53",
+      "category": null
+    },
+    {
+      "description": "Disposal/Recycling 04/13",
+      "quantity": "1.00",
+      "unit_price": "",
+      "total_price": "337.21",
+      "category": null
+    },
+    {
+      "description": "Pickup Service 04/13",
+      "quantity": "1.00",
+      "unit_price": "303.53",
+      "total_price": "303.53",
+      "category": null
+    },
+    {
+      "description": "Service Attempt 04/14",
+      "quantity": "1.00",
+      "unit_price": "226.89",
+      "total_price": "226.89",
+      "category": null
+    },
+    {
+      "description": "Disposal/Recycling 04/15",
+      "quantity": "1.00",
+      "unit_price": "",
+      "total_price": "337.21",
+      "category": null
+    },
+    {
+      "description": "Pickup Service 04/15",
+      "quantity": "1.00",
+      "unit_price": "303.53",
+      "total_price": "303.53",
+      "category": null
+    },
+    {
+      "description": "Disposal/Recycling 04/18",
+      "quantity": "1.00",
+      "unit_price": "",
+      "total_price": "337.21",
+      "category": null
+    },
+    {
+      "description": "Pickup Service 04/18",
+      "quantity": "1.00",
+      "unit_price": "303.53",
+      "total_price": "303.53",
+      "category": null
+    },
+    {
+      "description": "Disposal/Recycling 04/19",
+      "quantity": "1.00",
+      "unit_price": "",
+      "total_price": "337.21",
+      "category": null
+    },
+    {
+      "description": "Pickup Service 04/19",
+      "quantity": "1.00",
+      "unit_price": "303.53",
+      "total_price": "303.53",
+      "category": null
+    },
+    {
+      "description": "Service Attempt 04/20",
+      "quantity": "1.00",
+      "unit_price": "226.89",
+      "total_price": "226.89",
+      "category": null
+    },
+    {
+      "description": "Disposal/Recycling 04/21",
+      "quantity": "1.00",
+      "unit_price": "",
+      "total_price": "337.21",
+      "category": null
+    },
+    {
+      "description": "Pickup Service 04/21",
+      "quantity": "1.00",
+      "unit_price": "303.53",
+      "total_price": "303.53",
+      "category": null
+    },
+    {
+      "description": "Disposal/Recycling 04/26",
+      "quantity": "1.00",
+      "unit_price": "",
+      "total_price": "337.21",
+      "category": null
+    },
+    {
+      "description": "Service Attempt 04/26",
+      "quantity": "1.00",
+      "unit_price": "226.89",
+      "total_price": "226.89",
+      "category": null
+    },
+    {
+      "description": "Pickup Service 04/26",
+      "quantity": "1.00",
+      "unit_price": "303.53",
+      "total_price": "303.53",
+      "category": null
+    },
+    {
+      "description": "Disposal/Recycling 04/27",
+      "quantity": "1.00",
+      "unit_price": "",
+      "total_price": "337.21",
+      "category": null
+    },
+    {
+      "description": "Pickup Service 04/27",
+      "quantity": "1.00",
+      "unit_price": "303.53",
+      "total_price": "303.53",
+      "category": null
+    },
+    {
+      "description": "Disposal/Recycling 04/28",
+      "quantity": "1.00",
+      "unit_price": "",
+      "total_price": "337.21",
+      "category": null
+    },
+    {
+      "description": "Pickup Service 04/28",
+      "quantity": "1.00",
+      "unit_price": "303.53",
+      "total_price": "303.53",
+      "category": null
+    },
+    {
+      "description": "Service Attempt 04/29",
+      "quantity": "1.00",
+      "unit_price": "226.89",
+      "total_price": "226.89",
+      "category": null
+    },
+    {
+      "description": "Disposal/Recycling 04/04",
+      "quantity": "0.27",
+      "unit_price": "",
+      "total_price": "22.76",
+      "category": null
+    },
+    {
+      "description": "Pickup Service 04/04",
+      "quantity": "1.00",
+      "unit_price": "303.53",
+      "total_price": "303.53",
+      "category": null
+    },
+    {
+      "description": "Service Attempt 04/05",
+      "quantity": "1.00",
+      "unit_price": "249.26",
+      "total_price": "249.26",
+      "category": null
+    },
+    {
+      "description": "Disposal/Recycling 04/06",
+      "quantity": "6900.00",
+      "unit_price": "",
+      "total_price": "58.17",
+      "category": null
+    },
+    {
+      "description": "Pickup Service 04/06",
+      "quantity": "1.00",
+      "unit_price": "303.53",
+      "total_price": "303.53",
+      "category": null
+    },
+    {
+      "description": "Disposal/Recycling 04/07",
+      "quantity": "0.15",
+      "unit_price": "",
+      "total_price": "12.65",
+      "category": null
+    },
+    {
+      "description": "Pickup Service 04/07",
+      "quantity": "1.00",
+      "unit_price": "303.53",
+      "total_price": "303.53",
+      "category": null
+    },
+    {
+      "description": "Disposal/Recycling 04/08",
+      "quantity": "0.17",
+      "unit_price": "",
+      "total_price": "14.33",
+      "category": null
+    },
+    {
+      "description": "Pickup Service 04/08",
+      "quantity": "1.00",
+      "unit_price": "303.53",
+      "total_price": "303.53",
+      "category": null
+    },
+    {
+      "description": "Service Attempt 04/11",
+      "quantity": "1.00",
+      "unit_price": "249.26",
+      "total_price": "249.26",
+      "category": null
+    },
+    {
+      "description": "Disposal/Recycling 04/12",
+      "quantity": "4700.00",
+      "unit_price": "",
+      "total_price": "39.62",
+      "category": null
+    },
+    {
+      "description": "Pickup Service 04/12",
+      "quantity": "1.00",
+      "unit_price": "303.53",
+      "total_price": "303.53",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "22 364.97"
+  },
+  "payment_instructions": {
+    "due_date": "20/05/2022",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 11.815,
+  "file_size_bytes": 1765692
+}

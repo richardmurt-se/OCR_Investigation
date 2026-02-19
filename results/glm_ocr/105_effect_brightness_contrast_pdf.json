@@ -1,0 +1,8 @@
+{
+  "filename": "105_effect_brightness_contrast.pdf",
+  "model_name": "glm-ocr",
+  "raw_text": "Wilson-Jones\n888 Clark Turnpike Apt. 846 | Jefferyland, MN 88126\n\nINVOICE\nNo: INV162177044\nDate: 06/03/2024\nDue: 03/08/2026\n\nFROM\nWilson-Jones\n688 Clark Turnpike Apt. 845\nJefferyland, ON 88123\n\nBILL TO\nKing Group\n047 Simon Square Suite 807\nJefferyland, PR 72700\n\n# Description Quantity Unit Price Amount\n1 Down-sized intangible model 2.00 304.07 608.14\n2 Stand-alone hybrid application 5.00 11.88 59.40\n3 Multi-lateral bifurcated database 2.00 308.76 617.50\n4 Triple-cuffered fault-tolerant alliance 4.00 407.86 1,871.44\n5 Configurable cohesive structure 7.00 300.12 2,100.94\n\nSubtotal 5,257.32\nTax (10%) 625.73\nDiscount -202.87\nTotal Due 5,000.18\n\nPAYMENT INFORMATION\nBank: Woods LLC Credit Union\nAccount: GCB882655690481904",
+  "processing_time_seconds": 30.66,
+  "file_size_bytes": 29588,
+  "success": true
+}

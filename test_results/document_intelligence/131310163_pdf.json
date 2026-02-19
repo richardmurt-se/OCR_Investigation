@@ -1,0 +1,77 @@
+{
+  "filename": "131310163.pdf",
+  "invoice": {
+    "client_name": "JPMORGAN CHASE BANK NATL\nASSN",
+    "client_address": "PO BOX 182269\nCOLUMBUS OH 43218-2269",
+    "seller_name": "Roswell\ngeorgia",
+    "seller_address": "38 HILL STREET, SUITE 210\nROSWELL, GA 30075",
+    "invoice_number": "1654299",
+    "invoice_date": "30/09/2020",
+    "due_date": "20/10/2020"
+  },
+  "items": [
+    {
+      "description": "DUMPSTERS",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "123.98",
+      "category": null
+    },
+    {
+      "description": "STORMWATER COMMERCIAL",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "34.17",
+      "category": null
+    },
+    {
+      "description": "NON-PAYMENT DISCONNECT",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "50.00",
+      "category": null
+    },
+    {
+      "description": "RETURNED CHECK FEE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "30.00",
+      "category": null
+    },
+    {
+      "description": "DEPOSIT",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "50.00",
+      "category": null
+    },
+    {
+      "description": "LIEN FEE (non-payment)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.00",
+      "category": null
+    },
+    {
+      "description": "LARGE ITEM PICKUP",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "20.00",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "158.15"
+  },
+  "payment_instructions": {
+    "due_date": "20/10/2020",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.641,
+  "file_size_bytes": 933176
+}

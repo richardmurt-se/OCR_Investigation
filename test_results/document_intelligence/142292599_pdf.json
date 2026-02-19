@@ -1,0 +1,119 @@
+{
+  "filename": "142292599.pdf",
+  "invoice": {
+    "client_name": "DAVITA (4066)",
+    "client_address": "PO Box 182609\nColumbus OH 43218-2609",
+    "seller_name": "TAMPA",
+    "seller_address": "P.O. Box 30191\nTampa, FL 33630-3191",
+    "invoice_number": "",
+    "invoice_date": "15/02/2022",
+    "due_date": "08/03/2022"
+  },
+  "items": [
+    {
+      "description": "LAST BILLING",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "LESS PAYMENTS",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "3 544.28",
+      "category": null
+    },
+    {
+      "description": "WATER BASE CHARGE 1\"",
+      "quantity": "1.00",
+      "unit_price": "10.00",
+      "total_price": "10.00",
+      "category": null
+    },
+    {
+      "description": "WATER TIER 1 CHARGE",
+      "quantity": "27.50",
+      "unit_price": "-2.86",
+      "total_price": "78.65",
+      "category": null
+    },
+    {
+      "description": "WATER TIER 2 CHARGE",
+      "quantity": "27.50",
+      "unit_price": "4.80",
+      "total_price": "132.00",
+      "category": null
+    },
+    {
+      "description": "WATER TIER 3 CHARGE",
+      "quantity": "41.30",
+      "unit_price": "6.40",
+      "total_price": "264.00",
+      "category": null
+    },
+    {
+      "description": "WATER TIER 4 CHARGE",
+      "quantity": "47.80",
+      "unit_price": "7.39",
+      "total_price": "352.87",
+      "category": null
+    },
+    {
+      "description": "TBW PASS-THROUGH",
+      "quantity": "144.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "WASTEWATER BASE CHARGE 1\"",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "10.00",
+      "category": null
+    },
+    {
+      "description": "WASTEWATER CHARGE",
+      "quantity": "",
+      "unit_price": "5.15",
+      "total_price": "741.60",
+      "category": null
+    },
+    {
+      "description": "FEL MAINTENANCE FEE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "24.67",
+      "category": null
+    },
+    {
+      "description": "FEL MAINTENANCE FEE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "24.67",
+      "category": null
+    },
+    {
+      "description": "SW 4CY FEL CONTAINER CHARGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "831.36",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "83.75",
+    "discount": "",
+    "total": "3 384.93"
+  },
+  "payment_instructions": {
+    "due_date": "08/03/2022",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.507,
+  "file_size_bytes": 870018
+}

@@ -1,0 +1,49 @@
+{
+  "filename": "111834862.pdf",
+  "invoice": {
+    "client_name": "SOUTHERN BELL",
+    "client_address": "PO BOX 182333\nCOLUMBUS OH 43218-2333",
+    "seller_name": "LUMBEE\nRIVER EMC",
+    "seller_address": "PO Box 549\nRed Springs, NC 28377",
+    "invoice_number": "",
+    "invoice_date": "",
+    "due_date": "25/09/2018"
+  },
+  "items": [
+    {
+      "description": "FACILITY CHARGE",
+      "quantity": "1.00",
+      "unit_price": "27.65",
+      "total_price": "27.65",
+      "category": null
+    },
+    {
+      "description": "ELECTRIC",
+      "quantity": "371.00",
+      "unit_price": "0.10",
+      "total_price": "36.21",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "4.44",
+    "discount": "",
+    "total": "67.81"
+  },
+  "payment_instructions": {
+    "due_date": "25/09/2018",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.551,
+  "file_size_bytes": 978014
+}

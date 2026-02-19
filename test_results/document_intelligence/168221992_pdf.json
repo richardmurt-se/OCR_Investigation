@@ -1,0 +1,27 @@
+{
+  "filename": "168221992.pdf",
+  "invoice": {
+    "client_name": "",
+    "client_address": "",
+    "seller_name": "Schneider\n& Electric",
+    "seller_address": "",
+    "invoice_number": "",
+    "invoice_date": "09/04/2024",
+    "due_date": ""
+  },
+  "items": [],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": ""
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.721,
+  "file_size_bytes": 205199
+}

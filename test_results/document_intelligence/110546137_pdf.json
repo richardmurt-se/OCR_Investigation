@@ -1,0 +1,175 @@
+{
+  "filename": "110546137.pdf",
+  "invoice": {
+    "client_name": "PolyOne Corporation",
+    "client_address": "",
+    "seller_name": "DUKE\nENERGY.",
+    "seller_address": "",
+    "invoice_number": "4740267201020180730",
+    "invoice_date": "30/07/2018",
+    "due_date": "21/08/2018"
+  },
+  "items": [
+    {
+      "description": "Current Month\nBilled Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "106 204.18",
+      "category": null
+    },
+    {
+      "description": "Balance Carry Forward",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Late Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Late Fee Adjustment",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Pwrsh Capacity Premium",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-437.50",
+      "category": null
+    },
+    {
+      "description": "Connection Charge",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "75.00",
+      "category": null
+    },
+    {
+      "description": "Demand Charge",
+      "quantity": "122.00",
+      "unit_price": "4.11",
+      "total_price": "12 831.42",
+      "category": null
+    },
+    {
+      "description": "Energy Charge",
+      "quantity": "1267369.00",
+      "unit_price": "0.04",
+      "total_price": "45 617.68",
+      "category": null
+    },
+    {
+      "description": "Kvar Charge",
+      "quantity": "956.50",
+      "unit_price": "0.24",
+      "total_price": "469.56",
+      "category": null
+    },
+    {
+      "description": "Rider 60 - Fuel Adjustment",
+      "quantity": "1267369.00",
+      "unit_price": "0.01",
+      "total_price": "16 423.83",
+      "category": null
+    },
+    {
+      "description": "Rider 61 - Coal Gasification Adj",
+      "quantity": "1267369.00",
+      "unit_price": "0.01",
+      "total_price": "15 525.27",
+      "category": null
+    },
+    {
+      "description": "Rider 62 - Pollution Cntl Adj",
+      "quantity": "1267369.00",
+      "unit_price": "0.00",
+      "total_price": "3 511.88",
+      "category": null
+    },
+    {
+      "description": "Rider 63 - Emission Allowance",
+      "quantity": "1267369.00",
+      "unit_price": "0.00",
+      "total_price": "-20.28",
+      "category": null
+    },
+    {
+      "description": "Rider 65-Infrastructure Improvement",
+      "quantity": "1267369.00",
+      "unit_price": "0.00",
+      "total_price": "264.88",
+      "category": null
+    },
+    {
+      "description": "Rider 66-a - Energy Eff Adj",
+      "quantity": "1267369.00",
+      "unit_price": "0.00",
+      "total_price": "423.31",
+      "category": null
+    },
+    {
+      "description": "Rider 67 - Cinergy Merger Credit",
+      "quantity": "1267369.00",
+      "unit_price": "0.00",
+      "total_price": "-392.88",
+      "category": null
+    },
+    {
+      "description": "Rider 68 - Midwest Ind Sys Oper Adj",
+      "quantity": "1267369.00",
+      "unit_price": "0.00",
+      "total_price": "2 506.86",
+      "category": null
+    },
+    {
+      "description": "Rider 70 - Reliability Adjustment",
+      "quantity": "1267369.00",
+      "unit_price": "0.00",
+      "total_price": "656.50",
+      "category": null
+    },
+    {
+      "description": "Rider 71 - Clean Coal Adjustment",
+      "quantity": "1267369.00",
+      "unit_price": "0.01",
+      "total_price": "8 223.96",
+      "category": null
+    },
+    {
+      "description": "Rider 72 - Federally Mand Cost Adj",
+      "quantity": "1267369.00",
+      "unit_price": "0.00",
+      "total_price": "143.21",
+      "category": null
+    },
+    {
+      "description": "Rider 73 - Renewable Energy",
+      "quantity": "1267369.00",
+      "unit_price": "0.00",
+      "total_price": "381.48",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "106 641.68"
+  },
+  "payment_instructions": {
+    "due_date": "21/08/2018",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.635,
+  "file_size_bytes": 68228
+}

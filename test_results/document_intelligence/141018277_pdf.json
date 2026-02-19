@@ -1,0 +1,91 @@
+{
+  "filename": "141018277.pdf",
+  "invoice": {
+    "client_name": "LENSCRAFTERS INTERNATIONAL INC",
+    "client_address": "PO BOX 182724\nCOLUMBUS OH US 432182724",
+    "seller_name": "Waterloo North Hydro Inc.",
+    "seller_address": "526 Country Squire Rd.\nWaterloo, ON N2J 4G8",
+    "invoice_number": "0003394811",
+    "invoice_date": "07/01/2022",
+    "due_date": "01/02/2022"
+  },
+  "items": [
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "389.17",
+      "category": null
+    },
+    {
+      "description": "Adjustments\nPayments",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "YOU ARE BUYING YOUR ELECTRICITY FROM DIRECT",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "113.49",
+      "category": null
+    },
+    {
+      "description": "Global Adjustment\nNOV",
+      "quantity": "",
+      "unit_price": "0.06",
+      "total_price": "53.99",
+      "category": null
+    },
+    {
+      "description": "Global Adjustment DEC",
+      "quantity": "1871.36",
+      "unit_price": "0.05",
+      "total_price": "101.86",
+      "category": null
+    },
+    {
+      "description": "Delivery",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "114.08",
+      "category": null
+    },
+    {
+      "description": "Regulatory Charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.00",
+      "category": null
+    },
+    {
+      "description": "HST",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Ontario Electricity Rebate",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "67.05",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "51.27",
+    "discount": "",
+    "total": "378.64"
+  },
+  "payment_instructions": {
+    "due_date": "01/02/2022",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 11.992,
+  "file_size_bytes": 119854
+}

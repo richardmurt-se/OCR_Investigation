@@ -1,0 +1,35 @@
+{
+  "filename": "123063523.pdf",
+  "invoice": {
+    "client_name": "AMERITECH",
+    "client_address": "PO BOX 182552\nCOLUMBUS OH 43218-2552",
+    "seller_name": "Vectren:",
+    "seller_address": "P.O. Box 209, Evansville,",
+    "invoice_number": "",
+    "invoice_date": "26/09/2019",
+    "due_date": "13/10/2019"
+  },
+  "items": [
+    {
+      "description": "and Service Charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "42.27",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "0.00",
+    "discount": "",
+    "total": "42.27"
+  },
+  "payment_instructions": {
+    "due_date": "13/10/2019",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 16.843,
+  "file_size_bytes": 1362030
+}

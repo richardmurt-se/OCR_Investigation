@@ -1,0 +1,105 @@
+{
+  "filename": "163539706.pdf",
+  "invoice": {
+    "client_name": "SONA HOTEL GROUP INC",
+    "client_address": "PO Box 217\nFlagstaff AZ 86002-0217",
+    "seller_name": "New Mexico\nGAS COMPANY*\nEMERA",
+    "seller_address": "1100 N Hudson, Silver City NM 88062",
+    "invoice_number": "",
+    "invoice_date": "09/04/2024",
+    "due_date": "01/05/2024"
+  },
+  "items": [
+    {
+      "description": "Current Charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "500.21",
+      "category": null
+    },
+    {
+      "description": "Cost of Gas 23 DAYS-Mar",
+      "quantity": "825.01",
+      "unit_price": "0.30",
+      "total_price": "248.41",
+      "category": null
+    },
+    {
+      "description": "Cost of Gas 09 DAYS-Apr",
+      "quantity": "322.83",
+      "unit_price": "0.18",
+      "total_price": "57.08",
+      "category": null
+    },
+    {
+      "description": "Surcharge",
+      "quantity": "1147.84",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Weather Adjustment",
+      "quantity": "1147.84",
+      "unit_price": "-0.01",
+      "total_price": "10.10",
+      "category": null
+    },
+    {
+      "description": "Distribution",
+      "quantity": "1147.84",
+      "unit_price": "0.08",
+      "total_price": "90.45",
+      "category": null
+    },
+    {
+      "description": "Access Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "27.75",
+      "category": null
+    },
+    {
+      "description": "Gas Energy Efficiency Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "34.89",
+      "category": null
+    },
+    {
+      "description": "Pipeline Safety Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.72",
+      "category": null
+    },
+    {
+      "description": "Franchise Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "13.48",
+      "category": null
+    },
+    {
+      "description": "Gross Receipts Tax",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "37.53",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "37.53",
+    "discount": "",
+    "total": "500.21"
+  },
+  "payment_instructions": {
+    "due_date": "01/05/2024",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.223,
+  "file_size_bytes": 653289
+}

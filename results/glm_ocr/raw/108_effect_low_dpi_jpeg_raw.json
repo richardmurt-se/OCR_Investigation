@@ -1,0 +1,8 @@
+{
+  "content": "Massey Group\n88001 Kim Sipur dpt, 894 West Christophershire, CA 83768\n\nINVOICE\nNo. BIV-247182178\nDate: 14/19/2024\nDue: 10/19/2024\n\nFROM\nMassey Group\n88001 Kim Sipur dpt, 894\nWest Christophershire, CA 83768\n\nBILL TO\nDurka-Lee\n2004 Ford Springs Suite 113\nTranland, TX 30740\n\n# Description\n1. Rational demand-driven productivity\n2. Reduced web-enabled Local Area network\n3. Persistent solution-oriented challenge\n4. Customer-focused background mockup\n5. Synchronized disintermediate help desk\n\nQuantity Unit Price Amount\n200.47 1 002.38\n179.30 1 426.40\n366.60 1 494.00\n181.28 362.08\n190.80 1 718.08\n\nSubtotal 8 441.18\nTax (10%) 844.12\nTotal Due 7 085.28\n\nPAYMENT INFORMATION\nBank: Monoyra Ltd Financial\nAccount A5N4772Y1487863108\nMethod ACH",
+  "detections": [
+    {
+      "text": "Massey Group\n88001 Kim Sipur dpt, 894 West Christophershire, CA 83768\n\nINVOICE\nNo. BIV-247182178\nDate: 14/19/2024\nDue: 10/19/2024\n\nFROM\nMassey Group\n88001 Kim Sipur dpt, 894\nWest Christophershire, CA 83768\n\nBILL TO\nDurka-Lee\n2004 Ford Springs Suite 113\nTranland, TX 30740\n\n# Description\n1. Rational demand-driven productivity\n2. Reduced web-enabled Local Area network\n3. Persistent solution-oriented challenge\n4. Customer-focused background mockup\n5. Synchronized disintermediate help desk\n\nQuantity Unit Price Amount\n200.47 1 002.38\n179.30 1 426.40\n366.60 1 494.00\n181.28 362.08\n190.80 1 718.08\n\nSubtotal 8 441.18\nTax (10%) 844.12\nTotal Due 7 085.28\n\nPAYMENT INFORMATION\nBank: Monoyra Ltd Financial\nAccount A5N4772Y1487863108\nMethod ACH"
+    }
+  ]
+}

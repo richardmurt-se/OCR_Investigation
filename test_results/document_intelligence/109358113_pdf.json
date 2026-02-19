@@ -1,0 +1,280 @@
+{
+  "filename": "109358113.pdf",
+  "invoice": {
+    "client_name": "AVERY DENNISON US",
+    "client_address": "",
+    "seller_name": "CEI-DISTRIBUTION",
+    "seller_address": "",
+    "invoice_number": "04",
+    "invoice_date": "18/06/2018",
+    "due_date": "10/07/2018"
+  },
+  "items": [
+    {
+      "description": "Dist-DSE rider-DSE2",
+      "quantity": "782136.00",
+      "unit_price": "0.00",
+      "total_price": "132.18",
+      "category": null
+    },
+    {
+      "description": "Dist-DSM / EE1-Engy",
+      "quantity": "782136.00",
+      "unit_price": "0.00",
+      "total_price": "598.33",
+      "category": null
+    },
+    {
+      "description": "Non-Market-Based Services Dmd",
+      "quantity": "1399.00",
+      "unit_price": "5.19",
+      "total_price": "3 514.99",
+      "category": null
+    },
+    {
+      "description": "Non-Market-Based Services Dmd",
+      "quantity": "1399.00",
+      "unit_price": "5.19",
+      "total_price": "3 749.32",
+      "category": null
+    },
+    {
+      "description": "Dist-Delivery Capital Recovery",
+      "quantity": "1399.00",
+      "unit_price": "0.88",
+      "total_price": "593.81",
+      "category": null
+    },
+    {
+      "description": "Dist-Delivery Capital Recovery",
+      "quantity": "1399.00",
+      "unit_price": "0.88",
+      "total_price": "633.39",
+      "category": null
+    },
+    {
+      "description": "Dist-Line Extenstion-Engy",
+      "quantity": "782136.00",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Dist Uncollectible-Engy",
+      "quantity": "782136.00",
+      "unit_price": "0.00",
+      "total_price": "330.84",
+      "category": null
+    },
+    {
+      "description": "Dist-Transformer Chrg",
+      "quantity": "1399.00",
+      "unit_price": "0.54",
+      "total_price": "365.55",
+      "category": null
+    },
+    {
+      "description": "Dist-Transformer Chrg",
+      "quantity": "1399.00",
+      "unit_price": "0.54",
+      "total_price": "389.91",
+      "category": null
+    },
+    {
+      "description": "Dist-Reactive Dmd Chrg",
+      "quantity": "679.30",
+      "unit_price": "0.36",
+      "total_price": "118.33",
+      "category": null
+    },
+    {
+      "description": "Dist-Reactive Dmd Chrg",
+      "quantity": "679.30",
+      "unit_price": "0.36",
+      "total_price": "126.22",
+      "category": null
+    },
+    {
+      "description": "Dist-Dmd",
+      "quantity": "1399.00",
+      "unit_price": "0.97",
+      "total_price": "657.85",
+      "category": null
+    },
+    {
+      "description": "Dist-Dmd",
+      "quantity": "1399.00",
+      "unit_price": "0.97",
+      "total_price": "701.70",
+      "category": null
+    },
+    {
+      "description": "Dist-Customer Chrg",
+      "quantity": "1.00",
+      "unit_price": "180.00",
+      "total_price": "180.00",
+      "category": null
+    },
+    {
+      "description": "Rider GDR - customer chg",
+      "quantity": "1.00",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Rider DMR - Energy",
+      "quantity": "",
+      "unit_price": "0.00",
+      "total_price": "1 227.95",
+      "category": null
+    },
+    {
+      "description": "Rider DMR - Demand",
+      "quantity": "1399.00",
+      "unit_price": "0.64",
+      "total_price": "460.32",
+      "category": null
+    },
+    {
+      "description": "Rider DMR - Demand",
+      "quantity": "1399.00",
+      "unit_price": "0.64",
+      "total_price": "431.55",
+      "category": null
+    },
+    {
+      "description": "State Tax - Total KWH",
+      "quantity": "2000.00",
+      "unit_price": "0.00",
+      "total_price": "9.30",
+      "category": null
+    },
+    {
+      "description": "State Tax - Total KWH",
+      "quantity": "13000.00",
+      "unit_price": "0.00",
+      "total_price": "54.47",
+      "category": null
+    },
+    {
+      "description": "State Tax - Total KWH",
+      "quantity": "",
+      "unit_price": "0.00",
+      "total_price": "2 784.70",
+      "category": null
+    },
+    {
+      "description": "State kwh Tax (CAT) -Engy",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "7.43",
+      "category": null
+    },
+    {
+      "description": "Dist-AMI rider-Cust Chrg",
+      "quantity": "1.00",
+      "unit_price": "16.51",
+      "total_price": "16.51",
+      "category": null
+    },
+    {
+      "description": "EDR (i) Automaker Charge",
+      "quantity": "",
+      "unit_price": "0.00",
+      "total_price": "17.99",
+      "category": null
+    },
+    {
+      "description": "Gener-EDR (e) Std Chrg-Engy",
+      "quantity": "",
+      "unit_price": "0.00",
+      "total_price": "19.55",
+      "category": null
+    },
+    {
+      "description": "Gen-PIR chg-Engy",
+      "quantity": "",
+      "unit_price": "0.00",
+      "total_price": "958.90",
+      "category": null
+    },
+    {
+      "description": "Gener-DFC Recovery-Engy",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Gener-CEI Delta Rev Rec-Engy",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Gen- Def Gener Cost Rec-Engy",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Gener-Delta Rev Rec (oth) -Engy",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "PIPP Uncollectible-Engy",
+      "quantity": "",
+      "unit_price": "0.00",
+      "total_price": "51.62",
+      "category": null
+    },
+    {
+      "description": "Universal Service - Total KWH",
+      "quantity": "",
+      "unit_price": "0.00",
+      "total_price": "810.76",
+      "category": null
+    },
+    {
+      "description": "Energy Charge - Total KWH",
+      "quantity": "",
+      "unit_price": "0.04",
+      "total_price": "34 335.77",
+      "category": null
+    },
+    {
+      "description": "PREV MONTH UNPAID BALANCE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "49 537.56",
+      "category": null
+    },
+    {
+      "description": "CURR MONTH UNPAID BALANCE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "53 279.24",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "53 279.24"
+  },
+  "payment_instructions": {
+    "due_date": "10/07/2018",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 11.202,
+  "file_size_bytes": 71158
+}

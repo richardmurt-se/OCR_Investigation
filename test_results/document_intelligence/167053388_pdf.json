@@ -1,0 +1,77 @@
+{
+  "filename": "167053388.pdf",
+  "invoice": {
+    "client_name": "NE Ind Kid Ctr N Haven",
+    "client_address": "PO BOX 182460\nCOLUMBUS OH 43218-2460",
+    "seller_name": "NIPSCO",
+    "seller_address": "P.O. BOX 13018\nMERRILLVILLE, IN 46411-3018",
+    "invoice_number": "",
+    "invoice_date": "31/07/2024",
+    "due_date": "19/08/2024"
+  },
+  "items": [
+    {
+      "description": "07/01/2024\nReceived\n07/19/2024",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Beginning Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Current Delivery Charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "93.64",
+      "category": null
+    },
+    {
+      "description": "Current Supply Charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "51.75",
+      "category": null
+    },
+    {
+      "description": "Delivery Charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "87.51",
+      "category": null
+    },
+    {
+      "description": "Gas Supply",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "39.12",
+      "category": null
+    },
+    {
+      "description": "Interstate Transportation and Storage Charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "9.24",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "145.39"
+  },
+  "payment_instructions": {
+    "due_date": "19/08/2024",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 10.587,
+  "file_size_bytes": 759222
+}

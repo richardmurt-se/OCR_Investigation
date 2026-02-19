@@ -1,0 +1,42 @@
+{
+  "filename": "130596454.pdf",
+  "invoice": {
+    "client_name": "WACHOVIA BANK\nC/O CASS INFORMATION SYSTEM",
+    "client_address": "PO BOX 183079\nCOLUMBUS OH 43218-3079",
+    "seller_name": "Cobb's",
+    "seller_address": "660 South Cobb Dr SE\nMarietta GA 30060-3105",
+    "invoice_number": "03",
+    "invoice_date": "09/09/2020",
+    "due_date": "27/09/2020"
+  },
+  "items": [
+    {
+      "description": "Cost Of Basic Service",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "45.00",
+      "category": null
+    },
+    {
+      "description": "Street Light",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "7.60",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "52.60"
+  },
+  "payment_instructions": {
+    "due_date": "27/09/2020",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 11.794,
+  "file_size_bytes": 928093
+}

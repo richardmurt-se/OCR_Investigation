@@ -1,0 +1,8 @@
+{
+  "content": "Kemp-Greene\n4081 Kelly Locks | Smithtown, VI 49048\n\nINVOICE\nNo. BILL-82187346\nDate: 06/08/2023\n\nFROM\nKemp-Greene\n4081 Kelly Locks\nSmithtown, VI 49048\n\nBILL TO\nGamble-Lynn\n1552 Erin Fort\nNorth Christmas, OK 33882\n\n# Description\nQuantity Unit Price Amount\n1 Focused fault-tolerant benchmark\n2.00 326.04 882.08\n2 Centralized didactic approach\n8.00 408.31 3 996.48\n3 Profit-focused context-sensitive architecture\n6.00 369.40 2 156.40\n\nSubtotal 6 794.98\nTax (10%) 870.50\nDiscount -679.50\nTotal Due 6 794.98\n\nThank you for your business",
+  "detections": [
+    {
+      "text": "Kemp-Greene\n4081 Kelly Locks | Smithtown, VI 49048\n\nINVOICE\nNo. BILL-82187346\nDate: 06/08/2023\n\nFROM\nKemp-Greene\n4081 Kelly Locks\nSmithtown, VI 49048\n\nBILL TO\nGamble-Lynn\n1552 Erin Fort\nNorth Christmas, OK 33882\n\n# Description\nQuantity Unit Price Amount\n1 Focused fault-tolerant benchmark\n2.00 326.04 882.08\n2 Centralized didactic approach\n8.00 408.31 3 996.48\n3 Profit-focused context-sensitive architecture\n6.00 369.40 2 156.40\n\nSubtotal 6 794.98\nTax (10%) 870.50\nDiscount -679.50\nTotal Due 6 794.98\n\nThank you for your business"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "filename": "146372806.pdf",
+  "invoice": {
+    "client_name": "Fresenius Medical",
+    "client_address": "",
+    "seller_name": "Entergy.",
+    "seller_address": "",
+    "invoice_number": "125058453",
+    "invoice_date": "11/08/2022",
+    "due_date": "02/09/2022"
+  },
+  "items": [
+    {
+      "description": "Balance Carry Forward",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Late Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Late Fee Adjustment",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Franchise Tax",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "7.64",
+      "category": null
+    },
+    {
+      "description": "State Sales Tax",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "6.27",
+      "category": null
+    },
+    {
+      "description": "Lurc 2012 Hurricane Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.69",
+      "category": null
+    },
+    {
+      "description": "Lurc 2020 Hurricane Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "23.63",
+      "category": null
+    },
+    {
+      "description": "Customer Charge",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "13.39",
+      "category": null
+    },
+    {
+      "description": "Energy Charge",
+      "quantity": "1855.00",
+      "unit_price": "0.06",
+      "total_price": "103.64",
+      "category": null
+    },
+    {
+      "description": "Ams Charge",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "2.83",
+      "category": null
+    },
+    {
+      "description": "Formula Rate Plan",
+      "quantity": "0.00",
+      "unit_price": "0.63",
+      "total_price": "75.58",
+      "category": null
+    },
+    {
+      "description": "2005 Hurricane Offset Charge",
+      "quantity": "0.00",
+      "unit_price": "0.01",
+      "total_price": "-1.13",
+      "category": null
+    },
+    {
+      "description": "2008 Hurricane Offset Charge",
+      "quantity": "0.00",
+      "unit_price": "0.01",
+      "total_price": "-0.85",
+      "category": null
+    },
+    {
+      "description": "2012 Hurricane Offset Charge",
+      "quantity": "0.00",
+      "unit_price": "0.00",
+      "total_price": "-0.43",
+      "category": null
+    },
+    {
+      "description": "2020 Hurricane Offset Charge",
+      "quantity": "0.00",
+      "unit_price": "0.01",
+      "total_price": "-1.12",
+      "category": null
+    },
+    {
+      "description": "Fuel Adjustment",
+      "quantity": "1855.00",
+      "unit_price": "0.06",
+      "total_price": "112.80",
+      "category": null
+    },
+    {
+      "description": "Fuel Tracker Rider Schedule Ft",
+      "quantity": "1855.00",
+      "unit_price": "0.00",
+      "total_price": "0.95",
+      "category": null
+    },
+    {
+      "description": "Fuel Stabilization Pilot Rider",
+      "quantity": "1855.00",
+      "unit_price": "0.00",
+      "total_price": "-2.15",
+      "category": null
+    },
+    {
+      "description": "Federal Mandated Eac Rider",
+      "quantity": "1855.00",
+      "unit_price": "0.00",
+      "total_price": "0.14",
+      "category": null
+    },
+    {
+      "description": "Eecr-Qs Rider",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "1.47",
+      "category": null
+    },
+    {
+      "description": "Eecr-Pe Rider",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "0.59",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "344.94"
+  },
+  "payment_instructions": {
+    "due_date": "02/09/2022",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.728,
+  "file_size_bytes": 41605
+}

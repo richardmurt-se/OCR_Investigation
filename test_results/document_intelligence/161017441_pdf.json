@@ -1,0 +1,35 @@
+{
+  "filename": "161017441.pdf",
+  "invoice": {
+    "client_name": "",
+    "client_address": "",
+    "seller_name": "Anheuser-Busch Inc",
+    "seller_address": "",
+    "invoice_number": "",
+    "invoice_date": "01/02/2024",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "645.00",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "645.00"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.564,
+  "file_size_bytes": 151803
+}

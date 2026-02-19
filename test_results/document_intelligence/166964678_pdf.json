@@ -1,0 +1,133 @@
+{
+  "filename": "166964678.pdf",
+  "invoice": {
+    "client_name": "JP Morgan Chase",
+    "client_address": "",
+    "seller_name": "Georgia Power",
+    "seller_address": "",
+    "invoice_number": "894358702020240731",
+    "invoice_date": "31/07/2024",
+    "due_date": "21/08/2024"
+  },
+  "items": [
+    {
+      "description": "Balance Carry Forward",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Late Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Late Fee Adjustment",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "All Taxes",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "70.44",
+      "category": null
+    },
+    {
+      "description": "Basic Service Charge",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "38.00",
+      "category": null
+    },
+    {
+      "description": "Merger Transition Credit",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Demand Side Management",
+      "quantity": "540.00",
+      "unit_price": "0.02",
+      "total_price": "12.20",
+      "category": null
+    },
+    {
+      "description": "Environmental Compliance Cost",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "63.35",
+      "category": null
+    },
+    {
+      "description": "Nuclear Construction Cost Recovery",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Fuel Charge",
+      "quantity": "5800.00",
+      "unit_price": "0.05",
+      "total_price": "266.08",
+      "category": null
+    },
+    {
+      "description": "Municipal Franchise Fee",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "27.07",
+      "category": null
+    },
+    {
+      "description": "Energy Charge",
+      "quantity": "3000.00",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Energy Charge",
+      "quantity": "25.00",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Energy Charge",
+      "quantity": "2800.00",
+      "unit_price": "0.02",
+      "total_price": "43.54",
+      "category": null
+    },
+    {
+      "description": "Energy Charge",
+      "quantity": "2975.00",
+      "unit_price": "0.15",
+      "total_price": "458.56",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "70.44",
+    "discount": "",
+    "total": "979.24"
+  },
+  "payment_instructions": {
+    "due_date": "21/08/2024",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.469,
+  "file_size_bytes": 44180
+}

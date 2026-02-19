@@ -1,0 +1,8 @@
+{
+  "filename": "093_effect_band_stretch.png",
+  "model_name": "deepseek-ocr-2",
+  "raw_text": "<|ref|>text<|/ref|><|det|>[[0, 115, 16, 127]]<|/det|>\nM\n\n<|ref|>text<|/ref|><|det|>[[0, 133, 145, 171]]<|/det|>\nh-Cuevas\nGaines Station Suite 481\nEdward, MH 77983\n\n<|ref|>text<|/ref|><|det|>[[551, 115, 610, 130]]<|/det|>\nBILL TO\n\n<|ref|>text<|/ref|><|det|>[[550, 133, 680, 173]]<|/det|>\nArnold LLC\nUnit 1792 Box 1810\nDPO AP 12408\n\n<|ref|>table<|/ref|><|det|>[[0, 196, 978, 430]]<|/det|>\n<table><tr><td>#</td><td>Description</td><td>Quantity</td><td>Unit Price</td><td>Amount</td></tr><tr><td>1</td><td>Pre-emptive transitional approach</td><td>9.00</td><td>190.19</td><td>1 711.71</td></tr><tr><td>2</td><td>Optimized logistical architecture</td><td>8.00</td><td>488.36</td><td>3 906.88</td></tr><tr><td>3</td><td>Multi-tiered value-added challenge</td><td>1.00</td><td>301.07</td><td>301.07</td></tr><tr><td>4</td><td>Digitized bottom-line software</td><td>9.00</td><td>229.34</td><td>2 064.06</td></tr><tr><td></td><td></td><td></td><td>Subtotal</td><td>7 983.72</td></tr><tr><td></td><td></td><td></td><td>Tax (10%)</td><td>798.37</td></tr><tr><td></td><td></td><td></td><td>Total Due</td><td>8 782.09</td></tr></table>\n\n<|ref|>text<|/ref|><|det|>[[426, 453, 571, 465]]<|/det|>\nThank you for your business",
+  "processing_time_seconds": 16.73,
+  "file_size_bytes": 33784,
+  "success": true
+}

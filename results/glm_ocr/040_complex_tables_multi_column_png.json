@@ -1,0 +1,8 @@
+{
+  "filename": "040_complex_tables_multi_column.png",
+  "model_name": "glm-ocr",
+  "raw_text": "Campbell-Duncan\n24718 Long Track | North Crystal, GU 98812\n\nINVOICE\nINV/7878729425\n\nSeller\nCampbell Duncan\n24718 Long Track, North Crystal, GU 98812\n\nBuyer\nGonzalez and Soni\n60758 Kenneth Fort Apt. 645, Port Jessica, TN 23720\n\nInvoice Details\nNo. INV/7878729425\nDate: 10/24/2024\n\nNo SBU Cat Qty Unit Price Disc% Disc$ Tax% Tax$ Net Total\n1 SK8100 Cons 9.00 EA 180.51 10% 2.90 10% 152.56 1 525.59 1 525.59\n2 SK8200 Main 6.00 EA 95.98 1% 3.30 10% 57.59 575.88 575.88\n3 SK8300 Equil 4.00 EA 430.17 10% 3.80 10% 175.67 1 756.68 1 756.68\n\nSubtotal: 3 858.15\nTotal Discount: 0.00\nTotal Tax: 385.81\nShipping: 0.00\nGRAND TOTAL: 4 243.96\n\nTerms Net 30 | Campbell Duncan | Invoice #INV/7878729425",
+  "processing_time_seconds": 48.672,
+  "file_size_bytes": 32567,
+  "success": true
+}

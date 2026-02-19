@@ -1,0 +1,8 @@
+{
+  "filename": "127_effect_page_curl.jpeg",
+  "model_name": "glm-ocr",
+  "raw_text": "Mason and Sons\n702 Alan Crescent Apt. 110 | Franklintown, NE 69681\n\nINVOICE\nNo: INV7814305\nDate: 06/01/2025\nDue: 02/25/2026\n\nFROM\nMason and Sons\n702 Alan Crescent Apt. 110\nFranklintown, NE 69681\n\nBILL TO\nKeith, Yu and Ramirez\nPSC 3829, Box 8021\nAPO AP 44575\n\n# Description Quantity Unit Price Amount\n1 Total logistical database 7.00 236.30 1 654.10\n2 Synergized high-level ability 8.00 289.17 2 313.36\n3 Exclusive homogeneous utilization 9.00 181.85 1 636.65\n4 Networked 24/7 groupware 10.00 78.55 7 85.50\n\nSubtotal 6 389.61\nTax (10%) 638.96\nTotal Due 7 028.57\n\nPAYMENT INFORMATION\nBank: Taylor Group Financial\nAccount: EKPS26039338479089\nMethod: Credit Card\n\nThank you for your business",
+  "processing_time_seconds": 46.572,
+  "file_size_bytes": 70149,
+  "success": true
+}

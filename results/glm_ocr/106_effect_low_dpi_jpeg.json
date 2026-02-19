@@ -1,0 +1,8 @@
+{
+  "filename": "106_effect_low_dpi.jpeg",
+  "model_name": "glm-ocr",
+  "raw_text": "Ruiz LLC\n25421 Cordova Mission | Elizabethbury, NJ 56032\n\nINVOICE\nNo: BILL-483970554\nDate: 10/15/2025\nDue: 02/14/2026\n\nFROM\nRuiz LLC\n25421 Cordova Mission\nElizabethbury, NJ 56032\n\nBILL TO\nKim Tran\n23541 Campbell Lane Suite 430\nAndersonville, TN 96179\n\n# Description Quantity Unit Price Amount\n1 Down-sized zero administration open architecture 1.00 267.37 267.37\n2 Advanced interactive attitude 2.00 333.77 667.54\n3 Integrated maximized workforce 5.00 115.31 678.55\n\nSubtotal 1 511.46\nTax (10%) 151.15\nDiscount -75.57\nTotal Due 1 587.04\n\nPAYMENT INFORMATION\nBank: Jenkins-Saunders Credit Union\nAccount: DUBL31762738051515\n\nThank you for your business",
+  "processing_time_seconds": 45.157,
+  "file_size_bytes": 42945,
+  "success": true
+}

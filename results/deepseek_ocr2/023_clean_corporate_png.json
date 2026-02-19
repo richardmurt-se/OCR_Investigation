@@ -1,0 +1,8 @@
+{
+  "filename": "023_clean_corporate.png",
+  "model_name": "deepseek-ocr-2",
+  "raw_text": "<|ref|>text<|/ref|><|det|>[[64, 151, 123, 162]]<|/det|>\nSELLER\n\n<|ref|>text<|/ref|><|det|>[[64, 175, 177, 188]]<|/det|>\nMorton-Bryant\n\n<|ref|>text<|/ref|><|det|>[[64, 190, 118, 201]]<|/det|>\nUSS Mora\n\n<|ref|>text<|/ref|><|det|>[[64, 202, 141, 213]]<|/det|>\nFPO AP 98327\n\n<|ref|>text<|/ref|><|det|>[[530, 151, 583, 162]]<|/det|>\nBUYER\n\n<|ref|>text<|/ref|><|det|>[[529, 175, 699, 188]]<|/det|>\nMyers, Heath and Gray\n\n<|ref|>text<|/ref|><|det|>[[530, 190, 612, 201]]<|/det|>\n9202 John Mill\n\n<|ref|>text<|/ref|><|det|>[[530, 202, 655, 214]]<|/det|>\nWest Jillside, MT 12779\n\n<|ref|>table<|/ref|><|det|>[[45, 245, 951, 350]]<|/det|>\n<table><tr><td>NO.</td><td>DESCRIPTION</td><td>QUANTITY</td><td>UNIT PRICE</td><td>AMOUNT</td></tr><tr><td>1</td><td>Open-architected neutral pricing structure</td><td>4.00</td><td>157.22</td><td>628.88</td></tr><tr><td>2</td><td>Secured methodical groupware</td><td>8.00</td><td>137.32</td><td>1 098.56</td></tr><tr><td>3</td><td>Streamlined 24/7 moderator</td><td>2.00</td><td>45.57</td><td>91.14</td></tr></table>\n\n<|ref|>text<|/ref|><|det|>[[60, 510, 203, 522]]<|/det|>\nBANKING DETAILS\n\n<|ref|>text<|/ref|><|det|>[[60, 528, 268, 540]]<|/det|>\nBank: Brown, Russo and Mercer Bank\n\n<|ref|>text<|/ref|><|det|>[[60, 540, 245, 552]]<|/det|>\nAccount: OTPQ0324141484328\n\n<|ref|>text<|/ref|><|det|>[[60, 552, 197, 563]]<|/det|>\nDue Date: 02/22/2026\n\n<|ref|>text<|/ref|><|det|>[[360, 613, 636, 625]]<|/det|>\nMorton-Bryant - Invoice #6536170030 - 03/06/2024",
+  "processing_time_seconds": 20.022,
+  "file_size_bytes": 32974,
+  "success": true
+}

@@ -1,0 +1,70 @@
+{
+  "filename": "163865743.pdf",
+  "invoice": {
+    "client_name": "MICHAELS STORES INC",
+    "client_address": "PO BOX 182558\nCOLUMBUS, OH 43218-2558",
+    "seller_name": "HIGHLAND",
+    "seller_address": "3333 RIDGE ROAD\nHIGHLAND, IN 46322",
+    "invoice_number": "",
+    "invoice_date": "30/04/2024",
+    "due_date": "20/05/2024"
+  },
+  "items": [
+    {
+      "description": "HYDRANT",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "27.44",
+      "category": null
+    },
+    {
+      "description": "WATER BASE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "140.83",
+      "category": null
+    },
+    {
+      "description": "WATER USAGE\n5",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.55",
+      "category": null
+    },
+    {
+      "description": "SEWER BASE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "82.15",
+      "category": null
+    },
+    {
+      "description": "SEWER USAGE\n5",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "37.80",
+      "category": null
+    },
+    {
+      "description": "FIRE SPRINKLER",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "70.37",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "370.14",
+    "tax": "17.52",
+    "discount": "",
+    "total": "387.66"
+  },
+  "payment_instructions": {
+    "due_date": "20/05/2024",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.6,
+  "file_size_bytes": 981652
+}

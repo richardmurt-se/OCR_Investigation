@@ -1,0 +1,8 @@
+{
+  "content": "INVOICE\nBILL-84967192\n01/26/2026 - Due 02/19/2026\n\nFROM\nMartinez and Sons\n677 Walker Unions Suite 689\nJulieborough, GU 54942\n\nTO\nKnight LLC\n991 Calderon Loaf Suite 887\nBillychester, MA 48141\n\nDESCRIPTION QTY PRICE TOTAL\nDigitized radical support 4.00 446.10 1 784.40\nFully-configurable attitude-oriented service-desk 3.00 449.72 1 349.16\nSecured zero administration orchestration 10.00 294.28 2 942.80\nAdaptive high-level emulation 3.00 80.81 242.43\n\nSubtotal 6 318.79\nTax 631.88\nTotal 6 950.67\n\nWilliams-Acosta Bank WWNP92112475620787 Credit Card\n\nThank you",
+  "detections": [
+    {
+      "text": "INVOICE\nBILL-84967192\n01/26/2026 - Due 02/19/2026\n\nFROM\nMartinez and Sons\n677 Walker Unions Suite 689\nJulieborough, GU 54942\n\nTO\nKnight LLC\n991 Calderon Loaf Suite 887\nBillychester, MA 48141\n\nDESCRIPTION QTY PRICE TOTAL\nDigitized radical support 4.00 446.10 1 784.40\nFully-configurable attitude-oriented service-desk 3.00 449.72 1 349.16\nSecured zero administration orchestration 10.00 294.28 2 942.80\nAdaptive high-level emulation 3.00 80.81 242.43\n\nSubtotal 6 318.79\nTax 631.88\nTotal 6 950.67\n\nWilliams-Acosta Bank WWNP92112475620787 Credit Card\n\nThank you"
+    }
+  ]
+}

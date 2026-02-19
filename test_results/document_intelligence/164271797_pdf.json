@@ -1,0 +1,98 @@
+{
+  "filename": "164271797.pdf",
+  "invoice": {
+    "client_name": "CITIZENS BANK",
+    "client_address": "P.O. BOX 182011\nCOLUMBUS OH 43218",
+    "seller_name": "Rhode Island Energy™\nPPL",
+    "seller_address": "PO Box 960\nNorthborough, MA 01532-0960",
+    "invoice_number": "",
+    "invoice_date": "20/05/2024",
+    "due_date": "13/06/2024"
+  },
+  "items": [
+    {
+      "description": "Gas Service",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "37.90",
+      "category": null
+    },
+    {
+      "description": "Other Charges/Adjustments",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.80",
+      "category": null
+    },
+    {
+      "description": "Customer Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "25.00",
+      "category": null
+    },
+    {
+      "description": "LIHEAP Enhancement Chg",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.79",
+      "category": null
+    },
+    {
+      "description": "Peak Distribution Charge",
+      "quantity": "2.98",
+      "unit_price": "0.52",
+      "total_price": "1.56",
+      "category": null
+    },
+    {
+      "description": "Off Peak Distribution Charge",
+      "quantity": "4.21",
+      "unit_price": "0.46",
+      "total_price": "1.95",
+      "category": null
+    },
+    {
+      "description": "Distribution Adj Chg",
+      "quantity": "7.19",
+      "unit_price": "0.47",
+      "total_price": "3.41",
+      "category": null
+    },
+    {
+      "description": "Energy Efficiency Prgrms",
+      "quantity": "7.19",
+      "unit_price": "0.07",
+      "total_price": "0.50",
+      "category": null
+    },
+    {
+      "description": "Cost of Gas",
+      "quantity": "7.19",
+      "unit_price": "0.65",
+      "total_price": "4.69",
+      "category": null
+    },
+    {
+      "description": "Paperless Billing Credit\nEarnings",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "1.17",
+    "discount": "",
+    "total": "38.70"
+  },
+  "payment_instructions": {
+    "due_date": "13/06/2024",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 24.406,
+  "file_size_bytes": 204228
+}

@@ -1,0 +1,105 @@
+{
+  "filename": "142972501.pdf",
+  "invoice": {
+    "client_name": "FEDEX OFFICE & PRINT SERVICES",
+    "client_address": "PO BOX 2440\nSPOKANE WA 99210-2440",
+    "seller_name": "we",
+    "seller_address": "",
+    "invoice_number": "4079200712",
+    "invoice_date": "23/03/2022",
+    "due_date": "14/04/2022"
+  },
+  "items": [
+    {
+      "description": "Facilities",
+      "quantity": "29.00",
+      "unit_price": "0.53",
+      "total_price": "15.25",
+      "category": null
+    },
+    {
+      "description": "Energy Charge",
+      "quantity": "2237.00",
+      "unit_price": "0.13",
+      "total_price": "295.60",
+      "category": null
+    },
+    {
+      "description": "Fuel Cost Adjustment",
+      "quantity": "2237.00",
+      "unit_price": "0.01",
+      "total_price": "17.09",
+      "category": null
+    },
+    {
+      "description": "Environmental Control Charge",
+      "quantity": "2237.00",
+      "unit_price": "0.00",
+      "total_price": "1.30",
+      "category": null
+    },
+    {
+      "description": "State Low Income Assistance Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "9.83",
+      "category": null
+    },
+    {
+      "description": "Facilities",
+      "quantity": "29.00",
+      "unit_price": "0.33",
+      "total_price": "9.57",
+      "category": null
+    },
+    {
+      "description": "Distribution",
+      "quantity": "57.60",
+      "unit_price": "0.19",
+      "total_price": "10.99",
+      "category": null
+    },
+    {
+      "description": "Base Gas",
+      "quantity": "57.60",
+      "unit_price": "0.35",
+      "total_price": "20.25",
+      "category": null
+    },
+    {
+      "description": "PGA",
+      "quantity": "57.60",
+      "unit_price": "0.35",
+      "total_price": "5.54",
+      "category": null
+    },
+    {
+      "description": "PGA",
+      "quantity": "57.60",
+      "unit_price": "0.08",
+      "total_price": "3.50",
+      "category": null
+    },
+    {
+      "description": "2017 Tax Cut-Deferred\nCharge",
+      "quantity": "57.60",
+      "unit_price": "0.01",
+      "total_price": "0.58",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "53.20",
+    "tax": "",
+    "discount": "",
+    "total": "410.38"
+  },
+  "payment_instructions": {
+    "due_date": "14/04/2022",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 9.746,
+  "file_size_bytes": 123309
+}

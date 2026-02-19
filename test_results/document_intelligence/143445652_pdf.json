@@ -1,0 +1,42 @@
+{
+  "filename": "143445652.pdf",
+  "invoice": {
+    "client_name": "SENYAR MAM HOLDING LLC",
+    "client_address": "PO BOX 2440\nSPOKANE WA 99210",
+    "seller_name": "FPL",
+    "seller_address": "",
+    "invoice_number": "1349531317220329",
+    "invoice_date": "29/03/2022",
+    "due_date": "19/04/2022"
+  },
+  "items": [
+    {
+      "description": "Electrical Service Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "27.02",
+      "category": null
+    },
+    {
+      "description": "Franchise Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.65",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "31.85"
+  },
+  "payment_instructions": {
+    "due_date": "19/04/2022",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 13.402,
+  "file_size_bytes": 74191
+}

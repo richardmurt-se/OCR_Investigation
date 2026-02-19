@@ -1,0 +1,238 @@
+{
+  "filename": "109425115.pdf",
+  "invoice": {
+    "client_name": "AT&T",
+    "client_address": "",
+    "seller_name": "GEXA ENERGY",
+    "seller_address": "",
+    "invoice_number": "34023807",
+    "invoice_date": "19/06/2018",
+    "due_date": "20/08/2018"
+  },
+  "items": [
+    {
+      "description": "PREV MONTH BALANCE DUE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "602.12",
+      "category": null
+    },
+    {
+      "description": "SUP-CITY SALES TAX",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "4.16",
+      "category": null
+    },
+    {
+      "description": "SUP-GROSS RECEIPTS TAX",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "4.06",
+      "category": null
+    },
+    {
+      "description": "SUP-UTILITY TAX",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.34",
+      "category": null
+    },
+    {
+      "description": "SUP-STATE SALES TAX",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "13.00",
+      "category": null
+    },
+    {
+      "description": "SUP-ANCILLARY SERVICES PASS THROUGH CHARGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "16.81",
+      "category": null
+    },
+    {
+      "description": "SUP-LINE LOSS PASS THROUGH CHARGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.36",
+      "category": null
+    },
+    {
+      "description": "SUP-ENERGY CHARGE ABOVE BLOCK ($)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "79.52",
+      "category": null
+    },
+    {
+      "description": "SUP-HUB TO ZONE CHARGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "4.38",
+      "category": null
+    },
+    {
+      "description": "SUP-REC PASS THROUGH CHARGE ($)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.37",
+      "category": null
+    },
+    {
+      "description": "SUP-CAPITAL FEE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.53",
+      "category": null
+    },
+    {
+      "description": "SUP-BLOCK CHARGE ON-PEAK ($)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "40.67",
+      "category": null
+    },
+    {
+      "description": "SUP-MANAGEMENT FEE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2.47",
+      "category": null
+    },
+    {
+      "description": "SUP-BLOCK CHARGE OFF-PEAK ($)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "46.48",
+      "category": null
+    },
+    {
+      "description": "SUP-DAY AHEAD SCHEDULE CHARGE\n($)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "SUP-ENERGY CHARGE BELOW BLOCK ($)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-0.17",
+      "category": null
+    },
+    {
+      "description": "SUP-SAPPATTONC2013",
+      "quantity": "5256.00",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "SUP-CUSTOMER BASE CHARGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.12",
+      "category": null
+    },
+    {
+      "description": "DEL-CITY SALES TAX",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "3.67",
+      "category": null
+    },
+    {
+      "description": "DEL-GROSS RECEIPTS TAX",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "3.59",
+      "category": null
+    },
+    {
+      "description": "DEL-UTILITY TAX",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.30",
+      "category": null
+    },
+    {
+      "description": "DEL-STATE SALES TAX",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.46",
+      "category": null
+    },
+    {
+      "description": "DEL-DISTRIBUTION SYSTEM CHARGE",
+      "quantity": "17.00",
+      "unit_price": "4.78",
+      "total_price": "81.19",
+      "category": null
+    },
+    {
+      "description": "DEL-NUCLEAR DECOMMISSIONING CHARGE",
+      "quantity": "17.00",
+      "unit_price": "0.05",
+      "total_price": "0.90",
+      "category": null
+    },
+    {
+      "description": "DEL-CUSTOMER CHARGE",
+      "quantity": "1.00",
+      "unit_price": "9.18",
+      "total_price": "9.18",
+      "category": null
+    },
+    {
+      "description": "DEL-METERING CHARGE",
+      "quantity": "1.00",
+      "unit_price": "31.35",
+      "total_price": "31.35",
+      "category": null
+    },
+    {
+      "description": "DEL-ENERGY EFFICIENCY COST RECOVERY",
+      "quantity": "5256.00",
+      "unit_price": "0.00",
+      "total_price": "2.33",
+      "category": null
+    },
+    {
+      "description": "DEL-RS46884",
+      "quantity": "17.00",
+      "unit_price": "0.10",
+      "total_price": "1.71",
+      "category": null
+    },
+    {
+      "description": "DEL-RCE46957",
+      "quantity": "17.00",
+      "unit_price": "0.01",
+      "total_price": "0.19",
+      "category": null
+    },
+    {
+      "description": "DEL-TRANSMISSION COST RECOVERY FACTOR",
+      "quantity": "17.00",
+      "unit_price": "3.15",
+      "total_price": "53.57",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "1 026.66"
+  },
+  "payment_instructions": {
+    "due_date": "20/08/2018",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.548,
+  "file_size_bytes": 49131
+}

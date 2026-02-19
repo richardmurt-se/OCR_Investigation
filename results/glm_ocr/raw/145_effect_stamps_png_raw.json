@@ -1,0 +1,8 @@
+{
+  "content": "Andersen-Ward\n61434 Humphrey Lodge | Tracyport, NV 74313\n\nINVOICE\nNo: 2508674769\nDate: 12/04/2025\nDue: 03/09/2026\n\nFROM\nAndersen-Ward\n61434 Humphrey Lodge\nTracyport, NV 74313\n\nBILL TO\nBriggs LLC\n0677 James Gardens Suite 403\nLake Sharon, OK 48077\n\n# Description Quantity Unit Price Amount\n1 Balanced next generation product 2.00 333.76 667.52\n2 Programmable bitrated benchmark 9.00 152.43 1 371.87\n3 Implemented 6thgeneration groupware 4.00 140.87 563.48\n\nSubtotal 2 602.87\nTax (10%) 260.29\nDiscount -260.29\nTotal Due 2 602.87\n\nPAYMENT INFORMATION\nBank: Wiley-Prince Credit Union\nAccount: RLQB28889921597010\nMethod: Check\n\nThank you for your business",
+  "detections": [
+    {
+      "text": "Andersen-Ward\n61434 Humphrey Lodge | Tracyport, NV 74313\n\nINVOICE\nNo: 2508674769\nDate: 12/04/2025\nDue: 03/09/2026\n\nFROM\nAndersen-Ward\n61434 Humphrey Lodge\nTracyport, NV 74313\n\nBILL TO\nBriggs LLC\n0677 James Gardens Suite 403\nLake Sharon, OK 48077\n\n# Description Quantity Unit Price Amount\n1 Balanced next generation product 2.00 333.76 667.52\n2 Programmable bitrated benchmark 9.00 152.43 1 371.87\n3 Implemented 6thgeneration groupware 4.00 140.87 563.48\n\nSubtotal 2 602.87\nTax (10%) 260.29\nDiscount -260.29\nTotal Due 2 602.87\n\nPAYMENT INFORMATION\nBank: Wiley-Prince Credit Union\nAccount: RLQB28889921597010\nMethod: Check\n\nThank you for your business"
+    }
+  ]
+}

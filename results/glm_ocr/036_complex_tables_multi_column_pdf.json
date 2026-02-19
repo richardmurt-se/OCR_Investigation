@@ -1,0 +1,8 @@
+{
+  "filename": "036_complex_tables_multi_column.pdf",
+  "model_name": "glm-ocr",
+  "raw_text": "Payne and Sons\n1380 Sarah View | Phillipchester, SD 01486\n\nSeller\nPayne and Sons\n1380 Sarah View, Phillipchester, SD 01486\n\nBayer\nHartnawen LLC\nUnit 0687 Box 7180, DPO AA 01471\n\nInvoice Details\nNo. BILL488304762\nDate 08/10/2021\nDue 09/10/2021\n\nNo. MID Description Kit Qty UNK Price Effeci Stock Tax Net Total\n1 S08100 Pre-engineer multi-state projection... Serv 1.00 SA 388.75 13% 3.10 10% 38.47 388.75\n2 S08100 Managed explicit simulation | Model... Acce 2.00 SA 375.15 0% 3.80 10% 76.23 762.30\n3 S08100 Open architected national encoding... Soft 4.00 SA 240.40 7% 4.90 10% 81.46 816.40\n4 S08100 Cross platform methodical solution... Furn 2.00 SA 472.90 2% 4.30 10% 96.48 965.08\n5 S08100 Realigned uniform open architecture... Main 6.00 SA 444.50 0% 6.50 10% 315.47 3 564.79\n6 S08100 Intuitive bottom-line solution City... Elec 7.00 SA 380.44 0% 1.30 10% 216.75 2 167.48\n7 S08170 Implemented next generation software... Acce 2.00 SA 26.75 13% 6.80 10% 5.14 51.42\n\nSubtotal: 8 605.01\nTotal Discount: 0.00\nTotal Tax: 805.50\nShipping: 0.00\nTotal: 8 920.51\n\nPayment: Hartnawen, Brown and Miller Credit Union | Acct AFTT1380788917912 | Wire Transfer\nTerms: Net 30 | Payne and Sons | Invoice BILL488304762",
+  "processing_time_seconds": 38.177,
+  "file_size_bytes": 96137,
+  "success": true
+}

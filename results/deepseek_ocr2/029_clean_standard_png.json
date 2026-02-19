@@ -1,0 +1,8 @@
+{
+  "filename": "029_clean_standard.png",
+  "model_name": "deepseek-ocr-2",
+  "raw_text": "<|ref|>sub_title<|/ref|><|det|>[[20, 116, 68, 129]]<|/det|>\n## FROM\n\n<|ref|>sub_title<|/ref|><|det|>[[20, 135, 123, 148]]<|/det|>\n## Glass-Jacobs\n\n<|ref|>text<|/ref|><|det|>[[20, 149, 180, 172]]<|/det|>\n40133 Wong Pike Suite 211\nChelseahaven, MA 44810\n\n<|ref|>sub_title<|/ref|><|det|>[[545, 116, 602, 129]]<|/det|>\n## BILL TO\n\n<|ref|>text<|/ref|><|det|>[[544, 133, 784, 173]]<|/det|>\nHerrera, Fitzpatrick and Hoffman\n656 Heather Court\nWest Taylor, WY 52989\n\n<|ref|>table<|/ref|><|det|>[[20, 197, 974, 398]]<|/det|>\n<table><tr><td>#</td><td>Description</td><td>Quantity</td><td>Unit Price</td><td>Amount</td></tr><tr><td>1</td><td>Cross-platform 3rdgeneration analyzer</td><td>3.00</td><td>20.96</td><td>62.88</td></tr><tr><td>2</td><td>Switchable web-enabled structure</td><td>4.00</td><td>129.06</td><td>516.24</td></tr><tr><td>3</td><td>Cross-group national collaboration</td><td>2.00</td><td>302.60</td><td>605.20</td></tr><tr><td></td><td></td><td></td><td>Subtotal</td><td>1 184.32</td></tr><tr><td></td><td></td><td></td><td>Tax (10%)</td><td>118.43</td></tr><tr><td></td><td></td><td></td><td>Total Due</td><td>1 302.75</td></tr></table>\n\n<|ref|>text<|/ref|><|det|>[[424, 424, 573, 436]]<|/det|>\nThank you for your business",
+  "processing_time_seconds": 15.387,
+  "file_size_bytes": 25603,
+  "success": true
+}

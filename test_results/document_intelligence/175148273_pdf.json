@@ -1,0 +1,35 @@
+{
+  "filename": "175148273.pdf",
+  "invoice": {
+    "client_name": "CÔNG TY TNHH UNIPAX VỊ THANH",
+    "client_address": "Lô A13- A17, cụm công nghiệp, tiểu thủ công nghiệp Vị Thanh, Phường VII, Thành phố Vị\nThanh, Tỉnh Hậu Giang",
+    "seller_name": "CHI NHÁNH XĂNG DẦU\nHẬU GIANG",
+    "seller_address": "số 851, Trần Hưng Đạo, Khu vực 3, Phường VII, Thành phố Vị Thanh, Tỉnh Hậu Giang, Việt Nam",
+    "invoice_number": "57923",
+    "invoice_date": "Ngày 09 tháng 05 năm 2024",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "DO 0.05S-II",
+      "quantity": "150000.00",
+      "unit_price": "19.10",
+      "total_price": "2 865 000.00",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "2 865 000.00",
+    "tax": "286.50",
+    "discount": "",
+    "total": "3 151 500.00"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "Tiền mặt",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.598,
+  "file_size_bytes": 137077
+}

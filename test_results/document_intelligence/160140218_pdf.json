@@ -1,0 +1,63 @@
+{
+  "filename": "160140218.pdf",
+  "invoice": {
+    "client_name": "MARSHALLS INC #867",
+    "client_address": "PO BOX 182438\nCOLUMBUS OH 43218-2438",
+    "seller_name": "City of Clearwater",
+    "seller_address": "PO Box 4748\nClearwater, FL 33758-4748",
+    "invoice_number": "",
+    "invoice_date": "19/12/2023",
+    "due_date": "09/01/2024"
+  },
+  "items": [
+    {
+      "description": "Lawn Water inside City 1\" Meter",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "28.45",
+      "category": null
+    },
+    {
+      "description": "Domestic Water inside City 1\" Meter",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "139.64",
+      "category": null
+    },
+    {
+      "description": "Stormwater",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "705.98",
+      "category": null
+    },
+    {
+      "description": "Fire Protection",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "9.00",
+      "category": null
+    },
+    {
+      "description": "Sewer/Wastewater in City 1\" Meter",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "173.24",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "16.81",
+    "discount": "",
+    "total": "1 073.12"
+  },
+  "payment_instructions": {
+    "due_date": "09/01/2024",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 14.084,
+  "file_size_bytes": 904379
+}

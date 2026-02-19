@@ -1,0 +1,126 @@
+{
+  "filename": "149701593.pdf",
+  "invoice": {
+    "client_name": "SERVICE KING PAINT AND BODY LLC",
+    "client_address": "PO BOX 182288\nMAIL STOP 3\nCOLUMBUS OH 43218-2288",
+    "seller_name": "San Antonio Water System",
+    "seller_address": "P.O. Box 2990\nSan Antonio, Texas 78299-2990",
+    "invoice_number": "",
+    "invoice_date": "",
+    "due_date": "29"
+  },
+  "items": [
+    {
+      "description": "DOMESTIC WATER SERVICE CHARGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "72.69",
+      "category": null
+    },
+    {
+      "description": "WATER SUPPLY FEE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "18.83",
+      "category": null
+    },
+    {
+      "description": "EDWARDS AQUIFER AUTHORITY FEE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2.13",
+      "category": null
+    },
+    {
+      "description": "SEWER SERVICE CHARGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "45.39",
+      "category": null
+    },
+    {
+      "description": "STATE-IMPOSED TCEQ FEE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.27",
+      "category": null
+    },
+    {
+      "description": "BASE = ANNUAL AVG CONS GALLONS",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "38 153.00",
+      "category": null
+    },
+    {
+      "description": "(1 1/2) INCH METER CHARGE (MINIMUM BILL)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "61.29",
+      "category": null
+    },
+    {
+      "description": "6,300 GALS. @ . 1810 PER 100 GALS",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.40",
+      "category": null
+    },
+    {
+      "description": "6,300 GALS. @ .2989 PER 100 GALS",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "18.83",
+      "category": null
+    },
+    {
+      "description": "6,300 GALS. @ .03385 PER 100 GALS",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2.13",
+      "category": null
+    },
+    {
+      "description": "FIRST 1,496 GALLONS (MINIMUM CHARGE)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "25.41",
+      "category": null
+    },
+    {
+      "description": "4,804 GALS. @ .4159 PER 100 GALS",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "19.98",
+      "category": null
+    },
+    {
+      "description": "STATE-IMPOSED TCEQ FEE (WATER)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.21",
+      "category": null
+    },
+    {
+      "description": "STATE-IMPOSED TCEQ FEE (WASTE WATER)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.06",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "45.39",
+    "tax": "",
+    "discount": "",
+    "total": "139.31"
+  },
+  "payment_instructions": {
+    "due_date": "29",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.921,
+  "file_size_bytes": 317051
+}

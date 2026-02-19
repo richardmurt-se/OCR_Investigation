@@ -1,0 +1,70 @@
+{
+  "filename": "126981643.pdf",
+  "invoice": {
+    "client_name": "Super Retail Group Services Pty Ltd",
+    "client_address": "PO Box 16112\nCOLLINS ST WEST\nMELBOURNE VIC 8007",
+    "seller_name": "ACTIVE",
+    "seller_address": "",
+    "invoice_number": "717494",
+    "invoice_date": "09/04/2020",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Previous Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "147.37",
+      "category": null
+    },
+    {
+      "description": "Payment Received",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "470.79",
+      "category": null
+    },
+    {
+      "description": "New Charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "437.01",
+      "category": null
+    },
+    {
+      "description": "Electricity Charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "437.01",
+      "category": null
+    },
+    {
+      "description": "Network Access Charge",
+      "quantity": "31.00",
+      "unit_price": "0.53",
+      "total_price": "16.33",
+      "category": null
+    },
+    {
+      "description": "PEAK",
+      "quantity": "4887.43",
+      "unit_price": "0.09",
+      "total_price": "420.68",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "43.70",
+    "discount": "",
+    "total": ""
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "[DocumentField(value_type=dictionary, value={'BPayBillerCode': DocumentField(value_type=string, value='768788', content=768788, bounding_regions=[BoundingRegion(page_number=1, polygon=[Point(x=1.7969, y=9.5931), Point(x=2.1218, y=9.5931), Point(x=2.1218, y=9.6946), Point(x=1.802, y=9.6895)])], spans=[DocumentSpan(offset=1388, length=6)], confidence=0.988), 'BPayReference': DocumentField(value_type=string, value='100134519', content=100134519, bounding_regions=[BoundingRegion(page_number=1, polygon=[Point(x=1.6447, y=9.7352), Point(x=2.1218, y=9.7301), Point(x=2.1218, y=9.8317), Point(x=1.6447, y=9.8266)])], spans=[DocumentSpan(offset=1404, length=9)], confidence=0.985)}, content=None, bounding_regions=[], spans=[], confidence=0.995)]",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.121,
+  "file_size_bytes": 567385
+}

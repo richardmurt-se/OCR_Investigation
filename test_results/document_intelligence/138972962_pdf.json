@@ -1,0 +1,91 @@
+{
+  "filename": "138972962.pdf",
+  "invoice": {
+    "client_name": "TIRE KINGDOM",
+    "client_address": "PO BOX 182586\nCOLUMBUS OH 43218-2586",
+    "seller_name": "UTILITY\nOKEECHOBEE",
+    "seller_address": "100 SW 5TH AVENUE\nOKEECHOBEE FL 34974-4221",
+    "invoice_number": "275 - 07710",
+    "invoice_date": "29/09/2021",
+    "due_date": "20/10/2021"
+  },
+  "items": [
+    {
+      "description": "Water Base Rate",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "25.10",
+      "category": null
+    },
+    {
+      "description": "Water Volumetric Rate",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Sewer Base Rate",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Sewer Volumetric Rate",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Franchise Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Fire Hydrant Fund Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.53",
+      "category": null
+    },
+    {
+      "description": "Fire Protection Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Connection Payment Agreement",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Sewer Maintenance Fee (Kings Bay)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "26.63",
+    "tax": "",
+    "discount": "",
+    "total": "26.63"
+  },
+  "payment_instructions": {
+    "due_date": "20/10/2021",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.531,
+  "file_size_bytes": 862472
+}

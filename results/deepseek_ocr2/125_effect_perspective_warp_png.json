@@ -1,0 +1,8 @@
+{
+  "filename": "125_effect_perspective_warp.png",
+  "model_name": "deepseek-ocr-2",
+  "raw_text": "<|ref|>table<|/ref|><|det|>[[72, 123, 905, 432]]<|/det|>\n<table><tr><td colspan=\"4\">Williams-Rogers</td></tr><tr><td colspan=\"4\">68010 Peggy Spur / Port Lindseyburgh, VA 64285</td></tr><tr><td colspan=\"4\">BILL TO</td></tr><tr><td colspan=\"4\">Smith-Lang</td></tr><tr><td colspan=\"4\">805 Green Glen</td></tr><tr><td colspan=\"4\">Emilyshire, UT 61441</td></tr><tr><td colspan=\"4\">FROM</td></tr><tr><td colspan=\"4\">Williams-Rogers</td></tr><tr><td colspan=\"4\">68000 Peggy Spur</td></tr><tr><td colspan=\"4\">Port Lindseyburgh, VA 64285</td></tr><tr><td colspan=\"4\">Amount</td></tr><tr><td>Description</td><td>Quantity</td><td>Unit Price</td><td>Amount</td></tr><tr><td>1</td><td>2.00</td><td>282.42</td><td>564.84</td></tr><tr><td>2</td><td>3.00</td><td>174.70</td><td>524.10</td></tr><tr><td>3</td><td>8.00</td><td>159.61</td><td>1 276.88</td></tr><tr><td>4</td><td>4.00</td><td>407.36</td><td>1 629.44</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>Subtotal</td><td>3 995.26</td></tr><tr><td></td><td></td><td>Tax (10%)</td><td>399.53</td></tr><tr><td></td><td></td><td>Total Due</td><td>4 394.79</td></tr></table>\n\n<|ref|>text<|/ref|><|det|>[[85, 469, 195, 479]]<|/det|>\nPAYMENT INFORMATION\n\n<|ref|>text<|/ref|><|det|>[[85, 482, 262, 492]]<|/det|>\nBank: Rodriguez, Burns and Shannon Bank\n\n<|ref|>text<|/ref|><|det|>[[85, 492, 220, 502]]<|/det|>\nAccount: ZU.A01887456172823\n\n<|ref|>text<|/ref|><|det|>[[369, 533, 494, 544]]<|/det|>\nThank you for your business",
+  "processing_time_seconds": 20.467,
+  "file_size_bytes": 79660,
+  "success": true
+}

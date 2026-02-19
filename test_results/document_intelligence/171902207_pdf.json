@@ -1,0 +1,70 @@
+{
+  "filename": "171902207.pdf",
+  "invoice": {
+    "client_name": "MAC'S CONVENIENCE STORES LLC",
+    "client_address": "PO BOX 182487\nCOLUMBUS OH 43218-2487",
+    "seller_name": "me\nMiddle\nTennessee\nElectric",
+    "seller_address": "PO BOX 330008\nMURFREESBORO TN 37133-0008",
+    "invoice_number": "",
+    "invoice_date": "01/12/2024",
+    "due_date": "18/12/2024"
+  },
+  "items": [
+    {
+      "description": "Basic Service",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "51.50",
+      "category": null
+    },
+    {
+      "description": "Consumption Under 15000 kWh",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2 028.78",
+      "category": null
+    },
+    {
+      "description": "Consumption Over 15000 kWh",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "376.83",
+      "category": null
+    },
+    {
+      "description": "State Tax",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "172.00",
+      "category": null
+    },
+    {
+      "description": "Previous Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2 599.89",
+      "category": null
+    },
+    {
+      "description": "Payments Received",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-2 599.89",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "172.00",
+    "discount": "",
+    "total": "2 629.11"
+  },
+  "payment_instructions": {
+    "due_date": "18/12/2024",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.198,
+  "file_size_bytes": 599384
+}

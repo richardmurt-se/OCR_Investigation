@@ -1,0 +1,8 @@
+{
+  "filename": "128_effect_page_curl.png",
+  "model_name": "glm-ocr",
+  "raw_text": "Gonzalez Group\n275 Rachel Corners Apt. 824 | Fullerhaven, UT 02296\n\nINVOICE\nNo: 32635298\nDate: 12/25/2025\nDue: 02/12/2026\n\nFROM\nGonzalez Group\n275 Rachel Corners Apt. 824\nFullerhaven, UT 02296\n\nBILL TO\nLee, Taylor and Moran\n88135 Avery Lights\nSherimouth, PR 69106\n\n# Description Quantity Unit Price Amount\n1 Fully-configurable multi-tasking circuit 10.00 468.04 4 680.40\n2 Pre-emptive motivating success 3.00 305.37 916.11\n3 Right-sized coherent circuit 8.00 157.26 1 258.08\n\nSubtotal 6 854.59\nTax (10%) 685.46\nTotal Due 7 540.05\n\nPAYMENT INFORMATION\nBank: Shaw, Morgan and Quinn Bank\nAccount: ELOK86593160449754\nMethod: Wire Transfer\n\nThank you for your business",
+  "processing_time_seconds": 46.069,
+  "file_size_bytes": 29959,
+  "success": true
+}

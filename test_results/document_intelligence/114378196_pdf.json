@@ -1,0 +1,98 @@
+{
+  "filename": "114378196.pdf",
+  "invoice": {
+    "client_name": "PULSANT LIMITED\n6",
+    "client_address": "FLOOR\nSUGAR BOND HOUSE\n2 ANDERSON PLACE\nEDINBURGH\nEH6 5NP",
+    "seller_name": "sse\nScottish Hydro",
+    "seller_address": "",
+    "invoice_number": "471604617 0051",
+    "invoice_date": "",
+    "due_date": "14/12/2018"
+  },
+  "items": [
+    {
+      "description": "St Neots House, 1 Rockingham Drive",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "39 106.21",
+      "category": null
+    },
+    {
+      "description": "Unrestricted units",
+      "quantity": "310856.70",
+      "unit_price": "7.99",
+      "total_price": "24 837.45",
+      "category": null
+    },
+    {
+      "description": "TNUoS interim charge",
+      "quantity": "476.00",
+      "unit_price": "395.85",
+      "total_price": "1 884.22",
+      "category": null
+    },
+    {
+      "description": "Distribution Loss Unrestricted",
+      "quantity": "9222.98",
+      "unit_price": "7.99",
+      "total_price": "736.92",
+      "category": null
+    },
+    {
+      "description": "Fixed charge for 31 day(s)",
+      "quantity": "",
+      "unit_price": "63.18",
+      "total_price": "19.58",
+      "category": null
+    },
+    {
+      "description": "Red Unit rates",
+      "quantity": "28949.10",
+      "unit_price": "3.15",
+      "total_price": "911.03",
+      "category": null
+    },
+    {
+      "description": "Amber Unit rates",
+      "quantity": "101495.10",
+      "unit_price": "0.89",
+      "total_price": "903.31",
+      "category": null
+    },
+    {
+      "description": "Green Unit rates",
+      "quantity": "180412.50",
+      "unit_price": "0.77",
+      "total_price": "1 383.76",
+      "category": null
+    },
+    {
+      "description": "Settlement charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "24.42",
+      "category": null
+    },
+    {
+      "description": "Feed in tariff charge",
+      "quantity": "310856.70",
+      "unit_price": "0.55",
+      "total_price": "1 706.60",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "32 407.29",
+    "tax": "6 517.70",
+    "discount": "",
+    "total": "39 106.21"
+  },
+  "payment_instructions": {
+    "due_date": "14/12/2018",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 9.691,
+  "file_size_bytes": 77747
+}

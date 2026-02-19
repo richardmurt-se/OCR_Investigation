@@ -1,0 +1,49 @@
+{
+  "filename": "171429353.pdf",
+  "invoice": {
+    "client_name": "GAP UTILITIES, STORE #00390\nc/o Cass Information System",
+    "client_address": "PO BOX 182713\nCOLUMBUS OH 43218-2713",
+    "seller_name": "THINK UTILITY SERVICES",
+    "seller_address": "4685 118th Avenue North\nClearwater, FL 33762-4444",
+    "invoice_number": "133086782",
+    "invoice_date": "12/11/2024",
+    "due_date": "30/11/2024"
+  },
+  "items": [
+    {
+      "description": "Water",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "24.50",
+      "category": null
+    },
+    {
+      "description": "Sewer",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "22.42",
+      "category": null
+    },
+    {
+      "description": "Billing Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "16.25",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "63.17"
+  },
+  "payment_instructions": {
+    "due_date": "30/11/2024",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.876,
+  "file_size_bytes": 389672
+}

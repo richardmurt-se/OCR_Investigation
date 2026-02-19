@@ -1,0 +1,756 @@
+{
+  "filename": "148831591.pdf",
+  "invoice": {
+    "client_name": "日光ホールディングス1 合同会社",
+    "client_address": "大阪府大阪市中央区高麗橋3-2-7オリックス高麗橋ビ\nル2F",
+    "seller_name": "HelloOG!\n株式会社",
+    "seller_address": "大阪传大阪市中英汉\n〒541-0045\n道修町3-4-11\n新芝川ビル3F",
+    "invoice_number": "S-00536091",
+    "invoice_date": "27/06/2022",
+    "due_date": "4月\n8日"
+  },
+  "items": [
+    {
+      "description": "燃料費調整額",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "再エネ促進賦課金",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "基本料金",
+      "quantity": "12.00",
+      "unit_price": "356.40",
+      "total_price": "4 276.80",
+      "category": null
+    },
+    {
+      "description": "最初の120kWh",
+      "quantity": "120.00",
+      "unit_price": "16.53",
+      "total_price": "1 983.60",
+      "category": null
+    },
+    {
+      "description": "120kWhを超え300kWhまで",
+      "quantity": "180.00",
+      "unit_price": "20.45",
+      "total_price": "3 681.00",
+      "category": null
+    },
+    {
+      "description": "300kWh超過分",
+      "quantity": "1787.00",
+      "unit_price": "23.46",
+      "total_price": "41 923.02",
+      "category": null
+    },
+    {
+      "description": "燃料費調整額",
+      "quantity": "2087.00",
+      "unit_price": "1.20",
+      "total_price": "2 504.40",
+      "category": null
+    },
+    {
+      "description": "再エネ発電賦課金",
+      "quantity": "2087.00",
+      "unit_price": "3.36",
+      "total_price": "7 012.00",
+      "category": null
+    },
+    {
+      "description": "基本料金",
+      "quantity": "7.00",
+      "unit_price": "970.20",
+      "total_price": "6 451.83",
+      "category": null
+    },
+    {
+      "description": "夏季",
+      "quantity": "0.00",
+      "unit_price": "15.68",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "その他季",
+      "quantity": "1127.00",
+      "unit_price": "14.20",
+      "total_price": "16 003.40",
+      "category": null
+    },
+    {
+      "description": "燃料費調整額",
+      "quantity": "1127.00",
+      "unit_price": "1.20",
+      "total_price": "1 352.40",
+      "category": null
+    },
+    {
+      "description": "再エネ発電賦課金",
+      "quantity": "1127.00",
+      "unit_price": "3.36",
+      "total_price": "3 786.00",
+      "category": null
+    },
+    {
+      "description": "燃料費調整額",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "再エネ促進賦課金",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "基本料金",
+      "quantity": "12.00",
+      "unit_price": "356.40",
+      "total_price": "4 276.80",
+      "category": null
+    },
+    {
+      "description": "最初の120kWh",
+      "quantity": "120.00",
+      "unit_price": "16.53",
+      "total_price": "1 983.60",
+      "category": null
+    },
+    {
+      "description": "120kWhを超え300kWhまで",
+      "quantity": "180.00",
+      "unit_price": "20.45",
+      "total_price": "3 681.00",
+      "category": null
+    },
+    {
+      "description": "300kWh超過分",
+      "quantity": "1296.00",
+      "unit_price": "23.46",
+      "total_price": "30 404.16",
+      "category": null
+    },
+    {
+      "description": "燃料費調整額",
+      "quantity": "1596.00",
+      "unit_price": "2.03",
+      "total_price": "3 239.88",
+      "category": null
+    },
+    {
+      "description": "再エネ発電賦課金",
+      "quantity": "1596.00",
+      "unit_price": "3.36",
+      "total_price": "5 362.00",
+      "category": null
+    },
+    {
+      "description": "基本料金",
+      "quantity": "7.00",
+      "unit_price": "970.20",
+      "total_price": "6 451.83",
+      "category": null
+    },
+    {
+      "description": "夏季",
+      "quantity": "0.00",
+      "unit_price": "15.68",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "その他季",
+      "quantity": "876.00",
+      "unit_price": "14.20",
+      "total_price": "12 439.20",
+      "category": null
+    },
+    {
+      "description": "燃料費調整額",
+      "quantity": "876.00",
+      "unit_price": "2.03",
+      "total_price": "1 778.28",
+      "category": null
+    },
+    {
+      "description": "再エネ発電賦課金",
+      "quantity": "876.00",
+      "unit_price": "3.36",
+      "total_price": "2 943.00",
+      "category": null
+    },
+    {
+      "description": "燃料費調整額",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "再エネ促進賦課金",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "基本料金",
+      "quantity": "12.00",
+      "unit_price": "356.40",
+      "total_price": "4 276.80",
+      "category": null
+    },
+    {
+      "description": "最初の120kWh",
+      "quantity": "120.00",
+      "unit_price": "16.53",
+      "total_price": "1 983.60",
+      "category": null
+    },
+    {
+      "description": "120kWhを超え300kWhまで",
+      "quantity": "180.00",
+      "unit_price": "20.45",
+      "total_price": "3 681.00",
+      "category": null
+    },
+    {
+      "description": "300kWh超過分",
+      "quantity": "1337.00",
+      "unit_price": "23.46",
+      "total_price": "31 366.02",
+      "category": null
+    },
+    {
+      "description": "燃料費調整額",
+      "quantity": "1637.00",
+      "unit_price": "2.72",
+      "total_price": "4 452.64",
+      "category": null
+    },
+    {
+      "description": "再エネ発電賦課金",
+      "quantity": "1637.00",
+      "unit_price": "3.36",
+      "total_price": "5 500.00",
+      "category": null
+    },
+    {
+      "description": "基本料金",
+      "quantity": "7.00",
+      "unit_price": "970.20",
+      "total_price": "6 451.83",
+      "category": null
+    },
+    {
+      "description": "夏季",
+      "quantity": "0.00",
+      "unit_price": "15.68",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "その他季",
+      "quantity": "934.00",
+      "unit_price": "14.20",
+      "total_price": "13 262.80",
+      "category": null
+    },
+    {
+      "description": "燃料費調整額",
+      "quantity": "934.00",
+      "unit_price": "2.72",
+      "total_price": "2 540.48",
+      "category": null
+    },
+    {
+      "description": "再エネ発電賦課金",
+      "quantity": "934.00",
+      "unit_price": "3.36",
+      "total_price": "3 138.00",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "9 163.00",
+      "category": null
+    },
+    {
+      "description": "燃料費調整額",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "再エネ促進賦課金",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "基本料金",
+      "quantity": "12.00",
+      "unit_price": "356.40",
+      "total_price": "4 276.80",
+      "category": null
+    },
+    {
+      "description": "最初の120kWh",
+      "quantity": "120.00",
+      "unit_price": "16.53",
+      "total_price": "1 983.60",
+      "category": null
+    },
+    {
+      "description": "120kWhを超え300kWhまで",
+      "quantity": "180.00",
+      "unit_price": "20.45",
+      "total_price": "3 681.00",
+      "category": null
+    },
+    {
+      "description": "300kWh超過分",
+      "quantity": "1587.00",
+      "unit_price": "23.46",
+      "total_price": "37 231.02",
+      "category": null
+    },
+    {
+      "description": "燃料費調整額",
+      "quantity": "1887.00",
+      "unit_price": "3.02",
+      "total_price": "5 698.74",
+      "category": null
+    },
+    {
+      "description": "再エネ発電賦課金",
+      "quantity": "1887.00",
+      "unit_price": "3.36",
+      "total_price": "6 340.00",
+      "category": null
+    },
+    {
+      "description": "基本料金",
+      "quantity": "7.00",
+      "unit_price": "970.20",
+      "total_price": "6 451.83",
+      "category": null
+    },
+    {
+      "description": "夏季",
+      "quantity": "0.00",
+      "unit_price": "15.68",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "その他季",
+      "quantity": "1058.00",
+      "unit_price": "14.20",
+      "total_price": "15 023.60",
+      "category": null
+    },
+    {
+      "description": "燃料費調整額",
+      "quantity": "1058.00",
+      "unit_price": "3.02",
+      "total_price": "3 195.16",
+      "category": null
+    },
+    {
+      "description": "再エネ発電賦課金",
+      "quantity": "1058.00",
+      "unit_price": "3.36",
+      "total_price": "3 554.00",
+      "category": null
+    },
+    {
+      "description": "燃料費調整額",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "再エネ促進賦課金",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "基本料金",
+      "quantity": "12.00",
+      "unit_price": "356.40",
+      "total_price": "4 276.80",
+      "category": null
+    },
+    {
+      "description": "最初の120kWh",
+      "quantity": "120.00",
+      "unit_price": "16.53",
+      "total_price": "1 983.60",
+      "category": null
+    },
+    {
+      "description": "120kWhを超え300kWhまで",
+      "quantity": "180.00",
+      "unit_price": "20.45",
+      "total_price": "3 681.00",
+      "category": null
+    },
+    {
+      "description": "300kWh超過分",
+      "quantity": "1430.00",
+      "unit_price": "23.46",
+      "total_price": "33 547.80",
+      "category": null
+    },
+    {
+      "description": "燃料費調整額",
+      "quantity": "1730.00",
+      "unit_price": "3.27",
+      "total_price": "5 657.10",
+      "category": null
+    },
+    {
+      "description": "再エネ発電賦課金",
+      "quantity": "1730.00",
+      "unit_price": "3.45",
+      "total_price": "5 968.00",
+      "category": null
+    },
+    {
+      "description": "基本料金",
+      "quantity": "7.00",
+      "unit_price": "970.20",
+      "total_price": "6 451.83",
+      "category": null
+    },
+    {
+      "description": "夏季",
+      "quantity": "0.00",
+      "unit_price": "15.68",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "その他季",
+      "quantity": "951.00",
+      "unit_price": "14.20",
+      "total_price": "13 504.20",
+      "category": null
+    },
+    {
+      "description": "燃料費調整額",
+      "quantity": "951.00",
+      "unit_price": "3.27",
+      "total_price": "3 109.77",
+      "category": null
+    },
+    {
+      "description": "再エネ発電賦課金",
+      "quantity": "951.00",
+      "unit_price": "3.45",
+      "total_price": "3 280.00",
+      "category": null
+    },
+    {
+      "description": "燃料費調整額",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "再エネ促進賦課金",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "基本料金",
+      "quantity": "12.00",
+      "unit_price": "356.40",
+      "total_price": "4 124.05",
+      "category": null
+    },
+    {
+      "description": "最初の120kWh",
+      "quantity": "116.00",
+      "unit_price": "16.53",
+      "total_price": "1 917.48",
+      "category": null
+    },
+    {
+      "description": "120kWhを超え300kWhまで",
+      "quantity": "174.00",
+      "unit_price": "20.45",
+      "total_price": "3 558.30",
+      "category": null
+    },
+    {
+      "description": "300kWh超過分",
+      "quantity": "1193.00",
+      "unit_price": "23.46",
+      "total_price": "27 987.78",
+      "category": null
+    },
+    {
+      "description": "燃料費調整額",
+      "quantity": "1483.00",
+      "unit_price": "3.42",
+      "total_price": "5 071.86",
+      "category": null
+    },
+    {
+      "description": "再エネ発電賦課金",
+      "quantity": "1483.00",
+      "unit_price": "3.45",
+      "total_price": "5 116.00",
+      "category": null
+    },
+    {
+      "description": "基本料金",
+      "quantity": "7.00",
+      "unit_price": "970.20",
+      "total_price": "6 221.41",
+      "category": null
+    },
+    {
+      "description": "夏季",
+      "quantity": "0.00",
+      "unit_price": "15.68",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "その他季",
+      "quantity": "845.00",
+      "unit_price": "14.20",
+      "total_price": "11 999.00",
+      "category": null
+    },
+    {
+      "description": "燃料費調整額",
+      "quantity": "845.00",
+      "unit_price": "3.42",
+      "total_price": "2 889.90",
+      "category": null
+    },
+    {
+      "description": "再エネ発電賦課金",
+      "quantity": "845.00",
+      "unit_price": "3.45",
+      "total_price": "2 915.00",
+      "category": null
+    },
+    {
+      "description": "マ",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "45 737.00",
+      "category": null
+    },
+    {
+      "description": "マ",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "50 686.00",
+      "category": null
+    },
+    {
+      "description": "マンション共用部",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 587.00",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "23 699.00",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "24 852.00",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "734.00",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "45 737.00",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "50 686.00",
+      "category": null
+    },
+    {
+      "description": "マ",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 587.00",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "23 699.00",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "24 852.00",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "734.00",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "9 163.00",
+      "category": null
+    },
+    {
+      "description": "燃料費調整額",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "再エネ促進賦課金",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "マンション共用部",
+      "quantity": "1679.00",
+      "unit_price": "",
+      "total_price": "49 284.00",
+      "category": null
+    },
+    {
+      "description": "マンション共用部",
+      "quantity": "1550.00",
+      "unit_price": "",
+      "total_price": "45 737.00",
+      "category": null
+    },
+    {
+      "description": "マンション共",
+      "quantity": "1730.00",
+      "unit_price": "",
+      "total_price": "50 686.00",
+      "category": null
+    },
+    {
+      "description": "マンション共用部",
+      "quantity": "54.00",
+      "unit_price": "",
+      "total_price": "1 587.00",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "1021.00",
+      "unit_price": "",
+      "total_price": "25 510.00",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "23 699.00",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "1036.00",
+      "unit_price": "",
+      "total_price": "24 852.00",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "734.00",
+      "category": null
+    },
+    {
+      "description": "燃料費調整額",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "再エネ促進賦課金",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "833.00",
+    "discount": "",
+    "total": "9 163.00"
+  },
+  "payment_instructions": {
+    "due_date": "4月\n8日",
+    "bank_name": "口座振替",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 25.995,
+  "file_size_bytes": 3622531
+}

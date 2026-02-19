@@ -1,0 +1,133 @@
+{
+  "filename": "134586672.pdf",
+  "invoice": {
+    "client_name": "Davita Inc",
+    "client_address": "PO BOX 182609\nCOLUMBUS OH 43218-2609",
+    "seller_name": "Columbia Gas\nColumbia Gas.",
+    "seller_address": "PO Box 16581\nColumbus, OH 43216-6581",
+    "invoice_number": "3443",
+    "invoice_date": "09/03/2021",
+    "due_date": "31/03/2021"
+  },
+  "items": [
+    {
+      "description": "Previous Amount Due on 03/02/2021",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 023.98",
+      "category": null
+    },
+    {
+      "description": "Payments Received by 02/25/2021 Thank you",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-1 023.98",
+      "category": null
+    },
+    {
+      "description": "Charges for Gas Delivery This Period",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "618.60",
+      "category": null
+    },
+    {
+      "description": "Charges for Gas Supply This Period",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Beginning Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 023.98",
+      "category": null
+    },
+    {
+      "description": "Payments Received",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 023.98",
+      "category": null
+    },
+    {
+      "description": "Beginning Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Payments Received",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Monthly Customer Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "29.03",
+      "category": null
+    },
+    {
+      "description": "Distribution Service 970 thm at $0.23740 per thm",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "230.28",
+      "category": null
+    },
+    {
+      "description": "Revenue Normalization Adjustment 970 thm at $0.00000 per\nthm",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Weather Normalization Adjustment -82 thm at $0.23750 per\nthm",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "All Applicable Riders",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "8.18",
+      "category": null
+    },
+    {
+      "description": "Gas Cost Storage Service 970 thm at $0.28260 per thm",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "274.12",
+      "category": null
+    },
+    {
+      "description": "Actual Gas Cost Adjustment 970 thm at -$0.00890 per thm",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-8.63",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "105.10",
+    "discount": "",
+    "total": "618.60"
+  },
+  "payment_instructions": {
+    "due_date": "31/03/2021",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 12.239,
+  "file_size_bytes": 97113
+}

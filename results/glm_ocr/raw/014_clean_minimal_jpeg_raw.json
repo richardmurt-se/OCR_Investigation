@@ -1,0 +1,8 @@
+{
+  "content": "INVOICE\nBILL-102079281\n05/12/2024\n\nFROM\nAlexander, Ford and Rivera\n699 Robert Lakes\nMarieport, PA 04966\n\nTO\nGordon-Lopez\n183 Warner Burg Apt. 723\nParkerchester, SD 68325\n\nDESCRIPTION QTY PRICE TOTAL\nSynchronized attitude-oriented support 10.00 49.73 497.30\nAmeliorated bottom-line database 7.00 67.95 475.65\nRe-contextualized explicit extranet 7.00 210.70 1 474.90\nCross-platform fault-tolerant groupware 8.00 461.77 3 694.16\nCustomer-focused human-resource installation 7.00 288.16 1 877.12\n\nSubtotal 8 019.13\nTax 801.91\nDiscount -400.96\nTotal 8 420.08\n\nThank you",
+  "detections": [
+    {
+      "text": "INVOICE\nBILL-102079281\n05/12/2024\n\nFROM\nAlexander, Ford and Rivera\n699 Robert Lakes\nMarieport, PA 04966\n\nTO\nGordon-Lopez\n183 Warner Burg Apt. 723\nParkerchester, SD 68325\n\nDESCRIPTION QTY PRICE TOTAL\nSynchronized attitude-oriented support 10.00 49.73 497.30\nAmeliorated bottom-line database 7.00 67.95 475.65\nRe-contextualized explicit extranet 7.00 210.70 1 474.90\nCross-platform fault-tolerant groupware 8.00 461.77 3 694.16\nCustomer-focused human-resource installation 7.00 288.16 1 877.12\n\nSubtotal 8 019.13\nTax 801.91\nDiscount -400.96\nTotal 8 420.08\n\nThank you"
+    }
+  ]
+}

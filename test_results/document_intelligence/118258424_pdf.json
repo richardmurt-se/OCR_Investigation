@@ -1,0 +1,77 @@
+{
+  "filename": "118258424.pdf",
+  "invoice": {
+    "client_name": "Starbucks Coffee Co (Uk) Ltd",
+    "client_address": "4 Chiswick Park\n566 Chiswick High Road\nLondon\nW4 5YE",
+    "seller_name": "Npower Ltd,",
+    "seller_address": "Windmill Hill Business Park, Whitehill Way, Swindon, SN5 6PB.",
+    "invoice_number": "LGWB8469",
+    "invoice_date": "09/05/2019",
+    "due_date": "06/06/2019"
+  },
+  "items": [
+    {
+      "description": "All Day",
+      "quantity": "6231.00",
+      "unit_price": "0.09",
+      "total_price": "547.70",
+      "category": null
+    },
+    {
+      "description": "Reconciliation Apr 19",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-16.83",
+      "category": null
+    },
+    {
+      "description": "Renewable Obligation",
+      "quantity": "6231.00",
+      "unit_price": "0.02",
+      "total_price": "147.11",
+      "category": null
+    },
+    {
+      "description": "Feed In Tariff Forecast",
+      "quantity": "6231.00",
+      "unit_price": "0.01",
+      "total_price": "40.00",
+      "category": null
+    },
+    {
+      "description": "Contracts for Difference",
+      "quantity": "6777.70",
+      "unit_price": "0.01",
+      "total_price": "41.07",
+      "category": null
+    },
+    {
+      "description": "Administration",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "6.42",
+      "category": null
+    },
+    {
+      "description": "Climate Change Levy",
+      "quantity": "6231.00",
+      "unit_price": "0.01",
+      "total_price": "52.77",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "818.24",
+    "tax": "163.65",
+    "discount": "",
+    "total": "981.89"
+  },
+  "payment_instructions": {
+    "due_date": "06/06/2019",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 21.516,
+  "file_size_bytes": 435283
+}

@@ -1,0 +1,49 @@
+{
+  "filename": "131766126.pdf",
+  "invoice": {
+    "client_name": "IRON MOUNTAIN, MS #10",
+    "client_address": "PO BOX 182586\nCOLUMBUS OH 43218-2586",
+    "seller_name": "DISTRICT\nUBURBAN\nSOUTHWES\nSEWER\nW",
+    "seller_address": "17840 Des Moines Memorial Dr. South\nBurien, WA 98148-1706",
+    "invoice_number": "",
+    "invoice_date": "01/11/2020",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "PREVIOUS BALANCE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "77.50",
+      "category": null
+    },
+    {
+      "description": "PAYMENTS",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-77.50",
+      "category": null
+    },
+    {
+      "description": "SEWER",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "77.50",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "77.50"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.087,
+  "file_size_bytes": 594833
+}

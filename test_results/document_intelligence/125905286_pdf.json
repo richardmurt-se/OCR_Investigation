@@ -1,0 +1,35 @@
+{
+  "filename": "125905286.pdf",
+  "invoice": {
+    "client_name": "BRE SSP PROPERTY OWNER LLC",
+    "client_address": "P O BOX 2440\nSPOKANE, WA 99210",
+    "seller_name": "UGI Energy Services, LLC",
+    "seller_address": "835 Knitting Mills Way\nWyomissing, PA 19610",
+    "invoice_number": "G4417766",
+    "invoice_date": "05/12/2019",
+    "due_date": "20/12/2019"
+  },
+  "items": [
+    {
+      "description": "Full Requirements for 11/2019",
+      "quantity": "155.30",
+      "unit_price": "2.55",
+      "total_price": "396.33",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "396.33",
+    "tax": "23.78",
+    "discount": "",
+    "total": "420.11"
+  },
+  "payment_instructions": {
+    "due_date": "20/12/2019",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.431,
+  "file_size_bytes": 50518
+}

@@ -1,0 +1,42 @@
+{
+  "filename": "174213136.pdf",
+  "invoice": {
+    "client_name": "CertainTeed-Jonesburg, MO\nCertainteed Corporation",
+    "client_address": "",
+    "seller_name": "Paragon Resource Management, Inc.",
+    "seller_address": "1501 North University Avenue\nSuite 414\nLittle Rock, AR 72207",
+    "invoice_number": "2025134",
+    "invoice_date": "03/02/2025",
+    "due_date": "05/03/2025"
+  },
+  "items": [
+    {
+      "description": "Delivered to: Location 2\nRecycling Services for 01.27.25 thru 02.01.25\n(New Florence)",
+      "quantity": "135.79",
+      "unit_price": "49.02",
+      "total_price": "6 656.43",
+      "category": null
+    },
+    {
+      "description": "Fuel Surcharge (Midwest PADD2 as of\n01.27.24) See attached diesel fuel cost",
+      "quantity": "136.79",
+      "unit_price": "1.74",
+      "total_price": "238.01",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "6 894.44",
+    "tax": "",
+    "discount": "",
+    "total": "894.44"
+  },
+  "payment_instructions": {
+    "due_date": "05/03/2025",
+    "bank_name": "Net 30 Days",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 10.842,
+  "file_size_bytes": 1037044
+}

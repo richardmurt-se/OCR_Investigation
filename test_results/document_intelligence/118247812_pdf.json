@@ -1,0 +1,77 @@
+{
+  "filename": "118247812.pdf",
+  "invoice": {
+    "client_name": "Church of Jesus Christ CPB - US",
+    "client_address": "",
+    "seller_name": "SoCalGas\nSempra Energy",
+    "seller_address": "",
+    "invoice_number": "18141505000",
+    "invoice_date": "10/05/2019",
+    "due_date": "31/05/2019"
+  },
+  "items": [
+    {
+      "description": "Late Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Late Fee Adjustment",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Public Purpose Surcharge",
+      "quantity": "",
+      "unit_price": "0.08",
+      "total_price": "7.89",
+      "category": null
+    },
+    {
+      "description": "State Regulatory Fee",
+      "quantity": "0.00",
+      "unit_price": "0.00",
+      "total_price": "0.25",
+      "category": null
+    },
+    {
+      "description": "Customer Charge",
+      "quantity": "30.00",
+      "unit_price": "0.49",
+      "total_price": "14.79",
+      "category": null
+    },
+    {
+      "description": "Gas Commodity",
+      "quantity": "100.00",
+      "unit_price": "0.28",
+      "total_price": "28.20",
+      "category": null
+    },
+    {
+      "description": "Tier 1",
+      "quantity": "100.00",
+      "unit_price": "0.67",
+      "total_price": "67.08",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "118.21"
+  },
+  "payment_instructions": {
+    "due_date": "31/05/2019",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.511,
+  "file_size_bytes": 70782
+}

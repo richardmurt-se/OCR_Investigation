@@ -1,0 +1,112 @@
+{
+  "filename": "125163985.pdf",
+  "invoice": {
+    "client_name": "C/O CASS INFO SYS MS#2 (182598)",
+    "client_address": "PO BOX 182598 - MS #2\nCOLUMBUS OH 43218-2598",
+    "seller_name": "Columbia, Gas\nof Ohio",
+    "seller_address": "P.O. Box 16581\nColumbus, OH 43216-6581",
+    "invoice_number": "0000 8544",
+    "invoice_date": "10/01/2020",
+    "due_date": "27/01/2020"
+  },
+  "items": [
+    {
+      "description": "Thank you",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Customer Charge",
+      "quantity": "",
+      "unit_price": "21.16",
+      "total_price": "21.16",
+      "category": null
+    },
+    {
+      "description": "Infrastructure Replacement Program Rider",
+      "quantity": "",
+      "unit_price": "80.67",
+      "total_price": "80.67",
+      "category": null
+    },
+    {
+      "description": "Infrastructure Development Rider",
+      "quantity": "",
+      "unit_price": "0.02",
+      "total_price": "0.02",
+      "category": null
+    },
+    {
+      "description": "Capital Expenditure Program Rider",
+      "quantity": "",
+      "unit_price": "29.68",
+      "total_price": "29.68",
+      "category": null
+    },
+    {
+      "description": "First 25 Mcf",
+      "quantity": "25.00",
+      "unit_price": "1.62",
+      "total_price": "40.40",
+      "category": null
+    },
+    {
+      "description": "Next 75 Mcf",
+      "quantity": "75.00",
+      "unit_price": "1.22",
+      "total_price": "91.70",
+      "category": null
+    },
+    {
+      "description": "Over 100 Mcf",
+      "quantity": "98.00",
+      "unit_price": "0.97",
+      "total_price": "1 066.38",
+      "category": null
+    },
+    {
+      "description": "All Gas (Mcf)",
+      "quantity": "0.00",
+      "unit_price": "8.64",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "All Gas (Mcf)",
+      "quantity": "0.00",
+      "unit_price": "2.42",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Banking And Balancing (Mcf)",
+      "quantity": "198.00",
+      "unit_price": "0.02",
+      "total_price": "20.01",
+      "category": null
+    },
+    {
+      "description": "Uncollectible Expense Rider (Mcf)",
+      "quantity": "198.00",
+      "unit_price": "0.08",
+      "total_price": "99.79",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "1 639.93"
+  },
+  "payment_instructions": {
+    "due_date": "27/01/2020",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 16.91,
+  "file_size_bytes": 2353254
+}

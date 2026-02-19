@@ -1,0 +1,8 @@
+{
+  "filename": "015_clean_corporate.png",
+  "model_name": "deepseek-ocr-2",
+  "raw_text": "<|ref|>text<|/ref|><|det|>[[60, 151, 122, 162]]<|/det|>\nSELLER\n\n<|ref|>text<|/ref|><|det|>[[60, 174, 164, 188]]<|/det|>\nPratt-Cooper\n\n<|ref|>text<|/ref|><|det|>[[60, 190, 222, 214]]<|/det|>\n219 Robert Lodge\nLake Martinborough, SD 57240\n\n<|ref|>text<|/ref|><|det|>[[529, 151, 583, 162]]<|/det|>\nBUYER\n\n<|ref|>text<|/ref|><|det|>[[528, 174, 636, 187]]<|/det|>\nParks-Daniels\n\n<|ref|>text<|/ref|><|det|>[[528, 190, 690, 214]]<|/det|>\n124 Kevin Mountains Suite 609\nDavidshire, OK 70849\n\n<|ref|>table<|/ref|><|det|>[[45, 245, 951, 352]]<|/det|>\n<table><tr><td>NO.</td><td>DESCRIPTION</td><td>QUANTITY</td><td>UNIT PRICE</td><td>AMOUNT</td></tr><tr><td>1</td><td>Reactive zero tolerance methodology</td><td>3.00</td><td>159.51</td><td>478.53</td></tr><tr><td>2</td><td>Reduced system-worthy capability</td><td>7.00</td><td>77.15</td><td>540.05</td></tr><tr><td>3</td><td>Total human-resource budgetary management</td><td>7.00</td><td>65.07</td><td>455.49</td></tr></table>\n\n<|ref|>text<|/ref|><|det|>[[60, 484, 203, 496]]<|/det|>\nBANKING DETAILS\n\n<|ref|>text<|/ref|><|det|>[[60, 502, 236, 515]]<|/det|>\nBank: Hernandez Inc Financial\n\n<|ref|>text<|/ref|><|det|>[[60, 515, 245, 527]]<|/det|>\nAccount: YVL053762056549390\n\n<|ref|>text<|/ref|><|det|>[[60, 527, 197, 538]]<|/det|>\nDue Date: 02/16/2026\n\n<|ref|>text<|/ref|><|det|>[[400, 588, 635, 601]]<|/det|>\nPratt-Cooper - Invoice #FAC8121173188 - 07/23/2025",
+  "processing_time_seconds": 18.603,
+  "file_size_bytes": 33548,
+  "success": true
+}

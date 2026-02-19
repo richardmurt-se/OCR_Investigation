@@ -1,0 +1,77 @@
+{
+  "filename": "119281423.pdf",
+  "invoice": {
+    "client_name": "WINDSTREAM SERVICES LLC D/I/P",
+    "client_address": "PO BOX 182576\nCOLUMBUS OH 43218-2576",
+    "seller_name": "DUKE\nENERGY®\nPROGRESS",
+    "seller_address": "P.O. Box 1771, Raleigh, NC 27602",
+    "invoice_number": "",
+    "invoice_date": "14/06/2019",
+    "due_date": "Jun 28"
+  },
+  "items": [
+    {
+      "description": "customer",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "35.50",
+      "category": null
+    },
+    {
+      "description": "On-peak KWH",
+      "quantity": "826.00",
+      "unit_price": "0.07",
+      "total_price": "53.78",
+      "category": null
+    },
+    {
+      "description": "Off-peak KWH",
+      "quantity": "1432.00",
+      "unit_price": "0.05",
+      "total_price": "75.70",
+      "category": null
+    },
+    {
+      "description": "On-peak KW at .6215 proration",
+      "quantity": "6.84",
+      "unit_price": "8.85",
+      "total_price": "37.62",
+      "category": null
+    },
+    {
+      "description": "On-peak KWH",
+      "quantity": "503.00",
+      "unit_price": "0.07",
+      "total_price": "32.75",
+      "category": null
+    },
+    {
+      "description": "Off-peak KWH",
+      "quantity": "992.00",
+      "unit_price": "0.05",
+      "total_price": "52.44",
+      "category": null
+    },
+    {
+      "description": "On-peak KW at .3785 proration",
+      "quantity": "7.11",
+      "unit_price": "10.53",
+      "total_price": "28.34",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "22.69",
+    "discount": "",
+    "total": "346.77"
+  },
+  "payment_instructions": {
+    "due_date": "Jun 28",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 11.583,
+  "file_size_bytes": 1616683
+}

@@ -1,0 +1,119 @@
+{
+  "filename": "157147849.pdf",
+  "invoice": {
+    "client_name": "",
+    "client_address": "",
+    "seller_name": "Resource Advisor\nEngie Electrabel",
+    "seller_address": "",
+    "invoice_number": "",
+    "invoice_date": "03/07/2023",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Consumption peak (Normal)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 942.68",
+      "category": null
+    },
+    {
+      "description": "Consumption off-peak (Normal)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 162.46",
+      "category": null
+    },
+    {
+      "description": "Contribution cogeneration (CHP)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "82.27",
+      "category": null
+    },
+    {
+      "description": "Contribution renewable energy",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "453.31",
+      "category": null
+    },
+    {
+      "description": "Power",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "344.95",
+      "category": null
+    },
+    {
+      "description": "Charges according to consumption",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "5.22",
+      "category": null
+    },
+    {
+      "description": "Public service Obligation",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "75.68",
+      "category": null
+    },
+    {
+      "description": "Reactive energy",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "6.95",
+      "category": null
+    },
+    {
+      "description": "Fix term",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "7.66",
+      "category": null
+    },
+    {
+      "description": "Charges according to consumption",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "103.84",
+      "category": null
+    },
+    {
+      "description": "Contribution Energiefonds",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "181.85",
+      "category": null
+    },
+    {
+      "description": "Special Excise",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "305.65",
+      "category": null
+    },
+    {
+      "description": "Electricity",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "943.04",
+    "discount": "",
+    "total": "5 615.56"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.472,
+  "file_size_bytes": 26457
+}

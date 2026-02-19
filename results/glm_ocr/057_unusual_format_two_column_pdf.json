@@ -1,0 +1,8 @@
+{
+  "filename": "057_unusual_format_two_column.pdf",
+  "model_name": "glm-ocr",
+  "raw_text": "Lopez-Montgomery\n310 Eats Inlet West Richard, OR 50803\n\nINVOICE\nNo. INV96590336 | Date: 06/02/2025\n\nPARTIES\n\nFROM (SELLER)\nLopez-Montgomery\n310 Eats Inlet\nWest Richard, OR 50803\n\nTO (BUYER)\nYoung-Keller\n217 David Plain Suite 941\nMichaelfort, TN 20278\n\nITEMS (1-3)\n# Description Qty Total\n1 Operative 24-hour moderator 6.00 1 642.86\n2 Extended client-server solution 1.00 446.01\n3 Face-to-face grid-senabled utilization 10.00 577.00\n\nSUMMARY & PAYMENT\n\nInvoice Totals\nSubtotal 10 748.04\nTax (19%) 1 074.80\nTOTAL DUE 11 822.84\n\nITEMS (4-7)\n# Description Qty Total\n4 Advanced demand-driven function 2.00 598.54\n5 Closed asynchronous help-desk 8.00 1 533.04\n6 Compatible real-time data-warehouse 10.00 3 427.08\n7 Innovative stable time-frame 9.00 2 522.79\n\nLopez-Montgomery | Invoice ID INV96590336 | 06/02/2025\nThank you for your business!",
+  "processing_time_seconds": 30.9,
+  "file_size_bytes": 180828,
+  "success": true
+}

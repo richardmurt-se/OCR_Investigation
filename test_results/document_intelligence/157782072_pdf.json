@@ -1,0 +1,42 @@
+{
+  "filename": "157782072.pdf",
+  "invoice": {
+    "client_name": "Church of Jesus Christ Latter-Day Saints\nC/O Cass Information Systems",
+    "client_address": "PO Box 182764\nColumbus, OH 43218",
+    "seller_name": "CITY OF CASA GRANDE",
+    "seller_address": "510 E FLORENCE BLVD\nCASA GRANDE, AZ 85122-4100",
+    "invoice_number": "",
+    "invoice_date": "30/09/2023",
+    "due_date": "20/10/2023"
+  },
+  "items": [
+    {
+      "description": "Wastewater Service - Flat Rate Billing Base Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "33.70",
+      "category": null
+    },
+    {
+      "description": "Sanitation - Commercial Billing Service Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "85.49",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "119.19"
+  },
+  "payment_instructions": {
+    "due_date": "20/10/2023",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.667,
+  "file_size_bytes": 55969
+}

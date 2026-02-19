@@ -1,0 +1,8 @@
+{
+  "content": "Miller Ltd\nUSS Barron | FPO AP 10156\n\nINVOICE\nNo: BILL4074134\nDate: 09/22/2016\n\nFROM\nMiller Ltd\nUSS Barron\nFPO AP 10156\n\nBILL TO\nMcpee LLC\nPSC 7132, Box 8994\nAPO AA 70106\n\n# Description Quantity Unit Price Amount\n1 Enhanced needs-based strategy 9.00 289.99 2 607.21\n2 Synergized discrete productivity 6.00 439.16 2 634.96\n3 Networked asymmetric moderator 5.00 287.56 1 437.80\n4 Adaptive static Local Area Network 1.00 417.12 417.12\n5 Managed explicit knowledge user 5.00 480.84 2 404.20\n6 Synergized local installation 1.00 228.01 238.01\n\nSubtotal 9 739.30\nTax (10%) 973.03\nTotal Due 10 713.23\n\nThank you for your business",
+  "detections": [
+    {
+      "text": "Miller Ltd\nUSS Barron | FPO AP 10156\n\nINVOICE\nNo: BILL4074134\nDate: 09/22/2016\n\nFROM\nMiller Ltd\nUSS Barron\nFPO AP 10156\n\nBILL TO\nMcpee LLC\nPSC 7132, Box 8994\nAPO AA 70106\n\n# Description Quantity Unit Price Amount\n1 Enhanced needs-based strategy 9.00 289.99 2 607.21\n2 Synergized discrete productivity 6.00 439.16 2 634.96\n3 Networked asymmetric moderator 5.00 287.56 1 437.80\n4 Adaptive static Local Area Network 1.00 417.12 417.12\n5 Managed explicit knowledge user 5.00 480.84 2 404.20\n6 Synergized local installation 1.00 228.01 238.01\n\nSubtotal 9 739.30\nTax (10%) 973.03\nTotal Due 10 713.23\n\nThank you for your business"
+    }
+  ]
+}

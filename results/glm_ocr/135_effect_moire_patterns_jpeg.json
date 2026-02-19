@@ -1,0 +1,8 @@
+{
+  "filename": "135_effect_moire_patterns.jpeg",
+  "model_name": "glm-ocr",
+  "raw_text": "Hurst-Byrd\n488 Steven Ford Suite 383 | South Abigail, SC 52431\n\nINVOICE\nNo: 213563603\nDate: 02/14/2025\n\nFROM\nHurst-Byrd\n488 Steven Ford Suite 383\nSouth Abigail, SC 52431\n\nBILL TO\nOrtega-Perez\n646 Wilson Spurs\nHenrychester, OR 68568\n\n# Description Quantity Unit Price Amount\n1 Enterprise-wide solution-oriented alliance 8.00 447.81 3 582.48\n2 Vision-oriented methodical concept 3.00 75.39 226.17\n3 Multi-lateral uniform artificial intelligence 2.00 388.73 777.46\n4 Reverse-engineered background product 10.00 285.69 2 856.90\n\nSubtotal 7 443.01\nTax (10%) 744.30\nTotal Due 8 187.31\n\nThank you for your business",
+  "processing_time_seconds": 45.494,
+  "file_size_bytes": 67602,
+  "success": true
+}

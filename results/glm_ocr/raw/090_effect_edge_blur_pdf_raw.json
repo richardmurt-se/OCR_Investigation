@@ -1,0 +1,8 @@
+{
+  "content": "Rivera-Hawkins\n#1108 Benson Isle | New Donaldale, VA 15084\nINVOICE\nNo: FAC-26029853485\nDate: 08/31/2023\nDue: 02/18/2024\n\nFROM\nRivera-Hawkins\n#1108 Benson Isle\nNew Donaldale, VA 15084\n\nBILL TO\nJones, Bradford and Mcguire\n52890 Christina Key Apt, 201\nMartinsville, MD 50200\n\n# Description\nQuantity Unit Price Amount\n1 Future-proofed exuding strategy 7.00 245.21 1 716.47\n2 Up-sized intermediate algorithm 8.00 475.16 3 801.28\n3 Multi-tiered value-added core 6.00 193.36 1 180.18\n4 Balanced 3rd-generation moratorium 2.00 158.42 3 168.84\n\nSubtotal 6 994.78\nTax (10%) 699.48\nDiscount -349.74\nTotal Due 7 344.48\n\nPAYMENT INFORMATION\nBank: Barrett-Edwards Bank\nAccount: PVAZ237041511451029\n\nThank you for your business",
+  "detections": [
+    {
+      "text": "Rivera-Hawkins\n#1108 Benson Isle | New Donaldale, VA 15084\nINVOICE\nNo: FAC-26029853485\nDate: 08/31/2023\nDue: 02/18/2024\n\nFROM\nRivera-Hawkins\n#1108 Benson Isle\nNew Donaldale, VA 15084\n\nBILL TO\nJones, Bradford and Mcguire\n52890 Christina Key Apt, 201\nMartinsville, MD 50200\n\n# Description\nQuantity Unit Price Amount\n1 Future-proofed exuding strategy 7.00 245.21 1 716.47\n2 Up-sized intermediate algorithm 8.00 475.16 3 801.28\n3 Multi-tiered value-added core 6.00 193.36 1 180.18\n4 Balanced 3rd-generation moratorium 2.00 158.42 3 168.84\n\nSubtotal 6 994.78\nTax (10%) 699.48\nDiscount -349.74\nTotal Due 7 344.48\n\nPAYMENT INFORMATION\nBank: Barrett-Edwards Bank\nAccount: PVAZ237041511451029\n\nThank you for your business"
+    }
+  ]
+}

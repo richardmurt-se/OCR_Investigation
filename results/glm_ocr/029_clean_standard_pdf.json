@@ -1,0 +1,8 @@
+{
+  "filename": "029_clean_standard.pdf",
+  "model_name": "glm-ocr",
+  "raw_text": "Glass-Jacobs\n40133 Wong Pike Suite 211 | Chelseahaven, MA 44810\n\nINVOICE\nNo: 7428041607\nDate: 03/25/2025\n\nFROM\nGlass-Jacobs\n40133 Wong Pike Suite 211\nChelseahaven, MA 44810\n\nBILL TO\nHerrera, Fitzpatrick and Hoffman\n656 Heather Court\nWest Taylor, WY 52989\n\n# Description Quantity Unit Price Amount\n1 Cross-platform 3rdgeneration analyzer 3.00 20.96 62.88\n2 Switchable web-enabled structure 4.00 129.06 516.24\n3 Cross-group national collaboration 2.00 302.60 605.20\n\nSubtotal 1 184.32\nTax (10%) 118.43\nTotal Due 1 302.75\n\nThank you for your business",
+  "processing_time_seconds": 27.658,
+  "file_size_bytes": 110305,
+  "success": true
+}

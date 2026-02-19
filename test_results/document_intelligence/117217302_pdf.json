@@ -1,0 +1,189 @@
+{
+  "filename": "117217302.pdf",
+  "invoice": {
+    "client_name": "Ascension Health",
+    "client_address": "",
+    "seller_name": "DUKE\nENERGY®",
+    "seller_address": "",
+    "invoice_number": "0940360601120190402",
+    "invoice_date": "02/04/2019",
+    "due_date": "24/04/2019"
+  },
+  "items": [
+    {
+      "description": "Month\nBilled Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "547.74",
+      "category": null
+    },
+    {
+      "description": "Balance Carry Forward",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Late Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Late Fee Adjustment",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Connection Charge",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "14.00",
+      "category": null
+    },
+    {
+      "description": "Energy Charge",
+      "quantity": "300.00",
+      "unit_price": "0.10",
+      "total_price": "31.10",
+      "category": null
+    },
+    {
+      "description": "Energy Charge",
+      "quantity": "700.00",
+      "unit_price": "0.08",
+      "total_price": "58.36",
+      "category": null
+    },
+    {
+      "description": "Energy Charge",
+      "quantity": "500.00",
+      "unit_price": "0.08",
+      "total_price": "112.69",
+      "category": null
+    },
+    {
+      "description": "Energy Charge",
+      "quantity": "274.00",
+      "unit_price": "0.06",
+      "total_price": "15.31",
+      "category": null
+    },
+    {
+      "description": "Load Factor-Next 110 Hrs Use",
+      "quantity": "537.00",
+      "unit_price": "0.05",
+      "total_price": "76.23",
+      "category": null
+    },
+    {
+      "description": "Kvar Charge",
+      "quantity": "1.50",
+      "unit_price": "0.23",
+      "total_price": "0.35",
+      "category": null
+    },
+    {
+      "description": "Rider 60 - Fuel Adjustment",
+      "quantity": "311.00",
+      "unit_price": "0.02",
+      "total_price": "66.31",
+      "category": null
+    },
+    {
+      "description": "Rider 61 - Coal Gasification Adj",
+      "quantity": "311.00",
+      "unit_price": "0.01",
+      "total_price": "52.81",
+      "category": null
+    },
+    {
+      "description": "Rider 62 - Pollution Cntl Adj",
+      "quantity": "311.00",
+      "unit_price": "0.00",
+      "total_price": "12.11",
+      "category": null
+    },
+    {
+      "description": "Rider 63 - Emission Allowance",
+      "quantity": "311.00",
+      "unit_price": "0.00",
+      "total_price": "-0.01",
+      "category": null
+    },
+    {
+      "description": "Rider 65-Infrastructure Improvement",
+      "quantity": "311.00",
+      "unit_price": "0.00",
+      "total_price": "8.07",
+      "category": null
+    },
+    {
+      "description": "Rider 66-A - Energy Eff Adj",
+      "quantity": "311.00",
+      "unit_price": "0.01",
+      "total_price": "22.79",
+      "category": null
+    },
+    {
+      "description": "Rider 67 - Tax & Merger Credit",
+      "quantity": "311.00",
+      "unit_price": "0.00",
+      "total_price": "-2.22",
+      "category": null
+    },
+    {
+      "description": "Rider 68 - Midwest Ind Sys Oper Adj",
+      "quantity": "311.00",
+      "unit_price": "0.00",
+      "total_price": "14.86",
+      "category": null
+    },
+    {
+      "description": "Rider 70 - Reliability Adjustment",
+      "quantity": "311.00",
+      "unit_price": "0.00",
+      "total_price": "2.23",
+      "category": null
+    },
+    {
+      "description": "Rider 71 - Clean Coal Adjustment",
+      "quantity": "311.00",
+      "unit_price": "0.01",
+      "total_price": "25.49",
+      "category": null
+    },
+    {
+      "description": "Rider 72 - Federally Mand Cost Adj",
+      "quantity": "311.00",
+      "unit_price": "0.00",
+      "total_price": "0.13",
+      "category": null
+    },
+    {
+      "description": "Rider 73 - Renewable Energy",
+      "quantity": "311.00",
+      "unit_price": "0.00",
+      "total_price": "1.30",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "35.83",
+    "discount": "",
+    "total": "35.83"
+  },
+  "payment_instructions": {
+    "due_date": "24/04/2019",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 9.726,
+  "file_size_bytes": 74976
+}

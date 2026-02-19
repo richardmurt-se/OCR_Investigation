@@ -1,0 +1,84 @@
+{
+  "filename": "114943203.pdf",
+  "invoice": {
+    "client_name": "MORMON CHURCH",
+    "client_address": "PO BOX 182764\nCOLUMBUS OH 43218-2764",
+    "seller_name": "Black Hills Energy",
+    "seller_address": "PO BOX 6001\nRAPID CITY SD 57709-6001",
+    "invoice_number": "",
+    "invoice_date": "07/01/2019",
+    "due_date": "29/01/2019"
+  },
+  "items": [
+    {
+      "description": "Payments",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "117.57",
+      "category": null
+    },
+    {
+      "description": "Gas Service",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "187.12",
+      "category": null
+    },
+    {
+      "description": "Delivery",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "72.70",
+      "category": null
+    },
+    {
+      "description": "BillingDeterminantAdj",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Primary Gas Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "71.67",
+      "category": null
+    },
+    {
+      "description": "Secondary Gas",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Energy",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Weather",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "187.12"
+  },
+  "payment_instructions": {
+    "due_date": "29/01/2019",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 10.752,
+  "file_size_bytes": 26867
+}

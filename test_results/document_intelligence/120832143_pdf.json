@@ -1,0 +1,343 @@
+{
+  "filename": "120832143.pdf",
+  "invoice": {
+    "client_name": "AT&T",
+    "client_address": "",
+    "seller_name": "PG&E",
+    "seller_address": "",
+    "invoice_number": "5849986223584783403560",
+    "invoice_date": "17/07/2019",
+    "due_date": "05/08/2019"
+  },
+  "items": [
+    {
+      "description": "Balance Carry Forward",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Balance\nPayment Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-453.14",
+      "category": null
+    },
+    {
+      "description": "Late Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Late Fee Adjustment",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Del - Transmission",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "31.96",
+      "category": null
+    },
+    {
+      "description": "Del - Public Purpose Programs",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "15.72",
+      "category": null
+    },
+    {
+      "description": "Del - Nuclear Decommissioning",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "1.06",
+      "category": null
+    },
+    {
+      "description": "Del - Dwr Bond Charge",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "6.00",
+      "category": null
+    },
+    {
+      "description": "Del - Competition Transition Charges (Ctc)",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "1.16",
+      "category": null
+    },
+    {
+      "description": "Del - Energy Cost Recovery Amount",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "-0.68",
+      "category": null
+    },
+    {
+      "description": "Del - Pcia",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "29.41",
+      "category": null
+    },
+    {
+      "description": "Del - Distribution",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "114.94",
+      "category": null
+    },
+    {
+      "description": "Del - Taxes And Other",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "0.78",
+      "category": null
+    },
+    {
+      "description": "Sup - Generation - Off Peak - Summer",
+      "quantity": "734.74",
+      "unit_price": "0.06",
+      "total_price": "41.88",
+      "category": null
+    },
+    {
+      "description": "Sup - Generation - Off Peak - Summer",
+      "quantity": "367.37",
+      "unit_price": "0.07",
+      "total_price": "24.61",
+      "category": null
+    },
+    {
+      "description": "Sup - Generation - Part Peak - Summer",
+      "quantity": "244.48",
+      "unit_price": "0.09",
+      "total_price": "21.02",
+      "category": null
+    },
+    {
+      "description": "Sup - Generation - Part Peak - Summer",
+      "quantity": "122.24",
+      "unit_price": "0.09",
+      "total_price": "11.49",
+      "category": null
+    },
+    {
+      "description": "Sup - Generation - On Peak - Summer",
+      "quantity": "212.44",
+      "unit_price": "0.11",
+      "total_price": "22.94",
+      "category": null
+    },
+    {
+      "description": "Sup - Generation - On Peak - Summer",
+      "quantity": "106.22",
+      "unit_price": "0.12",
+      "total_price": "12.43",
+      "category": null
+    },
+    {
+      "description": "Sup - Energy Commission Surcharge",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "0.54",
+      "category": null
+    },
+    {
+      "description": "Del - Transmission",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "15.94",
+      "category": null
+    },
+    {
+      "description": "Del - Public Purpose Programs",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "7.83",
+      "category": null
+    },
+    {
+      "description": "Del - Nuclear Decommissioning",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "0.52",
+      "category": null
+    },
+    {
+      "description": "Del - Dwr Bond Charge",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "2.99",
+      "category": null
+    },
+    {
+      "description": "Del - Competition Transition Charges (Ctc)",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "0.64",
+      "category": null
+    },
+    {
+      "description": "Del - Energy Cost Recovery Amount",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "-0.34",
+      "category": null
+    },
+    {
+      "description": "Del - Pcia",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "16.06",
+      "category": null
+    },
+    {
+      "description": "Del - Distribution",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "55.50",
+      "category": null
+    },
+    {
+      "description": "Del - Taxes And Other",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "0.39",
+      "category": null
+    },
+    {
+      "description": "Del - Customer Charge (ELECTRIC)",
+      "quantity": "20.00",
+      "unit_price": "",
+      "total_price": "6.57",
+      "category": null
+    },
+    {
+      "description": "Del - Energy Charges Peak (ELECTRIC)",
+      "quantity": "212.79",
+      "unit_price": "",
+      "total_price": "59.78",
+      "category": null
+    },
+    {
+      "description": "Del - Energy Charges Part Peak (ELECTRIC)",
+      "quantity": "244.82",
+      "unit_price": "",
+      "total_price": "62.99",
+      "category": null
+    },
+    {
+      "description": "Del - Energy Charges Off Peak (ELECTRIC)",
+      "quantity": "735.01",
+      "unit_price": "",
+      "total_price": "168.99",
+      "category": null
+    },
+    {
+      "description": "Del - Generation Credit (ELECTRIC)",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "-128.17",
+      "category": null
+    },
+    {
+      "description": "Del - Power Charge Indiff. Adjustment (ELECTRIC)",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "29.41",
+      "category": null
+    },
+    {
+      "description": "Del - Franchise Fee Surcharge (ELECTRIC)",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "0.78",
+      "category": null
+    },
+    {
+      "description": "Sup - Esp Charges Mce (ELECTRIC)",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "134.91",
+      "category": null
+    },
+    {
+      "description": "Sup - Net Charges (ELECTRIC)",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "134.37",
+      "category": null
+    },
+    {
+      "description": "Del - Customer Charge (ELECTRIC)",
+      "quantity": "10.00",
+      "unit_price": "",
+      "total_price": "3.29",
+      "category": null
+    },
+    {
+      "description": "Del - Energy Charges Peak (ELECTRIC)",
+      "quantity": "105.87",
+      "unit_price": "",
+      "total_price": "29.85",
+      "category": null
+    },
+    {
+      "description": "Del - Energy Charges Part Peak (ELECTRIC)",
+      "quantity": "121.89",
+      "unit_price": "",
+      "total_price": "31.48",
+      "category": null
+    },
+    {
+      "description": "Del - Energy Charges Off Peak (ELECTRIC)",
+      "quantity": "367.11",
+      "unit_price": "",
+      "total_price": "84.77",
+      "category": null
+    },
+    {
+      "description": "Del - Generation Credit (ELECTRIC)",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "-66.31",
+      "category": null
+    },
+    {
+      "description": "Del - Power Charge Indiff. Adjustment (ELECTRIC)",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "16.06",
+      "category": null
+    },
+    {
+      "description": "Del - Franchise Fee Surcharge (ELECTRIC)",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "0.39",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "434.79"
+  },
+  "payment_instructions": {
+    "due_date": "05/08/2019",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 14.177,
+  "file_size_bytes": 89095
+}

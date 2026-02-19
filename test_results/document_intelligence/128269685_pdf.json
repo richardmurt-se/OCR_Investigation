@@ -1,0 +1,63 @@
+{
+  "filename": "128269685.pdf",
+  "invoice": {
+    "client_name": "Mondelez India Foods Pvt Ltd",
+    "client_address": "Plot No.25, Indl Area\nMalanpur, Bhind\nMP - 477117.\nIN.",
+    "seller_name": "GI\nGAIL",
+    "seller_address": "Vijaipur, Distt. - Guna\nGuna, MP - 473112, IN",
+    "invoice_number": "MPG1B19122000709",
+    "invoice_date": "01/11/2019",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Regas Charges",
+      "quantity": "483.14",
+      "unit_price": "56.68",
+      "total_price": "27 384.37",
+      "category": null
+    },
+    {
+      "description": "Price (foreign Comp)",
+      "quantity": "483.14",
+      "unit_price": "10.25",
+      "total_price": "352 653.54",
+      "category": null
+    },
+    {
+      "description": "Mktg Margin (Qty)",
+      "quantity": "483.14",
+      "unit_price": "13.68",
+      "total_price": "6 609.36",
+      "category": null
+    },
+    {
+      "description": "Gas Trans Tariff 1",
+      "quantity": "483.14",
+      "unit_price": "45.38",
+      "total_price": "21 924.89",
+      "category": null
+    },
+    {
+      "description": "Reimb. of GST Cost on Trans Charges",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "2 630.98",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "411 203.14",
+    "tax": "57 568.41",
+    "discount": "",
+    "total": "468 772.00"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.949,
+  "file_size_bytes": 102510
+}

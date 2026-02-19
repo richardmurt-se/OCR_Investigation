@@ -1,0 +1,8 @@
+{
+  "content": "Fisher Ltd\nUnit 9717 Box 8204 | DPO AA 50435\n\nINVOICE\nNo: INV8189303234\nDate: 11/17/2024\n\nFROM\nFisher Ltd\nUnit 9717 Box 8204\nDPO AA 50435\n\nBILL TO\nLawson-Marks\n24204 Tamara Mews Suite 202\nLake Michael, MO 16302\n\n# Description Quantity Unit Price Amount\n1 Focused full-range neural-net 6.00 374.03 2,244.18\n2 Balanced fresh-thinking customer loyalty 8.00 111.39 891.12\n3 Grass-roots object-oriented system engine 9.00 148.11 1,332.99\n4 Proactive holistic alliance 1.00 432.92 432.92\n5 Profound hybrid capability 3.00 324.34 973.02\n6 Pre-emptive eco-centric emulation 4.00 43.41 173.64\n7 Organic mission-critical toolset 1.00 255.56 255.56\n\nSubtotal 6,304.43\nTax (10%) 630.44\nTotal Due 6,924.87\n\nThank you for your business",
+  "detections": [
+    {
+      "text": "Fisher Ltd\nUnit 9717 Box 8204 | DPO AA 50435\n\nINVOICE\nNo: INV8189303234\nDate: 11/17/2024\n\nFROM\nFisher Ltd\nUnit 9717 Box 8204\nDPO AA 50435\n\nBILL TO\nLawson-Marks\n24204 Tamara Mews Suite 202\nLake Michael, MO 16302\n\n# Description Quantity Unit Price Amount\n1 Focused full-range neural-net 6.00 374.03 2,244.18\n2 Balanced fresh-thinking customer loyalty 8.00 111.39 891.12\n3 Grass-roots object-oriented system engine 9.00 148.11 1,332.99\n4 Proactive holistic alliance 1.00 432.92 432.92\n5 Profound hybrid capability 3.00 324.34 973.02\n6 Pre-emptive eco-centric emulation 4.00 43.41 173.64\n7 Organic mission-critical toolset 1.00 255.56 255.56\n\nSubtotal 6,304.43\nTax (10%) 630.44\nTotal Due 6,924.87\n\nThank you for your business"
+    }
+  ]
+}

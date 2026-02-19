@@ -1,0 +1,63 @@
+{
+  "filename": "125766266.pdf",
+  "invoice": {
+    "client_name": "MOTEL 6\n% ENGIE MS 1133",
+    "client_address": "PO BOX 2440\nSPOKANE WA 99210-2440",
+    "seller_name": "SOUTHWEST GAS CORPORATION (SWG)",
+    "seller_address": "PO Box 98890\nLas Vegas NV 89193-8890",
+    "invoice_number": "07",
+    "invoice_date": "18/02/2020",
+    "due_date": "09/03/2020"
+  },
+  "items": [
+    {
+      "description": "Usage Charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "307.01",
+      "category": null
+    },
+    {
+      "description": "Delivery Charge Adj",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "98.35",
+      "category": null
+    },
+    {
+      "description": "Basic Service Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "43.50",
+      "category": null
+    },
+    {
+      "description": "DOT Safety Surcharge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.00",
+      "category": null
+    },
+    {
+      "description": "Applicable Revenue Taxes",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "56.66",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "56.66",
+    "discount": "",
+    "total": "506.52"
+  },
+  "payment_instructions": {
+    "due_date": "09/03/2020",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 17.859,
+  "file_size_bytes": 254847
+}

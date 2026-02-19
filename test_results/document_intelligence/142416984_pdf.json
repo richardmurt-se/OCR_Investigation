@@ -1,0 +1,77 @@
+{
+  "filename": "142416984.pdf",
+  "invoice": {
+    "client_name": "ST JOSEPH OUTPATIENT",
+    "client_address": "PO BOX 182583\nCOLUMBUS OH 43218-2583",
+    "seller_name": "we",
+    "seller_address": "P.O. Box 2046\nMilwaukee, WI 53201-2046",
+    "invoice_number": "4042296380",
+    "invoice_date": "22/02/2022",
+    "due_date": "16/03/2022"
+  },
+  "items": [
+    {
+      "description": "Facilities",
+      "quantity": "30.00",
+      "unit_price": "0.53",
+      "total_price": "15.78",
+      "category": null
+    },
+    {
+      "description": "Energy Charge",
+      "quantity": "40.00",
+      "unit_price": "0.13",
+      "total_price": "5.29",
+      "category": null
+    },
+    {
+      "description": "Fuel Cost Adjustment",
+      "quantity": "40.00",
+      "unit_price": "0.01",
+      "total_price": "0.31",
+      "category": null
+    },
+    {
+      "description": "Act 141 2005 Contribution",
+      "quantity": "30.00",
+      "unit_price": "0.00",
+      "total_price": "0.07",
+      "category": null
+    },
+    {
+      "description": "Act 141 Base Rate",
+      "quantity": "40.00",
+      "unit_price": "-0.00",
+      "total_price": "-0.10",
+      "category": null
+    },
+    {
+      "description": "Environmental Control Charge",
+      "quantity": "40.00",
+      "unit_price": "0.00",
+      "total_price": "0.02",
+      "category": null
+    },
+    {
+      "description": "State Low Income Assistance Fee",
+      "quantity": "0.03",
+      "unit_price": "21.37",
+      "total_price": "0.64",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "22.01",
+    "tax": "",
+    "discount": "",
+    "total": "22.01"
+  },
+  "payment_instructions": {
+    "due_date": "16/03/2022",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 10.73,
+  "file_size_bytes": 940730
+}

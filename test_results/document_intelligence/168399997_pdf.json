@@ -1,0 +1,42 @@
+{
+  "filename": "168399997.pdf",
+  "invoice": {
+    "client_name": "",
+    "client_address": "",
+    "seller_name": "ОБМЕЖЕНОЮ\nаступник дире\nPay\nЛЕЗ\"",
+    "seller_address": "вул. Шухевича В., буд. 3, м. Львів, Львівський р-н., Львівська обл., 79017",
+    "invoice_number": "№5300000264240819",
+    "invoice_date": "06/09/2024",
+    "due_date": "16/09/2024"
+  },
+  "items": [
+    {
+      "description": "Борг станом на 01.08.2024 становить (за електричну енергію)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "351 063.43",
+      "category": null
+    },
+    {
+      "description": "Вільні ціни, Львів ВЦ КП 11(Б) ТОВ \"АРАКС ХОЛДИНГ\" (2 клас) 7,80676",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "304 971.08",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "60 994.22",
+    "discount": "",
+    "total": "365 965.30"
+  },
+  "payment_instructions": {
+    "due_date": "16/09/2024",
+    "bank_name": "[DocumentField(value_type=dictionary, value={'IBAN': DocumentField(value_type=string, value='UA853257960000026035313234709', content=UA853257960000026035313234709, bounding_regions=[BoundingRegion(page_number=1, polygon=[Point(x=2.393, y=0.7807), Point(x=4.2486, y=0.7757), Point(x=4.2536, y=0.9176), Point(x=2.398, y=0.9176)])], spans=[DocumentSpan(offset=252, length=29)], confidence=0.854)}, content=None, bounding_regions=[], spans=[], confidence=0.995)]",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 12.353,
+  "file_size_bytes": 217680
+}

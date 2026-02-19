@@ -1,0 +1,77 @@
+{
+  "filename": "173006616.pdf",
+  "invoice": {
+    "client_name": "GOBBLE & DUKE FORREST CITY",
+    "client_address": "PO Box 782\nLAWRENCEBURG TN 38464-0782",
+    "seller_name": "summit\nUTILITIES",
+    "seller_address": "PO Box 2414 | Fort Smith, AR 72902-2414",
+    "invoice_number": "",
+    "invoice_date": "19/12/2024",
+    "due_date": "13/01/2025"
+  },
+  "items": [
+    {
+      "description": "Forrest City City Franchise Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "30.79",
+      "category": null
+    },
+    {
+      "description": "Customer Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "18.88",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Distribution Rate",
+      "quantity": "916.00",
+      "unit_price": "0.22",
+      "total_price": "201.91",
+      "category": null
+    },
+    {
+      "description": "EE Cost Rate",
+      "quantity": "916.00",
+      "unit_price": "0.01",
+      "total_price": "9.62",
+      "category": null
+    },
+    {
+      "description": "Customer Credit Rider",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-8.39",
+      "category": null
+    },
+    {
+      "description": "Weather Normalization Adj",
+      "quantity": "838.00",
+      "unit_price": "0.01",
+      "total_price": "6.82",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "116.70",
+    "discount": "",
+    "total": "841.17"
+  },
+  "payment_instructions": {
+    "due_date": "13/01/2025",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.818,
+  "file_size_bytes": 242858
+}

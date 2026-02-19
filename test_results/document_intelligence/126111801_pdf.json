@@ -1,0 +1,84 @@
+{
+  "filename": "126111801.pdf",
+  "invoice": {
+    "client_name": "SOUTHWEST FLORIDA DIALYSIS CENTER",
+    "client_address": "PO Box 182460\nColumbus OH 43218-2460",
+    "seller_name": "City of Bradenton",
+    "seller_address": "101 OLD MAIN STREET\nBRADENTON FL 34205-7865",
+    "invoice_number": "1310989",
+    "invoice_date": "26/02/2020",
+    "due_date": "17/03/2020"
+  },
+  "items": [
+    {
+      "description": "1.5 COMMERCIAL",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "WATER BASE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "622.56",
+      "category": null
+    },
+    {
+      "description": "SEWER USAGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "732.81",
+      "category": null
+    },
+    {
+      "description": "SEWER BASE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "69.19",
+      "category": null
+    },
+    {
+      "description": "COMMERCIAL GARBAGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "285.48",
+      "category": null
+    },
+    {
+      "description": "MANATEE CO DUMPING FEE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "321.75",
+      "category": null
+    },
+    {
+      "description": "UTILITY TAX",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "67.67",
+      "category": null
+    },
+    {
+      "description": "COMMERCIAL STORM WATER",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "126.81",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "67.67",
+    "discount": "",
+    "total": "2 280.41"
+  },
+  "payment_instructions": {
+    "due_date": "17/03/2020",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 10.583,
+  "file_size_bytes": 814834
+}

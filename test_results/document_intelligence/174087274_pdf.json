@@ -1,0 +1,84 @@
+{
+  "filename": "174087274.pdf",
+  "invoice": {
+    "client_name": "CBL Associates Management",
+    "client_address": "2021 North Highland Ave.\nJackson TN 38305",
+    "seller_name": "BRODHEAD CREEK REGIONAL AUTHORITY",
+    "seller_address": "410 MILL CREEK ROAD\nEAST STROUDSBURG, PA 18301",
+    "invoice_number": "176879",
+    "invoice_date": "20/12/2024",
+    "due_date": "15/01/2025"
+  },
+  "items": [
+    {
+      "description": "Previous Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "3 596.48",
+      "category": null
+    },
+    {
+      "description": "Payments",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-3 596.48",
+      "category": null
+    },
+    {
+      "description": "Adjustments",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Water",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 806.18",
+      "category": null
+    },
+    {
+      "description": "Previous Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "3 596.48",
+      "category": null
+    },
+    {
+      "description": "Payments",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-3 596.48",
+      "category": null
+    },
+    {
+      "description": "Adjustments",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Water",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 806.18",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "1 806.18"
+  },
+  "payment_instructions": {
+    "due_date": "15/01/2025",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.103,
+  "file_size_bytes": 650346
+}

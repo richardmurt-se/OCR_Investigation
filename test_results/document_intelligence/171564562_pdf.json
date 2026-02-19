@@ -1,0 +1,112 @@
+{
+  "filename": "171564562.pdf",
+  "invoice": {
+    "client_name": "ARBYS RESTAURANT GROUP",
+    "client_address": "PO BOX 2440\nSPOKANE WA 99210-2440",
+    "seller_name": "Consumers Energy",
+    "seller_address": "",
+    "invoice_number": "100000358026241125",
+    "invoice_date": "24/11/2024",
+    "due_date": "16/12/2024"
+  },
+  "items": [
+    {
+      "description": "Power Supply Capacity",
+      "quantity": "37.00",
+      "unit_price": "16.55",
+      "total_price": "612.35",
+      "category": null
+    },
+    {
+      "description": "Energy",
+      "quantity": "",
+      "unit_price": "0.03",
+      "total_price": "389.56",
+      "category": null
+    },
+    {
+      "description": "PSCR",
+      "quantity": "",
+      "unit_price": "-0.00",
+      "total_price": "-38.36",
+      "category": null
+    },
+    {
+      "description": "System Access",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "30.00",
+      "category": null
+    },
+    {
+      "description": "Delivery Capacity kW",
+      "quantity": "37.00",
+      "unit_price": "1.00",
+      "total_price": "37.00",
+      "category": null
+    },
+    {
+      "description": "Deferral Surcharge",
+      "quantity": "",
+      "unit_price": "0.00",
+      "total_price": "3.12",
+      "category": null
+    },
+    {
+      "description": "IRM Surcharge",
+      "quantity": "",
+      "unit_price": "0.00",
+      "total_price": "1.09",
+      "category": null
+    },
+    {
+      "description": "Distribution",
+      "quantity": "",
+      "unit_price": "0.04",
+      "total_price": "565.83",
+      "category": null
+    },
+    {
+      "description": "FCM Incentive",
+      "quantity": "",
+      "unit_price": "0.00",
+      "total_price": "2.54",
+      "category": null
+    },
+    {
+      "description": "Other Surcharges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "299.05",
+      "category": null
+    },
+    {
+      "description": "Power Plant",
+      "quantity": "",
+      "unit_price": "0.00",
+      "total_price": "16.42",
+      "category": null
+    },
+    {
+      "description": "Securitization",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "53.35",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "1 972.82",
+    "tax": "118.32",
+    "discount": "",
+    "total": "2 091.14"
+  },
+  "payment_instructions": {
+    "due_date": "16/12/2024",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.583,
+  "file_size_bytes": 33968
+}

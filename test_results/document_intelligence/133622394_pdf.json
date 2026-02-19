@@ -1,0 +1,91 @@
+{
+  "filename": "133622394.pdf",
+  "invoice": {
+    "client_name": "Micheldever Tyres\nServices",
+    "client_address": "",
+    "seller_name": "Resource Advisor",
+    "seller_address": "",
+    "invoice_number": "959546-002",
+    "invoice_date": "",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Water Volume charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "36.62",
+      "category": null
+    },
+    {
+      "description": "WaterCapacity charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Water Fixed charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Waste Water Volume charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "23.49",
+      "category": null
+    },
+    {
+      "description": "Waste Water Capacity charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Waste Water Fixed charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Consumption fixed charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "3.48",
+      "category": null
+    },
+    {
+      "description": "Drainage total",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Management Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "3.12",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "66.71"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.472,
+  "file_size_bytes": 25872
+}

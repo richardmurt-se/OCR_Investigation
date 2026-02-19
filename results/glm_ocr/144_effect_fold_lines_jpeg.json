@@ -1,0 +1,8 @@
+{
+  "filename": "144_effect_fold_lines.jpeg",
+  "model_name": "glm-ocr",
+  "raw_text": "Davis and Sons\n1690 Ashley Shoals | Clarkeshire, TX 50147\n\nINVOICE\nNo: BILL/11287976\nDate: 05/12/2024\nDue: 02/15/2026\n\nFROM\nDavis and Sons\n1690 Ashley Shoals\nClarkeshire, TX 50147\n\nBILL TO\nMorris PLC\nUnit 6331 Box 1614\nDPO AP 57756\n\n# Description Quantity Unit Price Amount\n1 Right-sized systemic policy 4.00 323.27 1 293.08\n2 Function-based coherent database 9.00 87.09 783.81\n3 Quality-focused client-server open system 2.00 497.73 995.46\n\nSubtotal 3 072.35\nTax (10%) 307.24\nDiscount -153.62\nTotal Due 3 225.97\n\nPAYMENT INFORMATION\nBank: Williams Inc Bank\nAccount: SHTB97763856928226\n\nThank you for your business",
+  "processing_time_seconds": 45.02,
+  "file_size_bytes": 59926,
+  "success": true
+}

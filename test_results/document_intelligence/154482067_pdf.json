@@ -1,0 +1,196 @@
+{
+  "filename": "154482067.pdf",
+  "invoice": {
+    "client_name": "VF Corporation",
+    "client_address": "",
+    "seller_name": "SOUTHERN CALIFORNIA EDISON",
+    "seller_address": "",
+    "invoice_number": "700237987928",
+    "invoice_date": "09/06/2023",
+    "due_date": "29/06/2023"
+  },
+  "items": [
+    {
+      "description": "Current Month\nBilled Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "592.14",
+      "category": null
+    },
+    {
+      "description": "Previous Month\nBilled Amount\nMonth\nTotal Payment Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "495.58",
+      "category": null
+    },
+    {
+      "description": "Mid Peak-Delivery",
+      "quantity": "586.00",
+      "unit_price": "0.15",
+      "total_price": "89.85",
+      "category": null
+    },
+    {
+      "description": "Off Peak-Delivery",
+      "quantity": "345.00",
+      "unit_price": "0.12",
+      "total_price": "40.16",
+      "category": null
+    },
+    {
+      "description": "Super Off Peak-Delivery",
+      "quantity": "798.00",
+      "unit_price": "0.10",
+      "total_price": "79.09",
+      "category": null
+    },
+    {
+      "description": "Customer Charge-Delivery",
+      "quantity": "30.00",
+      "unit_price": "0.47",
+      "total_price": "14.04",
+      "category": null
+    },
+    {
+      "description": "3 Phase Service Chg-Delivery",
+      "quantity": "30.00",
+      "unit_price": "0.05",
+      "total_price": "1.38",
+      "category": null
+    },
+    {
+      "description": "Ctc",
+      "quantity": "2158.00",
+      "unit_price": "0.00",
+      "total_price": "-0.04",
+      "category": null
+    },
+    {
+      "description": "Pcia",
+      "quantity": "2158.00",
+      "unit_price": "0.00",
+      "total_price": "-2.42",
+      "category": null
+    },
+    {
+      "description": "Cca Wildfire Fund Charge",
+      "quantity": "2158.00",
+      "unit_price": "0.01",
+      "total_price": "11.44",
+      "category": null
+    },
+    {
+      "description": "Dwr Adjustment",
+      "quantity": "1729.00",
+      "unit_price": "0.00",
+      "total_price": "-3.60",
+      "category": null
+    },
+    {
+      "description": "Generation Municipal Surcharge",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "2.96",
+      "category": null
+    },
+    {
+      "description": "On Peak-Delivery",
+      "quantity": "84.00",
+      "unit_price": "0.16",
+      "total_price": "13.04",
+      "category": null
+    },
+    {
+      "description": "Mid Peak-Delivery",
+      "quantity": "50.00",
+      "unit_price": "0.16",
+      "total_price": "7.76",
+      "category": null
+    },
+    {
+      "description": "Off Peak-Delivery",
+      "quantity": "295.00",
+      "unit_price": "0.12",
+      "total_price": "34.68",
+      "category": null
+    },
+    {
+      "description": "Fixed Recovery Charge",
+      "quantity": "1729.00",
+      "unit_price": "0.00",
+      "total_price": "1.21",
+      "category": null
+    },
+    {
+      "description": "Fixed Recovery Charge",
+      "quantity": "429.00",
+      "unit_price": "0.00",
+      "total_price": "0.88",
+      "category": null
+    },
+    {
+      "description": "Super Ofpk Winter Gen. 797.637",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "50.83",
+      "category": null
+    },
+    {
+      "description": "Off-Peak Summer Gen. 294.5317",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "30.12",
+      "category": null
+    },
+    {
+      "description": "Off-Peak Winter Gen. 344.5195",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "41.49",
+      "category": null
+    },
+    {
+      "description": "Mid-Peak Summer Gen. 50.1858",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "7.16",
+      "category": null
+    },
+    {
+      "description": "Mid-Peak Winter Gen.",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "126.51",
+      "category": null
+    },
+    {
+      "description": "On-Peak Summer",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "44.95",
+      "category": null
+    },
+    {
+      "description": "Energy Surcharge",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "0.65",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "0.00",
+    "tax": "",
+    "discount": "",
+    "total": "592.14"
+  },
+  "payment_instructions": {
+    "due_date": "29/06/2023",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.671,
+  "file_size_bytes": 48125
+}

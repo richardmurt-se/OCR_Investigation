@@ -1,0 +1,70 @@
+{
+  "filename": "150472816.pdf",
+  "invoice": {
+    "client_name": "727200 WALGREENS, MS #1\nMS # 1",
+    "client_address": "PO BOX 182107\nCOLUMBUS OH 43218-2107",
+    "seller_name": "BlueRidge\nENERGY",
+    "seller_address": "PO Box 112\nLenoir NC 28645-0112",
+    "invoice_number": "",
+    "invoice_date": "22/12/2022",
+    "due_date": "19/01/2023"
+  },
+  "items": [
+    {
+      "description": "Electric Service",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 806.59",
+      "category": null
+    },
+    {
+      "description": "NC REPS",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "8.71",
+      "category": null
+    },
+    {
+      "description": "NC Sales Tax 7.0%",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "147.52",
+      "category": null
+    },
+    {
+      "description": "Distribution Demand 25 kW @ $2.15",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "53.75",
+      "category": null
+    },
+    {
+      "description": "Distribution Demand 26.72\n@ $1.18",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "31.53",
+      "category": null
+    },
+    {
+      "description": "Supply Demand 51.72 KW @ $4",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "206.88",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "147.52",
+    "discount": "",
+    "total": "2 254.98"
+  },
+  "payment_instructions": {
+    "due_date": "19/01/2023",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.533,
+  "file_size_bytes": 853744
+}

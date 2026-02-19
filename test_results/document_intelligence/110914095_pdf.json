@@ -1,0 +1,112 @@
+{
+  "filename": "110914095.pdf",
+  "invoice": {
+    "client_name": "GAP UTILITIES",
+    "client_address": "",
+    "seller_name": "TAMPA33631A TAMPA ELECTRIC",
+    "seller_address": "",
+    "invoice_number": "676074330443",
+    "invoice_date": "09/08/2018",
+    "due_date": "30/08/2018"
+  },
+  "items": [
+    {
+      "description": "FRANCHISE FEE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "230.56",
+      "category": null
+    },
+    {
+      "description": "FLORIDA GROSS RECEIPTS TAX",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "88.00",
+      "category": null
+    },
+    {
+      "description": "MUNICIPAL TAX",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "262.74",
+      "category": null
+    },
+    {
+      "description": "STATE SALES TAX",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "298.18",
+      "category": null
+    },
+    {
+      "description": "BASIC SERVICE CHARGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "33.24",
+      "category": null
+    },
+    {
+      "description": "DEMAND CHARGE",
+      "quantity": "95.00",
+      "unit_price": "10.25",
+      "total_price": "973.75",
+      "category": null
+    },
+    {
+      "description": "ENERGY CHARGE",
+      "quantity": "44440.00",
+      "unit_price": "0.02",
+      "total_price": "779.48",
+      "category": null
+    },
+    {
+      "description": "FUEL CHARGE",
+      "quantity": "44440.00",
+      "unit_price": "0.03",
+      "total_price": "1 391.86",
+      "category": null
+    },
+    {
+      "description": "CAPACITY CHARGE",
+      "quantity": "95.00",
+      "unit_price": "0.20",
+      "total_price": "19.00",
+      "category": null
+    },
+    {
+      "description": "ENERGY CONSERVATION CHARGE",
+      "quantity": "95.00",
+      "unit_price": "0.87",
+      "total_price": "82.65",
+      "category": null
+    },
+    {
+      "description": "ENVIRONMENTAL COST RECOVERY",
+      "quantity": "44440.00",
+      "unit_price": "0.00",
+      "total_price": "151.98",
+      "category": null
+    },
+    {
+      "description": "AMOUNT",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "4 293.57",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "4 311.44"
+  },
+  "payment_instructions": {
+    "due_date": "30/08/2018",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.894,
+  "file_size_bytes": 43754
+}

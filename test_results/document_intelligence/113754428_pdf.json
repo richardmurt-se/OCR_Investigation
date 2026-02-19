@@ -1,0 +1,49 @@
+{
+  "filename": "113754428.pdf",
+  "invoice": {
+    "client_name": "SPECIALITY CLINIC",
+    "client_address": "PO BOX 182583\nCOLUMBUS OH 43218-2583",
+    "seller_name": "Middle Tennessee Natural Gas\nUtility District",
+    "seller_address": "P.O. Box 670\nSmithville TN 37166-0670",
+    "invoice_number": "",
+    "invoice_date": "09/11/2018",
+    "due_date": "29/11/2018"
+  },
+  "items": [
+    {
+      "description": "Previous Statement Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "20.77",
+      "category": null
+    },
+    {
+      "description": "Payment(s) Received Through 11/08/2018",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "20.77",
+      "category": null
+    },
+    {
+      "description": "GAS (Current Month Charges)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "56.81",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "56.81"
+  },
+  "payment_instructions": {
+    "due_date": "29/11/2018",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 10.636,
+  "file_size_bytes": 970115
+}

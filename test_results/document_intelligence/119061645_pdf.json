@@ -1,0 +1,63 @@
+{
+  "filename": "119061645.pdf",
+  "invoice": {
+    "client_name": "CINGULAR WIRELESS\n% CASS",
+    "client_address": "PO BOX 182576\nCOLUMBUS OH 43218-2576",
+    "seller_name": "FALLS\nRIVER\nILITIES",
+    "seller_address": "222 Lewis Street\nRiver Falls, WI 54022",
+    "invoice_number": "",
+    "invoice_date": "06/06/2019",
+    "due_date": "26/06/2019"
+  },
+  "items": [
+    {
+      "description": "05/23/2019",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Electric Customer Charge GS-1",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "7.00",
+      "category": null
+    },
+    {
+      "description": "Energy Usage",
+      "quantity": "",
+      "unit_price": "0.10",
+      "total_price": "662.89",
+      "category": null
+    },
+    {
+      "description": "Electric PCAC Charge",
+      "quantity": "",
+      "unit_price": "-0.00",
+      "total_price": "-4.07",
+      "category": null
+    },
+    {
+      "description": "Commitment to Community Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "4.50",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "670.32",
+    "tax": "",
+    "discount": "",
+    "total": "706.94"
+  },
+  "payment_instructions": {
+    "due_date": "26/06/2019",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 10.629,
+  "file_size_bytes": 845113
+}

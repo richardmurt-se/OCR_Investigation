@@ -1,0 +1,8 @@
+{
+  "content": "Baker, Reynolds and Cooke\n315 Charles Harbors Suite 265 | Franciscomouth, FL 42713\n\nINVOICE\nNo: 6344734952\nDate: 11/13/2024\n\nFROM\nBaker, Reynolds and Cooke\n315 Charles Harbors Suite 265\nFranciscomouth, FL 42713\n\nBILL TO\nTerry, Farmer and Serrano\n17004 Stephanie Hollow\nEast John, PN 46400\n\n# Description Quantity Unit Price Amount\n1 Polarized needs-based open architecture 2.00 187.16 394.30\n2 Horizontal bandwidth-monitored access 7.00 242.58 1 607.92\n3 Diverse contextually-based framework 10.00 209.37 2 093.70\n\nSubtotal 4 188.92\nTax (10%) 418.59\nDiscount -208.30\nTotal Due 4 306.21\n\nThank you for your business",
+  "detections": [
+    {
+      "text": "Baker, Reynolds and Cooke\n315 Charles Harbors Suite 265 | Franciscomouth, FL 42713\n\nINVOICE\nNo: 6344734952\nDate: 11/13/2024\n\nFROM\nBaker, Reynolds and Cooke\n315 Charles Harbors Suite 265\nFranciscomouth, FL 42713\n\nBILL TO\nTerry, Farmer and Serrano\n17004 Stephanie Hollow\nEast John, PN 46400\n\n# Description Quantity Unit Price Amount\n1 Polarized needs-based open architecture 2.00 187.16 394.30\n2 Horizontal bandwidth-monitored access 7.00 242.58 1 607.92\n3 Diverse contextually-based framework 10.00 209.37 2 093.70\n\nSubtotal 4 188.92\nTax (10%) 418.59\nDiscount -208.30\nTotal Due 4 306.21\n\nThank you for your business"
+    }
+  ]
+}

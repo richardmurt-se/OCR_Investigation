@@ -1,0 +1,8 @@
+{
+  "content": "INVOICE\nINV-288206\n04/01/2024\n\nFROM\nGutierrez-Cochran\n9361 Rodney Prairie Suite 354\nNorth Ryanport, WY 49572\n\nTO\nFletcher, Price and Silva\nUSNS Bryan\nFPO AP 54485\n\nDESCRIPTION QTY PRICE TOTAL\nPolarized zero tolerance focus group 8.00 458.46 3 667.68\nProfound discrete hierarchy 6.00 470.41 2 822.46\nSynchronized secondary parallelism 10.00 426.95 4 269.50\nMandatory directional strategy 7.00 311.66 2 181.62\nDecentralized dedicated workforce 10.00 110.05 1 100.50\nMulti-channeled heuristic throughput 6.00 333.70 2 002.20\nAmeliorated motivating toolset 4.00 137.24 548.96\n\nSubtotal 16 592.92\nTax 1 659.29\nTotal 18 252.21",
+  "detections": [
+    {
+      "text": "INVOICE\nINV-288206\n04/01/2024\n\nFROM\nGutierrez-Cochran\n9361 Rodney Prairie Suite 354\nNorth Ryanport, WY 49572\n\nTO\nFletcher, Price and Silva\nUSNS Bryan\nFPO AP 54485\n\nDESCRIPTION QTY PRICE TOTAL\nPolarized zero tolerance focus group 8.00 458.46 3 667.68\nProfound discrete hierarchy 6.00 470.41 2 822.46\nSynchronized secondary parallelism 10.00 426.95 4 269.50\nMandatory directional strategy 7.00 311.66 2 181.62\nDecentralized dedicated workforce 10.00 110.05 1 100.50\nMulti-channeled heuristic throughput 6.00 333.70 2 002.20\nAmeliorated motivating toolset 4.00 137.24 548.96\n\nSubtotal 16 592.92\nTax 1 659.29\nTotal 18 252.21"
+    }
+  ]
+}

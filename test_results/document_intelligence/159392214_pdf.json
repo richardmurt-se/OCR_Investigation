@@ -1,0 +1,70 @@
+{
+  "filename": "159392214.pdf",
+  "invoice": {
+    "client_name": "TRUIST BANK\nENGIE INSIGHT MS 2534",
+    "client_address": "PO BOX 2440\nSPOKANE WA 99210-2440",
+    "seller_name": "MCUD",
+    "seller_address": "P. O. BOX 25010\nBRADENTON, FL 34208-5010",
+    "invoice_number": "",
+    "invoice_date": "05/05/2023",
+    "due_date": "26/05/2023"
+  },
+  "items": [
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Water Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "52.17",
+      "category": null
+    },
+    {
+      "description": "Cost Of Basic Service",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "9.78",
+      "category": null
+    },
+    {
+      "description": "Sewer Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "115.44",
+      "category": null
+    },
+    {
+      "description": "Cost Of Basic Service",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "23.32",
+      "category": null
+    },
+    {
+      "description": "Commercial Can",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "60.57",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "261.28"
+  },
+  "payment_instructions": {
+    "due_date": "26/05/2023",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.631,
+  "file_size_bytes": 191224
+}

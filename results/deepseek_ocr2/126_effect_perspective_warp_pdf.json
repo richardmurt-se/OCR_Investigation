@@ -1,0 +1,9 @@
+{
+  "filename": "126_effect_perspective_warp.pdf",
+  "model_name": "deepseek-ocr-2",
+  "raw_text": "",
+  "processing_time_seconds": 0.00692296028137207,
+  "file_size_bytes": 80630,
+  "success": false,
+  "error": "'NoneType' object has no attribute 'convert'\nTraceback (most recent call last):\n  File \"/tmp/ipykernel_214/3955717039.py\", line 15, in process_image\n    result = model.infer(\n             ^^^^^^^^^^^^\n  File \"/root/.cache/huggingface/modules/transformers_modules/deepseek-ai/DeepSeek-OCR-2/aaa02f3811945a91062062994c5c4a3f4c0af2b0/modeling_deepseekocr2.py\", line 735, in infer\n    images = load_pil_images(conversation)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/root/.cache/huggingface/modules/transformers_modules/deepseek-ai/DeepSeek-OCR-2/aaa02f3811945a91062062994c5c4a3f4c0af2b0/modeling_deepseekocr2.py\", line 301, in load_pil_images\n    pil_img = pil_img.convert(\"RGB\")\n              ^^^^^^^^^^^^^^^\nAttributeError: 'NoneType' object has no attribute 'convert'\n"
+}

@@ -1,0 +1,8 @@
+{
+  "filename": "128_effect_page_curl.png",
+  "model_name": "deepseek-ocr-2",
+  "raw_text": "<|ref|>sub_title<|/ref|><|det|>[[22, 131, 70, 144]]<|/det|>\n## FROM\n\n<|ref|>text<|/ref|><|det|>[[22, 149, 189, 187]]<|/det|>\nGonzalez Group\n275 Rachel Corners Apt. 824\nFullerhaven, UT 02296\n\n<|ref|>sub_title<|/ref|><|det|>[[543, 131, 601, 144]]<|/det|>\n## BILL TO\n\n<|ref|>text<|/ref|><|det|>[[542, 149, 707, 187]]<|/det|>\nLee, Taylor and Moran\n88135 Avery Lights\nShermouth, PR 69106\n\n<|ref|>table<|/ref|><|det|>[[22, 210, 974, 415]]<|/det|>\n<table><tr><td>#</td><td>Description</td><td>Quantity</td><td>Unit Price</td><td>Amount</td></tr><tr><td>1</td><td>Fully-configurable multi-tasking circuit</td><td>10.00</td><td>468.04</td><td>4 680.40</td></tr><tr><td>2</td><td>Pre-emptive motivating success</td><td>3.00</td><td>305.37</td><td>916.11</td></tr><tr><td>3</td><td>Right-sized coherent circuit</td><td>8.00</td><td>157.26</td><td>1 258.08</td></tr><tr><td></td><td></td><td></td><td>Subtotal</td><td>6 854.59</td></tr><tr><td></td><td></td><td></td><td>Tax (10%)</td><td>685.46</td></tr><tr><td></td><td></td><td></td><td>Total Due</td><td>7 540.05</td></tr></table>\n\n<|ref|>text<|/ref|><|det|>[[35, 444, 193, 457]]<|/det|>\nPAYMENT INFORMATION\n\n<|ref|>text<|/ref|><|det|>[[35, 462, 256, 474]]<|/det|>\nBank: Shaw, Morgan and Quinn Bank\n\n<|ref|>text<|/ref|><|det|>[[35, 474, 234, 487]]<|/det|>\nAccount: ELOK88593160449754\n\n<|ref|>text<|/ref|><|det|>[[35, 487, 170, 500]]<|/det|>\nMethod: Wire Transfer\n\n<|ref|>text<|/ref|><|det|>[[425, 536, 572, 549]]<|/det|>\nThank you for your business",
+  "processing_time_seconds": 20.889,
+  "file_size_bytes": 29959,
+  "success": true
+}

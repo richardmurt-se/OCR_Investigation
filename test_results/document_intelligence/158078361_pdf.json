@@ -1,0 +1,133 @@
+{
+  "filename": "158078361.pdf",
+  "invoice": {
+    "client_name": "The Yankee Candle Company, Inc. - 08005341630001346951",
+    "client_address": "Spokane, WA99210",
+    "seller_name": "Constellation\nNew Energy",
+    "seller_address": "",
+    "invoice_number": "00641074781001001",
+    "invoice_date": "15/12/2022",
+    "due_date": "05/01/2023"
+  },
+  "items": [
+    {
+      "description": "Ancillary Services",
+      "quantity": "1476.30",
+      "unit_price": "0.00",
+      "total_price": "2.45",
+      "category": null
+    },
+    {
+      "description": "FERC Order 745",
+      "quantity": "1476.30",
+      "unit_price": "0.00",
+      "total_price": "0.03",
+      "category": null
+    },
+    {
+      "description": "Auction Revenue Rights Credit",
+      "quantity": "4.20",
+      "unit_price": "-0.28",
+      "total_price": "-1.17",
+      "category": null
+    },
+    {
+      "description": "Transmission Loss Credit",
+      "quantity": "1476.30",
+      "unit_price": "-0.00",
+      "total_price": "-1.55",
+      "category": null
+    },
+    {
+      "description": "Renew able Portfolio Standards",
+      "quantity": "1476.30",
+      "unit_price": "0.00",
+      "total_price": "5.91",
+      "category": null
+    },
+    {
+      "description": "Line Losses on Market Purchase",
+      "quantity": "103.98",
+      "unit_price": "0.06",
+      "total_price": "6.06",
+      "category": null
+    },
+    {
+      "description": "Market Energy - Day Ahead",
+      "quantity": "1476.30",
+      "unit_price": "5 826.00",
+      "total_price": "86.01",
+      "category": null
+    },
+    {
+      "description": "Balancing Congestion Charge",
+      "quantity": "1476.30",
+      "unit_price": "0.00",
+      "total_price": "0.71",
+      "category": null
+    },
+    {
+      "description": "Retail Service Charge",
+      "quantity": "1476.30",
+      "unit_price": "0.01",
+      "total_price": "22.14",
+      "category": null
+    },
+    {
+      "description": "Other Holdover Costs",
+      "quantity": "",
+      "unit_price": "0.00",
+      "total_price": "0.32",
+      "category": null
+    },
+    {
+      "description": "Reliability Must Run",
+      "quantity": "4.20",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Transmission Service",
+      "quantity": "4.24",
+      "unit_price": "5.75",
+      "total_price": "24.37",
+      "category": null
+    },
+    {
+      "description": "Capacity Charge",
+      "quantity": "4.06",
+      "unit_price": "1.74",
+      "total_price": "7.06",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "4.37",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 476.30",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "152.34",
+    "tax": "19.26",
+    "discount": "",
+    "total": "171.60"
+  },
+  "payment_instructions": {
+    "due_date": "05/01/2023",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.558,
+  "file_size_bytes": 38797
+}

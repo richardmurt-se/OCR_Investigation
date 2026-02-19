@@ -1,0 +1,49 @@
+{
+  "filename": "132305885.pdf",
+  "invoice": {
+    "client_name": "Sherwin Williams",
+    "client_address": "PO Box 182344\nColumbus, OH 43218-2344",
+    "seller_name": "LEXINGTON\nLEX\nserv\ncity services",
+    "seller_address": "218 E Main St | Lexington, KY 40507",
+    "invoice_number": "",
+    "invoice_date": "25/11/2020",
+    "due_date": "16/12/2020"
+  },
+  "items": [
+    {
+      "description": "Sewer Usage\n($0.011952 × 748.0)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "8.94",
+      "category": null
+    },
+    {
+      "description": "Sewer Usage\n($0.009024 x",
+      "quantity": "52.00",
+      "unit_price": "",
+      "total_price": "0.47",
+      "category": null
+    },
+    {
+      "description": "Water Quality Management Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "120.48",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "0.56",
+    "discount": "",
+    "total": "130.45"
+  },
+  "payment_instructions": {
+    "due_date": "16/12/2020",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.363,
+  "file_size_bytes": 777861
+}

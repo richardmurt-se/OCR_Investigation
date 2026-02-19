@@ -1,0 +1,49 @@
+{
+  "filename": "134769386.pdf",
+  "invoice": {
+    "client_name": "KANSAS STAR CASINO\nC/O CASS INFORMATION SYSTEMS",
+    "client_address": "PO BOX 182598\n497100 BOYD GAMING, MS # 4\nCOLUMBUS, OH 43218-2598",
+    "seller_name": "City of Mulvane",
+    "seller_address": "211 N. SECOND - MULVANE, KS 67110",
+    "invoice_number": "",
+    "invoice_date": "25/02/2021",
+    "due_date": "05/03/2021"
+  },
+  "items": [
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 472.43",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "9.50",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "238.79",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "145.45",
+    "discount": "",
+    "total": "1 866.17"
+  },
+  "payment_instructions": {
+    "due_date": "05/03/2021",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.759,
+  "file_size_bytes": 292752
+}

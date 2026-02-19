@@ -1,0 +1,70 @@
+{
+  "filename": "123104317.pdf",
+  "invoice": {
+    "client_name": "TJX Companies, Inc. US",
+    "client_address": "",
+    "seller_name": "FPL.",
+    "seller_address": "",
+    "invoice_number": "6481453287190927",
+    "invoice_date": "27/09/2019",
+    "due_date": "18/10/2019"
+  },
+  "items": [
+    {
+      "description": "Previous Month\nBilled Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "6 117.86",
+      "category": null
+    },
+    {
+      "description": "Current Month\nTotal Payment Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-6 117.86",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Customer Charge (ELECTRIC)",
+      "quantity": "1.00",
+      "unit_price": "26.32",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Energy Charge (ELECTRIC)",
+      "quantity": "1.00",
+      "unit_price": "0.02",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Fuel Charge (ELECTRIC)",
+      "quantity": "1.00",
+      "unit_price": "0.03",
+      "total_price": "0.00",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "6 095.60"
+  },
+  "payment_instructions": {
+    "due_date": "18/10/2019",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.488,
+  "file_size_bytes": 50354
+}

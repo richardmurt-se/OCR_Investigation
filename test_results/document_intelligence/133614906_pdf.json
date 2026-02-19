@@ -1,0 +1,140 @@
+{
+  "filename": "133614906.pdf",
+  "invoice": {
+    "client_name": "Veenendaal Schaumstoffwerk GmbH",
+    "client_address": "Bamberger Str. 58\n96215 Lichtenfels",
+    "seller_name": "e.on",
+    "seller_address": "Postfach 14 75 - 84001 Landshut",
+    "invoice_number": "211401075725",
+    "invoice_date": "13/08/2019",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Strom",
+      "quantity": "",
+      "unit_price": "17 767.37",
+      "total_price": "21 143.17",
+      "category": null
+    },
+    {
+      "description": "Arbeitspreis Hochtarif",
+      "quantity": "61629.00",
+      "unit_price": "4.62",
+      "total_price": "2 847.88",
+      "category": null
+    },
+    {
+      "description": "Arbeitspreis Niedertarif",
+      "quantity": "28211.00",
+      "unit_price": "3.33",
+      "total_price": "939.99",
+      "category": null
+    },
+    {
+      "description": "Übertrag:",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "3 787.87",
+      "category": null
+    },
+    {
+      "description": "Erneuerbare Energien Gesetz (EEG)",
+      "quantity": "89840.00",
+      "unit_price": "6.41",
+      "total_price": "5 754.25",
+      "category": null
+    },
+    {
+      "description": "Stromsteuer",
+      "quantity": "89840.00",
+      "unit_price": "2.05",
+      "total_price": "1 841.72",
+      "category": null
+    },
+    {
+      "description": "Arbeitspreis Hochtarif Netz",
+      "quantity": "61629.00",
+      "unit_price": "5.51",
+      "total_price": "3 395.76",
+      "category": null
+    },
+    {
+      "description": "Arbeitspreis Niedertarif Netz",
+      "quantity": "28211.00",
+      "unit_price": "5.51",
+      "total_price": "1 554.43",
+      "category": null
+    },
+    {
+      "description": "Leistungspreis Netz",
+      "quantity": "402.00",
+      "unit_price": "11.17",
+      "total_price": "381.37",
+      "category": null
+    },
+    {
+      "description": "Entgelt für Messstellenbetrieb,Messung",
+      "quantity": "31.00",
+      "unit_price": "581.28",
+      "total_price": "49.37",
+      "category": null
+    },
+    {
+      "description": "Kraft-Wärme-Kopplung (KWK)",
+      "quantity": "89840.00",
+      "unit_price": "0.28",
+      "total_price": "251.55",
+      "category": null
+    },
+    {
+      "description": "§ 19 StromNEV-Umlage",
+      "quantity": "89840.00",
+      "unit_price": "0.30",
+      "total_price": "274.01",
+      "category": null
+    },
+    {
+      "description": "Offshore-Umlage",
+      "quantity": "89840.00",
+      "unit_price": "0.42",
+      "total_price": "373.73",
+      "category": null
+    },
+    {
+      "description": "§ 18 AbLaV-Umlage",
+      "quantity": "89840.00",
+      "unit_price": "0.01",
+      "total_price": "4.49",
+      "category": null
+    },
+    {
+      "description": "HT-Konzessionsabgabe Sonderkunde",
+      "quantity": "61629.00",
+      "unit_price": "0.11",
+      "total_price": "67.79",
+      "category": null
+    },
+    {
+      "description": "NT-Konzessionsabgabe Sonderkunde",
+      "quantity": "28211.00",
+      "unit_price": "0.11",
+      "total_price": "31.03",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "17 767.37",
+    "tax": "3 375.80",
+    "discount": "",
+    "total": "21 143.17"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "[DocumentField(value_type=dictionary, value={'IBAN': DocumentField(value_type=string, value='DE04 7002 0270 0062 0043 12', content=DE04 7002 0270 0062 0043 12, bounding_regions=[BoundingRegion(page_number=1, polygon=[Point(x=2.1648, y=11.3307), Point(x=3.1281, y=11.3307), Point(x=3.1281, y=11.4321), Point(x=2.1648, y=11.4321)])], spans=[DocumentSpan(offset=1827, length=27)], confidence=0.936), 'SWIFT': DocumentField(value_type=string, value='HYVEDEMMXXX', content=HYVEDEMMXXX, bounding_regions=[BoundingRegion(page_number=1, polygon=[Point(x=3.3258, y=11.3307), Point(x=3.8886, y=11.3307), Point(x=3.8937, y=11.4271), Point(x=3.3258, y=11.4271)])], spans=[DocumentSpan(offset=1861, length=11)], confidence=0.973)}, content=None, bounding_regions=[], spans=[], confidence=0.995), DocumentField(value_type=dictionary, value={'IBAN': DocumentField(value_type=string, value='DE23 5XXX', content=DE23 5XXX, bounding_regions=[BoundingRegion(page_number=1, polygon=[Point(x=5.2777, y=7.4676), Point(x=6.0737, y=7.4676), Point(x=6.0737, y=7.6248), Point(x=5.2777, y=7.6248)])], spans=[DocumentSpan(offset=1097, length=9)], confidence=0.815)}, content=None, bounding_regions=[], spans=[], confidence=0.995), DocumentField(value_type=dictionary, value={'IBAN': DocumentField(value_type=string, value='XXXX XXXX XXX0 08', content=XXXX XXXX XXX0 08, bounding_regions=[BoundingRegion(page_number=1, polygon=[Point(x=0.9937, y=7.6451), Point(x=2.5299, y=7.6451), Point(x=2.5299, y=7.8022), Point(x=0.9937, y=7.8022)])], spans=[DocumentSpan(offset=1107, length=17)], confidence=0.85)}, content=None, bounding_regions=[], spans=[], confidence=0.995)]",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.451,
+  "file_size_bytes": 721920
+}

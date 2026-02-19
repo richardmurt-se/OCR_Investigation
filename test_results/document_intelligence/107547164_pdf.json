@@ -1,0 +1,56 @@
+{
+  "filename": "107547164.pdf",
+  "invoice": {
+    "client_name": "EDNA GOMES FARIA",
+    "client_address": "PCA MONSENHOR BERNARDINO 1 CO\nCENTRO\n39644-000 FRANCISCO BADARO, MG",
+    "seller_name": "CEMIG\nDistribuição S.A.",
+    "seller_address": "Av. Barbacena, 1.200 - 17º andar - Ala A1 - CEP 30190-131 - Belo Horizonte - MG",
+    "invoice_number": "",
+    "invoice_date": "16/05/2017",
+    "due_date": "17/06/2017"
+  },
+  "items": [
+    {
+      "description": "Custo de Disponibilidade",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "27.61",
+      "category": null
+    },
+    {
+      "description": "Contrib. Custeio Ilum. Pública",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "3.19",
+      "category": null
+    },
+    {
+      "description": "Cobrança da Conta de Energia de 04 / 2017",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "31.13",
+      "category": null
+    },
+    {
+      "description": "Bandeira Vermelha",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.57",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "61.93"
+  },
+  "payment_instructions": {
+    "due_date": "17/06/2017",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.684,
+  "file_size_bytes": 96135
+}

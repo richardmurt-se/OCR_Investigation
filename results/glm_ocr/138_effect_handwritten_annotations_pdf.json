@@ -1,0 +1,8 @@
+{
+  "filename": "138_effect_handwritten_annotations.pdf",
+  "model_name": "glm-ocr",
+  "raw_text": "Norris Inc\n1876 Fisher Parkways | Clarkview, PR 92613\n\nINVOICE\nNo: FAC313330\nDate: 05/21/2025\nDue: 02/16/2026\n\nFROM\nNorris Inc\n1876 Fisher Parkways\nClarkview, PR 92613\n\nBILL TO\nLutz, Alvarez and Palmer\n36710 Mark Land Apt. 543\nTinkburgh, MN 34054\n\n# Description Quantity Unit Price Amount\n1 Assimilated optimizing forecast 5.00 293.72 1 468.60\n2 User-centric multi-state archive 7.00 498.30 3 488.10\n3 Balanced cohesive model 4.00 160.18 640.72\n4 Distributed real-time open system 3.00 29.37 88.11\n\nSubtotal 5 685.53\nTax (10%) 568.55\nDiscount -284.28\nTotal Due 5 609.80\n\nPAYMENT INFORMATION\nBank: Brown-Martinez Bank\nAccount: UPREI 11275405823759\nMethod: Wire Transfer",
+  "processing_time_seconds": 29.901,
+  "file_size_bytes": 32858,
+  "success": true
+}

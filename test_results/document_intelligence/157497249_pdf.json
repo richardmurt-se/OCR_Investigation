@@ -1,0 +1,77 @@
+{
+  "filename": "157497249.pdf",
+  "invoice": {
+    "client_name": "FEDEX GROUND PACKAGE SYSTEM,\nINC",
+    "client_address": "PO BOX 2440\nSPOKANE WA 99210-2440",
+    "seller_name": "GL &E",
+    "seller_address": "PO BOX 25212\nLEHIGHVALLEY PA, 18002-5212",
+    "invoice_number": "14600308979620230907",
+    "invoice_date": "07/09/2023",
+    "due_date": "02/10/2023"
+  },
+  "items": [
+    {
+      "description": "Previous",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "351.51",
+      "category": null
+    },
+    {
+      "description": "Payment(s)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-351.51",
+      "category": null
+    },
+    {
+      "description": "Basic Service Charge ($11.00 x 34 Days)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "374.00",
+      "category": null
+    },
+    {
+      "description": "Gas Distribution Charge ($0.38950 x 62 ccf)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "24.15",
+      "category": null
+    },
+    {
+      "description": "Gas Supply Component ($0.34338 x 62 ccf)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "21.29",
+      "category": null
+    },
+    {
+      "description": "Gas DSM($0.00096 x 62 ccf)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.06",
+      "category": null
+    },
+    {
+      "description": "Gas Line Tracker ($7.79 + ($0.00898- x 62 ccf))\nRate Increase For School Tax",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "7.23",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "465.90"
+  },
+  "payment_instructions": {
+    "due_date": "02/10/2023",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.696,
+  "file_size_bytes": 38971
+}

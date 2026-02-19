@@ -1,0 +1,182 @@
+{
+  "filename": "145256427.pdf",
+  "invoice": {
+    "client_name": "DIGITAL LOUDOUN PARKWAY\nCENTER NORTH LLC\nECOVA",
+    "client_address": "PO BOX 2440\nSPOKANE WA 99210-2440",
+    "seller_name": "Dominion",
+    "seller_address": "P.O. Box 26666, Richmond, VA 23261-6666.",
+    "invoice_number": "",
+    "invoice_date": "01/04/2022",
+    "due_date": "26/04/2022"
+  },
+  "items": [
+    {
+      "description": "Basic Customer Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "116.33",
+      "category": null
+    },
+    {
+      "description": "rkVA Demand",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "41.96",
+      "category": null
+    },
+    {
+      "description": "RiderC1A Peak Shaving",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "17.22",
+      "category": null
+    },
+    {
+      "description": "RiderC2A Energy Efficiency",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "24.11",
+      "category": null
+    },
+    {
+      "description": "Rider C4A Energy Efficiency",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "952.89",
+      "category": null
+    },
+    {
+      "description": "Rider RBB Rural Broadband",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "6.81",
+      "category": null
+    },
+    {
+      "description": "On Peak Energy Chg\nOff Peak",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 876.07",
+      "category": null
+    },
+    {
+      "description": "Rider R Bear Garden Gen Station",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "553.45",
+      "category": null
+    },
+    {
+      "description": "Rider S Va City Hybrid Energy Ctr",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 868.12",
+      "category": null
+    },
+    {
+      "description": "Rider B Biomass Conversions",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "231.60",
+      "category": null
+    },
+    {
+      "description": "Rider WWarren Co Power Station",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 152.89",
+      "category": null
+    },
+    {
+      "description": "Rider BW Brunswick Co Pwr Station",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 071.15",
+      "category": null
+    },
+    {
+      "description": "Rider GV Greensville Co Pwr Statn",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 476.44",
+      "category": null
+    },
+    {
+      "description": "Rider US-2 2016 Solar Projects",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "86.85",
+      "category": null
+    },
+    {
+      "description": "Rider US-3 Solar Projects",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "367.83",
+      "category": null
+    },
+    {
+      "description": "Rider US-4 Solar Projects",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "98.77",
+      "category": null
+    },
+    {
+      "description": "Rider E Environmental Projects",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "630.09",
+      "category": null
+    },
+    {
+      "description": "Rider RGGI Regional GHG Initiative",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2 747.32",
+      "category": null
+    },
+    {
+      "description": "Rider T1 Transmission",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "3 608.52",
+      "category": null
+    },
+    {
+      "description": "Rider PIPP Universal Service Fee\nand",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "31.00",
+      "category": null
+    },
+    {
+      "description": "Rental Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 246.53",
+      "category": null
+    },
+    {
+      "description": "Rental Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "5.15",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "71 608.53"
+  },
+  "payment_instructions": {
+    "due_date": "26/04/2022",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 13.116,
+  "file_size_bytes": 66571
+}

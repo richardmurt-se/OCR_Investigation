@@ -1,0 +1,49 @@
+{
+  "filename": "147519871.pdf",
+  "invoice": {
+    "client_name": "LDS Draper FM Group",
+    "client_address": "",
+    "seller_name": "Dominion\nEnergy®",
+    "seller_address": "P.O. Box 45360, Salt Lake City, UT 84145-0360",
+    "invoice_number": "",
+    "invoice_date": "19/09/2022",
+    "due_date": "11/10/2022"
+  },
+  "items": [
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "19.35",
+      "category": null
+    },
+    {
+      "description": "Basic Service Fee Total",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "18.25",
+      "category": null
+    },
+    {
+      "description": "Municipal Energy Tax (6%)(Draper)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.10",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "1.10",
+    "discount": "",
+    "total": "19.35"
+  },
+  "payment_instructions": {
+    "due_date": "11/10/2022",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 9.833,
+  "file_size_bytes": 147246
+}

@@ -1,0 +1,8 @@
+{
+  "filename": "105_effect_brightness_contrast.jpeg",
+  "model_name": "glm-ocr",
+  "raw_text": "Wilson-Jones\n888 Clark Turnpike Apt. 849 | Jefferyland, MN 88126\n\nINVOICE\nNo: INV/62177044\nDate: 06/03/2024\nDue: 03/08/2026\n\nFROM\nWilson-Jones\n888 Clark Turnpike Apt. 849\nJeffery and, MN 88126\n\nBILL TO\nKing Group\n047 Simon Square Suite 587\nJillianmouth, PR 72700\n\n# Description Quantity Unit Price Amount\n1 Down-sized intangible model 2.00 304.07 608.14\n2 Stand-a-one hybrid application 6.00 11.88 59.40\n3 Multi-lateral b-furcated database 2.00 308.76 617.50\n4 Triple-cuffered fault-tolerant alliance 4.00 437.86 1,871.44\n5 Configurable coneive structure 7.00 300.12 2,100.84\n\nSubtotal 5,257.32\nTax(10%) 526.73\nDiscount -282.87\nTotal Due 5,520.18\n\nPAYMENT INFORMATION\nBank: Woods LLC Credit Union\nAccount: GCBS82653896481804",
+  "processing_time_seconds": 47.284,
+  "file_size_bytes": 46143,
+  "success": true
+}

@@ -1,0 +1,217 @@
+{
+  "filename": "108519997.pdf",
+  "invoice": {
+    "client_name": "MACY'S CORPORATE SERVICES INC",
+    "client_address": "",
+    "seller_name": "DIRECT ENERGY BUSINESS",
+    "seller_address": "1001 LIBERTY AVENUE\nPITTSBURGH PA 15222",
+    "invoice_number": "181340034688398",
+    "invoice_date": "14/05/2018",
+    "due_date": "04/06/2018"
+  },
+  "items": [
+    {
+      "description": "CURRENT MONTH BEGINNING",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "SUP-GRID MANAGEMENT FEE ADJUSTMENT FOR NOVEMBER USAG",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-0.01",
+      "category": null
+    },
+    {
+      "description": "SUP-ANCILLARY SERVICES ADJUSTMENT FOR NOVEMBER USAGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.23",
+      "category": null
+    },
+    {
+      "description": "SUP-RESOURCE ADEQUACY ADJUSTMENT FOR NOVEMBER\nUSAGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.78",
+      "category": null
+    },
+    {
+      "description": "SUP-GRID MANAGEMENT FEE ADJUSTMENT FOR DECEMBER\nUSAG",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.03",
+      "category": null
+    },
+    {
+      "description": "SUP-ANCILLARY SERVICES ADJUSTMENT FOR DECEMBER USAGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.59",
+      "category": null
+    },
+    {
+      "description": "SUP-RESOURCE ADEQUACY ADJUSTMENT FOR DECEMBER\nUSAGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.50",
+      "category": null
+    },
+    {
+      "description": "SUP-SCE METER",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.18",
+      "category": null
+    },
+    {
+      "description": "SUP-LOCAL TAX",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "SUP-UTILITY TAX",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.16",
+      "category": null
+    },
+    {
+      "description": "SUP-SCE METER DATA FEE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.18",
+      "category": null
+    },
+    {
+      "description": "SUP-LOCAL TAX",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.40",
+      "category": null
+    },
+    {
+      "description": "SUP-UTILITY TAX",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2.70",
+      "category": null
+    },
+    {
+      "description": "SUP-WHOLESALE ENERGY 1",
+      "quantity": "1387.60",
+      "unit_price": "0.02",
+      "total_price": "32.80",
+      "category": null
+    },
+    {
+      "description": "SUP-ANCILLARY SERVICES",
+      "quantity": "47.84",
+      "unit_price": "0.00",
+      "total_price": "0.11",
+      "category": null
+    },
+    {
+      "description": "SUP-ANCILLARY SERVICES",
+      "quantity": "1339.75",
+      "unit_price": "0.00",
+      "total_price": "2.94",
+      "category": null
+    },
+    {
+      "description": "SUP-LOSS CHARGES",
+      "quantity": "1387.60",
+      "unit_price": "0.00",
+      "total_price": "2.19",
+      "category": null
+    },
+    {
+      "description": "SUP-CA-ISO GRID MANAGEMENT FEES",
+      "quantity": "47.84",
+      "unit_price": "0.00",
+      "total_price": "0.03",
+      "category": null
+    },
+    {
+      "description": "SUP-CA-ISO GRID MANAGEMENT FEES",
+      "quantity": "1339.75",
+      "unit_price": "0.00",
+      "total_price": "0.72",
+      "category": null
+    },
+    {
+      "description": "SUP-DIRECT ENERGY FEES",
+      "quantity": "1387.60",
+      "unit_price": "0.00",
+      "total_price": "2.01",
+      "category": null
+    },
+    {
+      "description": "SUP-RESOURCE ADEQUACY",
+      "quantity": "47.84",
+      "unit_price": "0.00",
+      "total_price": "0.12",
+      "category": null
+    },
+    {
+      "description": "SUP-RESOURCE ADEQUACY",
+      "quantity": "1339.75",
+      "unit_price": "0.00",
+      "total_price": "2.99",
+      "category": null
+    },
+    {
+      "description": "SUP-RENEWABLE ENERGY",
+      "quantity": "47.84",
+      "unit_price": "0.00",
+      "total_price": "0.20",
+      "category": null
+    },
+    {
+      "description": "SUP-RENEWABLE ENERGY",
+      "quantity": "1339.75",
+      "unit_price": "0.00",
+      "total_price": "5.42",
+      "category": null
+    },
+    {
+      "description": "SUP-WHOLESALE ENERGY 2",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "9.35",
+      "category": null
+    },
+    {
+      "description": "SUP-WHOLESALE ENERGY 3",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.09",
+      "category": null
+    },
+    {
+      "description": "SUP-DIRECT ENERGY CURRENT CHARGES",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "59.97",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "66.71"
+  },
+  "payment_instructions": {
+    "due_date": "04/06/2018",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 9.816,
+  "file_size_bytes": 69370
+}

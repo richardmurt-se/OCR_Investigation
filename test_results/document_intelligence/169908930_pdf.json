@@ -1,0 +1,49 @@
+{
+  "filename": "169908930.pdf",
+  "invoice": {
+    "client_name": "JOHNSON CONTROLS INC",
+    "client_address": "PO BOX 668\nMANDAN ND\n58554",
+    "seller_name": "Seneca Light and Water",
+    "seller_address": "250 E. North 2nd Street\nPO Box 4773\nSeneca, SC 29679",
+    "invoice_number": "",
+    "invoice_date": "09/10/2024",
+    "due_date": "24/10/2024"
+  },
+  "items": [
+    {
+      "description": "PREVIOUS\nBALANCE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "4 888.34",
+      "category": null
+    },
+    {
+      "description": "PAY MENTS\n09/16/24",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "4 888.34",
+      "category": null
+    },
+    {
+      "description": "294 WATER",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "4 928.82",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "4 928.82"
+  },
+  "payment_instructions": {
+    "due_date": "24/10/2024",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.628,
+  "file_size_bytes": 78304
+}

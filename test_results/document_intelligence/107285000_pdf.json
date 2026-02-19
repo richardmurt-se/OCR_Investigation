@@ -1,0 +1,56 @@
+{
+  "filename": "107285000.pdf",
+  "invoice": {
+    "client_name": "ACCOUNT PAYABLE\nHOLLINGSWORTH & VOSE CO LTD",
+    "client_address": "",
+    "seller_name": "GAZPROM\nENERGY",
+    "seller_address": "20 Triton Street, London, NW13BF.",
+    "invoice_number": "6018337",
+    "invoice_date": "14/03/2018",
+    "due_date": "13/04/2018"
+  },
+  "items": [
+    {
+      "description": "Gas Usage (kWh)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "5 043.00",
+      "category": null
+    },
+    {
+      "description": "Total Gas Cost",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "104.44",
+      "category": null
+    },
+    {
+      "description": "Standing Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "35.56",
+      "category": null
+    },
+    {
+      "description": "Climate Change Levy",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "3.49",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "143.49",
+    "tax": "28.70",
+    "discount": "",
+    "total": "172.19"
+  },
+  "payment_instructions": {
+    "due_date": "13/04/2018",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 12.989,
+  "file_size_bytes": 53364
+}

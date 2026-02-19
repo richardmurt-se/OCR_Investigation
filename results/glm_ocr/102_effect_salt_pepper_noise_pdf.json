@@ -1,0 +1,8 @@
+{
+  "filename": "102_effect_salt_pepper_noise.pdf",
+  "model_name": "glm-ocr",
+  "raw_text": "Morales Ltd\n55095 Susan Hollow | Port Jasmin, KS 62819\n\nINVOICE\nNo: INV/193149\nDate: 09/02/2025\nDue: 02/13/2026\n\nFROM\nMorales Ltd\n55095 Susan Hollow\nPort Jasmin, KS 62819\n\nBILL TO\nMorgan-Ryan\nPSC 7997, Box 0057\nAPD AE 11065\n\n# Description Quantity Unit Price Amount\n1 Right-sized dynamic adapter 7.00 449.48 3 146.36\n2 Ameliorated distractive enclosure 7.00 183.69 1 285.83\n3 Implemented explicit workfree 3.00 309.04 927.12\n4 Cross-group responsive Graphic interface 3.00 239.97 719.91\n5 Digitized local time-frame 5.00 284.33 1 421.65\n6 User-centric uniform initiative 8.00 465.21 3 729.68\n\nSubtotal 11 230.55\nTax (10%) 1 123.06\nTotal due 12 753.61\n\nPAYMENT INFORMATION\nBank: Ho: Walker and Booker Credit Union\nAccount: DTGR3700753678148\nMethod: Check\n\nThank you for your business.",
+  "processing_time_seconds": 31.061,
+  "file_size_bytes": 55250,
+  "success": true
+}

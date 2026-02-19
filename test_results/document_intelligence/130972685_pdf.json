@@ -1,0 +1,35 @@
+{
+  "filename": "130972685.pdf",
+  "invoice": {
+    "client_name": "WACHOVIA BANK",
+    "client_address": "PO BOX 183079\nCOLUMBUS OH 43218-3079",
+    "seller_name": "COLUMBI",
+    "seller_address": "1136 WASHINGTON STREET\nCOLUMBIA, SC 29201-3224",
+    "invoice_number": "",
+    "invoice_date": "23/09/2020",
+    "due_date": "08/10/2020"
+  },
+  "items": [
+    {
+      "description": "Irrigation Service",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "268.22",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "268.22"
+  },
+  "payment_instructions": {
+    "due_date": "08/10/2020",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 15.059,
+  "file_size_bytes": 907217
+}

@@ -1,0 +1,84 @@
+{
+  "filename": "118361546.pdf",
+  "invoice": {
+    "client_name": "Bloomin Brands Inc",
+    "client_address": "",
+    "seller_name": "ENGie",
+    "seller_address": "P.O. Box 25225\nLehigh Valley Pa 18002-5225",
+    "invoice_number": "0775743005",
+    "invoice_date": "14/05/2019",
+    "due_date": "03/06/2019"
+  },
+  "items": [
+    {
+      "description": "Previous Month\nActual Unpaid Principal Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "273.43",
+      "category": null
+    },
+    {
+      "description": "Balance Carry Forward",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Previous Month\nTotal Payment Amount\nCurrent Month\nBeginning Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-273.43",
+      "category": null
+    },
+    {
+      "description": "Late Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Late Fee Adjustment",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Energy 36480 Kwh At $0.04768 Per Kwh",
+      "quantity": "36480.00",
+      "unit_price": "0.05",
+      "total_price": "1 739.37",
+      "category": null
+    },
+    {
+      "description": "Renewable Portfolio Std:",
+      "quantity": "36480.00",
+      "unit_price": "0.00",
+      "total_price": "6.93",
+      "category": null
+    },
+    {
+      "description": "Zero Emissions Credit Charge",
+      "quantity": "36480.00",
+      "unit_price": "0.00",
+      "total_price": "134.25",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "166.90",
+    "discount": "",
+    "total": "2 047.45"
+  },
+  "payment_instructions": {
+    "due_date": "03/06/2019",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.524,
+  "file_size_bytes": 68308
+}

@@ -1,0 +1,224 @@
+{
+  "filename": "127845088.pdf",
+  "invoice": {
+    "client_name": "Brookfield Properties Res",
+    "client_address": "",
+    "seller_name": "Xcel Energy®",
+    "seller_address": "",
+    "invoice_number": "5300120965987200520",
+    "invoice_date": "20/05/2020",
+    "due_date": "10/06/2020"
+  },
+  "items": [
+    {
+      "description": "Previous Month\nBilled Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "9 025.72",
+      "category": null
+    },
+    {
+      "description": "Previous Month\nTotal Payment Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-9 025.72",
+      "category": null
+    },
+    {
+      "description": "Late Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Current Month\nBilled Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "7 298.01",
+      "category": null
+    },
+    {
+      "description": "Current Month\nActual Unpaid Principal Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "7 298.01",
+      "category": null
+    },
+    {
+      "description": "Late Fee Adjustment",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Franchise Fee",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "122.92",
+      "category": null
+    },
+    {
+      "description": "Sales Tax",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Secondary General",
+      "quantity": "55800.00",
+      "unit_price": "0.00",
+      "total_price": "257.24",
+      "category": null
+    },
+    {
+      "description": "Gen & Transm Demand",
+      "quantity": "108.00",
+      "unit_price": "9.82",
+      "total_price": "1 060.56",
+      "category": null
+    },
+    {
+      "description": "Service & Facility",
+      "quantity": "2.00",
+      "unit_price": "18.09",
+      "total_price": "36.17",
+      "category": null
+    },
+    {
+      "description": "Trans Cost Adj",
+      "quantity": "108.00",
+      "unit_price": "0.11",
+      "total_price": "11.88",
+      "category": null
+    },
+    {
+      "description": "Elec Commodity Adj",
+      "quantity": "55800.00",
+      "unit_price": "0.03",
+      "total_price": "1 501.58",
+      "category": null
+    },
+    {
+      "description": "Distribution Demand",
+      "quantity": "108.00",
+      "unit_price": "5.63",
+      "total_price": "608.04",
+      "category": null
+    },
+    {
+      "description": "Demand Side Mgmt Cost",
+      "quantity": "108.00",
+      "unit_price": "0.62",
+      "total_price": "66.96",
+      "category": null
+    },
+    {
+      "description": "Purch Cap Cost Adj",
+      "quantity": "108.00",
+      "unit_price": "1.21",
+      "total_price": "130.68",
+      "category": null
+    },
+    {
+      "description": "Renew. Energy Std Adj",
+      "quantity": "4017.24",
+      "unit_price": "0.02",
+      "total_price": "80.35",
+      "category": null
+    },
+    {
+      "description": "Cacja",
+      "quantity": "108.00",
+      "unit_price": "0.03",
+      "total_price": "-3.24",
+      "category": null
+    },
+    {
+      "description": "Grsa",
+      "quantity": "1962.00",
+      "unit_price": "0.06",
+      "total_price": "113.01",
+      "category": null
+    },
+    {
+      "description": "Grsa E",
+      "quantity": "55800.00",
+      "unit_price": "0.00",
+      "total_price": "234.36",
+      "category": null
+    },
+    {
+      "description": "Franchise Fee",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "73.33",
+      "category": null
+    },
+    {
+      "description": "Capacity Charge",
+      "quantity": "110.70",
+      "unit_price": "8.73",
+      "total_price": "966.91",
+      "category": null
+    },
+    {
+      "description": "Natural Gas 2 Qtr",
+      "quantity": "536.20",
+      "unit_price": "1.31",
+      "total_price": "700.81",
+      "category": null
+    },
+    {
+      "description": "Dsmca",
+      "quantity": "1200.49",
+      "unit_price": "0.02",
+      "total_price": "23.28",
+      "category": null
+    },
+    {
+      "description": "Usage Charge",
+      "quantity": "536.20",
+      "unit_price": "0.23",
+      "total_price": "123.44",
+      "category": null
+    },
+    {
+      "description": "Interstate Pipeline",
+      "quantity": "536.20",
+      "unit_price": "0.51",
+      "total_price": "272.92",
+      "category": null
+    },
+    {
+      "description": "Pipe Sys Int Adj",
+      "quantity": "536.20",
+      "unit_price": "0.46",
+      "total_price": "246.71",
+      "category": null
+    },
+    {
+      "description": "Service & Facility",
+      "quantity": "2.00",
+      "unit_price": "55.08",
+      "total_price": "110.15",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "7 298.01"
+  },
+  "payment_instructions": {
+    "due_date": "10/06/2020",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 9.77,
+  "file_size_bytes": 58359
+}

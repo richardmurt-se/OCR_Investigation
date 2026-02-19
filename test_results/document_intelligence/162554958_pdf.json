@@ -1,0 +1,98 @@
+{
+  "filename": "162554958.pdf",
+  "invoice": {
+    "client_name": "STAPLES INC STR 1079\nADVANTAGE IQMS 379",
+    "client_address": "PO BOX 2440\nSPOKANE WA 99210-2440",
+    "seller_name": "nationalgrid",
+    "seller_address": "Two Hanson Place\nBrooklyn, NY 11217-4717",
+    "invoice_number": "",
+    "invoice_date": "21/03/2024",
+    "due_date": "14/04/2024"
+  },
+  "items": [
+    {
+      "description": "Gas Service",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "330.67",
+      "category": null
+    },
+    {
+      "description": "Other Charges/Adjustments",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-0.41",
+      "category": null
+    },
+    {
+      "description": "Basic Service Charge (including first 2.9 therms)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "36.40",
+      "category": null
+    },
+    {
+      "description": "Next 84.1 Therms",
+      "quantity": "84.10",
+      "unit_price": "1.84",
+      "total_price": "154.98",
+      "category": null
+    },
+    {
+      "description": "Over/Last 132 Therms",
+      "quantity": "132.00",
+      "unit_price": "0.46",
+      "total_price": "61.08",
+      "category": null
+    },
+    {
+      "description": "Delivery Rate Adj",
+      "quantity": "219.00",
+      "unit_price": "0.25",
+      "total_price": "54.52",
+      "category": null
+    },
+    {
+      "description": "Billing Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.32",
+      "category": null
+    },
+    {
+      "description": "Transp Adj Chg",
+      "quantity": "219.00",
+      "unit_price": "-0.02",
+      "total_price": "-4.07",
+      "category": null
+    },
+    {
+      "description": "NY State and Local Surcharges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.22",
+      "category": null
+    },
+    {
+      "description": "Paperless Billing Credit",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "26.22",
+    "discount": "",
+    "total": "330.26"
+  },
+  "payment_instructions": {
+    "due_date": "14/04/2024",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.82,
+  "file_size_bytes": 208176
+}

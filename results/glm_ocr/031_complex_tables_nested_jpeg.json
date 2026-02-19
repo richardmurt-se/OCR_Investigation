@@ -1,0 +1,8 @@
+{
+  "filename": "031_complex_tables_nested.jpeg",
+  "model_name": "glm-ocr",
+  "raw_text": "Brooks-Henry\n875 Fisher Rue | North Crystal, OR 92489\nNo: 279023879\nDate: 02/28/2025\n\nBILL TO:\nFrancis Inc\n370 Tina Fords Suite 321\nKennedyfort, AL 88687\n\nSHIP TO:\nFrancis Inc\n370 Tina Fords Suite 321\nKennedyfort, AL 88687\n\n# SKU Description & Details Category Qty Unit Tax Total\nSection 1: Products\n1 SKU-01000 Networked transitional moratorium | Model: xj-1554, Serial: 9172842164 Furniture 2.00 28.98 10% 57.96\n   Spoo Value Note\n   Model MDL-0100 Standard\n   Serial SN00010000 Verified\n\n2 SKU-02000 Intuitive intermediate approach Hardware 7.00 281.38 10% 1 969.66\n   Spoo Value Note\n   Model MDL-0200 Standard\n   Serial SN00020000 Verified\n\n3 SKU-03000 Multi-channeled stable projection (Qty: 90 units/pack) Accessories 8.00 289.53 10% 2 316.24\n   Spoo Value Note\n   Model MDL-0300 Standard\n   Serial SN00030000 Verified\n\nSection 2: Services\n4 SKU-04000 User-friendly bandwidth-monitored software - 189GB, 47\" display Equipment 9.00 154.69 10% 1 392.21\n   Spoo Value Note\n   Model MDL-0400 Standard\n   Serial SN00040000 Verified\n\n5 SKU-05000 Virtual tertiary definition Software 4.00 103.29 10% 413.16\n   Spoo Value Note\n   Model MDL-0500 Standard\n   Serial SN00050000 Verified\n\nSubtotal: 6 149.23\nTax (10%): 814.92\nDiscount: -814.92\nShipping: 0.00\nTOTAL DUE: 6 149.23\n\nPayment: Brown, Potter and Reed Credit Union | Account: EAHX0433473758355",
+  "processing_time_seconds": 54.572,
+  "file_size_bytes": 90388,
+  "success": true
+}

@@ -1,0 +1,8 @@
+{
+  "filename": "098_effect_jpeg_artifacts.pdf",
+  "model_name": "glm-ocr",
+  "raw_text": "Roberts-Rogers\n2019 Smith Club | Susanberg, DE 75078\n\nINVOICE\nNo: 348305\nDate: 10/07/2024\nDate: 02/26/2026\n\nFROM\nRoberts-Rogers\n2019 Smith Club\nSusanberg, DE 75078\n\nBILL TO\nParks-Briggs\n534 Michelle Keys Suite 415\nJefferyshire, IN 75293\n\n# Description Quantity Unit Price Amount\n1 Upgradable multi-state parallelism 7.00 450.42 3 152.94\n2 Implemented secondary knowledgebase 7.00 167.69 1 103.83\n3 Devolved actuating concept 6.00 166.71 1 000.26\n\nSubtotal 5 287.03\nTax (10%) 525.70\nTotal Due 5 722.73\n\nPAYMENT INFORMATION\nBank: Wang-Rowe Credit Union\nAccount: KW138576890130307\nMethod: ACH\n\nThank you for your business",
+  "processing_time_seconds": 28.762,
+  "file_size_bytes": 109286,
+  "success": true
+}

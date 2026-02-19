@@ -1,0 +1,266 @@
+{
+  "filename": "116782793.pdf",
+  "invoice": {
+    "client_name": "AT&T",
+    "client_address": "PO BOX 182552\nCOLUMBUS, OH 43218-2552",
+    "seller_name": "SOUTHERN CALIFORNIA\nEDISON®\nEDISON INTERNATIONAL®",
+    "seller_address": "P.O. Box 6400\nRancho Cucamonga, CA\n91729-6400",
+    "invoice_number": "",
+    "invoice_date": "13/03/2019",
+    "due_date": "01/04/2019"
+  },
+  "items": [
+    {
+      "description": "613 N IRWIN\nHANFORD, CA",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "48.35",
+      "category": null
+    },
+    {
+      "description": "118 E MALONE\nHANFORD, CA",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "66.15",
+      "category": null
+    },
+    {
+      "description": "Mid",
+      "quantity": "74.00",
+      "unit_price": "0.14",
+      "total_price": "10.71",
+      "category": null
+    },
+    {
+      "description": "Off",
+      "quantity": "124.00",
+      "unit_price": "0.13",
+      "total_price": "16.14",
+      "category": null
+    },
+    {
+      "description": "Mid peak",
+      "quantity": "52.00",
+      "unit_price": "0.07",
+      "total_price": "3.47",
+      "category": null
+    },
+    {
+      "description": "Off peak",
+      "quantity": "82.00",
+      "unit_price": "0.07",
+      "total_price": "5.47",
+      "category": null
+    },
+    {
+      "description": "Mid peak",
+      "quantity": "22.00",
+      "unit_price": "0.07",
+      "total_price": "1.55",
+      "category": null
+    },
+    {
+      "description": "Off peak",
+      "quantity": "42.00",
+      "unit_price": "0.05",
+      "total_price": "2.30",
+      "category": null
+    },
+    {
+      "description": "DWR bond charge",
+      "quantity": "198.00",
+      "unit_price": "0.01",
+      "total_price": "1.00",
+      "category": null
+    },
+    {
+      "description": "Customer charge",
+      "quantity": "22.00",
+      "unit_price": "0.81",
+      "total_price": "17.73",
+      "category": null
+    },
+    {
+      "description": "Customer charge",
+      "quantity": "10.00",
+      "unit_price": "0.36",
+      "total_price": "3.62",
+      "category": null
+    },
+    {
+      "description": "CA Climate Credit",
+      "quantity": "198.00",
+      "unit_price": "-0.00",
+      "total_price": "-0.90",
+      "category": null
+    },
+    {
+      "description": "DWR energy credit",
+      "quantity": "198.00",
+      "unit_price": "-0.00",
+      "total_price": "-0.01",
+      "category": null
+    },
+    {
+      "description": "Mid peak",
+      "quantity": "52.00",
+      "unit_price": "0.08",
+      "total_price": "4.06",
+      "category": null
+    },
+    {
+      "description": "Off peak",
+      "quantity": "82.00",
+      "unit_price": "0.07",
+      "total_price": "5.57",
+      "category": null
+    },
+    {
+      "description": "Mid peak",
+      "quantity": "22.00",
+      "unit_price": "0.07",
+      "total_price": "1.63",
+      "category": null
+    },
+    {
+      "description": "Off peak",
+      "quantity": "42.00",
+      "unit_price": "0.07",
+      "total_price": "2.80",
+      "category": null
+    },
+    {
+      "description": "Mid peak",
+      "quantity": "139.00",
+      "unit_price": "0.10",
+      "total_price": "14.29",
+      "category": null
+    },
+    {
+      "description": "Off peak",
+      "quantity": "246.00",
+      "unit_price": "0.08",
+      "total_price": "19.58",
+      "category": null
+    },
+    {
+      "description": "Facilities rel demand",
+      "quantity": "1.00",
+      "unit_price": "9.69",
+      "total_price": "6.66",
+      "category": null
+    },
+    {
+      "description": "Facilities rel demand",
+      "quantity": "1.00",
+      "unit_price": "12.74",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Mid peak",
+      "quantity": "99.00",
+      "unit_price": "0.02",
+      "total_price": "1.83",
+      "category": null
+    },
+    {
+      "description": "Off peak",
+      "quantity": "163.00",
+      "unit_price": "0.02",
+      "total_price": "3.02",
+      "category": null
+    },
+    {
+      "description": "Mid peak",
+      "quantity": "40.00",
+      "unit_price": "0.02",
+      "total_price": "0.70",
+      "category": null
+    },
+    {
+      "description": "Off peak",
+      "quantity": "83.00",
+      "unit_price": "0.02",
+      "total_price": "1.45",
+      "category": null
+    },
+    {
+      "description": "DWR bond charge",
+      "quantity": "385.00",
+      "unit_price": "0.01",
+      "total_price": "1.94",
+      "category": null
+    },
+    {
+      "description": "Customer charge",
+      "quantity": "22.00",
+      "unit_price": "0.81",
+      "total_price": "17.73",
+      "category": null
+    },
+    {
+      "description": "Customer charge",
+      "quantity": "10.00",
+      "unit_price": "0.36",
+      "total_price": "3.62",
+      "category": null
+    },
+    {
+      "description": "CA Climate Credit",
+      "quantity": "385.00",
+      "unit_price": "-0.00",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "DWR energy credit",
+      "quantity": "385.00",
+      "unit_price": "-0.00",
+      "total_price": "-0.03",
+      "category": null
+    },
+    {
+      "description": "Mid peak",
+      "quantity": "99.00",
+      "unit_price": "0.09",
+      "total_price": "8.80",
+      "category": null
+    },
+    {
+      "description": "Off peak",
+      "quantity": "163.00",
+      "unit_price": "0.06",
+      "total_price": "9.58",
+      "category": null
+    },
+    {
+      "description": "Mid peak",
+      "quantity": "40.00",
+      "unit_price": "0.07",
+      "total_price": "2.96",
+      "category": null
+    },
+    {
+      "description": "Off peak",
+      "quantity": "83.00",
+      "unit_price": "0.07",
+      "total_price": "5.53",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "48.29",
+    "tax": "0.06",
+    "discount": "",
+    "total": "114.50"
+  },
+  "payment_instructions": {
+    "due_date": "01/04/2019",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 16.678,
+  "file_size_bytes": 2546010
+}

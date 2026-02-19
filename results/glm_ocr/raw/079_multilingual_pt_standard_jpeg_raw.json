@@ -1,0 +1,8 @@
+{
+  "content": "Almeida\nDistrito Costela, 42 | Nova Esperan\u00e7a | 73002-030 Sales Paulista / MG\n\nFATURA\nN\u00b0: BILL/7275374034\nData: 04/21/2025\n\nDE\nAlmeida\nDistrito Costela, 42\nNova Esperan\u00e7a\n73002-030 Sales Paulista / MG\n\nCOBRAR DE\nAlmeida Rocha S/A\nPraia Cau\u00ea Costela, 170\nUrca\n89064-732 Rezende / AP\n\n# Descri\u00e7\u00e3o Quantidade Pre\u00e7o Unit Valor\n1 O prazer de concretizar seus projetos em estado puro 8.00 232.15 1 857.20\n2 O poder de concretizar seus projetos em estado puro 9.00 414.05 3 726.45\n3 O conforto de conseguir sem preocupa\u00e7\u00e3o 1.00 264.93 264.93\n4 O conforto de evoluir direto da fonte 4.00 368.23 1 472.92\n\nSubtotal 7 321.50\nImposto (10%) 732.15\nDesconto -366.08\n\nTotal a Pagar 7 687.57\n\nObrigado pela prefer\u00eancia",
+  "detections": [
+    {
+      "text": "Almeida\nDistrito Costela, 42 | Nova Esperan\u00e7a | 73002-030 Sales Paulista / MG\n\nFATURA\nN\u00b0: BILL/7275374034\nData: 04/21/2025\n\nDE\nAlmeida\nDistrito Costela, 42\nNova Esperan\u00e7a\n73002-030 Sales Paulista / MG\n\nCOBRAR DE\nAlmeida Rocha S/A\nPraia Cau\u00ea Costela, 170\nUrca\n89064-732 Rezende / AP\n\n# Descri\u00e7\u00e3o Quantidade Pre\u00e7o Unit Valor\n1 O prazer de concretizar seus projetos em estado puro 8.00 232.15 1 857.20\n2 O poder de concretizar seus projetos em estado puro 9.00 414.05 3 726.45\n3 O conforto de conseguir sem preocupa\u00e7\u00e3o 1.00 264.93 264.93\n4 O conforto de evoluir direto da fonte 4.00 368.23 1 472.92\n\nSubtotal 7 321.50\nImposto (10%) 732.15\nDesconto -366.08\n\nTotal a Pagar 7 687.57\n\nObrigado pela prefer\u00eancia"
+    }
+  ]
+}

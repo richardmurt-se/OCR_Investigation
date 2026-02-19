@@ -1,0 +1,112 @@
+{
+  "filename": "160403429.pdf",
+  "invoice": {
+    "client_name": "MARRIOTT CORPORATION",
+    "client_address": "PO BOX 2440\nSPOKANE WA 99210-2440",
+    "seller_name": "NORTH SHORE GAS®",
+    "seller_address": "",
+    "invoice_number": "4845387535",
+    "invoice_date": "15/12/2023",
+    "due_date": "02/01/2024"
+  },
+  "items": [
+    {
+      "description": "Late Fee\nPayment",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "14.29",
+      "category": null
+    },
+    {
+      "description": "Fixed Charge",
+      "quantity": "33.00",
+      "unit_price": "5.25",
+      "total_price": "173.34",
+      "category": null
+    },
+    {
+      "description": "Under 3000 Therms",
+      "quantity": "3000.00",
+      "unit_price": "0.10",
+      "total_price": "300.21",
+      "category": null
+    },
+    {
+      "description": "Over 3000 Therms",
+      "quantity": "949.80",
+      "unit_price": "0.09",
+      "total_price": "174.98",
+      "category": null
+    },
+    {
+      "description": "Storage Banking Charge",
+      "quantity": "15704.00",
+      "unit_price": "0.00",
+      "total_price": "6.28",
+      "category": null
+    },
+    {
+      "description": "Energy Efficiency Program",
+      "quantity": "949.80",
+      "unit_price": "0.01",
+      "total_price": "63.36",
+      "category": null
+    },
+    {
+      "description": "Environmental Charge",
+      "quantity": "949.80",
+      "unit_price": "0.01",
+      "total_price": "49.03",
+      "category": null
+    },
+    {
+      "description": "Franchise Cost Adjustment",
+      "quantity": "33.00",
+      "unit_price": "1.10",
+      "total_price": "1.10",
+      "category": null
+    },
+    {
+      "description": "Storage Gas Charge",
+      "quantity": "15704.00",
+      "unit_price": "0.02",
+      "total_price": "349.55",
+      "category": null
+    },
+    {
+      "description": "Volume Balancing Adjustment",
+      "quantity": "949.80",
+      "unit_price": "-0.01",
+      "total_price": "-45.54",
+      "category": null
+    },
+    {
+      "description": "Tax Cost Adjustment\nGas",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-0.35",
+      "category": null
+    },
+    {
+      "description": "Constellation New Energy (11/11/2023 - 12/13/2023)\nGas Charge or Budget Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2 177.91",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "2 177.91",
+    "tax": "",
+    "discount": "",
+    "total": "4 060.74"
+  },
+  "payment_instructions": {
+    "due_date": "02/01/2024",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 18.326,
+  "file_size_bytes": 536046
+}

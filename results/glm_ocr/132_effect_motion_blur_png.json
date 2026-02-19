@@ -1,0 +1,8 @@
+{
+  "filename": "132_effect_motion_blur.png",
+  "model_name": "glm-ocr",
+  "raw_text": "Young Back\n1100 East Avenue of the Americas 28 1999\n\nINVOICE\nNo. 001-0100001\nCustum. No. 001-0100001\n\nPOB. Young Back\n1100 East Avenue of the Americas\nVancouver, WA 98102\n\nBILL NO. 10\nCustum. Backline\n1100 East Avenue\nVancouver, WA 98102\n\n# Description Quantity Net Price Amount\n1 Expense tax credit 0.50 14.80 88.00\n2 Variance gift receipt 0.50 86.90 175.40\n3 Customization gift receipt 0.50 89.10 148.20\n\nTotal 482.60\n\nThank you for your business",
+  "processing_time_seconds": 43.423,
+  "file_size_bytes": 92677,
+  "success": true
+}

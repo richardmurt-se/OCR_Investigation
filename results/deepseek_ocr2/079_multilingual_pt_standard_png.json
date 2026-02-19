@@ -1,0 +1,8 @@
+{
+  "filename": "079_multilingual_pt_standard.png",
+  "model_name": "deepseek-ocr-2",
+  "raw_text": "<|ref|>text<|/ref|><|det|>[[22, 115, 45, 127]]<|/det|>\nDE\n\n<|ref|>text<|/ref|><|det|>[[22, 135, 202, 181]]<|/det|>\nAlmeida\nDistrito Costela, 42\nNova Esperan\u00e7a\n73002-030 Sales Paulista / MG\n\n<|ref|>text<|/ref|><|det|>[[540, 115, 666, 181]]<|/det|>\nCOBRAR DE\nAlmeida Rocha S/A\nPraia Cau\u00ea Costela, 170\nUrca\n89064-732 Rezende / AP\n\n<|ref|>table<|/ref|><|det|>[[24, 208, 972, 456]]<|/det|>\n<table><tr><td>#</td><td>Descri\u00e7\u00e3o</td><td>Quantidade</td><td>Pre\u00e7o Unit.</td><td>Valor</td></tr><tr><td>1</td><td>O prazer de concretizar seus projetos em estado puro</td><td>8.00</td><td>232.15</td><td>1 857.20</td></tr><tr><td>2</td><td>O poder de concretizar seus projetos em estado puro</td><td>9.00</td><td>414.05</td><td>3 726.45</td></tr><tr><td>3</td><td>O conforto de conseguir sem preocupa\u00e7\u00e3o</td><td>1.00</td><td>264.93</td><td>264.93</td></tr><tr><td>4</td><td>O conforto de evoluir direito da fonte</td><td>4.00</td><td>388.23</td><td>1 472.92</td></tr><tr><td></td><td></td><td></td><td>Subtotal</td><td>7 321.50</td></tr><tr><td></td><td></td><td></td><td>Imposto (10%)</td><td>732.15</td></tr><tr><td></td><td></td><td></td><td>Desconto</td><td>-366.08</td></tr><tr><td></td><td></td><td></td><td>Total a Pagar</td><td>7 687.57</td></tr></table>\n\n<|ref|>text<|/ref|><|det|>[[429, 483, 565, 495]]<|/det|>\nObrigado pela prefer\u00eancia",
+  "processing_time_seconds": 18.853,
+  "file_size_bytes": 28578,
+  "success": true
+}

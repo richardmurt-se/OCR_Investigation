@@ -1,0 +1,112 @@
+{
+  "filename": "167630904.pdf",
+  "invoice": {
+    "client_name": "GREYHOUND LINES INC\nATTN:438500 - FIRST GROUP MS #3",
+    "client_address": "PO BOX 182207\nCOLUMBUS OH 43218-2207",
+    "seller_name": "NVEnergy®",
+    "seller_address": "6226 West Sahara Ave\nLas Vegas, NV 89146",
+    "invoice_number": "",
+    "invoice_date": "15/08/2024",
+    "due_date": "03/09/2024"
+  },
+  "items": [
+    {
+      "description": "Electric Consumption",
+      "quantity": "7456.00",
+      "unit_price": "0.07",
+      "total_price": "540.19",
+      "category": null
+    },
+    {
+      "description": "Demand Charge",
+      "quantity": "17.00",
+      "unit_price": "5.00",
+      "total_price": "85.00",
+      "category": null
+    },
+    {
+      "description": "Facility Charge",
+      "quantity": "17.00",
+      "unit_price": "3.80",
+      "total_price": "64.60",
+      "category": null
+    },
+    {
+      "description": "Deferred Energy Adjustment",
+      "quantity": "7456.00",
+      "unit_price": "0.00",
+      "total_price": "19.68",
+      "category": null
+    },
+    {
+      "description": "Temp. Green Power Financing",
+      "quantity": "7456.00",
+      "unit_price": "0.00",
+      "total_price": "3.58",
+      "category": null
+    },
+    {
+      "description": "Renewable Energy Program",
+      "quantity": "7456.00",
+      "unit_price": "0.00",
+      "total_price": "2.91",
+      "category": null
+    },
+    {
+      "description": "Energy Efficiency Charge",
+      "quantity": "7456.00",
+      "unit_price": "0.00",
+      "total_price": "11.26",
+      "category": null
+    },
+    {
+      "description": "Natural Disaster Protection Plan",
+      "quantity": "7456.00",
+      "unit_price": "0.00",
+      "total_price": "4.55",
+      "category": null
+    },
+    {
+      "description": "Expanded Solar Access Program Rate",
+      "quantity": "7456.00",
+      "unit_price": "0.00",
+      "total_price": "0.45",
+      "category": null
+    },
+    {
+      "description": "Basic Service Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "15.80",
+      "category": null
+    },
+    {
+      "description": "Local Government Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "35.43",
+      "category": null
+    },
+    {
+      "description": "Energy",
+      "quantity": "7456.00",
+      "unit_price": "",
+      "total_price": "2.91",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "747.00"
+  },
+  "payment_instructions": {
+    "due_date": "03/09/2024",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 9.952,
+  "file_size_bytes": 284309
+}

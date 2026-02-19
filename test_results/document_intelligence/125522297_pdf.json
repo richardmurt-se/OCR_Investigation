@@ -1,0 +1,84 @@
+{
+  "filename": "125522297.pdf",
+  "invoice": {
+    "client_name": "HERTZ LOCAL EDITION INC",
+    "client_address": "456200 HERTZ MAIL STOP 2; AUTO ROW\nPO BOX 182590\nCOLUMBUS OH 43218-2590",
+    "seller_name": "PG&E",
+    "seller_address": "",
+    "invoice_number": "",
+    "invoice_date": "29/01/2020",
+    "due_date": "18/02/2020"
+  },
+  "items": [
+    {
+      "description": "Amount Due on Previous Statement",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "386.49",
+      "category": null
+    },
+    {
+      "description": "Payment(s) Received Since Last Statement",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-386.49",
+      "category": null
+    },
+    {
+      "description": "Current PG&E Electric Delivery Charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "199.85",
+      "category": null
+    },
+    {
+      "description": "East Bay Community Energy Electric Generation Charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "101.69",
+      "category": null
+    },
+    {
+      "description": "Current Gas Charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "101.12",
+      "category": null
+    },
+    {
+      "description": "PG&E Electric Delivery Charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "PG&E Electric Delivery Charges\nCOMMUNITY ENERGY Electric",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "14.63",
+    "discount": "",
+    "total": "402.66"
+  },
+  "payment_instructions": {
+    "due_date": "18/02/2020",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 23.746,
+  "file_size_bytes": 3824014
+}

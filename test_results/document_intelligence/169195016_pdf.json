@@ -1,0 +1,98 @@
+{
+  "filename": "169195016.pdf",
+  "invoice": {
+    "client_name": "PACKAGING CORP OF AMERICA",
+    "client_address": "936 N SHELDON RD\nPLYMOUTH MI 48170-1016",
+    "seller_name": "DTE",
+    "seller_address": "",
+    "invoice_number": "200255042673",
+    "invoice_date": "05/06/2024",
+    "due_date": "27/06/2024"
+  },
+  "items": [
+    {
+      "description": "31744 Enterprise Dr",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "6 229.68",
+      "category": null
+    },
+    {
+      "description": "Power Supply Capacity Charge",
+      "quantity": "40600.00",
+      "unit_price": "0.01",
+      "total_price": "410.06",
+      "category": null
+    },
+    {
+      "description": "Power Supply Non Capacity Charge",
+      "quantity": "40600.00",
+      "unit_price": "0.07",
+      "total_price": "2 880.98",
+      "category": null
+    },
+    {
+      "description": "Power Supply Cost Recovery Factor",
+      "quantity": "40600.00",
+      "unit_price": "0.01",
+      "total_price": "457.56",
+      "category": null
+    },
+    {
+      "description": "Other Power Supply Volumetric Surcharges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "101.99",
+      "category": null
+    },
+    {
+      "description": "Service Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.25",
+      "category": null
+    },
+    {
+      "description": "Distribution Energy",
+      "quantity": "40600.00",
+      "unit_price": "0.05",
+      "total_price": "2 146.93",
+      "category": null
+    },
+    {
+      "description": "LIEAF Factor",
+      "quantity": "1.00",
+      "unit_price": "0.88",
+      "total_price": "0.88",
+      "category": null
+    },
+    {
+      "description": "Other Delivery Surcharges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "140.21",
+      "category": null
+    },
+    {
+      "description": "Other Delivery Volumetric",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "79.82",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "6 229.68",
+    "tax": "373.73",
+    "discount": "",
+    "total": "6 603.41"
+  },
+  "payment_instructions": {
+    "due_date": "27/06/2024",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 12.057,
+  "file_size_bytes": 130081
+}

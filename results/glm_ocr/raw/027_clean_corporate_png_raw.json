@@ -1,0 +1,8 @@
+{
+  "content": "Mayo, Marshall and Wilson\nPSC 5068, Box 0003 - APO AA 71336\n\nINVOICE\n#FAC/7552188\n06/06/2024\n\nSELLER\nMayo, Marshall and Wilson\nPSC 5068, Box 0003\nAPO AA 71336\n\nBUYER\nBailey-Robinson\n3046 Chawz Mount Suite 060\nEmilytown, SD 64524\n\nNO. DESCRIPTION QUANTITY UNIT PRICE AMOUNT\n1 Cross-platform zero tolerance core 8.00 17.64 141.12\n2 Reverse-engineered directional middleware 9.00 206.28 1 856.52\n3 User-friendly global project 7.00 308.00 2 156.00\n\nSubtotal 4 153.64\nTax (10%) 418.36\nDiscount -207.68\nTOTAL DUE 4 361.32\n\nBANKING DETAILS\nBank: Johnson Inc Financial\nAccount: SPKL41983812844967\nDue Date: 03/11/2026\n\nMayo, Marshall and Wilson - Invoice #FAC/7552188 - 06/06/2024",
+  "detections": [
+    {
+      "text": "Mayo, Marshall and Wilson\nPSC 5068, Box 0003 - APO AA 71336\n\nINVOICE\n#FAC/7552188\n06/06/2024\n\nSELLER\nMayo, Marshall and Wilson\nPSC 5068, Box 0003\nAPO AA 71336\n\nBUYER\nBailey-Robinson\n3046 Chawz Mount Suite 060\nEmilytown, SD 64524\n\nNO. DESCRIPTION QUANTITY UNIT PRICE AMOUNT\n1 Cross-platform zero tolerance core 8.00 17.64 141.12\n2 Reverse-engineered directional middleware 9.00 206.28 1 856.52\n3 User-friendly global project 7.00 308.00 2 156.00\n\nSubtotal 4 153.64\nTax (10%) 418.36\nDiscount -207.68\nTOTAL DUE 4 361.32\n\nBANKING DETAILS\nBank: Johnson Inc Financial\nAccount: SPKL41983812844967\nDue Date: 03/11/2026\n\nMayo, Marshall and Wilson - Invoice #FAC/7552188 - 06/06/2024"
+    }
+  ]
+}

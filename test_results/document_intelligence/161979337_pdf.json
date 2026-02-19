@@ -1,0 +1,91 @@
+{
+  "filename": "161979337.pdf",
+  "invoice": {
+    "client_name": "HOTEL",
+    "client_address": "381-NAKHLAT JUMEIRAH",
+    "seller_name": "هيئة كهرباء ومياه دبي\nDubai Electricity & Water Authority",
+    "seller_address": "PO Box 564, Dubai, UAE.",
+    "invoice_number": "10004796757",
+    "invoice_date": "30/06/2022",
+    "due_date": "15/07/2022"
+  },
+  "items": [
+    {
+      "description": "Electricity",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "0\nWater",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "147 126.00",
+      "category": null
+    },
+    {
+      "description": "Housing",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Sewerage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "28 054.40",
+      "category": null
+    },
+    {
+      "description": "10,000 IG",
+      "quantity": "",
+      "unit_price": "0.04",
+      "total_price": "350.00",
+      "category": null
+    },
+    {
+      "description": "IG",
+      "quantity": "10000.00",
+      "unit_price": "0.04",
+      "total_price": "400.00",
+      "category": null
+    },
+    {
+      "description": "2,785,440 IG",
+      "quantity": "",
+      "unit_price": "0.05",
+      "total_price": "128 130.24",
+      "category": null
+    },
+    {
+      "description": "Fuel Surcharge 2,805,440 IG",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Meter service charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "18.00",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "140 120.00",
+    "tax": "7 006.00",
+    "discount": "",
+    "total": "147 126.00"
+  },
+  "payment_instructions": {
+    "due_date": "15/07/2022",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.708,
+  "file_size_bytes": 220699
+}

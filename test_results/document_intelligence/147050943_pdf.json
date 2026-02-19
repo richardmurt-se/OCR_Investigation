@@ -1,0 +1,27 @@
+{
+  "filename": "147050943.pdf",
+  "invoice": {
+    "client_name": "Schneider Electric Zrt.",
+    "client_address": "Budapest\nVáci út 96-98.\n1133",
+    "seller_name": "e.on",
+    "seller_address": "1134 Budapest,\nVáci út 17.\nFővárosi Törvényszék\nCégbírósága",
+    "invoice_number": "1/01951567-01/2022/1",
+    "invoice_date": "02/09/2022",
+    "due_date": ""
+  },
+  "items": [],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": ""
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.475,
+  "file_size_bytes": 102090
+}

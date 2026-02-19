@@ -1,0 +1,56 @@
+{
+  "filename": "155074518.pdf",
+  "invoice": {
+    "client_name": "STAPLES STORE # 8392",
+    "client_address": "PO BOX 2440\nSPOKANE WA 99210-2440",
+    "seller_name": "City of Framingham\nDepartment of Public Works",
+    "seller_address": "150 Concord Street, Rm 213\nFramingham, MA 01702",
+    "invoice_number": "248250",
+    "invoice_date": "31/05/2023",
+    "due_date": "24/07/2023"
+  },
+  "items": [
+    {
+      "description": "WATER COM PRIM MTH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "4 662.17",
+      "category": null
+    },
+    {
+      "description": "WATER COM LAWN MTH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "WATER COM FIRE MTH 8\"",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "193.03",
+      "category": null
+    },
+    {
+      "description": "SEWER COM PRIM MTH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "8 369.51",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "13 224.71"
+  },
+  "payment_instructions": {
+    "due_date": "24/07/2023",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 14.668,
+  "file_size_bytes": 244568
+}

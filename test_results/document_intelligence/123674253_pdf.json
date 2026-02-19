@@ -1,0 +1,63 @@
+{
+  "filename": "123674253.pdf",
+  "invoice": {
+    "client_name": "BANK ONE #514368\nc/o C/O ECOVA-MS 500",
+    "client_address": "PO BOX 2440\nSPOKANE, WA 99210-2440",
+    "seller_name": "City of Piqua Utilities",
+    "seller_address": "201 W Water St\nPiqua OH 45356",
+    "invoice_number": "",
+    "invoice_date": "07/06/2019",
+    "due_date": "20/06/2019"
+  },
+  "items": [
+    {
+      "description": "Electric",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "443.02",
+      "category": null
+    },
+    {
+      "description": "Electric",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Water",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "82.36",
+      "category": null
+    },
+    {
+      "description": "Sewer",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "67.14",
+      "category": null
+    },
+    {
+      "description": "Stormwater",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "40.20",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "632.72"
+  },
+  "payment_instructions": {
+    "due_date": "20/06/2019",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 9.645,
+  "file_size_bytes": 87972
+}

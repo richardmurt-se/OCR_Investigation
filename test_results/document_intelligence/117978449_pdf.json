@@ -1,0 +1,70 @@
+{
+  "filename": "117978449.pdf",
+  "invoice": {
+    "client_name": "AT&T SERVICES INC",
+    "client_address": "PO BOX 182552\nCOLUMBUS OH 43218-2552",
+    "seller_name": "Great Lakes Energy.",
+    "seller_address": "1 Cooperative Center Dr.\nNewaygo, MI 49337",
+    "invoice_number": "",
+    "invoice_date": "25/04/2019",
+    "due_date": "15/05/2019"
+  },
+  "items": [
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-94.50",
+      "category": null
+    },
+    {
+      "description": "Monthly Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "32.21",
+      "category": null
+    },
+    {
+      "description": "Energy Usage",
+      "quantity": "415.00",
+      "unit_price": "0.11",
+      "total_price": "44.82",
+      "category": null
+    },
+    {
+      "description": "Energy Optimization Surcharge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "4.76",
+      "category": null
+    },
+    {
+      "description": "PSCR On Energy Use",
+      "quantity": "415.00",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "MI Low Income Energy Fund",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "4.91",
+    "discount": "",
+    "total": "87.63"
+  },
+  "payment_instructions": {
+    "due_date": "15/05/2019",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.413,
+  "file_size_bytes": 867618
+}

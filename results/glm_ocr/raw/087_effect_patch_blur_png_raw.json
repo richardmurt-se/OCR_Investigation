@@ -1,0 +1,8 @@
+{
+  "content": "James-Smith\n18447 Cassidy Fork Apt. 873 | Raymondburgh, VA 55330\n\nINVOICE\nNo: INV855413006\nDate: 11/29/2025\n\nFROM\nJames-Smith\n18447 Cassidy Fork Apt. 873\nRaymondburgh, VA 55330\n\nBILL TO\nBrown, Obrien and Ortiz\n5308 Rodriguez Dale Suite 402\nLake Cindy, GU 69667\n\n# Description Quantity Unit Price Amount\n1 Customizable attitude-oriented neural-net 5.00 107.16 535.80\n2 Future-proofed upward-trending time-frame 5.00 319.28 1 596.40\n3 Organic neutral superstructure 8.00 127.47 1 019.76\n4 Decentralized value-added help-desk 4.00 394.59 1 578.36\n5 Reverse-engineered analyzing middleware 5.00 25.12 125.60\n\nSubtotal 4 855.92\nTax (10%) 485.59\nDiscount -242.80\nTotal Due 5 098.71",
+  "detections": [
+    {
+      "text": "James-Smith\n18447 Cassidy Fork Apt. 873 | Raymondburgh, VA 55330\n\nINVOICE\nNo: INV855413006\nDate: 11/29/2025\n\nFROM\nJames-Smith\n18447 Cassidy Fork Apt. 873\nRaymondburgh, VA 55330\n\nBILL TO\nBrown, Obrien and Ortiz\n5308 Rodriguez Dale Suite 402\nLake Cindy, GU 69667\n\n# Description Quantity Unit Price Amount\n1 Customizable attitude-oriented neural-net 5.00 107.16 535.80\n2 Future-proofed upward-trending time-frame 5.00 319.28 1 596.40\n3 Organic neutral superstructure 8.00 127.47 1 019.76\n4 Decentralized value-added help-desk 4.00 394.59 1 578.36\n5 Reverse-engineered analyzing middleware 5.00 25.12 125.60\n\nSubtotal 4 855.92\nTax (10%) 485.59\nDiscount -242.80\nTotal Due 5 098.71"
+    }
+  ]
+}

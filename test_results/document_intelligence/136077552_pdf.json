@@ -1,0 +1,91 @@
+{
+  "filename": "136077552.pdf",
+  "invoice": {
+    "client_name": "VALVOLINE LLC",
+    "client_address": "PO BOX 2410\nOMAHA, NE 68103-2410",
+    "seller_name": "Ameren\nMISSOURI",
+    "seller_address": "",
+    "invoice_number": "",
+    "invoice_date": "19/05/2021",
+    "due_date": "10/06/2021"
+  },
+  "items": [
+    {
+      "description": "Base Energy Chg-Small General 1 Phase",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "259.87",
+      "category": null
+    },
+    {
+      "description": "Seasonal Energy Chg-Small General 1 Phase",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Electric Customer Charge - Small General 1 Phase",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "10.49",
+      "category": null
+    },
+    {
+      "description": "Renewable Energy Adjustment",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.57",
+      "category": null
+    },
+    {
+      "description": "Fuel Adjustment Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.87",
+      "category": null
+    },
+    {
+      "description": "Energy Efficiency Investment Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "19.39",
+      "category": null
+    },
+    {
+      "description": "Missouri State Sales Tax",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "12.30",
+      "category": null
+    },
+    {
+      "description": "Missouri Local Sales Tax",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "St Louis Co Municipal Charge - Service",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "15.33",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "329.05"
+  },
+  "payment_instructions": {
+    "due_date": "10/06/2021",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.678,
+  "file_size_bytes": 139035
+}

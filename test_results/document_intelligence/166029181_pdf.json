@@ -1,0 +1,84 @@
+{
+  "filename": "166029181.pdf",
+  "invoice": {
+    "client_name": "LDS CHURCH\nLEWISTON ID FM GROUP",
+    "client_address": "PO BOX 182764\nCOLUMBUS OH 43218-2764",
+    "seller_name": "Cascade Natural Gas",
+    "seller_address": "PO Box 7608, Boise, ID\n83707-1608.",
+    "invoice_number": "",
+    "invoice_date": "03/07/2024",
+    "due_date": "25/07/2024"
+  },
+  "items": [
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "47.29",
+      "category": null
+    },
+    {
+      "description": "Basic Service Charge $12.00 per month",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "12.00",
+      "category": null
+    },
+    {
+      "description": "Delivery Charge 31 Therms x $0.27282",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "8.46",
+      "category": null
+    },
+    {
+      "description": "Average Cost of Gas 31 Therms x $0.7452",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "23.10",
+      "category": null
+    },
+    {
+      "description": "Pandemic Cost Recovery 29 Therms x",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "0.19",
+      "category": null
+    },
+    {
+      "description": "EDP Recovery 31 Therms x $0.00889",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.28",
+      "category": null
+    },
+    {
+      "description": "City Tax 4%",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.75",
+      "category": null
+    },
+    {
+      "description": "Public Purpose Fund 3.455%",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.51",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "1.75",
+    "discount": "",
+    "total": "47.29"
+  },
+  "payment_instructions": {
+    "due_date": "25/07/2024",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 9.271,
+  "file_size_bytes": 374046
+}

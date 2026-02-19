@@ -1,0 +1,182 @@
+{
+  "filename": "112702218.pdf",
+  "invoice": {
+    "client_name": "C/O CASS INFO SYSTEMS (182351)",
+    "client_address": "P.O. BOX 182351\nCOLUMBUS OH 43218",
+    "seller_name": "Columbia Gas·\nof Pennsylvania",
+    "seller_address": "P.O. Box 16581\nColumbus, OH 43215",
+    "invoice_number": "00019168 000 000 5",
+    "invoice_date": "09/03/2018",
+    "due_date": "28/03/2018"
+  },
+  "items": [
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Customer Charge",
+      "quantity": "",
+      "unit_price": "21.25",
+      "total_price": "21.25",
+      "category": null
+    },
+    {
+      "description": "All Gas (thm)",
+      "quantity": "1350.00",
+      "unit_price": "0.40",
+      "total_price": "533.33",
+      "category": null
+    },
+    {
+      "description": "Full Balancing Service Qty. Rate - Small (thm)",
+      "quantity": "1350.00",
+      "unit_price": "0.02",
+      "total_price": "21.84",
+      "category": null
+    },
+    {
+      "description": "Pass-through Charges (thm)",
+      "quantity": "1350.00",
+      "unit_price": "0.00",
+      "total_price": "0.14",
+      "category": null
+    },
+    {
+      "description": "Customer Charge",
+      "quantity": "",
+      "unit_price": "48.00",
+      "total_price": "48.00",
+      "category": null
+    },
+    {
+      "description": "All Gas (thm)",
+      "quantity": "4730.00",
+      "unit_price": "0.35",
+      "total_price": "1 651.86",
+      "category": null
+    },
+    {
+      "description": "Full Balancing Service Qty. Rate - Small (thm)",
+      "quantity": "4730.00",
+      "unit_price": "0.02",
+      "total_price": "76.53",
+      "category": null
+    },
+    {
+      "description": "Pass-through Charges (thm)",
+      "quantity": "4730.00",
+      "unit_price": "0.00",
+      "total_price": "0.47",
+      "category": null
+    },
+    {
+      "description": "Customer Charge",
+      "quantity": "",
+      "unit_price": "21.25",
+      "total_price": "21.25",
+      "category": null
+    },
+    {
+      "description": "All Gas (thm)",
+      "quantity": "1370.00",
+      "unit_price": "0.40",
+      "total_price": "541.23",
+      "category": null
+    },
+    {
+      "description": "Full Balancing Service Qty. Rate - Small (thm)",
+      "quantity": "1370.00",
+      "unit_price": "0.02",
+      "total_price": "22.17",
+      "category": null
+    },
+    {
+      "description": "Pass-through Charges (thm)",
+      "quantity": "1370.00",
+      "unit_price": "0.00",
+      "total_price": "0.14",
+      "category": null
+    },
+    {
+      "description": "Customer Charge",
+      "quantity": "",
+      "unit_price": "21.25",
+      "total_price": "21.25",
+      "category": null
+    },
+    {
+      "description": "All Gas (thm)",
+      "quantity": "1980.00",
+      "unit_price": "0.40",
+      "total_price": "782.22",
+      "category": null
+    },
+    {
+      "description": "Full Balancing Service Qty. Rate - Small (thm)",
+      "quantity": "1980.00",
+      "unit_price": "0.02",
+      "total_price": "32.04",
+      "category": null
+    },
+    {
+      "description": "Pass-through Charges (thm)",
+      "quantity": "1980.00",
+      "unit_price": "0.00",
+      "total_price": "0.20",
+      "category": null
+    },
+    {
+      "description": "Customer Charge",
+      "quantity": "",
+      "unit_price": "21.25",
+      "total_price": "21.25",
+      "category": null
+    },
+    {
+      "description": "Base",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "All Gas (thm)",
+      "quantity": "1860.00",
+      "unit_price": "0.40",
+      "total_price": "734.81",
+      "category": null
+    },
+    {
+      "description": "Full Balancing Service Qty. Rate - Small (thm)",
+      "quantity": "1860.00",
+      "unit_price": "0.02",
+      "total_price": "30.09",
+      "category": null
+    },
+    {
+      "description": "Pass-through Charges (thm)",
+      "quantity": "1860.00",
+      "unit_price": "0.00",
+      "total_price": "0.19",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "4 560.26"
+  },
+  "payment_instructions": {
+    "due_date": "28/03/2018",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 18.435,
+  "file_size_bytes": 3672137
+}

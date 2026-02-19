@@ -1,0 +1,294 @@
+{
+  "filename": "174566760.pdf",
+  "invoice": {
+    "client_name": "FEDERAL EXPRESS CORPORATION\nFEDEX EXPRESS FR",
+    "client_address": "58 AVENUE LECLERC",
+    "seller_name": "eDF",
+    "seller_address": "22-30 avenue de Wagram 75382 Paris Cedex 08 - France",
+    "invoice_number": "10220233384",
+    "invoice_date": "15/02/2025",
+    "due_date": "31/12/2025"
+  },
+  "items": [
+    {
+      "description": "Montant Hors TVA",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "3 903.40",
+      "category": null
+    },
+    {
+      "description": "Fourniture",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2 412.33",
+      "category": null
+    },
+    {
+      "description": "Mécanisme de capacité",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "78.21",
+      "category": null
+    },
+    {
+      "description": "Acheminement",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "993.23",
+      "category": null
+    },
+    {
+      "description": "Contribution Tarifaire d'Acheminement électricité (CTA)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "46.25",
+      "category": null
+    },
+    {
+      "description": "Contribution au Service Public de l'Electricité (CSPE)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "373.38",
+      "category": null
+    },
+    {
+      "description": "Services (HT)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Electricité Heures Pleines Hiver",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Electricité Heures Creuses Hiver",
+      "quantity": "4697.00",
+      "unit_price": "16.28",
+      "total_price": "522.64",
+      "category": null
+    },
+    {
+      "description": "Mécanisme de capacité Heures Pleines Hiver",
+      "quantity": "11606.00",
+      "unit_price": "0.70",
+      "total_price": "80.89",
+      "category": null
+    },
+    {
+      "description": "Mécanisme de capacité Heures Creuses Hiver",
+      "quantity": "4697.00",
+      "unit_price": "-0.06",
+      "total_price": "-2.68",
+      "category": null
+    },
+    {
+      "description": "Composante de gestion - Reprise",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-17.21",
+      "category": null
+    },
+    {
+      "description": "Composante de gestion - Echu",
+      "quantity": "18000.00",
+      "unit_price": "57.37",
+      "total_price": "10.33",
+      "category": null
+    },
+    {
+      "description": "Composante de gestion - Echu",
+      "quantity": "13000.00",
+      "unit_price": "60.36",
+      "total_price": "7.85",
+      "category": null
+    },
+    {
+      "description": "Composante de gestion - Echoir",
+      "quantity": "30000.00",
+      "unit_price": "60.36",
+      "total_price": "18.11",
+      "category": null
+    },
+    {
+      "description": "Composante de comptage - Reprise",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-22.04",
+      "category": null
+    },
+    {
+      "description": "Composante de comptage - Echu",
+      "quantity": "18000.00",
+      "unit_price": "73.48",
+      "total_price": "13.23",
+      "category": null
+    },
+    {
+      "description": "Composante de comptage - Echu",
+      "quantity": "13000.00",
+      "unit_price": "79.13",
+      "total_price": "10.29",
+      "category": null
+    },
+    {
+      "description": "Composante de comptage - Echoir",
+      "quantity": "30000.00",
+      "unit_price": "79.13",
+      "total_price": "23.74",
+      "category": null
+    },
+    {
+      "description": "Composante de soutirage fixe - Reprise",
+      "quantity": "0.66",
+      "unit_price": "",
+      "total_price": "-145.65",
+      "category": null
+    },
+    {
+      "description": "Composante de soutirage fixe - Echu",
+      "quantity": "1188.00",
+      "unit_price": "7.36",
+      "total_price": "87.39",
+      "category": null
+    },
+    {
+      "description": "Composante de soutirage fixe - Echu",
+      "quantity": "858000.00",
+      "unit_price": "7.92",
+      "total_price": "67.98",
+      "category": null
+    },
+    {
+      "description": "Composante de soutirage fixe - Echoir",
+      "quantity": "1980.00",
+      "unit_price": "7.92",
+      "total_price": "156.88",
+      "category": null
+    },
+    {
+      "description": "Composante de soutirage Pointe",
+      "quantity": "1712.00",
+      "unit_price": "4.94",
+      "total_price": "84.57",
+      "category": null
+    },
+    {
+      "description": "Composante de soutirage Heures Pleines Hiver\nComposante de soutirage Heures Creuses Hiver",
+      "quantity": "5026.00",
+      "unit_price": "4.94",
+      "total_price": "248.28",
+      "category": null
+    },
+    {
+      "description": "Composante de soutirage Heures Pleines Eté",
+      "quantity": "0.00",
+      "unit_price": "2.25",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Composante de soutirage Heures Creuses Eté",
+      "quantity": "0.00",
+      "unit_price": "1.38",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Composante de soutirage Pointe",
+      "quantity": "1238.00",
+      "unit_price": "5.32",
+      "total_price": "65.86",
+      "category": null
+    },
+    {
+      "description": "Composante de soutirage Heures Pleines Hiver",
+      "quantity": "3630.00",
+      "unit_price": "5.32",
+      "total_price": "193.12",
+      "category": null
+    },
+    {
+      "description": "Composante de soutirage Heures Creuses Hiver",
+      "quantity": "1970.00",
+      "unit_price": "4.23",
+      "total_price": "83.33",
+      "category": null
+    },
+    {
+      "description": "Composante de soutirage Heures Pleines Eté",
+      "quantity": "0.00",
+      "unit_price": "2.42",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Composante de soutirage Heures Creuses Eté",
+      "quantity": "0.00",
+      "unit_price": "1.49",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Durée de dépassement",
+      "quantity": "0.00",
+      "unit_price": "1 175.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Durée de dépassement",
+      "quantity": "0.00",
+      "unit_price": "1 265.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Contribution au Service Public de l'Electricité",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Contribution au Service Public de l'Electricité",
+      "quantity": "9466.00",
+      "unit_price": "2.05",
+      "total_price": "194.05",
+      "category": null
+    },
+    {
+      "description": "Contribution Tarifaire d'Acheminement",
+      "quantity": "210.90",
+      "unit_price": "0.22",
+      "total_price": "46.25",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "3 903.40",
+    "tax": "780.68",
+    "discount": "",
+    "total": "4 684.09"
+  },
+  "payment_instructions": {
+    "due_date": "31/12/2025",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 14.642,
+  "file_size_bytes": 199651
+}

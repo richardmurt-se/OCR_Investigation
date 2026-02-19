@@ -1,0 +1,112 @@
+{
+  "filename": "109556127.pdf",
+  "invoice": {
+    "client_name": "METROWEST MEDICAL CENTER",
+    "client_address": "PO BOX 182893\nCOLUMBUS OH 43218",
+    "seller_name": "EVERSOURCE",
+    "seller_address": "247 Station Drive\nWestwood, MA 02090",
+    "invoice_number": "14",
+    "invoice_date": "21/06/2018",
+    "due_date": "16/07/2018"
+  },
+  "items": [
+    {
+      "description": "Electric Supply Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "64.98",
+      "category": null
+    },
+    {
+      "description": "Delivery Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "61.46",
+      "category": null
+    },
+    {
+      "description": "Other Charges or Credits",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "6.87",
+      "category": null
+    },
+    {
+      "description": "Generation Service Charge",
+      "quantity": "512.00",
+      "unit_price": "0.13",
+      "total_price": "64.98",
+      "category": null
+    },
+    {
+      "description": "Customer Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.00",
+      "category": null
+    },
+    {
+      "description": "Distribution Demand Charge",
+      "quantity": "5.70",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Transmission Demand Charge",
+      "quantity": "5.70",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Distribution Charge",
+      "quantity": "512.00",
+      "unit_price": "0.07",
+      "total_price": "35.29",
+      "category": null
+    },
+    {
+      "description": "Transition Charge",
+      "quantity": "512.00",
+      "unit_price": "-0.00",
+      "total_price": "-0.31",
+      "category": null
+    },
+    {
+      "description": "Transmission Charge",
+      "quantity": "512.00",
+      "unit_price": "0.02",
+      "total_price": "9.89",
+      "category": null
+    },
+    {
+      "description": "Renewable Energy Charge",
+      "quantity": "512.00",
+      "unit_price": "0.00",
+      "total_price": "0.26",
+      "category": null
+    },
+    {
+      "description": "Energy Efficiency",
+      "quantity": "512.00",
+      "unit_price": "0.01",
+      "total_price": "5.33",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "64.98",
+    "tax": "6.87",
+    "discount": "",
+    "total": "133.31"
+  },
+  "payment_instructions": {
+    "due_date": "16/07/2018",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.046,
+  "file_size_bytes": 521093
+}

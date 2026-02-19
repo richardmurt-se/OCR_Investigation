@@ -1,0 +1,70 @@
+{
+  "filename": "155364084.pdf",
+  "invoice": {
+    "client_name": "AUTOZONE INC\nC/O 712500 AUTOZONE MS 1",
+    "client_address": "PO BOX 182463\nCOLUMBUS OH 43218-2463",
+    "seller_name": "TOPEKA",
+    "seller_address": "620 SE Madison St, Suite 103\nTopeka, KS 66607-1149",
+    "invoice_number": "",
+    "invoice_date": "07/07/2023",
+    "due_date": "27/07/2023"
+  },
+  "items": [
+    {
+      "description": "WA BASE CHARGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "15.73",
+      "category": null
+    },
+    {
+      "description": "WATER CONSUMPTION",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "3.52",
+      "category": null
+    },
+    {
+      "description": "WATER PROTECTION FEE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.03",
+      "category": null
+    },
+    {
+      "description": "WW BASE CHARGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "12.47",
+      "category": null
+    },
+    {
+      "description": "WASTEWATER",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "4.39",
+      "category": null
+    },
+    {
+      "description": "PRIVATE HAULER",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "37.94"
+  },
+  "payment_instructions": {
+    "due_date": "27/07/2023",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 14.198,
+  "file_size_bytes": 1037382
+}

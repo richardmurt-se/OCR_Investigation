@@ -1,0 +1,119 @@
+{
+  "filename": "138446035.pdf",
+  "invoice": {
+    "client_name": "Sibelco UK Ltd",
+    "client_address": "Brookside Congleton Road\nSandbach\nCW11 4TF",
+    "seller_name": "Orsted",
+    "seller_address": "5 Howick Place, London, SW1P 1WG",
+    "invoice_number": "30002480739",
+    "invoice_date": "11/12/2020",
+    "due_date": "11/12/2020"
+  },
+  "items": [
+    {
+      "description": "DUoS Capacity Charges:",
+      "quantity": "140.00",
+      "unit_price": "2.66",
+      "total_price": "115.44",
+      "category": null
+    },
+    {
+      "description": "DUoS Fixed Charges:",
+      "quantity": "31.00",
+      "unit_price": "8.60",
+      "total_price": "2.67",
+      "category": null
+    },
+    {
+      "description": "Capacity Market Settlement Levy\nCharges:",
+      "quantity": "31.00",
+      "unit_price": "19.40",
+      "total_price": "6.01",
+      "category": null
+    },
+    {
+      "description": "TNUOS Charges:",
+      "quantity": "31.00",
+      "unit_price": "4 680.57",
+      "total_price": "1 450.98",
+      "category": null
+    },
+    {
+      "description": "Capacity Market Supplier Obligation\nCharge:",
+      "quantity": "31.00",
+      "unit_price": "4 026.81",
+      "total_price": "1 248.31",
+      "category": null
+    },
+    {
+      "description": "2019/19 Capacity Market Supplier\nObligation Credit:",
+      "quantity": "365.00",
+      "unit_price": "-3 122.98",
+      "total_price": "-11 398.86",
+      "category": null
+    },
+    {
+      "description": "Networks",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "ESP Electricity",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Energetics Electricity",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Electricity Network Co",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Halaxton",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Peel Electricity Networks",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "UK Power Distribution",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "-8 575.45",
+    "tax": "-428.77",
+    "discount": "",
+    "total": "-9 004.22"
+  },
+  "payment_instructions": {
+    "due_date": "11/12/2020",
+    "bank_name": "[DocumentField(value_type=dictionary, value={'IBAN': DocumentField(value_type=string, value='GB85 NDEA 4048 7846 4336 01', content=GB85 NDEA 4048 7846 4336 01, bounding_regions=[BoundingRegion(page_number=2, polygon=[Point(x=0.6692, y=3.1179), Point(x=1.9772, y=3.1179), Point(x=1.9772, y=3.2243), Point(x=0.6692, y=3.2243)])], spans=[DocumentSpan(offset=2464, length=27)], confidence=0.91), 'SWIFT': DocumentField(value_type=string, value='NDEAGB2L', content=NDEAGB2L, bounding_regions=[BoundingRegion(page_number=2, polygon=[Point(x=0.9329, y=3.2649), Point(x=1.3993, y=3.2547), Point(x=1.3993, y=3.3612), Point(x=0.9379, y=3.3612)])], spans=[DocumentSpan(offset=2504, length=8)], confidence=0.869)}, content=None, bounding_regions=[], spans=[], confidence=0.995)]",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 16.53,
+  "file_size_bytes": 179436
+}

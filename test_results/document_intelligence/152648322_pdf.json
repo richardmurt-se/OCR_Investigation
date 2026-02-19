@@ -1,0 +1,399 @@
+{
+  "filename": "152648322.pdf",
+  "invoice": {
+    "client_name": "JOHNSON & JOHNSON BUSINESS SERVICES",
+    "client_address": "475 CALLE C STE 301\nGUAYNABO PR 00969-4293",
+    "seller_name": "LUMA",
+    "seller_address": "PO BOX 363508 - San Juan PR 00936-3508",
+    "invoice_number": "",
+    "invoice_date": "31/03/2023",
+    "due_date": "22/04/2023"
+  },
+  "items": [
+    {
+      "description": "Wholesale Industrial Metered Service",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "57 780.39",
+      "category": null
+    },
+    {
+      "description": "TOU Industrial Metered Service",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2 419 008.97",
+      "category": null
+    },
+    {
+      "description": "TOU Industrial Metered Service",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 386 816.16",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Rider SUBA-Subsidies NHH (3,779,160 kWh x $0.000749)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2 830.59",
+      "category": null
+    },
+    {
+      "description": "Rider SUBA-Subsidies HH (3,779,160 kWh x $0.014129)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "53 395.75",
+      "category": null
+    },
+    {
+      "description": "Rider PPCA - Purchased Power Charge Adj (3,779,160 kWh x $0.030171)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "114 021.04",
+      "category": null
+    },
+    {
+      "description": "Rider FCA-Fuel Charge Adj (3,779,160 kWh x $0.169068)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "638 935.02",
+      "category": null
+    },
+    {
+      "description": "Rider CILTA-Municipalities Adj (3,779,160 kWh x $0.007362)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "27 822.18",
+      "category": null
+    },
+    {
+      "description": "On-Peak Energy (1,436,160 kWh x $0.04679)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "67 197.93",
+      "category": null
+    },
+    {
+      "description": "On-Peak Demand (6,653 kVA x $7.70)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "51 228.10",
+      "category": null
+    },
+    {
+      "description": "Off-Peak Energy (2,343,000 kWh x $0.01779)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "41 681.97",
+      "category": null
+    },
+    {
+      "description": "Off Peak Demand (6,402 kVA x $1.00)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "6 402.00",
+      "category": null
+    },
+    {
+      "description": "Customer Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Rider SUBA-Subsidies NHH (3,235,320 kWh x $0.000749)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2 423.25",
+      "category": null
+    },
+    {
+      "description": "Rider SUBA-Subsidies HH (3,235,320 kWh x $0.014129)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "45 711.84",
+      "category": null
+    },
+    {
+      "description": "Rider PPCA - Purchased Power Charge Adj (3,235,320 kWh x $0.030171)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "97 612.84",
+      "category": null
+    },
+    {
+      "description": "Rider FCA-Fuel Charge Adj (3,235,320 kWh x $0.169068)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "546 989.08",
+      "category": null
+    },
+    {
+      "description": "Rider CILTA-Municipalities Adj (3,235,320 kWh x $0.007362)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "23 818.43",
+      "category": null
+    },
+    {
+      "description": "On-Peak Energy (1,287,000 kWh x $0.04679)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "60 218.73",
+      "category": null
+    },
+    {
+      "description": "On-Peak Demand (5,544 kVA x $7.70)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "42 688.80",
+      "category": null
+    },
+    {
+      "description": "Off-Peak Energy (1,948,320 kWh x $0.01779)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "34 660.61",
+      "category": null
+    },
+    {
+      "description": "Off Peak Demand (5,346 kVA x $1.00)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "5 346.00",
+      "category": null
+    },
+    {
+      "description": "Customer Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Rider SUBA-Subsidies NHH (906,840 kWh x $0.000749)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Rider SUBA-Subsidies HH (906,840 kWh x $0.014129)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Rider PPCA - Purchased Power Charge Adj (906,840 kWh x $0.030171)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Rider FCA-Fuel Charge Adj (906,840 kWh x $0.169068)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Rider CILTA-Municipalities Adj (906,840 kWh x $0.007362)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "On-Peak Energy (365,112 kWh x $0.04679)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "17 083.59",
+      "category": null
+    },
+    {
+      "description": "On-Peak Demand (1,778 kVA x $7.70)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "13 690.60",
+      "category": null
+    },
+    {
+      "description": "Off-Peak Energy (541,728 kWh x $0.01779)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "9 637.34",
+      "category": null
+    },
+    {
+      "description": "Off Peak Demand (1,675 kVA x $1.00)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 675.00",
+      "category": null
+    },
+    {
+      "description": "Customer Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Rider SUBA-Subsidies NHH (1,145,760 kWh x $0.000749)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Rider SUBA-Subsidies HH (1,145,760 kWh x $0.014129)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Rider PPCA - Purchased Power Charge Adj (1,145,760 kWh x $0.030171)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Rider FCA-Fuel Charge Adj (1,145,760 kWh x $0.169068)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "193 711.35",
+      "category": null
+    },
+    {
+      "description": "Rider CILTA-Municipalities Adj (1,145,760 kWh x $0.007362)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "On-Peak Energy (467,280 kWh x $0.04679)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "21 864.03",
+      "category": null
+    },
+    {
+      "description": "On-Peak Demand (2,779 kVA x $7.70)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "21 398.30",
+      "category": null
+    },
+    {
+      "description": "Off-Peak Energy (678,480 kWh x $0.01779)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "12 070.16",
+      "category": null
+    },
+    {
+      "description": "Off Peak Demand (2,198 kVA x $1.00)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2 198.00",
+      "category": null
+    },
+    {
+      "description": "Customer Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Customer Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "450.00",
+      "category": null
+    },
+    {
+      "description": "Consumption Charge (177,540 kWh x $0.0365)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "6 480.21",
+      "category": null
+    },
+    {
+      "description": "Demand Charge (1,400 kVA x $7.70)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "10 780.00",
+      "category": null
+    },
+    {
+      "description": "Excess Demand Charge (78 KVA x $9.60)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "748.80",
+      "category": null
+    },
+    {
+      "description": "Generation Fuel Charge (177,540 kWh x $0.169068)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "30 016.33",
+      "category": null
+    },
+    {
+      "description": "Power Purchased from Third Party (177,540 kWh x $0.030171)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "5 356.56",
+      "category": null
+    },
+    {
+      "description": "Qualified Municipality Consumption Subsidy (177,540 kWh x $0.007362)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 307.05",
+      "category": null
+    },
+    {
+      "description": "Help to Citizens Subsidy (177,540 kWh x $0.014129)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2 508.46",
+      "category": null
+    },
+    {
+      "description": "Organizations and Public Project Subsidy (177,540 kWh x $0.000749)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "132.98",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "39 321.38",
+    "tax": "",
+    "discount": "",
+    "total": "2 476 789.36"
+  },
+  "payment_instructions": {
+    "due_date": "22/04/2023",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 10.282,
+  "file_size_bytes": 160907
+}

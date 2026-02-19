@@ -1,0 +1,8 @@
+{
+  "filename": "011_clean_corporate.jpeg",
+  "model_name": "glm-ocr",
+  "raw_text": "Molina, Spencer and Roach\n0458 Mary Summit Apt. 970 - West Andrebury, PR 88586\n\nINVOICE\n#INV6973474609\n11/01/2024\n\nSELLER\nMolina, Spencer and Roach\n0458 Mary Summit Apt. 970\nWest Andrebury, PR 88586\n\nBUYER\nFlores, Cole and Ramos\n382 Melissa Spring Suite 331\nCurtisville, FL 45383\n\nNO. DESCRIPTION QUANTITY UNIT PRICE AMOUNT\n1 User-centric modular toolset 9.00 318.81 2 869.29\n2 Expanded global throughput 8.00 290.71 2 325.68\n3 Ameliorated foreground forecast 8.00 470.55 3 764.40\n\nSubtotal 8 959.37\nTax (10%) 898.94\nDiscount -447.97\nTOTAL DUE 9 407.34\n\nBANKING DETAILS\nBank: Henderson-Carroll Credit Union\nAccount: LKE078534176570940\nDue Date: 03/03/2026\n\nMolina, Spencer and Roach - Invoice #INV6973474609 - 11/01/2024",
+  "processing_time_seconds": 47.619,
+  "file_size_bytes": 77824,
+  "success": true
+}

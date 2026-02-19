@@ -1,0 +1,133 @@
+{
+  "filename": "137707801.pdf",
+  "invoice": {
+    "client_name": "ICON MARS PROPERTY OWNER",
+    "client_address": "",
+    "seller_name": "Dominion\nEnergy",
+    "seller_address": "",
+    "invoice_number": "1047867088",
+    "invoice_date": "05/08/2021",
+    "due_date": "27/08/2021"
+  },
+  "items": [
+    {
+      "description": "Balance Carry Forward",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Late Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Late Fee Adjustment",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Distribution Service - Basic Customer Charge",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "21.22",
+      "category": null
+    },
+    {
+      "description": "Distribution Service - Distribution Service Kwh",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "1.52",
+      "category": null
+    },
+    {
+      "description": "Distribution Service - Dist Serv Demand Charge",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "115.43",
+      "category": null
+    },
+    {
+      "description": "Distribution Service - All Applicable Distribution\nRiders",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "31.87",
+      "category": null
+    },
+    {
+      "description": "Electricity Supply Svc Ess - Electricity Supply Kwh",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "437.84",
+      "category": null
+    },
+    {
+      "description": "Electricity Supply Svc Ess - Demand Charge",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "72.53",
+      "category": null
+    },
+    {
+      "description": "Electricity Supply Svc Ess - Transmission Demand\nChg",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "71.48",
+      "category": null
+    },
+    {
+      "description": "Electricity Supply Svc Ess - Fuel",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "416.15",
+      "category": null
+    },
+    {
+      "description": "Electricity Supply Svc Ess - All Other Applicable Ess\nRiders",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "264.97",
+      "category": null
+    },
+    {
+      "description": "Non-Bypassable Charges - Rider Ce Clean Energy\nProjects",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "2.11",
+      "category": null
+    },
+    {
+      "description": "Non-Bypassable Charges - Rider Rps Renewable\nEnergy Pgm",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "0.35",
+      "category": null
+    },
+    {
+      "description": "Sales And Use Surcharge",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "3.86",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "1 471.08"
+  },
+  "payment_instructions": {
+    "due_date": "27/08/2021",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.51,
+  "file_size_bytes": 45351
+}

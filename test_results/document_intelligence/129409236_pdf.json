@@ -1,0 +1,35 @@
+{
+  "filename": "129409236.pdf",
+  "invoice": {
+    "client_name": "KINKO'S #5957",
+    "client_address": "PO BOX 2440\nSPOKANE WA 99210-2440",
+    "seller_name": "City of North Canton",
+    "seller_address": "145 NORTH MAIN STREET\nNORTH CANTON, OH 44720",
+    "invoice_number": "",
+    "invoice_date": "",
+    "due_date": "15/07/2020"
+  },
+  "items": [
+    {
+      "description": "WATER",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "31.41",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "31.41"
+  },
+  "payment_instructions": {
+    "due_date": "15/07/2020",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 11.337,
+  "file_size_bytes": 261571
+}

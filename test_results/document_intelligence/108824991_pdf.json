@@ -1,0 +1,35 @@
+{
+  "filename": "108824991.pdf",
+  "invoice": {
+    "client_name": "SOUTHERN BELL RK260",
+    "client_address": "PO BOX 182552\nCOLUMBUS OH 43218-2552",
+    "seller_name": "Planters Electric Membership Corporation\nTouchstone Energy\"",
+    "seller_address": "PO BOX 979 MILLEN, GA 30442-0979",
+    "invoice_number": "",
+    "invoice_date": "03/05/2018",
+    "due_date": "18/05/2018"
+  },
+  "items": [
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "64.29",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "68.79"
+  },
+  "payment_instructions": {
+    "due_date": "18/05/2018",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.19,
+  "file_size_bytes": 670978
+}

@@ -1,0 +1,98 @@
+{
+  "filename": "145935783.pdf",
+  "invoice": {
+    "client_name": "WALGREEN DRUG CO\n727200 WALGREENS, MS #1",
+    "client_address": "PO BOX 182107\nCOLUMBUS OH 43218-2107",
+    "seller_name": "NES",
+    "seller_address": "1214 Church Street\nNashville, TN 37246",
+    "invoice_number": "",
+    "invoice_date": "",
+    "due_date": "05/08/2022"
+  },
+  "items": [
+    {
+      "description": "Previous balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2 626.00",
+      "category": null
+    },
+    {
+      "description": "Payments/Credits",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-2 626.00",
+      "category": null
+    },
+    {
+      "description": "Current month charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Service Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "156.87",
+      "category": null
+    },
+    {
+      "description": "TVA Grid Access Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "12.80",
+      "category": null
+    },
+    {
+      "description": "Energy Charge",
+      "quantity": "15000.00",
+      "unit_price": "0.12",
+      "total_price": "1 817.10",
+      "category": null
+    },
+    {
+      "description": "Energy Charge",
+      "quantity": "9240.00",
+      "unit_price": "0.07",
+      "total_price": "658.26",
+      "category": null
+    },
+    {
+      "description": "Demand Charge",
+      "quantity": "50.00",
+      "unit_price": "5.05",
+      "total_price": "252.50",
+      "category": null
+    },
+    {
+      "description": "Demand Charge",
+      "quantity": "3.28",
+      "unit_price": "19.45",
+      "total_price": "63.80",
+      "category": null
+    },
+    {
+      "description": "Capacity Charge\nSales\nReceived",
+      "quantity": "60.48",
+      "unit_price": "1.13",
+      "total_price": "68.34",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "212.08",
+    "discount": "",
+    "total": "3 242.00"
+  },
+  "payment_instructions": {
+    "due_date": "05/08/2022",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.403,
+  "file_size_bytes": 696961
+}

@@ -1,0 +1,56 @@
+{
+  "filename": "113626091.pdf",
+  "invoice": {
+    "client_name": "469300 HERC, MAIL STOP #5\nNEWCASTLE 406348",
+    "client_address": "PO BOX 182217\nCOLUMBUS OH 43218-2217",
+    "seller_name": "WASTE CONNECTIONS\nLONE STAR, INC",
+    "seller_address": "PO BOX 819\nIOWA PARK TX 76367-0519",
+    "invoice_number": "1800665485",
+    "invoice_date": "01/11/2018",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "#694837",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "06YD FRONT LOAD SERVICE\n11/01/18-11/30/18",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "155.72",
+      "category": null
+    },
+    {
+      "description": "ENVIRONMENTAL FEE\n11/01/18-11/30/18",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "18.69",
+      "category": null
+    },
+    {
+      "description": "FUEL SURCHARGE\n11/01/18-11/30/18",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "26.09",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "200.50"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.054,
+  "file_size_bytes": 496527
+}

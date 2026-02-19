@@ -1,0 +1,70 @@
+{
+  "filename": "153686285.pdf",
+  "invoice": {
+    "client_name": "CIRCLE K STORES, INC",
+    "client_address": "738800 CIRCLE K, MS#1\nPO BOX 182487\nCOLUMBUS OH 43218-2487",
+    "seller_name": "Glendale\nARIZONA",
+    "seller_address": "5850 West Glendale Ave.\nGlendale, AZ 85301-2599",
+    "invoice_number": "001",
+    "invoice_date": "04/05/2023",
+    "due_date": "26/05/2023"
+  },
+  "items": [
+    {
+      "description": "04/25/2023",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "WATER",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "381.37",
+      "category": null
+    },
+    {
+      "description": "SEWER",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "298.72",
+      "category": null
+    },
+    {
+      "description": "AZ WATER QUALITY TAX",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "TAXES",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "VOLUNTARY",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "35.09",
+    "discount": "",
+    "total": "715.76"
+  },
+  "payment_instructions": {
+    "due_date": "26/05/2023",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.51,
+  "file_size_bytes": 890554
+}

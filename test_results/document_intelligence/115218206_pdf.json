@@ -1,0 +1,154 @@
+{
+  "filename": "115218206.pdf",
+  "invoice": {
+    "client_name": "AT&T",
+    "client_address": "",
+    "seller_name": "Consumers Energy",
+    "seller_address": "Jackson Mi 49201",
+    "invoice_number": "100070879042",
+    "invoice_date": "15/01/2019",
+    "due_date": "07/02/2019"
+  },
+  "items": [
+    {
+      "description": "Previous Month\nActual Unpaid Principal Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "71.12",
+      "category": null
+    },
+    {
+      "description": "Balance Carry Forward",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Total Payment Amount\nCurrent Month",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-71.12",
+      "category": null
+    },
+    {
+      "description": "Late Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Current Month\nBilled Amount\nCurrent Month",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "77.58",
+      "category": null
+    },
+    {
+      "description": "Late Fee Adjustment\nTax",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Energy",
+      "quantity": "",
+      "unit_price": "0.09",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Energy",
+      "quantity": "",
+      "unit_price": "0.10",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Cap.",
+      "quantity": "",
+      "unit_price": "0.00",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Pscr",
+      "quantity": "",
+      "unit_price": "0.00",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "System Access",
+      "quantity": "",
+      "unit_price": "20.00",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Distribution",
+      "quantity": "307.00",
+      "unit_price": "0.04",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Distribution",
+      "quantity": "",
+      "unit_price": "0.04",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Dist.",
+      "quantity": "",
+      "unit_price": "0.00",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Dist.",
+      "quantity": "",
+      "unit_price": "0.00",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Energy Efficiency",
+      "quantity": "1.00",
+      "unit_price": "4.47",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Power Plant",
+      "quantity": "",
+      "unit_price": "0.00",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Low-Income",
+      "quantity": "",
+      "unit_price": "0.93",
+      "total_price": "",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "4.34",
+    "discount": "",
+    "total": "77.58"
+  },
+  "payment_instructions": {
+    "due_date": "07/02/2019",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.593,
+  "file_size_bytes": 65267
+}

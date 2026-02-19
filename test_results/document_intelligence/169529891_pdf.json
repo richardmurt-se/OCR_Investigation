@@ -1,0 +1,77 @@
+{
+  "filename": "169529891.pdf",
+  "invoice": {
+    "client_name": "Marriott International",
+    "client_address": "",
+    "seller_name": "Resource Advisor\nEntergy",
+    "seller_address": "",
+    "invoice_number": "214246832",
+    "invoice_date": "",
+    "due_date": "09/09/2024"
+  },
+  "items": [
+    {
+      "description": "CITY TAX",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "4.51",
+      "category": null
+    },
+    {
+      "description": "CUSTOMER CHARGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "26.10",
+      "category": null
+    },
+    {
+      "description": "FORMULA RATE PLAN",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "58.41",
+      "category": null
+    },
+    {
+      "description": "FRANCHISE TAX",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "12.21",
+      "category": null
+    },
+    {
+      "description": "STATE SALES TAX",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "4.89",
+      "category": null
+    },
+    {
+      "description": "CCF NG DELIVERY",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "67.40",
+      "category": null
+    },
+    {
+      "description": "CCF NG SUPPLY",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "80.16",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": ""
+  },
+  "payment_instructions": {
+    "due_date": "09/09/2024",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.418,
+  "file_size_bytes": 25824
+}

@@ -1,0 +1,35 @@
+{
+  "filename": "131805347.pdf",
+  "invoice": {
+    "client_name": "LDS CHURCH",
+    "client_address": "PO BOX 182764\nCOLUMBUS\nOH 432182764",
+    "seller_name": "NorthWestern®\nEnergy",
+    "seller_address": "11 E Park St | Butte, MT 59701-1711",
+    "invoice_number": "",
+    "invoice_date": "23/10/2020",
+    "due_date": "16/11/2020"
+  },
+  "items": [
+    {
+      "description": "Electric Service\nState and Local Taxes",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "209.09",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "39.21",
+    "discount": "",
+    "total": "248.30"
+  },
+  "payment_instructions": {
+    "due_date": "16/11/2020",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.684,
+  "file_size_bytes": 1044631
+}

@@ -1,0 +1,35 @@
+{
+  "filename": "135458205.pdf",
+  "invoice": {
+    "client_name": "AM LP SCG LH BIRMINGH",
+    "client_address": "PO BOX 182350\nCOLUMBUS OH 43218-2350",
+    "seller_name": "The Birmingham Water Works",
+    "seller_address": "P.O. Box 830269\nBirmingham, AL 35283-0269",
+    "invoice_number": "",
+    "invoice_date": "12/04/2021",
+    "due_date": "26/04/2021"
+  },
+  "items": [
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "26.60",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "1.06",
+    "discount": "",
+    "total": "27.66"
+  },
+  "payment_instructions": {
+    "due_date": "26/04/2021",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 10.451,
+  "file_size_bytes": 760511
+}

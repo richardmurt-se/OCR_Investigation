@@ -1,0 +1,294 @@
+{
+  "filename": "135786362.pdf",
+  "invoice": {
+    "client_name": "LBrands",
+    "client_address": "",
+    "seller_name": "TOLEDO EDISON",
+    "seller_address": "",
+    "invoice_number": "110054370850",
+    "invoice_date": "06/05/2021",
+    "due_date": "28/05/2021"
+  },
+  "items": [
+    {
+      "description": "Previous Month\nActual Unpaid Principal Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "215.65",
+      "category": null
+    },
+    {
+      "description": "Balance Carry Forward",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Current Month\nBeginning Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Late Fee",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Current Month\nActual Unpaid Principal Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "287.65",
+      "category": null
+    },
+    {
+      "description": "Current Month\nBilled Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "287.65",
+      "category": null
+    },
+    {
+      "description": "Late Fee Adjustment",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Dist-Dse Rider-Dse2",
+      "quantity": "875.00",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Dist-Dsm / Ee1-Engy",
+      "quantity": "875.00",
+      "unit_price": "0.00",
+      "total_price": "1.46",
+      "category": null
+    },
+    {
+      "description": "Non-Market-Based Services Dmd",
+      "quantity": "14.10",
+      "unit_price": "6.70",
+      "total_price": "94.49",
+      "category": null
+    },
+    {
+      "description": "Dist-Ami Rider-Cust Chrg",
+      "quantity": "1.00",
+      "unit_price": "15.52",
+      "total_price": "15.52",
+      "category": null
+    },
+    {
+      "description": "Rider Orr - Demand",
+      "quantity": "14.10",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Gen-Pir Chg-Engy",
+      "quantity": "875.00",
+      "unit_price": "0.00",
+      "total_price": "0.88",
+      "category": null
+    },
+    {
+      "description": "Gener-Dfc Recovery-Engy",
+      "quantity": "875.00",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Gen- Def Gener Cost Rec-Engy",
+      "quantity": "875.00",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Edr (I) Automaker Charge",
+      "quantity": "875.00",
+      "unit_price": "0.00",
+      "total_price": "0.19",
+      "category": null
+    },
+    {
+      "description": "Gener-Edr (E) Std Chrg-Engy",
+      "quantity": "875.00",
+      "unit_price": "0.00",
+      "total_price": "4.21",
+      "category": null
+    },
+    {
+      "description": "Gener-Delta Rev Rec (Oth)-Engy",
+      "quantity": "875.00",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Rider Csr Rate 1 - Demand",
+      "quantity": "5.00",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Rider Csr Rate 1 - Demand",
+      "quantity": "9.10",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Rider Csr Rate 2 - Energy",
+      "quantity": "875.00",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "State Tax - Total Kwh",
+      "quantity": "0.00",
+      "unit_price": "0.00",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Rider Dmr - Demand",
+      "quantity": "14.10",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Rider Dmr - Energy",
+      "quantity": "875.00",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Rider Tsa Energy Based",
+      "quantity": "875.00",
+      "unit_price": "0.00",
+      "total_price": "-3.93",
+      "category": null
+    },
+    {
+      "description": "Rider Gdr - Customer Chg",
+      "quantity": "1.00",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "State Kwh Tax (Cat)-Engy",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "0.04",
+      "category": null
+    },
+    {
+      "description": "State Tax - Total Kwh",
+      "quantity": "",
+      "unit_price": "0.00",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Dist-Customer Chrg",
+      "quantity": "1.00",
+      "unit_price": "7.00",
+      "total_price": "7.00",
+      "category": null
+    },
+    {
+      "description": "Dist-Dmd",
+      "quantity": "5.00",
+      "unit_price": "10.98",
+      "total_price": "10.98",
+      "category": null
+    },
+    {
+      "description": "Dist-Dmd",
+      "quantity": "9.10",
+      "unit_price": "8.04",
+      "total_price": "73.15",
+      "category": null
+    },
+    {
+      "description": "Dist-Reactive Dmd Chrg",
+      "quantity": "11.30",
+      "unit_price": "0.36",
+      "total_price": "4.07",
+      "category": null
+    },
+    {
+      "description": "Dist-Delivery Capital Recovery",
+      "quantity": "14.10",
+      "unit_price": "3.32",
+      "total_price": "46.78",
+      "category": null
+    },
+    {
+      "description": "Dist-Line Extenstion-Engy",
+      "quantity": "875.00",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Dist Uncollectible-Engy",
+      "quantity": "875.00",
+      "unit_price": "0.00",
+      "total_price": "5.18",
+      "category": null
+    },
+    {
+      "description": "Pipp Uncollectible-Engy",
+      "quantity": "875.00",
+      "unit_price": "0.00",
+      "total_price": "0.15",
+      "category": null
+    },
+    {
+      "description": "Rider Lgr Kwh Based",
+      "quantity": "875.00",
+      "unit_price": "0.00",
+      "total_price": "6.98",
+      "category": null
+    },
+    {
+      "description": "Universal Service - Total Kwh",
+      "quantity": "875.00",
+      "unit_price": "0.00",
+      "total_price": "3.34",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "287.65"
+  },
+  "payment_instructions": {
+    "due_date": "28/05/2021",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 9.826,
+  "file_size_bytes": 57610
+}

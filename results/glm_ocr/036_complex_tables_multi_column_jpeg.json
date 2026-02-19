@@ -1,0 +1,8 @@
+{
+  "filename": "036_complex_tables_multi_column.jpeg",
+  "model_name": "glm-ocr",
+  "raw_text": "Payne and Sons\n1880 Sarah Views | Phillipschester, SD 01486\n\nINVOICE\nBILL4588304762\n\nSeller\nPayne and Sons\n1880 Sarah Views, Phillipschester, SD 01486\n\nBuyer\nHutchinson LLC\nUnit 0587 Box 7182, DPO AA 08471\n\nInvoice Details\nNo: BILL4588304762\nDate: 02/23/2022\nDue: 02/14/2026\n\nNo SKU Description Cat Qty Unit Price Disc% Disc$ Tax% Tax$ Net Total\n1 SKU0100 Pre emptive multi state projection ... Serv 1.00 BA 380.71 5% 2.60 10% 38.07 380.71 380.71\n2 SKU0200 Managed explicit simulation Model... Acca 2.00 BA 372.15 8% 4.80 10% 74.23 742.30 742.30\n3 SKU0300 Open architected national encoding ... Soft 4.00 BA 202.68 9% 1.50 10% 81.04 810.40 810.40\n4 SKU0400 Cross platform methodical solution ... Fum 2.00 BA 472.99 6% 1.00 10% 94.60 945.98 945.98\n5 SKU0500 Realigned uniform open architecture... Main 8.00 BA 444.59 8% 4.80 10% 355.67 3 556.72 3 556.72\n6 SKU0600 Intuitive bottom line solution (Diy...) Blac 7.00 BA 380.64 3% 1.10 10% 216.75 2 167.48 2 167.48\n7 SKU0700 Implemented next generation software... Acca 2.00 BA 25.71 10% 4.50 10% 5.14 51.42 51.42\n\nSubtotal: 8 655.01\nTotal Discount: 0.00\nTotal Tax: 865.50\nShipping: 0.00\nGrand Total: 9 520.51\n\nPayment: Hutchman, Brown and Miller Credit Union | Acct: 4FTT1897489917912 | Wire Transfer\nTerms: Net 30 | Payne and Sons | Invoice | BILL4588304762",
+  "processing_time_seconds": 56.196,
+  "file_size_bytes": 66537,
+  "success": true
+}

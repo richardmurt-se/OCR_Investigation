@@ -235,6 +235,60 @@ def round_floats(obj, decimals: int = 3):
     return obj
 
 
+def generate_combined_test_results(config: Config, model_name: str) -> None:
+    """Generate combined_results.json from raw responses in test_results/.
+    
+    Reads each raw JSON file and produces a combined array with document_id,
+    source_filename, extension, page_count, and full text content.
+    
+    Args:
+        config: Configuration object (with test paths)
+        model_name: Name of the OCR model
+    """
+    results_dir = config.get_model_results_path(model_name)
+    raw_dir = results_dir / "raw"
+    
+    if not raw_dir.exists():
+        logger.warning(f"No raw directory found at {raw_dir}")
+        return
+    
+    combined = []
+    
+    for raw_file in sorted(raw_dir.glob("*_raw.json")):
+        try:
+            with open(raw_file, "r", encoding="utf-8") as f:
+                raw = json.load(f)
+            
+            # Extract document_id from filename: e.g., "169574963_pdf_raw.json" -> "169574963"
+            # The stem without _raw is "169574963_pdf", split off the extension part
+            result_key = raw_file.stem.replace("_raw", "")  # "169574963_pdf"
+            parts = result_key.rsplit("_", 1)  # ["169574963", "pdf"]
+            document_id = parts[0] if len(parts) > 1 else result_key
+            extension = parts[1] if len(parts) > 1 else "unknown"
+            
+            source_filename = f"{result_key}.json"
+            page_count = len(raw.get("pages", []))
+            text = raw.get("content", "")
+            
+            combined.append({
+                "document_id": document_id,
+                "source_filename": source_filename,
+                "extension": extension,
+                "page_count": page_count,
+                "text": text,
+            })
+        except Exception as e:
+            logger.error(f"Error reading {raw_file.name}: {e}")
+    
+    # Save to test_results/combined_results.json
+    output_path = config.results_path / "combined_results.json"
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(combined, f, indent=2, ensure_ascii=False)
+    
+    console.print(f"[bold green]Combined results saved to: {output_path}[/bold green]")
+    console.print(f"  {len(combined)} documents, total pages: {sum(d['page_count'] for d in combined)}")
+
+
 def generate_comparison_report(config: Config, model_name: str) -> None:
     """Generate comparison report after OCR processing.
     
@@ -382,12 +436,24 @@ def main():
         action="store_true",
         help="Skip saving raw API responses (raw is saved by default)"
     )
+    parser.add_argument(
+        "--test",
+        action="store_true",
+        help="Process test_dataset/ and save to test_results/ (with combined JSON output)"
+    )
     args = parser.parse_args()
     
     try:
         # Load configuration
         console.print("[dim]Loading configuration...[/dim]")
         config = load_config()
+        
+        # Override paths for test mode
+        if args.test:
+            config.dataset_path = project_root / "test_dataset"
+            config.results_path = project_root / "test_results"
+            config.results_path.mkdir(parents=True, exist_ok=True)
+            console.print("[yellow]Test mode: reading from test_dataset/, saving to test_results/[/yellow]")
         
         # Initialize model
         console.print(f"[dim]Initializing {args.model} model...[/dim]")
@@ -540,6 +606,12 @@ def main():
             console.print()
             console.print("[bold cyan]Generating comparison report...[/bold cyan]")
             generate_comparison_report(config, model_name)
+        
+        # Generate combined test results JSON in test mode
+        if args.test and not args.no_raw:
+            console.print()
+            console.print("[bold cyan]Generating combined test results...[/bold cyan]")
+            generate_combined_test_results(config, model_name)
         
     except Exception as e:
         logger.error(f"Fatal error: {e}")

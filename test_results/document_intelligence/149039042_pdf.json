@@ -1,0 +1,126 @@
+{
+  "filename": "149039042.pdf",
+  "invoice": {
+    "client_name": "BATH & BODY WORKS",
+    "client_address": "P O BOX 182802\nCOLUMBUS, OH 43218",
+    "seller_name": "ComEd\nExelon",
+    "seller_address": "",
+    "invoice_number": "",
+    "invoice_date": "18/11/2022",
+    "due_date": "05/12/2022"
+  },
+  "items": [
+    {
+      "description": "Electricity Supply Charge",
+      "quantity": "85.00",
+      "unit_price": "0.09",
+      "total_price": "7.23",
+      "category": null
+    },
+    {
+      "description": "Transmission Services Charge",
+      "quantity": "85.00",
+      "unit_price": "0.01",
+      "total_price": "1.14",
+      "category": null
+    },
+    {
+      "description": "Purchased Electricity Adjustment",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-0.43",
+      "category": null
+    },
+    {
+      "description": "Customer Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "17.21",
+      "category": null
+    },
+    {
+      "description": "Standard Metering Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "5.70",
+      "category": null
+    },
+    {
+      "description": "Distribution Facilities Charge",
+      "quantity": "0.70",
+      "unit_price": "8.31",
+      "total_price": "5.82",
+      "category": null
+    },
+    {
+      "description": "IL Electricity Distribution Charge",
+      "quantity": "85.00",
+      "unit_price": "0.00",
+      "total_price": "0.11",
+      "category": null
+    },
+    {
+      "description": "Environmental Cost Recovery Adj",
+      "quantity": "85.00",
+      "unit_price": "0.00",
+      "total_price": "0.03",
+      "category": null
+    },
+    {
+      "description": "Renewable Portfolio Standard",
+      "quantity": "85.00",
+      "unit_price": "0.01",
+      "total_price": "0.43",
+      "category": null
+    },
+    {
+      "description": "Zero Emission Standard",
+      "quantity": "85.00",
+      "unit_price": "0.00",
+      "total_price": "0.17",
+      "category": null
+    },
+    {
+      "description": "Carbon-Free Energy Resource Adj",
+      "quantity": "85.00",
+      "unit_price": "-0.04",
+      "total_price": "-3.50",
+      "category": null
+    },
+    {
+      "description": "Energy Efficiency Programs",
+      "quantity": "85.00",
+      "unit_price": "0.00",
+      "total_price": "0.31",
+      "category": null
+    },
+    {
+      "description": "Energy Transition Assistance",
+      "quantity": "85.00",
+      "unit_price": "0.00",
+      "total_price": "0.07",
+      "category": null
+    },
+    {
+      "description": "Franchise Cost",
+      "quantity": "23.51",
+      "unit_price": "",
+      "total_price": "0.41",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "-1.46",
+    "discount": "",
+    "total": "35.32"
+  },
+  "payment_instructions": {
+    "due_date": "05/12/2022",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.485,
+  "file_size_bytes": 426663
+}

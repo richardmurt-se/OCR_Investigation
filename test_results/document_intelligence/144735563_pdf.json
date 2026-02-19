@@ -1,0 +1,231 @@
+{
+  "filename": "144735563.pdf",
+  "invoice": {
+    "client_name": "WALL FINANCIAL CORP\nDBA WALL CENTRE",
+    "client_address": "5TH FLOOR\n1088 BURRARD ST\nVANCOUVER BC\nV6Z\n2R9",
+    "seller_name": "# BC Hydro",
+    "seller_address": "",
+    "invoice_number": "400003508234",
+    "invoice_date": "03/09/2021",
+    "due_date": "24/09/2021"
+  },
+  "items": [
+    {
+      "description": "Previous bill.",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "6 516.72",
+      "category": null
+    },
+    {
+      "description": "Payment received Aug 24, 2021",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-6 516.72",
+      "category": null
+    },
+    {
+      "description": "Member account charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "28 496.57",
+      "category": null
+    },
+    {
+      "description": "Transformer Owner discount ..",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-237.00",
+      "category": null
+    },
+    {
+      "description": "Power factor of 93%: Surcharge of 0% on electricity charges.",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Transformer Owner discount.",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-247.00",
+      "category": null
+    },
+    {
+      "description": "Power factor of 93%: Surcharge of 0% on electricity charges.",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Security deposit interest",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-1.23",
+      "category": null
+    },
+    {
+      "description": "Basic Charge 62 days @ $0.3622 /day ..",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "22.46",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "905.00",
+      "unit_price": "0.12",
+      "total_price": "112.67",
+      "category": null
+    },
+    {
+      "description": "Basic Charge",
+      "quantity": "32.00",
+      "unit_price": "0.27",
+      "total_price": "8.50",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "115920.00",
+      "unit_price": "0.06",
+      "total_price": "6 978.38",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "332.00",
+      "unit_price": "12.26",
+      "total_price": "4 070.32",
+      "category": null
+    },
+    {
+      "description": "Basic Charge 30 days @\n/day ..\nkWh @\nkW @\n/kW.",
+      "quantity": "107280.00",
+      "unit_price": "0.06",
+      "total_price": "7.98",
+      "category": null
+    },
+    {
+      "description": "Power factor of 96%: Surcharge of 0% on electricity charges.",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Basic Charge 62 days @",
+      "quantity": "",
+      "unit_price": "0.36",
+      "total_price": "22.46",
+      "category": null
+    },
+    {
+      "description": "/kWh.",
+      "quantity": "",
+      "unit_price": "0.12",
+      "total_price": "2 559.72",
+      "category": null
+    },
+    {
+      "description": "Power factor of 92%: Surcharge of 0% on electricity charges ..",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Basic Charge 62 days @\n/day.\n6,720 kWh @\n/kWh",
+      "quantity": "",
+      "unit_price": "0.12",
+      "total_price": "22.46",
+      "category": null
+    },
+    {
+      "description": "Power factor of 99%: Surcharge of 0% on electricity charges.",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Basic Charge 62 days @\n/day\n16,720 kWh @\n/kWh",
+      "quantity": "",
+      "unit_price": "0.36",
+      "total_price": "22.46",
+      "category": null
+    },
+    {
+      "description": "Power factor of 86%: Surcharge of 0% on electricity charges.",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Basic Charge\ndays @\nkWh @\n/kWh",
+      "quantity": "62.00",
+      "unit_price": "0.12",
+      "total_price": "22.46",
+      "category": null
+    },
+    {
+      "description": "Basic Charge 62 days @",
+      "quantity": "",
+      "unit_price": "0.36",
+      "total_price": "22.46",
+      "category": null
+    },
+    {
+      "description": "kWh",
+      "quantity": "2693.00",
+      "unit_price": "0.12",
+      "total_price": "335.28",
+      "category": null
+    },
+    {
+      "description": "Basic Charge 62 days @",
+      "quantity": "",
+      "unit_price": "0.36",
+      "total_price": "22.46",
+      "category": null
+    },
+    {
+      "description": "@",
+      "quantity": "702.00",
+      "unit_price": "0.12",
+      "total_price": "87.40",
+      "category": null
+    },
+    {
+      "description": "Basic Charge\ndays @\n@",
+      "quantity": "5784.00",
+      "unit_price": "0.36",
+      "total_price": "720.11",
+      "category": null
+    },
+    {
+      "description": "Transformer Owner discount.",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-342.00",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "-248.85",
+    "tax": "1 373.34",
+    "discount": "",
+    "total": "-248.85"
+  },
+  "payment_instructions": {
+    "due_date": "24/09/2021",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 13.276,
+  "file_size_bytes": 265332
+}

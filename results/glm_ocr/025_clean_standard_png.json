@@ -1,0 +1,8 @@
+{
+  "filename": "025_clean_standard.png",
+  "model_name": "glm-ocr",
+  "raw_text": "Hughes-Rodriguez\nPSC 9371, Box 4400 | APO AP 48442\n\nINVOICE\nNo: INV/1311296\nDate: 03/08/2025\nDue: 03/06/2026\n\nFROM\nHughes-Rodriguez\nPSC 9371, Box 4400\nAPO AP 48442\n\nBILL TO\nSmith and Sons\nPSC 7526, Box 0590\nAPO AA 49709\n\n# Description Quantity Unit Price Amount\n1 Versatile user-facing knowledgebase 5.00 21.56 107.80\n2 Balanced multi-state architecture 4.00 339.71 1 358.84\n3 Configurable multi-state leverage 10.00 201.80 2 018.00\n4 Balanced bandwidth-monitored benchmark 5.00 11.79 58.95\n5 Proactive system-worthy protocol 6.00 125.58 753.48\n6 Cross-platform 4thgeneration conglomeration 1.00 53.24 53.24\n\nSubtotal 4 350.31\nTax (10%) 435.03\nDiscount -217.52\nTotal Due 4 567.82\n\nPAYMENT INFORMATION\nBank: Atkinson-Diaz Credit Union\nAccount: GYL109808127807323\nMethod: Wire Transfer\n\nThank you for your business",
+  "processing_time_seconds": 47.866,
+  "file_size_bytes": 34028,
+  "success": true
+}

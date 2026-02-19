@@ -1,0 +1,8 @@
+{
+  "content": "Thornton-Ramirez\n6435 Acosta Brook | Brownhaven, AL T0006\n\nINVOICE\nNo: INV83974837\nDate: 12/24/2024\nDue: 02/23/2026\n\nFROM\nThornton-Ramirez\n6435 Acosta Brook\nBrownhaven, AL T0006\n\nBILL TO\nGriffin, George and Obrien\n49120 Hart Fields Suite 330\nWest Krystal, GU 00413\n\n# Description Quantity Unit Price Amount\n1 Customer-focused full-range instruction set 3.00 360.96 1 082.88\n2 Pre-emptive uniform throughput 3.00 362.33 1 088.99\n3 Self-enabling leadingedge knowledge user 8.00 282.34 2 258.72\n4 Distributed interactive infrastructure 10.00 125.66 1 256.60\n5 Mandatory system-worthy instruction set 5.00 165.22 826.10\n\nSubtotal 6 511.29\nTax (10%) 651.13\nDiscount -651.13\nTotal Due 6 511.29\n\nPAYMENT INFORMATION\nBank: Jones PLC Bank\nAccount: NZWK12170915628833\nMethod: Wire Transfer\n\nThank you for your business",
+  "detections": [
+    {
+      "text": "Thornton-Ramirez\n6435 Acosta Brook | Brownhaven, AL T0006\n\nINVOICE\nNo: INV83974837\nDate: 12/24/2024\nDue: 02/23/2026\n\nFROM\nThornton-Ramirez\n6435 Acosta Brook\nBrownhaven, AL T0006\n\nBILL TO\nGriffin, George and Obrien\n49120 Hart Fields Suite 330\nWest Krystal, GU 00413\n\n# Description Quantity Unit Price Amount\n1 Customer-focused full-range instruction set 3.00 360.96 1 082.88\n2 Pre-emptive uniform throughput 3.00 362.33 1 088.99\n3 Self-enabling leadingedge knowledge user 8.00 282.34 2 258.72\n4 Distributed interactive infrastructure 10.00 125.66 1 256.60\n5 Mandatory system-worthy instruction set 5.00 165.22 826.10\n\nSubtotal 6 511.29\nTax (10%) 651.13\nDiscount -651.13\nTotal Due 6 511.29\n\nPAYMENT INFORMATION\nBank: Jones PLC Bank\nAccount: NZWK12170915628833\nMethod: Wire Transfer\n\nThank you for your business"
+    }
+  ]
+}

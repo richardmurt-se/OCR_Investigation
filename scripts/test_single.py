@@ -204,6 +204,11 @@ def main():
         action="store_true",
         help="Print raw API response"
     )
+    parser.add_argument(
+        "--save", "-s",
+        action="store_true",
+        help="Save parsed and raw results as JSON files to results/document_intelligence/"
+    )
     args = parser.parse_args()
     
     try:
@@ -240,6 +245,34 @@ def main():
             print("=" * 60)
             raw = model.get_raw_response(file_path)
             print(json.dumps(raw, indent=2, default=str))
+        
+        # Save results as JSON files
+        if args.save:
+            raw = model.get_raw_response(file_path)
+            
+            # Build filenames matching project convention: {stem}_{ext}.json
+            ext = file_path.suffix.lstrip(".")
+            result_key = f"{file_path.stem}_{ext}"
+            
+            # Use test_results/ if the file came from test_dataset/
+            if "test_dataset" in str(file_path):
+                results_dir = project_root / "test_results" / "document_intelligence"
+            else:
+                results_dir = config.get_model_results_path("document_intelligence")
+            raw_dir = results_dir / "raw"
+            raw_dir.mkdir(parents=True, exist_ok=True)
+            
+            # Save parsed result
+            parsed_path = results_dir / f"{result_key}.json"
+            with open(parsed_path, "w", encoding="utf-8") as f:
+                json.dump(result, f, indent=2, default=str)
+            print(f"\nParsed result saved to: {parsed_path}")
+            
+            # Save raw response
+            raw_path = raw_dir / f"{result_key}_raw.json"
+            with open(raw_path, "w", encoding="utf-8") as f:
+                json.dump(raw, f, indent=2, default=str)
+            print(f"Raw response saved to: {raw_path}")
         
         # Exit with appropriate code
         sys.exit(0 if accuracy >= 50 else 1)

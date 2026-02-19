@@ -1,0 +1,217 @@
+{
+  "filename": "161919498.pdf",
+  "invoice": {
+    "client_name": "JP Morgan Chase",
+    "client_address": "",
+    "seller_name": "SOUTHERN CALIFORNIA EDISON",
+    "seller_address": "",
+    "invoice_number": "700320414080",
+    "invoice_date": "05/03/2024",
+    "due_date": "25/03/2024"
+  },
+  "items": [
+    {
+      "description": "Current Month\nActual Unpaid Principal Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 717.36",
+      "category": null
+    },
+    {
+      "description": "Previous Month\nBilled Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 718.05",
+      "category": null
+    },
+    {
+      "description": "Previous Month\nTotal Payment Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-1 718.05",
+      "category": null
+    },
+    {
+      "description": "Current Month\nBilled Amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 717.36",
+      "category": null
+    },
+    {
+      "description": "Late Fee\nLate\nAdjustment",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Customer Charge-Delivery",
+      "quantity": "28.00",
+      "unit_price": "220.78",
+      "total_price": "193.18",
+      "category": null
+    },
+    {
+      "description": "Customer Charge-Delivery",
+      "quantity": "4.00",
+      "unit_price": "226.01",
+      "total_price": "28.25",
+      "category": null
+    },
+    {
+      "description": "Wildfire Fund Charge-Delivery",
+      "quantity": "6498.00",
+      "unit_price": "0.01",
+      "total_price": "36.46",
+      "category": null
+    },
+    {
+      "description": "Mid Peak-Delivery",
+      "quantity": "21.00",
+      "unit_price": "2.57",
+      "total_price": "47.22",
+      "category": null
+    },
+    {
+      "description": "Mid Peak-Delivery",
+      "quantity": "21.00",
+      "unit_price": "2.63",
+      "total_price": "6.90",
+      "category": null
+    },
+    {
+      "description": "Mid Peak-Scegen",
+      "quantity": "21.00",
+      "unit_price": "6.76",
+      "total_price": "124.22",
+      "category": null
+    },
+    {
+      "description": "Mid Peak-Scegen",
+      "quantity": "21.00",
+      "unit_price": "6.77",
+      "total_price": "17.77",
+      "category": null
+    },
+    {
+      "description": "Mid Peak-Delivery",
+      "quantity": "1209.00",
+      "unit_price": "0.04",
+      "total_price": "53.55",
+      "category": null
+    },
+    {
+      "description": "Mid Peak-Delivery",
+      "quantity": "165.00",
+      "unit_price": "0.04",
+      "total_price": "7.40",
+      "category": null
+    },
+    {
+      "description": "Off Peak-Delivery",
+      "quantity": "2159.00",
+      "unit_price": "0.04",
+      "total_price": "92.36",
+      "category": null
+    },
+    {
+      "description": "Off Peak-Delivery",
+      "quantity": "265.00",
+      "unit_price": "0.04",
+      "total_price": "11.48",
+      "category": null
+    },
+    {
+      "description": "Super Off Peak-Delivery",
+      "quantity": "2398.00",
+      "unit_price": "0.04",
+      "total_price": "100.50",
+      "category": null
+    },
+    {
+      "description": "Super Off Peak-Delivery",
+      "quantity": "302.00",
+      "unit_price": "0.04",
+      "total_price": "12.81",
+      "category": null
+    },
+    {
+      "description": "Mid Peak-Scegen",
+      "quantity": "1209.00",
+      "unit_price": "0.09",
+      "total_price": "113.27",
+      "category": null
+    },
+    {
+      "description": "Mid Peak-Scegen",
+      "quantity": "165.00",
+      "unit_price": "0.09",
+      "total_price": "15.48",
+      "category": null
+    },
+    {
+      "description": "Off Peak-Scegen",
+      "quantity": "2159.00",
+      "unit_price": "0.09",
+      "total_price": "203.49",
+      "category": null
+    },
+    {
+      "description": "Off Peak-Scegen",
+      "quantity": "265.00",
+      "unit_price": "0.09",
+      "total_price": "25.01",
+      "category": null
+    },
+    {
+      "description": "Super Off Peak-Scegen",
+      "quantity": "2398.00",
+      "unit_price": "0.05",
+      "total_price": "118.65",
+      "category": null
+    },
+    {
+      "description": "Super Off Peak-Scegen",
+      "quantity": "302.00",
+      "unit_price": "0.05",
+      "total_price": "14.96",
+      "category": null
+    },
+    {
+      "description": "Fixed Recovery Charge-Delivery",
+      "quantity": "6498.00",
+      "unit_price": "0.00",
+      "total_price": "8.90",
+      "category": null
+    },
+    {
+      "description": "Facilities Rel Demand-Delivery",
+      "quantity": "21.00",
+      "unit_price": "22.97",
+      "total_price": "422.07",
+      "category": null
+    },
+    {
+      "description": "Facilities Rel Demand-Delivery",
+      "quantity": "21.00",
+      "unit_price": "23.42",
+      "total_price": "61.48",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "1.95",
+    "discount": "",
+    "total": "1 717.36"
+  },
+  "payment_instructions": {
+    "due_date": "25/03/2024",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.574,
+  "file_size_bytes": 47470
+}

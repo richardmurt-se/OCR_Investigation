@@ -1,0 +1,8 @@
+{
+  "filename": "151_effect_hole_punches.png",
+  "model_name": "deepseek-ocr-2",
+  "raw_text": "<|ref|>sub_title<|/ref|><|det|>[[22, 131, 70, 144]]<|/det|>\n## FROM\n\n<|ref|>text<|/ref|><|det|>[[22, 149, 238, 188]]<|/det|>\nWiley, Anderson and Mendez\n123 William Junctions Suite 230\nEricmount, HI 47792\n\n<|ref|>sub_title<|/ref|><|det|>[[540, 131, 600, 145]]<|/det|>\n## BILL TO\n\n<|ref|>text<|/ref|><|det|>[[540, 149, 744, 188]]<|/det|>\nWarren, Turner and Gordon\nUSNS Schneider\nFPO AA 05588\n\n<|ref|>table<|/ref|><|det|>[[23, 211, 973, 433]]<|/det|>\n<table><tr><td>#</td><td>Description</td><td>Quantity</td><td>Unit Price</td><td>Amount</td></tr><tr><td>1</td><td>Universal content-based structure</td><td>7.00</td><td>39.43</td><td>276.01</td></tr><tr><td>2</td><td>Intuitive bandwidth-monitored ability</td><td>1.00</td><td>428.83</td><td>428.83</td></tr><tr><td>3</td><td>Total zero tolerance firmware</td><td>2.00</td><td>372.84</td><td>745.68</td></tr><tr><td></td><td></td><td></td><td>Subtotal</td><td>1 450.52</td></tr><tr><td></td><td></td><td></td><td>Tax (10%)</td><td>145.05</td></tr><tr><td></td><td></td><td></td><td>Discount</td><td>-72.53</td></tr><tr><td></td><td></td><td></td><td>Total Due</td><td>1 523.04</td></tr></table>\n\n<|ref|>text<|/ref|><|det|>[[36, 466, 196, 479], [35, 483, 216, 496]]<|/det|>\nPAYMENT INFORMATION\nMoore Inc Credit Union\n\n<|ref|>text<|/ref|><|det|>[[35, 496, 234, 508], [35, 508, 123, 521]]<|/det|>\nAccount: XKCY85770600207671\nMethod: ACH\n\n<|ref|>text<|/ref|><|det|>[[424, 558, 572, 571]]<|/det|>\nThank you for your business",
+  "processing_time_seconds": 19.565,
+  "file_size_bytes": 32915,
+  "success": true
+}

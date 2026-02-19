@@ -1,0 +1,91 @@
+{
+  "filename": "150948711.pdf",
+  "invoice": {
+    "client_name": "Mohawk Carpet, LLC",
+    "client_address": "160 S. Industrial Blvd\nCalhoun, GA 30703",
+    "seller_name": "SeDF",
+    "seller_address": "",
+    "invoice_number": "6635564",
+    "invoice_date": "13/01/2023",
+    "due_date": "30/01/2023"
+  },
+  "items": [
+    {
+      "description": "Supply Charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "939.46",
+      "category": null
+    },
+    {
+      "description": "Settlement Charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "298.74",
+      "category": null
+    },
+    {
+      "description": "Energy Imbalance Charge",
+      "quantity": "10850.62",
+      "unit_price": "0.09",
+      "total_price": "931.95",
+      "category": null
+    },
+    {
+      "description": "Retail Adder",
+      "quantity": "9878.00",
+      "unit_price": "0.00",
+      "total_price": "7.51",
+      "category": null
+    },
+    {
+      "description": "Ancillaries & Settlement Charges/Credits",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "15.81",
+      "category": null
+    },
+    {
+      "description": "Capacity Charge",
+      "quantity": "45.84",
+      "unit_price": "0.10",
+      "total_price": "152.65",
+      "category": null
+    },
+    {
+      "description": "Renewable Portfolio Standards Charge",
+      "quantity": "7755.56",
+      "unit_price": "0.00",
+      "total_price": "33.76",
+      "category": null
+    },
+    {
+      "description": "Renewable Portfolio Standards Charge",
+      "quantity": "2122.44",
+      "unit_price": "0.00",
+      "total_price": "9.96",
+      "category": null
+    },
+    {
+      "description": "Transmission Charge",
+      "quantity": "40.40",
+      "unit_price": "0.06",
+      "total_price": "86.56",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "1 238.20",
+    "tax": "74.29",
+    "discount": "",
+    "total": "2 138.06"
+  },
+  "payment_instructions": {
+    "due_date": "30/01/2023",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.567,
+  "file_size_bytes": 120433
+}

@@ -1,0 +1,273 @@
+{
+  "filename": "114249675.pdf",
+  "invoice": {
+    "client_name": "BANCO BRADESCO SA",
+    "client_address": "RUA DES PEDRO RIBEIRO 49 ZZ AP-0049",
+    "seller_name": "COELBA",
+    "seller_address": "AV.EDGARD SANTOS, 300,\nCABULA VI, SALVADOR, BAHIA",
+    "invoice_number": "333970280",
+    "invoice_date": "23/11/2018",
+    "due_date": "10/12/2018"
+  },
+  "items": [
+    {
+      "description": "Demanda Ativa(kW)",
+      "quantity": "77.84",
+      "unit_price": "36.08",
+      "total_price": "2 808.81",
+      "category": null
+    },
+    {
+      "description": "Demanda Ativa Ultrapassagem(kW)",
+      "quantity": "17.84",
+      "unit_price": "72.17",
+      "total_price": "1 287.49",
+      "category": null
+    },
+    {
+      "description": "Demanda Reativa Excedente.(kVAR)",
+      "quantity": "0.00",
+      "unit_price": "36.08",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Consumo Ativo Na Ponta(kWh",
+      "quantity": "234.95",
+      "unit_price": "2.91",
+      "total_price": "684.25",
+      "category": null
+    },
+    {
+      "description": "Consumo Ativo Fora Ponta(kWh)",
+      "quantity": "4341.90",
+      "unit_price": "0.45",
+      "total_price": "1 940.87",
+      "category": null
+    },
+    {
+      "description": "Consumo Ativo Na Ponta(kWh)",
+      "quantity": "390.08",
+      "unit_price": "2.85",
+      "total_price": "1 113.00",
+      "category": null
+    },
+    {
+      "description": "Consumo Ativo Fora Ponta(kWh)",
+      "quantity": "9844.92",
+      "unit_price": "0.39",
+      "total_price": "3 819.35",
+      "category": null
+    },
+    {
+      "description": "Consumo Reativo Exc. Na Ponta(kVARh)",
+      "quantity": "0.00",
+      "unit_price": "0.33",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Consumo Reativo Exc. Fora Ponta(kVARh)",
+      "quantity": "0.00",
+      "unit_price": "0.33",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Contrib. Ilum. Pública Municipal",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "143.65",
+      "category": null
+    },
+    {
+      "description": "Consumo Ativo Na Ponta",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "380.57",
+      "category": null
+    },
+    {
+      "description": "Consumo Ativo Fora de Ponta",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "9 604.80",
+      "category": null
+    },
+    {
+      "description": "Demanda Máxima Na Ponta",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "45.41",
+      "category": null
+    },
+    {
+      "description": "Demanda Máxima Fora de Ponta",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "75.94",
+      "category": null
+    },
+    {
+      "description": "Consumo Reativo Na Ponta",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "89.38",
+      "category": null
+    },
+    {
+      "description": "Consumo Reativo Fora de Ponta",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2 680.80",
+      "category": null
+    },
+    {
+      "description": "Consumo Reativo Excedente Na Ponta",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Consumo Reativo Excedente Fora de Ponta",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Demanda Máxima Corrigida Na Ponta",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "29.30",
+      "category": null
+    },
+    {
+      "description": "Demanda Máxima Corrigida Fora de Ponta",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "65.78",
+      "category": null
+    },
+    {
+      "description": "Consumo Ativo Na Ponta",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "229.22",
+      "category": null
+    },
+    {
+      "description": "Consumo Ativo Fora de Ponta",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "4 236.00",
+      "category": null
+    },
+    {
+      "description": "Demanda Máxima Na Ponta",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Demanda Máxima Fora de Ponta",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Consumo Reativo Na Ponta",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "43.08",
+      "category": null
+    },
+    {
+      "description": "Consumo Reativo Fora de Ponta",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 149.60",
+      "category": null
+    },
+    {
+      "description": "Consumo Reativo Excedente Na Ponta",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Consumo Reativo Excedente Fora de Ponta",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Demanda Máxima Corrigida Na Ponta",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Demanda Máxima Corrigida Fora de Ponta",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "16.04",
+      "category": null
+    },
+    {
+      "description": "DIC - Nº. de horas sem Energia",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "FIC - Nº. de vezes sem Energia",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "DMIC - Duração máxima de interrupção contínua",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "DICRI - Duração de\nem dia crítico",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "11 797.42"
+  },
+  "payment_instructions": {
+    "due_date": "10/12/2018",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 9.861,
+  "file_size_bytes": 84529
+}

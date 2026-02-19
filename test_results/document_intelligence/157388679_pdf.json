@@ -1,0 +1,91 @@
+{
+  "filename": "157388679.pdf",
+  "invoice": {
+    "client_name": "DISCOUNT TIRE\nC/O ENGIE INSIGHT, MS 930",
+    "client_address": "SPOKANE, WA 99210 -- 2440",
+    "seller_name": "Direct\nEnergy\nBusiness",
+    "seller_address": "1001 Liberty Avenue\nPittsburgh, PA 15222",
+    "invoice_number": "232580052593069",
+    "invoice_date": "15/09/2023",
+    "due_date": "02/10/2023"
+  },
+  "items": [
+    {
+      "description": "Fixed Price - 10,920 kWh Total @$0.04939/kWh",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "539.34",
+      "category": null
+    },
+    {
+      "description": "Market Securitization: Uplift - 10,920 kWh Total @ $0.000433",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "4.73",
+      "category": null
+    },
+    {
+      "description": "ERCOT Cont Reserve Serv (ECRS) - 10,920 kWh Total @$0.01056",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "115.33",
+      "category": null
+    },
+    {
+      "description": "BILLING CHARGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "3.60",
+      "category": null
+    },
+    {
+      "description": "ENERGY EFFICIENCY COST RECOVERY FACTOR",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "13.28",
+      "category": null
+    },
+    {
+      "description": "DISTRIBUTION FACILITY CHARGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "183.22",
+      "category": null
+    },
+    {
+      "description": "DISTRIBUTION COST RECOVERY FACTOR",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "57.73",
+      "category": null
+    },
+    {
+      "description": "TRANSMISSION COST RECOVERY FACTOR",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "144.03",
+      "category": null
+    },
+    {
+      "description": "State PUC Assessment",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.80",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "1 082.22",
+    "tax": "114.63",
+    "discount": "",
+    "total": "1 196.85"
+  },
+  "payment_instructions": {
+    "due_date": "02/10/2023",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 9.898,
+  "file_size_bytes": 66170
+}

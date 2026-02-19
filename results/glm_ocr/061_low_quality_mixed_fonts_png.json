@@ -1,0 +1,8 @@
+{
+  "filename": "061_low_quality_mixed_fonts.png",
+  "model_name": "glm-ocr",
+  "raw_text": "Smith LLC\n03785 Dorothy Lodge | Brownland, IA 11619\n\nINVOICE\nNo: INV/6101357022 | Date: 02/06/2024\n\nFrom (Seller)\nSmith LLC\n03785 Dorothy Lodge\nBrownland, IA 11619\n\nTo (Buyer)\nCohen-Briggs\n14926 Peyton Grass\nWest Christchurchaven, AK 40732\n\nInvoice Details\nNumber: INV/6101357022\nDate: 02/06/2024\nDue: 02/24/2026\n\n# Description Qty Price Total\n1 Ergonomic regional application 8.00 158.73 1269.84\n2 Organic heuristic parallelism 10.00 128.19 1281.90\n3 Persistent foreground customer loyalty 4.00 410.54 1642.16\n4 Digitized interactive frame 10.00 47.75 477.50\n\nSubtotal: 4 671.40\nTax (10%): 467.14\nDiscount: -283.57\nTOTAL DUE: 4 904.97\n\nPayment Information:\nBank: Pollard LLC Financial\nAccount: DSMZ01599927139785\nMethod: ACH\n\nThank you for your business!\nSmith LLC | Invoice #INV/6101357022 | 02/06/2024",
+  "processing_time_seconds": 47.893,
+  "file_size_bytes": 35163,
+  "success": true
+}

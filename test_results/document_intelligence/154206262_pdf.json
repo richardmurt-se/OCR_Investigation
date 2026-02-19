@@ -1,0 +1,70 @@
+{
+  "filename": "154206262.pdf",
+  "invoice": {
+    "client_name": "RESIDENCE INN #11034\nINKEEPERS HOSPITALITY",
+    "client_address": "PO BOX 2440\nSPOKANE, WA 99210",
+    "seller_name": "LYNNWOOD\nWASHINGTON",
+    "seller_address": "19100 44TH AVE W",
+    "invoice_number": "421729",
+    "invoice_date": "30/03/2023",
+    "due_date": "27/04/2023"
+  },
+  "items": [
+    {
+      "description": "WATER BASE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "149.22",
+      "category": null
+    },
+    {
+      "description": "WATER USAGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "438.90",
+      "category": null
+    },
+    {
+      "description": "SEWER BASE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "256.75",
+      "category": null
+    },
+    {
+      "description": "SEWER USAGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "614.65",
+      "category": null
+    },
+    {
+      "description": "TAX - WATER",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "35.29",
+      "category": null
+    },
+    {
+      "description": "TAX - SEWER",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "52.28",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "1 547.09"
+  },
+  "payment_instructions": {
+    "due_date": "27/04/2023",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.685,
+  "file_size_bytes": 78924
+}

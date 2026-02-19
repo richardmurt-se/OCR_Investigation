@@ -1,0 +1,112 @@
+{
+  "filename": "123293618.pdf",
+  "invoice": {
+    "client_name": "CROWN CORK & SEAL M",
+    "client_address": "PO BOX 182184\nCOLUMBUS OH 43218-2184",
+    "seller_name": "Nicor Gas",
+    "seller_address": "P.O. Box 190 Aurora, IL 60507-0190",
+    "invoice_number": "12139",
+    "invoice_date": "02/10/2019",
+    "due_date": "17/10/2019"
+  },
+  "items": [
+    {
+      "description": "TRANSPORTATION ADMINISTRATION",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "8.00",
+      "category": null
+    },
+    {
+      "description": "MONTHLY CUSTOMER CHARGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "170.63",
+      "category": null
+    },
+    {
+      "description": "RECORDING DEVICE CHARGE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "16.00",
+      "category": null
+    },
+    {
+      "description": "ENERGY EFFICIENCY PROGRAMS",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "357.87",
+      "category": null
+    },
+    {
+      "description": "FRANCHISE COST ADJUSTMENT",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.15",
+      "category": null
+    },
+    {
+      "description": "STORAGE BANKING SERVICE CHARGE",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "644.19",
+      "category": null
+    },
+    {
+      "description": "ENVIRONMENT COST",
+      "quantity": "",
+      "unit_price": "0.00",
+      "total_price": "112.81",
+      "category": null
+    },
+    {
+      "description": "TRANSPORTATION SERV ADJUSTMENT",
+      "quantity": "",
+      "unit_price": "-0.00",
+      "total_price": "-3.89",
+      "category": null
+    },
+    {
+      "description": "QUALIFYING INFRASTRUCTURE CHRG",
+      "quantity": "",
+      "unit_price": "0.12",
+      "total_price": "223.74",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "4 687.33",
+      "category": null
+    },
+    {
+      "description": "Previous Account Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "4 739.99",
+      "category": null
+    },
+    {
+      "description": "Payment Received, Thank you!",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-4 739.99",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "2 584.18",
+    "tax": "",
+    "discount": "",
+    "total": "4 687.33"
+  },
+  "payment_instructions": {
+    "due_date": "17/10/2019",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 11.89,
+  "file_size_bytes": 1005791
+}

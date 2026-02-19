@@ -1,0 +1,35 @@
+{
+  "filename": "132220962.pdf",
+  "invoice": {
+    "client_name": "RTM Georgia, Inc. dba Arby's\nc/o Advantage IQ MS 2071",
+    "client_address": "P.O. Box 2440\nSpokane, WA 99210-2440",
+    "seller_name": "Adler Properties, LLC",
+    "seller_address": "1418 Dresden Drive, Suite 200\nAtlanta, GA 30319",
+    "invoice_number": "",
+    "invoice_date": "02/11/2020",
+    "due_date": "22/11/2020"
+  },
+  "items": [
+    {
+      "description": "Tenant Water Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "17 064.00",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "381.51"
+  },
+  "payment_instructions": {
+    "due_date": "22/11/2020",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.411,
+  "file_size_bytes": 42720
+}

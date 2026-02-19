@@ -1,0 +1,49 @@
+{
+  "filename": "168774567.pdf",
+  "invoice": {
+    "client_name": "CIRCLE K STORES INC\nCIRCLE K 738800 MS 1",
+    "client_address": "PO BOX 182487\nCOLUMBUS, OH 43218-2487",
+    "seller_name": "Piedmont\nNatural Gas®",
+    "seller_address": "PO Box 1090\nCharlotte, NC 28201-1090",
+    "invoice_number": "",
+    "invoice_date": "13/09/2024",
+    "due_date": "Sep 30"
+  },
+  "items": [
+    {
+      "description": "Previous bill amount",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "23.54",
+      "category": null
+    },
+    {
+      "description": "Payment(s) received as of Sep 12 - thank you",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-23.54",
+      "category": null
+    },
+    {
+      "description": "Gas - Current month charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "22.00",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "1.54",
+    "discount": "",
+    "total": "23.54"
+  },
+  "payment_instructions": {
+    "due_date": "Sep 30",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 10.864,
+  "file_size_bytes": 129616
+}

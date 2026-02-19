@@ -1,0 +1,8 @@
+{
+  "content": "Kemp-Greene\n4061 Kelly Looks | Smithtown, VI 49048\n\nINVOICE\nNo BILL-42197146\nDate: 060602025\n\nFROM\nKemp-Greene\n4061 Kelly Looks\nSmithtown, VI 49048\n\nBILL TO\nGamble-Lynn\n1552 Ein Fort\nNorth Divisna, OK 23882\n\nDescription Quantity Unit Price Amount\n1 Focused fault-tolerant benchmark 2.00 325.04 682.05\n2 Centralized didactic approach 8.00 490.21 3 966.40\n3 Profit-focused contact-sensitive architecture 6.00 359.40 2 156.40\n\nSubtotal 6 704.96\nTax (10%) 676.50\nDiscount 478.50\nTotal Due 6 704.96\n\nThank you for your business",
+  "detections": [
+    {
+      "text": "Kemp-Greene\n4061 Kelly Looks | Smithtown, VI 49048\n\nINVOICE\nNo BILL-42197146\nDate: 060602025\n\nFROM\nKemp-Greene\n4061 Kelly Looks\nSmithtown, VI 49048\n\nBILL TO\nGamble-Lynn\n1552 Ein Fort\nNorth Divisna, OK 23882\n\nDescription Quantity Unit Price Amount\n1 Focused fault-tolerant benchmark 2.00 325.04 682.05\n2 Centralized didactic approach 8.00 490.21 3 966.40\n3 Profit-focused contact-sensitive architecture 6.00 359.40 2 156.40\n\nSubtotal 6 704.96\nTax (10%) 676.50\nDiscount 478.50\nTotal Due 6 704.96\n\nThank you for your business"
+    }
+  ]
+}

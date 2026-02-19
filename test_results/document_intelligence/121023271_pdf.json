@@ -1,0 +1,56 @@
+{
+  "filename": "121023271.pdf",
+  "invoice": {
+    "client_name": "WELLS FARGO\nC/O CASS INFORMATION SYSTEMS",
+    "client_address": "PO BOX 183079\nCOLUMBUS OH 43218-3079",
+    "seller_name": "AMELIA\nAMELIA COUNTY TREASU\nCOUNTY\nGINIA",
+    "seller_address": "PO BOX 730\nAMELIA VA 23002-0730",
+    "invoice_number": "",
+    "invoice_date": "08/07/2019",
+    "due_date": "31/07/2019"
+  },
+  "items": [
+    {
+      "description": "PB Prev Bal",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "38.00",
+      "category": null
+    },
+    {
+      "description": "CR Credit",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-38.00",
+      "category": null
+    },
+    {
+      "description": "WA WATER+BASE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "22.50",
+      "category": null
+    },
+    {
+      "description": "SW SEWER+BASE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "25.00",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "47.50"
+  },
+  "payment_instructions": {
+    "due_date": "31/07/2019",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.023,
+  "file_size_bytes": 455464
+}

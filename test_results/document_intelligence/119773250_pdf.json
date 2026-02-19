@@ -1,0 +1,189 @@
+{
+  "filename": "119773250.pdf",
+  "invoice": {
+    "client_name": "JP Morgan Chase Bank, N.A.",
+    "client_address": "Po Box 2440 Ms 500\nSpokane, WA 99210",
+    "seller_name": "ComEd.\nExelon",
+    "seller_address": "1221 Lamar St., Suite 750, Houston, TX 77010",
+    "invoice_number": "0008209380",
+    "invoice_date": "05/12/2012",
+    "due_date": "04/01/2013"
+  },
+  "items": [
+    {
+      "description": "PREVIOUS BALANCE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "PAYMENTS",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "DEBITS/CREDITS SINCE LAST INVOICE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "LATE/FINANCE FEE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Contract Energy Charge ATC",
+      "quantity": "20340.25",
+      "unit_price": "0.03",
+      "total_price": "638.28",
+      "category": null
+    },
+    {
+      "description": "Line Loss Charge ATC (5.63% Loss)",
+      "quantity": "1145.16",
+      "unit_price": "0.03",
+      "total_price": "35.94",
+      "category": null
+    },
+    {
+      "description": "Fixed RTO Charge",
+      "quantity": "20340.25",
+      "unit_price": "0.01",
+      "total_price": "128.35",
+      "category": null
+    },
+    {
+      "description": "Reliability Must Run Charge\n10/30/2012 - 12/02/2012",
+      "quantity": "1287.61",
+      "unit_price": "0.00",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Customer Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "15.62",
+      "category": null
+    },
+    {
+      "description": "Standard Metering Charge",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "7.90",
+      "category": null
+    },
+    {
+      "description": "Distribution Facilities Charge",
+      "quantity": "41.29",
+      "unit_price": "4.65",
+      "total_price": "192.00",
+      "category": null
+    },
+    {
+      "description": "Single Bill Option Credit",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "-0.42",
+      "category": null
+    },
+    {
+      "description": "IL Electricity Distribution Charge",
+      "quantity": "20340.00",
+      "unit_price": "0.00",
+      "total_price": "22.58",
+      "category": null
+    },
+    {
+      "description": "Smart Meter Program",
+      "quantity": "0.00",
+      "unit_price": "",
+      "total_price": "-0.03",
+      "category": null
+    },
+    {
+      "description": "Environmental Cost Recovery Adj",
+      "quantity": "20340.00",
+      "unit_price": "-0.00",
+      "total_price": "-5.70",
+      "category": null
+    },
+    {
+      "description": "Energy Efficiency Programs",
+      "quantity": "20340.00",
+      "unit_price": "0.00",
+      "total_price": "38.85",
+      "category": null
+    },
+    {
+      "description": "Franchise Cost",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "74.79",
+      "category": null
+    },
+    {
+      "description": "LATE/FINANCE FEE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "CURRENT",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Contract Energy Charge ATC",
+      "quantity": "10000.00",
+      "unit_price": "0.05",
+      "total_price": "500.00",
+      "category": null
+    },
+    {
+      "description": "Line Loss Charge ATC (5.00% Loss)",
+      "quantity": "500.00",
+      "unit_price": "0.05",
+      "total_price": "25.00",
+      "category": null
+    },
+    {
+      "description": "Fixed ATO Charge",
+      "quantity": "",
+      "unit_price": "0.02",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Utility Charges (see attached\nstatement l'or detalls)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "250.00",
+    "tax": "108.27",
+    "discount": "",
+    "total": "498.81"
+  },
+  "payment_instructions": {
+    "due_date": "04/01/2013",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 15.143,
+  "file_size_bytes": 816935
+}

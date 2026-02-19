@@ -1,0 +1,42 @@
+{
+  "filename": "147795245.pdf",
+  "invoice": {
+    "client_name": "DEXCOM INC",
+    "client_address": "6340 SEQUENCE DR\nSAN DIEGO, CA 92121-4356",
+    "seller_name": "SDG&E's",
+    "seller_address": "",
+    "invoice_number": "15",
+    "invoice_date": "29/09/2022",
+    "due_date": "14/10/2022"
+  },
+  "items": [
+    {
+      "description": "Electric Delivery",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "25 930.84",
+      "category": null
+    },
+    {
+      "description": "CCA Electric Generation",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "12 566.49",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "38 497.33"
+  },
+  "payment_instructions": {
+    "due_date": "14/10/2022",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 18.555,
+  "file_size_bytes": 143183
+}

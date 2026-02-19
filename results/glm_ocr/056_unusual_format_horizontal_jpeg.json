@@ -1,0 +1,8 @@
+{
+  "filename": "056_unusual_format_horizontal.jpeg",
+  "model_name": "glm-ocr",
+  "raw_text": "Williams, Jimenez and Hanson\n8965 Jennings Burg | Cassandreille, SD 34179\n\nINVOICE\nBILL-2828204783\n08/05/2024\n\nSELLER\nWilliams, Jimenez and Hanson\n8965 Jennings Burg, Cassandreille, SD 34179\n\nBUYER\nStuart-Anderson\n63310 Mcculough Welle Suite 991, Deborehport, FM\n30960\n\nSHIP TO\nStuart-Anderson\n63310 Mcculough Welle Suite 991, Deborehport, FM\n30960\n\nDETAILS\nInvoice BILL-2828204733\nDate 08/05/2024\nDue 03/09/2026\n\nNo SKU Item Description Category Qty UOM Unit Price Tax Line Total\n1 SKU00100 Diverse client-server analyzer General 9.00 EA 494.89 10% 4 446.81\n2 SKU00200 Balanced client-server adapter General 10.00 EA 37.46 10% 374.60\n3 SKU00300 Team-oriented analyzing internet General 5.00 EA 22.36 10% 111.88\n4 SKU00400 Compatible solution-oriented Local Area Network General 4.00 EA 217.85 10% 871.40\n5 SKU00500 Re-engineered responsive algorithm General 10.00 EA 218.89 10% 2 188.90\n\nPayment: Campos LLC Credit Union | Acct. VARE71883912863340 | ACH\n\nBUSTTOTAL 7 985.51\nTAX (10%) 798.55\nDISCOUNT -798.55\nTOTAL DUE 7 985.81",
+  "processing_time_seconds": 50.492,
+  "file_size_bytes": 69443,
+  "success": true
+}

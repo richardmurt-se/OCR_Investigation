@@ -1,0 +1,8 @@
+{
+  "filename": "088_effect_edge_blur.png",
+  "model_name": "deepseek-ocr-2",
+  "raw_text": "<|ref|>sub_title<|/ref|><|det|>[[20, 116, 66, 128]]<|/det|>\n## FROM\n\n<|ref|>sub_title<|/ref|><|det|>[[20, 134, 232, 148]]<|/det|>\n## White, Watts and Henderson\n\n<|ref|>text<|/ref|><|det|>[[20, 149, 216, 171]]<|/det|>\n8713 Ramirez Ridge\nTorresmouth, WI 02243\n\n<|ref|>sub_title<|/ref|><|det|>[[543, 116, 600, 129]]<|/det|>\n## BILL TO\n\n<|ref|>text<|/ref|><|det|>[[542, 133, 740, 174]]<|/det|>\nBurke, Jarvis and Sloan\n869 Cardenas Turnpike Suite 292\nAutumnville, KY 27993\n\n<|ref|>table<|/ref|><|det|>[[20, 198, 972, 480]]<|/det|>\n<table><tr><td>#</td><td>Description</td><td>Quantity</td><td>Unit Price</td><td>Amount</td></tr><tr><td>1</td><td>Pre-emptive homogeneous data-warehouse</td><td>3.00</td><td>495.75</td><td>1 487.25</td></tr><tr><td>2</td><td>Persevering regional info-mediaries</td><td>6.00</td><td>242.06</td><td>1 452.36</td></tr><tr><td>3</td><td>Reduced zero-defect Graphical User Interface</td><td>8.00</td><td>300.32</td><td>2 402.56</td></tr><tr><td>4</td><td>Digitized leadingedge paradigm</td><td>7.00</td><td>143.29</td><td>1 003.08</td></tr><tr><td>5</td><td>Compatible even-keeled approach</td><td>1.00</td><td>317.98</td><td>317.98</td></tr><tr><td></td><td></td><td></td><td>Subtotal</td><td>6 663.18</td></tr><tr><td></td><td></td><td></td><td>Tax (10%)</td><td>666.32</td></tr><tr><td></td><td></td><td></td><td>Discount</td><td>-333.16</td></tr><tr><td></td><td></td><td></td><td>Total Due</td><td>6 996.34</td></tr></table>\n\n<|ref|>text<|/ref|><|det|>[[425, 502, 571, 515]]<|/det|>\nThank you for your business",
+  "processing_time_seconds": 20.969,
+  "file_size_bytes": 79662,
+  "success": true
+}

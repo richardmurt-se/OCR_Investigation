@@ -1,0 +1,56 @@
+{
+  "filename": "118336663.pdf",
+  "invoice": {
+    "client_name": "PACKAGING CORP OF AMERICA",
+    "client_address": "",
+    "seller_name": "Waste Management National Services, Inc.",
+    "seller_address": "",
+    "invoice_number": "1001042026",
+    "invoice_date": "13/05/2019",
+    "due_date": ""
+  },
+  "items": [
+    {
+      "description": "Environmental Fee 40 Yards Trash CMP",
+      "quantity": "0.00",
+      "unit_price": "0.00",
+      "total_price": "35.21",
+      "category": null
+    },
+    {
+      "description": "Energy Surcharge 40 Yards Trash CMP",
+      "quantity": "0.00",
+      "unit_price": "0.00",
+      "total_price": "46.78",
+      "category": null
+    },
+    {
+      "description": "Haul 40 Yards Trash CMP",
+      "quantity": "1.00",
+      "unit_price": "134.99",
+      "total_price": "134.99",
+      "category": null
+    },
+    {
+      "description": "Disposal 40 Yards Trash CMP - 5.13Tons\nEmpty and Return",
+      "quantity": "5.13",
+      "unit_price": "33.22",
+      "total_price": "170.42",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "387.40"
+  },
+  "payment_instructions": {
+    "due_date": "",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.499,
+  "file_size_bytes": 4322
+}

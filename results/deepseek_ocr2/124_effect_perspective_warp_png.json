@@ -1,0 +1,8 @@
+{
+  "filename": "124_effect_perspective_warp.png",
+  "model_name": "deepseek-ocr-2",
+  "raw_text": "<|ref|>sub_title<|/ref|><|det|>[[102, 33, 300, 90]]<|/det|>\n## Kemp-Greene\n4061 Kelly Locks | Smithtown, VI 49048\n\n<|ref|>table<|/ref|><|det|>[[100, 120, 911, 450]]<|/det|>\n<table><tr><td>FROM</td><td>INVOICE</td></tr><tr><td>Kemp-Greene</td><td>No: BILL-82197346</td></tr><tr><td>4061 Kelly Locks</td><td>Date: 06/08/2025</td></tr><tr><td>Smithtown, VI 49048</td><td>BILL TO</td></tr><tr><td></td><td>Gamble-Lynn</td></tr><tr><td></td><td>1552 Erin Fort</td></tr><tr><td></td><td>North Christina, OK 33882</td></tr><tr><td>#</td><td>Description</td></tr><tr><td>1</td><td>Focused fault-tolerant benchmark</td></tr><tr><td>2</td><td>Centralized didactic approach</td></tr><tr><td>3</td><td>Profit-focused context-sensitive architecture</td></tr><tr><td></td><td>Quantity</td></tr><tr><td></td><td>Unit Price</td></tr><tr><td></td><td>Amount</td></tr><tr><td></td><td>2.00</td></tr><tr><td></td><td>328.04</td></tr><tr><td></td><td>652.08</td></tr><tr><td></td><td>8.00</td></tr><tr><td></td><td>498.31</td></tr><tr><td></td><td>3 998.43</td></tr><tr><td></td><td>6.00</td></tr><tr><td></td><td>359.40</td></tr><tr><td></td><td>2 158.40</td></tr><tr><td></td><td>Subtotal</td></tr><tr><td></td><td>6 794.96</td></tr><tr><td></td><td>Tax (10%)</td></tr><tr><td></td><td>679.50</td></tr><tr><td></td><td>Discount</td></tr><tr><td></td><td>-679.50</td></tr><tr><td></td><td>Total Due</td></tr><tr><td></td><td>6 794.96</td></tr></table>\n\n<|ref|>text<|/ref|><|det|>[[496, 460, 620, 473]]<|/det|>\nThank you for your business",
+  "processing_time_seconds": 20.172,
+  "file_size_bytes": 69927,
+  "success": true
+}

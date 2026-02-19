@@ -1,0 +1,8 @@
+{
+  "content": "Woodard-Rivas\n890 Michael Green Suite 899 | Williamsport, AZ 88242\n\nINVOICE\nNo: 14668289\nDate: 11/18/2024\n\nFROM Woodard-Rivas\n890 Michael Green Suite 899\nWilliamsport, AZ 88242\n\nBILL TO Sanford-Young\n75415 Thompson Manor Suite 199\nEast Rochehaven, PR.71281\n\n# Description Quantity Unit Price Amount\n1 Open-source bottom-line moratorium 4.00 300.59 1,202.36\n2 User-friendly empowering pricing structure 7.00 72.89 610.23\n3 Assimilated disintegrate archive 5.00 387.34 1,936.70\n4 Programmable scalable database 6.00 44.87 207.42\n5 User-friendly tentary challenge 10.00 43.00 436.00\n\nSubtotal 4,355.21\nTax (10%) 485.57\nDiscount -217.79\nTotal Due 4,272.49\n\nThank you for your business",
+  "detections": [
+    {
+      "text": "Woodard-Rivas\n890 Michael Green Suite 899 | Williamsport, AZ 88242\n\nINVOICE\nNo: 14668289\nDate: 11/18/2024\n\nFROM Woodard-Rivas\n890 Michael Green Suite 899\nWilliamsport, AZ 88242\n\nBILL TO Sanford-Young\n75415 Thompson Manor Suite 199\nEast Rochehaven, PR.71281\n\n# Description Quantity Unit Price Amount\n1 Open-source bottom-line moratorium 4.00 300.59 1,202.36\n2 User-friendly empowering pricing structure 7.00 72.89 610.23\n3 Assimilated disintegrate archive 5.00 387.34 1,936.70\n4 Programmable scalable database 6.00 44.87 207.42\n5 User-friendly tentary challenge 10.00 43.00 436.00\n\nSubtotal 4,355.21\nTax (10%) 485.57\nDiscount -217.79\nTotal Due 4,272.49\n\nThank you for your business"
+    }
+  ]
+}

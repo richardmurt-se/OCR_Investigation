@@ -1,0 +1,70 @@
+{
+  "filename": "140661232.pdf",
+  "invoice": {
+    "client_name": "ATRIUM\nFINANCE 1 LP DBA CH",
+    "client_address": "P.O. Box 1316\nCharlotte, NC 28201-1316",
+    "seller_name": "CHARLOTTE\nWOTER\nSTORM\nWATER",
+    "seller_address": "",
+    "invoice_number": "14327209",
+    "invoice_date": "12/12/2021",
+    "due_date": "02/01/2022"
+  },
+  "items": [
+    {
+      "description": "Private Meter(s)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "8.44",
+      "category": null
+    },
+    {
+      "description": "Water Fees (Fixed & Availability)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "37.94",
+      "category": null
+    },
+    {
+      "description": "Water, Fire Line",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "31.63",
+      "category": null
+    },
+    {
+      "description": "Sewer Fees (Fixed & Availability)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "232.65",
+      "category": null
+    },
+    {
+      "description": "Sewer Usage ($5.43 per Ccf of water usage)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "8 557.68",
+      "category": null
+    },
+    {
+      "description": "Sewer, Industrial Waste (chg/Ccf = $0.27)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "425.52",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "14 651.01"
+  },
+  "payment_instructions": {
+    "due_date": "02/01/2022",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 6.652,
+  "file_size_bytes": 79062
+}

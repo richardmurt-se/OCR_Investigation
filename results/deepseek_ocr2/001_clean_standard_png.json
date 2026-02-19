@@ -1,0 +1,8 @@
+{
+  "filename": "001_clean_standard.png",
+  "model_name": "deepseek-ocr-2",
+  "raw_text": "<|ref|>text<|/ref|><|det|>[[22, 115, 66, 128]]<|/det|>\nFROM\n\n<|ref|>text<|/ref|><|det|>[[22, 134, 138, 173]]<|/det|>\nMelton PLC\nPSC 7175, Box 4319\nAPO AE 97006\n\n<|ref|>text<|/ref|><|det|>[[545, 115, 602, 129]]<|/det|>\nBILL TO\n\n<|ref|>text<|/ref|><|det|>[[544, 134, 757, 149]]<|/det|>\nHernandez, White and Pierce\n\n<|ref|>text<|/ref|><|det|>[[544, 150, 700, 173]]<|/det|>\n7121 Tyler Burgs Apt. 972\nEast Douglasburgh, IA 16832\n\n<|ref|>table<|/ref|><|det|>[[22, 195, 972, 455]]<|/det|>\n<table><tr><td>#</td><td>Description</td><td>Quantity</td><td>Unit Price</td><td>Amount</td></tr><tr><td>1</td><td>Pre-emptive 6th generation architecture</td><td>9.00</td><td>400.98</td><td>3 608.82</td></tr><tr><td>2</td><td>Visionary directional circuit</td><td>3.00</td><td>498.08</td><td>1 494.24</td></tr><tr><td>3</td><td>Enhanced fresh-thinking policy</td><td>1.00</td><td>403.71</td><td>403.71</td></tr><tr><td>4</td><td>Total secondary Internet solution</td><td>3.00</td><td>27.84</td><td>83.52</td></tr><tr><td>5</td><td>Mandatory zero administration support</td><td>4.00</td><td>175.94</td><td>703.76</td></tr><tr><td></td><td></td><td></td><td>Subtotal</td><td>6 294.05</td></tr><tr><td></td><td></td><td></td><td>Tax (10%)</td><td>629.41</td></tr><tr><td></td><td></td><td></td><td>Total Due</td><td>6 923.46</td></tr></table>\n\n<|ref|>text<|/ref|><|det|>[[426, 481, 571, 493]]<|/det|>\nThank you for your business",
+  "processing_time_seconds": 17.942,
+  "file_size_bytes": 27583,
+  "success": true
+}

@@ -1,0 +1,98 @@
+{
+  "filename": "163289733.pdf",
+  "invoice": {
+    "client_name": "TRUIST BANK\nC/O ENGIE INSIGHT MS 2534",
+    "client_address": "PO BOX 2440\nSPOKANE, WA 99210Â. 2440",
+    "seller_name": "DUKE\nENERGY",
+    "seller_address": "PO Box 1090\nCharlotte, NC 28201-1090",
+    "invoice_number": "",
+    "invoice_date": "28/03/2024",
+    "due_date": "Apr 22"
+  },
+  "items": [
+    {
+      "description": "Previous Amount Due",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "439.66",
+      "category": null
+    },
+    {
+      "description": "Payment Received",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-439.66",
+      "category": null
+    },
+    {
+      "description": "Current Electric Charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "433.67",
+      "category": null
+    },
+    {
+      "description": "Basic Customer Charge\nCharge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "34.00",
+      "category": null
+    },
+    {
+      "description": "Demand Charge On Peak",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Demand Charge Mid Peak",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "110.60",
+      "category": null
+    },
+    {
+      "description": "Base Demand Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "27.96",
+      "category": null
+    },
+    {
+      "description": "Customer Assistance Recovery",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.30",
+      "category": null
+    },
+    {
+      "description": "Renewable Energy Rider",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "4.01",
+      "category": null
+    },
+    {
+      "description": "Storm Recovery Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.56",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "30.36",
+    "discount": "",
+    "total": "433.67"
+  },
+  "payment_instructions": {
+    "due_date": "Apr 22",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 9.669,
+  "file_size_bytes": 30331
+}

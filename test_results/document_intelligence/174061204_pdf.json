@@ -1,0 +1,35 @@
+{
+  "filename": "174061204.pdf",
+  "invoice": {
+    "client_name": "BATH & BODY WORKS (CWD)",
+    "client_address": "609 FRIENDLY CENTER RD\nce 7765\nGREENSBORO NC 274087803",
+    "seller_name": "Cass Cass\nInformation\nSystems, Inc .:",
+    "seller_address": "",
+    "invoice_number": "583884",
+    "invoice_date": "01/02/2025",
+    "due_date": "03/03/2025"
+  },
+  "items": [
+    {
+      "description": "Subscription per Site - Solid Waste",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "5.00",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "5.00",
+    "tax": "",
+    "discount": "",
+    "total": "5.00"
+  },
+  "payment_instructions": {
+    "due_date": "03/03/2025",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.056,
+  "file_size_bytes": 532764
+}

@@ -1,0 +1,84 @@
+{
+  "filename": "131998424.pdf",
+  "invoice": {
+    "client_name": "SHERWIN WILLIAMS CO",
+    "client_address": "PO BOX 182344\nCOLUMBUS OH 43218-2344",
+    "seller_name": "DUKE\nENERGY®",
+    "seller_address": "PO Box 1090\nCharlotte, NC 28201-1090",
+    "invoice_number": "",
+    "invoice_date": "09/11/2020",
+    "due_date": "Dec 01"
+  },
+  "items": [
+    {
+      "description": "Previous amount due",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "611.53",
+      "category": null
+    },
+    {
+      "description": "Payment received Nov 02",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-611.53",
+      "category": null
+    },
+    {
+      "description": "Electric Charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "472.68",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "114.45",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "114.45",
+    "discount": "",
+    "total": "587.13"
+  },
+  "payment_instructions": {
+    "due_date": "Dec 01",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 9.149,
+  "file_size_bytes": 1489985
+}

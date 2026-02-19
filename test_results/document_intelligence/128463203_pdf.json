@@ -1,0 +1,49 @@
+{
+  "filename": "128463203.pdf",
+  "invoice": {
+    "client_name": "DEUTSCHE BANK",
+    "client_address": "",
+    "seller_name": "Eni SpA Divisione\nGas & Power Italy",
+    "seller_address": "",
+    "invoice_number": "",
+    "invoice_date": "29/07/2016",
+    "due_date": "12/08/2016"
+  },
+  "items": [
+    {
+      "description": "Electricity",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "41.15",
+      "category": null
+    },
+    {
+      "description": "Electricity",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "596.01",
+      "category": null
+    },
+    {
+      "description": "Electricity",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.22",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "779.00"
+  },
+  "payment_instructions": {
+    "due_date": "12/08/2016",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 5.492,
+  "file_size_bytes": 25584
+}

@@ -1,0 +1,77 @@
+{
+  "filename": "129303166.pdf",
+  "invoice": {
+    "client_name": "AUTOZONE STORES LLC\nCIO MS #1",
+    "client_address": "PO BOX 182463\nCOLUMBUS OH 43218-2463",
+    "seller_name": "IPL\ncompany",
+    "seller_address": "P.O. Box 110 Indianapolis, IN 46206-0110",
+    "invoice_number": "",
+    "invoice_date": "17/07/2020",
+    "due_date": "10/08/2020"
+  },
+  "items": [
+    {
+      "description": "Previous Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "801.59",
+      "category": null
+    },
+    {
+      "description": "07/01/2020 Payment - Thank You",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-801.59",
+      "category": null
+    },
+    {
+      "description": "Metered Electric and Other Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "749.08",
+      "category": null
+    },
+    {
+      "description": "State Tax",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "52.44",
+      "category": null
+    },
+    {
+      "description": "Customer Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "55.00",
+      "category": null
+    },
+    {
+      "description": "Metered Electric Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "694.08",
+      "category": null
+    },
+    {
+      "description": "State Tax",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "52.44",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "801.52",
+    "tax": "52.44",
+    "discount": "",
+    "total": "801.52"
+  },
+  "payment_instructions": {
+    "due_date": "10/08/2020",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 8.433,
+  "file_size_bytes": 872474
+}

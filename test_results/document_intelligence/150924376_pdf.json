@@ -1,0 +1,1932 @@
+{
+  "filename": "150924376.pdf",
+  "invoice": {
+    "client_name": "SAINT GOBAIN ACHATS",
+    "client_address": "12 PLACE DE L'IRIS\nTOUR SAINT-GOBAIN\n92400 COURBEVOIE\nFRANCE",
+    "seller_name": "ALPIQ",
+    "seller_address": "Tour ALTO, 1 Place Zaha HADID, CS 90305, FR - 92062 Paris La Défense Cedex,",
+    "invoice_number": "FR100176158",
+    "invoice_date": "21/10/2022",
+    "due_date": "01/12/2022"
+  },
+  "items": [
+    {
+      "description": "Acheminement",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "5 685.89",
+      "category": null
+    },
+    {
+      "description": "Fourniture d'électricité",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "9 755 540.81",
+      "category": null
+    },
+    {
+      "description": "Prime",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-4 925 621.12",
+      "category": null
+    },
+    {
+      "description": "Taxes et contributions",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11 064.58",
+      "category": null
+    },
+    {
+      "description": "ENERGIE",
+      "quantity": "9401.33",
+      "unit_price": "127.57",
+      "total_price": "1 199 363.57",
+      "category": null
+    },
+    {
+      "description": "Bas de courbe Niveau 1 (0 %) - Rachat Tiers",
+      "quantity": "",
+      "unit_price": "0 €/MWh",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (76,2 %) - Fixe - Prix unique (76,20 %)",
+      "quantity": "7163.81",
+      "unit_price": "52.20",
+      "total_price": "373 981.39",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (23,8 %) - Spot - Prix unique (23,80 %)",
+      "quantity": "2237.52",
+      "unit_price": "368.88",
+      "total_price": "825 382.17",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-743 065.95",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "37 024.36",
+      "category": null
+    },
+    {
+      "description": "ARENH ADDITIONNEL 2022",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-143 484.26",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "182 472.07",
+      "category": null
+    },
+    {
+      "description": "CSPE À HAUTEUR DE 0,7%",
+      "quantity": "65.81",
+      "unit_price": "0.50",
+      "total_price": "32.90",
+      "category": null
+    },
+    {
+      "description": "ENERGIE",
+      "quantity": "1951.47",
+      "unit_price": "127.57",
+      "total_price": "248 956.26",
+      "category": null
+    },
+    {
+      "description": "Bas de courbe Niveau 1 (0 %) - Rachat Tiers",
+      "quantity": "",
+      "unit_price": "0 €/MWh",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (76,2 %) - Fixe - Prix unique (76,20 %)",
+      "quantity": "1487.02",
+      "unit_price": "52.20",
+      "total_price": "77 628.68",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (23,8 %) - Spot - Prix unique (23,80 %)",
+      "quantity": "464.45",
+      "unit_price": "368.88",
+      "total_price": "171 327.58",
+      "category": null
+    },
+    {
+      "description": "PRIME",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-151 120.28",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "7 938.75",
+      "category": null
+    },
+    {
+      "description": "ARENH ADDITIONNEL 2022",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-29 783.55",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "43 534.64",
+      "category": null
+    },
+    {
+      "description": "CSPE À HAUTEUR DE 12%",
+      "quantity": "234.18",
+      "unit_price": "0.50",
+      "total_price": "117.09",
+      "category": null
+    },
+    {
+      "description": "ENERGIE",
+      "quantity": "218.98",
+      "unit_price": "127.57",
+      "total_price": "27 935.91",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (76,2 %) - Fixe - Prix unique (76,20 %)",
+      "quantity": "166.86",
+      "unit_price": "52.20",
+      "total_price": "8 710.88",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (23,8 %) - Spot - Prix unique (23,80 %)",
+      "quantity": "52.12",
+      "unit_price": "368.88",
+      "total_price": "19 225.03",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-19 041.55",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "880.49",
+      "category": null
+    },
+    {
+      "description": "ARENH ADDITIONNEL 2022",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-3 342.08",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-1 333.65",
+      "category": null
+    },
+    {
+      "description": "CSPE À HAUTEUR DE 31,26%",
+      "quantity": "68.45",
+      "unit_price": "0.50",
+      "total_price": "34.23",
+      "category": null
+    },
+    {
+      "description": "ENERGIE",
+      "quantity": "624.75",
+      "unit_price": "127.57",
+      "total_price": "79 702.02",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (76,2 %) - Fixe - Prix unique (76,20 %)",
+      "quantity": "476.06",
+      "unit_price": "52.20",
+      "total_price": "24 852.41",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (23,8 %) - Spot - Prix unique (23,80 %)",
+      "quantity": "148.69",
+      "unit_price": "368.88",
+      "total_price": "54 849.61",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-23 118.17",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 464.04",
+      "category": null
+    },
+    {
+      "description": "ARENH ADDITIONNEL 2022",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-9 535.05",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-1 619.14",
+      "category": null
+    },
+    {
+      "description": "CSPE",
+      "quantity": "624.75",
+      "unit_price": "0.50",
+      "total_price": "312.38",
+      "category": null
+    },
+    {
+      "description": "ENERGIE",
+      "quantity": "10005.53",
+      "unit_price": "127.57",
+      "total_price": "1 276 444.14",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (76,2 %) - Fixe - Prix unique (76,20 %)",
+      "quantity": "7624.21",
+      "unit_price": "52.20",
+      "total_price": "398 016.39",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (23,8 %) - Spot - Prix unique (23,80 %)",
+      "quantity": "2381.32",
+      "unit_price": "368.88",
+      "total_price": "878 427.75",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-331 344.82",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "25 284.56",
+      "category": null
+    },
+    {
+      "description": "ARENH ADDITIONNEL 2022",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-152 705.69",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-23 206.76",
+      "category": null
+    },
+    {
+      "description": "CSPE",
+      "quantity": "10005.53",
+      "unit_price": "0.50",
+      "total_price": "5 002.77",
+      "category": null
+    },
+    {
+      "description": "ENERGIE",
+      "quantity": "2057.54",
+      "unit_price": "127.57",
+      "total_price": "262 487.96",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (76,2 %) - Fixe - Prix unique (76,20 %)",
+      "quantity": "1567.84",
+      "unit_price": "52.20",
+      "total_price": "81 848.09",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (23,8 %) - Spot - Prix unique (23,80 %)",
+      "quantity": "489.69",
+      "unit_price": "368.88",
+      "total_price": "180 639.87",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-93 685.18",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "5 090.35",
+      "category": null
+    },
+    {
+      "description": "ARENH ADDITIONNEL 2022",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-31 402.40",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-6 561.53",
+      "category": null
+    },
+    {
+      "description": "CSPE EXONÉRÉE À HAUTEUR DE 99%",
+      "quantity": "20.57",
+      "unit_price": "0.50",
+      "total_price": "10.29",
+      "category": null
+    },
+    {
+      "description": "ENERGIE",
+      "quantity": "7537.71",
+      "unit_price": "127.57",
+      "total_price": "961 614.75",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (76,2 %) - Fixe - Prix unique (76,20 %)",
+      "quantity": "5743.73",
+      "unit_price": "52.20",
+      "total_price": "299 847.38",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (23,8 %) - Spot - Prix unique (23,80 %)",
+      "quantity": "1793.97",
+      "unit_price": "368.88",
+      "total_price": "661 767.37",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-293 843.51",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "20 185.44",
+      "category": null
+    },
+    {
+      "description": "ARENH ADDITIONNEL 2022",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-115 041.50",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-20 580.23",
+      "category": null
+    },
+    {
+      "description": "CSPE À HAUTEUR DE 32%",
+      "quantity": "2412.07",
+      "unit_price": "0.50",
+      "total_price": "1 206.03",
+      "category": null
+    },
+    {
+      "description": "ENERGIE",
+      "quantity": "542.63",
+      "unit_price": "127.57",
+      "total_price": "69 225.72",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (76,2 %) - Fixe - Prix unique (76,20 %)",
+      "quantity": "413.49",
+      "unit_price": "52.20",
+      "total_price": "21 585.73",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (23,8 %) - Spot - Prix unique (23,80 %)",
+      "quantity": "129.15",
+      "unit_price": "368.88",
+      "total_price": "47 640.00",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-34 515.47",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 961.60",
+      "category": null
+    },
+    {
+      "description": "ARENH ADDITIONNEL 2022",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-8 281.73",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-2 417.42",
+      "category": null
+    },
+    {
+      "description": "CSPE EXONÉRÉE À HAUTEUR DE 61%",
+      "quantity": "211.63",
+      "unit_price": "0.50",
+      "total_price": "105.81",
+      "category": null
+    },
+    {
+      "description": "ENERGIE",
+      "quantity": "248.00",
+      "unit_price": "127.57",
+      "total_price": "31 638.85",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (76,2 %) - Fixe - Prix unique (76,20 %)",
+      "quantity": "188.98",
+      "unit_price": "52.20",
+      "total_price": "9 865.52",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (23,8 %) - Spot - Prix unique (23,80 %)",
+      "quantity": "59.02",
+      "unit_price": "368.88",
+      "total_price": "21 773.33",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-11 756.44",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "817.59",
+      "category": null
+    },
+    {
+      "description": "ARENH ADDITIONNEL 2022",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-3 785.07",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "823.38",
+      "category": null
+    },
+    {
+      "description": "CSPE",
+      "quantity": "248.00",
+      "unit_price": "0.50",
+      "total_price": "124.00",
+      "category": null
+    },
+    {
+      "description": "ENERGIE",
+      "quantity": "3203.26",
+      "unit_price": "127.57",
+      "total_price": "408 652.94",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (76,2 %) - Fixe - Prix unique (76,20 %)",
+      "quantity": "2440.89",
+      "unit_price": "52.20",
+      "total_price": "127 424.75",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (23,8 %) - Spot - Prix unique (23,80 %)",
+      "quantity": "762.38",
+      "unit_price": "368.88",
+      "total_price": "281 228.20",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-156 430.40",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "7 619.92",
+      "category": null
+    },
+    {
+      "description": "ARENH ADDITIONNEL 2022",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-48 888.65",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-10 956.11",
+      "category": null
+    },
+    {
+      "description": "CSPE EXONÉRÉE À HAUTEUR DE 94,02%",
+      "quantity": "191.56",
+      "unit_price": "0.50",
+      "total_price": "95.78",
+      "category": null
+    },
+    {
+      "description": "ENERGIE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (NaN %) - Fixe - Prix unique (76,20 %)",
+      "quantity": "",
+      "unit_price": "0 €/MWh",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (NaN %) - Spot - Prix unique (23,80 %)",
+      "quantity": "",
+      "unit_price": "0 €/MWh",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-199 855.15",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "10 376.02",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-13 997.49",
+      "category": null
+    },
+    {
+      "description": "ENERGIE",
+      "quantity": "557.05",
+      "unit_price": "127.57",
+      "total_price": "71 064.81",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (76,2 %) - Fixe - Prix unique (76,20 %)",
+      "quantity": "424.47",
+      "unit_price": "52.20",
+      "total_price": "22 159.18",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (23,8 %) - Spot - Prix unique (23,80 %)",
+      "quantity": "132.58",
+      "unit_price": "368.88",
+      "total_price": "48 905.62",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-20 238.87",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 378.12",
+      "category": null
+    },
+    {
+      "description": "ARENH ADDITIONNEL 2022",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-8 501.74",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-1 417.50",
+      "category": null
+    },
+    {
+      "description": "CSPE EXONÉRÉE À HAUTEUR DE 99%",
+      "quantity": "5.57",
+      "unit_price": "0.50",
+      "total_price": "2.79",
+      "category": null
+    },
+    {
+      "description": "ENERGIE",
+      "quantity": "2437.31",
+      "unit_price": "127.57",
+      "total_price": "310 937.60",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (76,2 %) - Fixe - Prix unique (76,20 %)",
+      "quantity": "1857.23",
+      "unit_price": "52.20",
+      "total_price": "96 955.48",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (23,8 %) - Spot - Prix unique (23,80 %)",
+      "quantity": "580.08",
+      "unit_price": "368.88",
+      "total_price": "213 982.11",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-130 280.03",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "7 416.44",
+      "category": null
+    },
+    {
+      "description": "ARENH ADDITIONNEL 2022",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-37 198.60",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-9 124.55",
+      "category": null
+    },
+    {
+      "description": "CSPE EXONÉRÉE À HAUTEUR DE 99%",
+      "quantity": "24.37",
+      "unit_price": "0.50",
+      "total_price": "12.19",
+      "category": null
+    },
+    {
+      "description": "ENERGIE",
+      "quantity": "1822.52",
+      "unit_price": "127.57",
+      "total_price": "232 506.38",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (76,2 %) - Fixe - Prix unique (76,20 %)",
+      "quantity": "1388.76",
+      "unit_price": "52.20",
+      "total_price": "72 499.33",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (23,8 %) - Spot - Prix unique (23,80 %)",
+      "quantity": "433.76",
+      "unit_price": "368.88",
+      "total_price": "160 007.04",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-75 195.92",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "4 485.66",
+      "category": null
+    },
+    {
+      "description": "ARENH ADDITIONNEL 2022",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-27 815.59",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-5 266.59",
+      "category": null
+    },
+    {
+      "description": "CSPE EXONÉRÉE À HAUTEUR DE 90%",
+      "quantity": "182.25",
+      "unit_price": "0.50",
+      "total_price": "91.13",
+      "category": null
+    },
+    {
+      "description": "ENERGIE",
+      "quantity": "2485.42",
+      "unit_price": "127.57",
+      "total_price": "317 074.13",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (76,2 %) - Fixe - Prix unique (76,20 %)",
+      "quantity": "1893.89",
+      "unit_price": "52.20",
+      "total_price": "98 868.96",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (23,8 %) - Spot - Prix unique (23,80 %)",
+      "quantity": "591.53",
+      "unit_price": "368.88",
+      "total_price": "218 205.17",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-106 542.14",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "5 718.70",
+      "category": null
+    },
+    {
+      "description": "ARENH ADDITIONNEL 2022",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-37 932.74",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-7 462.02",
+      "category": null
+    },
+    {
+      "description": "CSPE EXONÉRÉE À HAUTEUR DE 90%",
+      "quantity": "248.54",
+      "unit_price": "0.50",
+      "total_price": "124.27",
+      "category": null
+    },
+    {
+      "description": "ENERGIE",
+      "quantity": "377.41",
+      "unit_price": "127.57",
+      "total_price": "48 147.71",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (76,2 %) - Fixe - Prix unique (76,20 %)",
+      "quantity": "287.59",
+      "unit_price": "52.20",
+      "total_price": "15 013.25",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (23,8 %) - Spot - Prix unique (23,80 %)",
+      "quantity": "89.82",
+      "unit_price": "368.88",
+      "total_price": "33 134.46",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-14 949.44",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "743.51",
+      "category": null
+    },
+    {
+      "description": "ARENH ADDITIONNEL 2022",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-5 760.09",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-1 047.03",
+      "category": null
+    },
+    {
+      "description": "CSPE EXONÉRÉE À HAUTEUR DE 90%",
+      "quantity": "37.74",
+      "unit_price": "0.50",
+      "total_price": "18.87",
+      "category": null
+    },
+    {
+      "description": "ENERGIE",
+      "quantity": "859.55",
+      "unit_price": "127.57",
+      "total_price": "109 656.47",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (76,2 %) - Fixe - Prix unique (76,20 %)",
+      "quantity": "654.98",
+      "unit_price": "52.20",
+      "total_price": "34 192.70",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (23,8 %) - Spot - Prix unique (23,80 %)",
+      "quantity": "204.57",
+      "unit_price": "368.88",
+      "total_price": "75 463.77",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-41 960.64",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2 350.62",
+      "category": null
+    },
+    {
+      "description": "ARENH ADDITIONNEL 2022",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-13 118.61",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-2 938.85",
+      "category": null
+    },
+    {
+      "description": "CSPE À HAUTEUR DE 18%",
+      "quantity": "154.72",
+      "unit_price": "0.50",
+      "total_price": "77.36",
+      "category": null
+    },
+    {
+      "description": "ENERGIE",
+      "quantity": "755.61",
+      "unit_price": "127.57",
+      "total_price": "96 395.70",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (76,2 %) - Fixe - Prix unique (76,20 %)",
+      "quantity": "575.77",
+      "unit_price": "52.20",
+      "total_price": "30 057.77",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (23,8 %) - Spot - Prix unique (23,80 %)",
+      "quantity": "179.83",
+      "unit_price": "368.88",
+      "total_price": "66 337.93",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-27 652.80",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 817.03",
+      "category": null
+    },
+    {
+      "description": "ARENH ADDITIONNEL 2022",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-11 532.17",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-1 936.75",
+      "category": null
+    },
+    {
+      "description": "CSPE À HAUTEUR DE 100%",
+      "quantity": "755.61",
+      "unit_price": "0.50",
+      "total_price": "377.80",
+      "category": null
+    },
+    {
+      "description": "ENERGIE",
+      "quantity": "1039.67",
+      "unit_price": "127.57",
+      "total_price": "132 634.97",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (76,2 %) - Fixe - Prix unique (76,20 %)",
+      "quantity": "792.23",
+      "unit_price": "52.20",
+      "total_price": "41 357.78",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (23,8 %) - Spot - Prix unique (23,80 %)",
+      "quantity": "247.44",
+      "unit_price": "368.88",
+      "total_price": "91 277.19",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-44 138.39",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2 863.83",
+      "category": null
+    },
+    {
+      "description": "ARENH ADDITIONNEL 2022",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-15 867.61",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-3 091.35",
+      "category": null
+    },
+    {
+      "description": "CSPE À HAUTEUR DE 8%",
+      "quantity": "83.17",
+      "unit_price": "0.50",
+      "total_price": "41.59",
+      "category": null
+    },
+    {
+      "description": "ENERGIE",
+      "quantity": "4339.13",
+      "unit_price": "127.57",
+      "total_price": "553 559.18",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (76,2 %) - Fixe - Prix unique (76,20 %)",
+      "quantity": "3306.41",
+      "unit_price": "52.20",
+      "total_price": "172 608.91",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (23,8 %) - Spot - Prix unique (23,80 %)",
+      "quantity": "1032.71",
+      "unit_price": "368.88",
+      "total_price": "380 950.27",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-211 036.09",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "9 421.68",
+      "category": null
+    },
+    {
+      "description": "ARENH ADDITIONNEL 2022",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-66 224.31",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-14 780.57",
+      "category": null
+    },
+    {
+      "description": "CSPE EXONÉRÉE À HAUTEUR DE 95,56%",
+      "quantity": "192.66",
+      "unit_price": "0.50",
+      "total_price": "96.33",
+      "category": null
+    },
+    {
+      "description": "ENERGIE",
+      "quantity": "1480.37",
+      "unit_price": "127.57",
+      "total_price": "188 855.85",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (76,2 %) - Fixe - Prix unique (76,20 %)",
+      "quantity": "1128.04",
+      "unit_price": "52.20",
+      "total_price": "58 888.38",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (23,8 %) - Spot - Prix unique (23,80 %)",
+      "quantity": "352.33",
+      "unit_price": "368.88",
+      "total_price": "129 967.48",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-65 755.90",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "3 803.98",
+      "category": null
+    },
+    {
+      "description": "ARENH ADDITIONNEL 2022",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-22 593.52",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-4 605.41",
+      "category": null
+    },
+    {
+      "description": "CSPE À HAUTEUR DE 14%",
+      "quantity": "207.25",
+      "unit_price": "0.50",
+      "total_price": "103.63",
+      "category": null
+    },
+    {
+      "description": "ENERGIE",
+      "quantity": "4310.77",
+      "unit_price": "127.57",
+      "total_price": "549 942.07",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (76,2 %) - Fixe - Prix unique (76,20 %)",
+      "quantity": "3284.81",
+      "unit_price": "52.20",
+      "total_price": "171 481.03",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (23,8 %) - Spot - Prix unique (23,80 %)",
+      "quantity": "1025.96",
+      "unit_price": "368.88",
+      "total_price": "378 461.04",
+      "category": null
+    },
+    {
+      "description": "PRIME",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-196 602.76",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-165 410.48",
+      "category": null
+    },
+    {
+      "description": "FACTURATION PPA",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "5 345.36",
+      "category": null
+    },
+    {
+      "description": "Détail",
+      "quantity": "4310.77",
+      "unit_price": "1.24",
+      "total_price": "5 345.36",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11 107.65",
+      "category": null
+    },
+    {
+      "description": "ARENH ADDITIONNEL 2022",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-65 791.59",
+      "category": null
+    },
+    {
+      "description": "AJUSTEMENT DE LA PRODUCTION RÉELLE DU PARC DE CAST AU\nBLOC TRIMESTRIEL",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "29 731.34",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-11 585.04",
+      "category": null
+    },
+    {
+      "description": "CSPE EXONÉRÉE À HAUTEUR DE 88%",
+      "quantity": "517.29",
+      "unit_price": "0.50",
+      "total_price": "258.65",
+      "category": null
+    },
+    {
+      "description": "ENERGIE",
+      "quantity": "8063.71",
+      "unit_price": "127.57",
+      "total_price": "1 028 718.73",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (76,2 %) - Fixe - Prix unique (76,20 %)",
+      "quantity": "6144.55",
+      "unit_price": "52.20",
+      "total_price": "320 771.51",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (23,8 %) - Spot - Prix unique (23,80 %)",
+      "quantity": "1919.16",
+      "unit_price": "368.88",
+      "total_price": "707 947.22",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-413 053.21",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-353 773.42",
+      "category": null
+    },
+    {
+      "description": "FACTURATION PPA",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "14 998.50",
+      "category": null
+    },
+    {
+      "description": "Détail",
+      "quantity": "8063.71",
+      "unit_price": "1.86",
+      "total_price": "14 998.50",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "17 953.45",
+      "category": null
+    },
+    {
+      "description": "ARENH ADDITIONNEL 2022",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-123 069.39",
+      "category": null
+    },
+    {
+      "description": "AJUSTEMENT DE LA PRODUCTION RÉELLE DU PARC DE CAST AU\nBLOC TRIMESTRIEL",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "55 615.28",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-24 777.63",
+      "category": null
+    },
+    {
+      "description": "CSPE EXONÉRÉE À HAUTEUR DE 95,56%",
+      "quantity": "358.03",
+      "unit_price": "0.50",
+      "total_price": "179.01",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Composante soutirage HPE",
+      "quantity": "286415.00",
+      "unit_price": "0.01",
+      "total_price": "2 291.32",
+      "category": null
+    },
+    {
+      "description": "Composante soutirage HCE",
+      "quantity": "191163.00",
+      "unit_price": "0.01",
+      "total_price": "1 280.79",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Composante gestion - Echu",
+      "quantity": "30.00",
+      "unit_price": "1.03",
+      "total_price": "30.97",
+      "category": null
+    },
+    {
+      "description": "Composante comptage - Echu",
+      "quantity": "30.00",
+      "unit_price": "0.87",
+      "total_price": "26.24",
+      "category": null
+    },
+    {
+      "description": "Composante soutirage part fixe - Echu",
+      "quantity": "27000.00",
+      "unit_price": "0.06",
+      "total_price": "1 682.91",
+      "category": null
+    },
+    {
+      "description": "Composante alimentation secours souterrain - Echu",
+      "quantity": "0.30",
+      "unit_price": "3.85",
+      "total_price": "1.15",
+      "category": null
+    },
+    {
+      "description": "Composante alimentation secours réservation - Echu",
+      "quantity": "21000.00",
+      "unit_price": "0.02",
+      "total_price": "385.56",
+      "category": null
+    },
+    {
+      "description": "Composante gestion - Reprise",
+      "quantity": "-30.00",
+      "unit_price": "1.03",
+      "total_price": "-30.97",
+      "category": null
+    },
+    {
+      "description": "Composante comptage - Reprise",
+      "quantity": "-30.00",
+      "unit_price": "0.87",
+      "total_price": "-26.24",
+      "category": null
+    },
+    {
+      "description": "Composante soutirage part fixe - Reprise",
+      "quantity": "-27000.00",
+      "unit_price": "0.06",
+      "total_price": "-1 682.91",
+      "category": null
+    },
+    {
+      "description": "Composante alimentation secours souterrain - Reprise",
+      "quantity": "-0.30",
+      "unit_price": "3.85",
+      "total_price": "-1.15",
+      "category": null
+    },
+    {
+      "description": "Composante alimentation secours réservation - Reprise",
+      "quantity": "-21000.00",
+      "unit_price": "0.02",
+      "total_price": "-385.56",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Composante gestion - Echoir",
+      "quantity": "30.00",
+      "unit_price": "1.03",
+      "total_price": "30.97",
+      "category": null
+    },
+    {
+      "description": "Composante comptage - Echoir",
+      "quantity": "30.00",
+      "unit_price": "0.87",
+      "total_price": "26.24",
+      "category": null
+    },
+    {
+      "description": "Composante soutirage part fixe - Echoir",
+      "quantity": "27000.00",
+      "unit_price": "0.06",
+      "total_price": "1 682.91",
+      "category": null
+    },
+    {
+      "description": "Composante alimentation secours souterrain - Echoir",
+      "quantity": "0.30",
+      "unit_price": "3.85",
+      "total_price": "1.15",
+      "category": null
+    },
+    {
+      "description": "Composante alimentation secours réservation - Echoir",
+      "quantity": "21000.00",
+      "unit_price": "0.02",
+      "total_price": "385.56",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Composante gestion client CU - Echu",
+      "quantity": "30.00",
+      "unit_price": "0.43",
+      "total_price": "-13.05",
+      "category": null
+    },
+    {
+      "description": "Composante gestion client CU - Reprise",
+      "quantity": "-30.00",
+      "unit_price": "0.43",
+      "total_price": "13.05",
+      "category": null
+    },
+    {
+      "description": "ACHEMINEMENT - AUTRE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-13.05",
+      "category": null
+    },
+    {
+      "description": "Composante gestion client CU - Echoir",
+      "quantity": "30.00",
+      "unit_price": "0.43",
+      "total_price": "-13.05",
+      "category": null
+    },
+    {
+      "description": "ENERGIE",
+      "quantity": "477.69",
+      "unit_price": "127.57",
+      "total_price": "60 940.95",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (76,2 %) - Fixe - Prix unique (76,20 %)",
+      "quantity": "364.00",
+      "unit_price": "52.20",
+      "total_price": "19 002.40",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (23,8 %) - Spot - Prix unique (23,80 %)",
+      "quantity": "113.69",
+      "unit_price": "368.88",
+      "total_price": "41 938.55",
+      "category": null
+    },
+    {
+      "description": "PRIME",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-28 268.98",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-20 818.20",
+      "category": null
+    },
+    {
+      "description": "CONTRAT UNIQUE",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "50.00",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 247.87",
+      "category": null
+    },
+    {
+      "description": "ARENH ADDITIONNEL 2022",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-7 290.59",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-1 458.06",
+      "category": null
+    },
+    {
+      "description": "CSPE",
+      "quantity": "477.69",
+      "unit_price": "0.50",
+      "total_price": "238.85",
+      "category": null
+    },
+    {
+      "description": "CTA DISTRIBUTION",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "466.41",
+      "category": null
+    },
+    {
+      "description": "ENERGIE",
+      "quantity": "873.53",
+      "unit_price": "127.57",
+      "total_price": "111 439.61",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (76,2 %) - Fixe - Prix unique (76,20 %)",
+      "quantity": "665.63",
+      "unit_price": "52.20",
+      "total_price": "34 748.71",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (23,8 %) - Spot - Prix unique (23,80 %)",
+      "quantity": "207.90",
+      "unit_price": "368.88",
+      "total_price": "76 690.90",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-42 584.19",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2 066.03",
+      "category": null
+    },
+    {
+      "description": "ARENH ADDITIONNEL 2022",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-13 331.93",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-2 982.50",
+      "category": null
+    },
+    {
+      "description": "ENERGIE",
+      "quantity": "6957.80",
+      "unit_price": "127.57",
+      "total_price": "887 633.78",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (76,2 %) - Fixe - Prix unique (76,20 %)",
+      "quantity": "5301.85",
+      "unit_price": "52.20",
+      "total_price": "276 778.89",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (23,8 %) - Spot - Prix unique (23,80 %)",
+      "quantity": "1655.96",
+      "unit_price": "368.88",
+      "total_price": "610 854.89",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-571 830.35",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "26 184.62",
+      "category": null
+    },
+    {
+      "description": "ARENH ADDITIONNEL 2022",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-106 190.88",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-40 049.94",
+      "category": null
+    },
+    {
+      "description": "CSPE À HAUTEUR DE 0,4%",
+      "quantity": "27.83",
+      "unit_price": "0.50",
+      "total_price": "13.92",
+      "category": null
+    },
+    {
+      "description": "ENERGIE",
+      "quantity": "644.55",
+      "unit_price": "127.57",
+      "total_price": "82 227.75",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (76,2 %) - Fixe - Prix unique (76,20 %)",
+      "quantity": "491.15",
+      "unit_price": "52.20",
+      "total_price": "25 639.97",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (23,8 %) - Spot - Prix unique (23,80 %)",
+      "quantity": "153.40",
+      "unit_price": "368.88",
+      "total_price": "56 587.78",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-33 320.87",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2 003.04",
+      "category": null
+    },
+    {
+      "description": "ARENH ADDITIONNEL 2022",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-9 837.21",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-2 333.71",
+      "category": null
+    },
+    {
+      "description": "CSPE",
+      "quantity": "644.55",
+      "unit_price": "0.50",
+      "total_price": "322.27",
+      "category": null
+    },
+    {
+      "description": "ENERGIE",
+      "quantity": "728.47",
+      "unit_price": "127.57",
+      "total_price": "92 933.69",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (76,2 %) - Fixe - Prix unique (76,20 %)",
+      "quantity": "555.09",
+      "unit_price": "52.20",
+      "total_price": "28 978.26",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (23,8 %) - Spot - Prix unique (23,80 %)",
+      "quantity": "173.38",
+      "unit_price": "368.88",
+      "total_price": "63 955.43",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-28 563.05",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2 148.05",
+      "category": null
+    },
+    {
+      "description": "ARENH ADDITIONNEL 2022",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-11 118.00",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-2 000.51",
+      "category": null
+    },
+    {
+      "description": "CSPE À HAUTEUR DE 100%",
+      "quantity": "728.47",
+      "unit_price": "0.50",
+      "total_price": "364.24",
+      "category": null
+    },
+    {
+      "description": "ENERGIE",
+      "quantity": "2467.98",
+      "unit_price": "127.57",
+      "total_price": "314 849.31",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (76,2 %) - Fixe - Prix unique (76,20 %)",
+      "quantity": "1880.60",
+      "unit_price": "52.20",
+      "total_price": "98 175.22",
+      "category": null
+    },
+    {
+      "description": "Haut de courbe Niveau 1 (23,8 %) - Spot - Prix unique (23,80 %)",
+      "quantity": "587.38",
+      "unit_price": "368.88",
+      "total_price": "216 674.09",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-81 674.18",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "5 945.34",
+      "category": null
+    },
+    {
+      "description": "ARENH ADDITIONNEL 2022",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-37 666.58",
+      "category": null
+    },
+    {
+      "description": "BÉNÉFICE ARENH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-5 720.32",
+      "category": null
+    },
+    {
+      "description": "CSPE",
+      "quantity": "2467.98",
+      "unit_price": "0.50",
+      "total_price": "1 233.99",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "4 846 670.16",
+    "tax": "969 334.03",
+    "discount": "",
+    "total": "5 133.35"
+  },
+  "payment_instructions": {
+    "due_date": "01/12/2022",
+    "bank_name": "Par virement",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 23.373,
+  "file_size_bytes": 3116425
+}

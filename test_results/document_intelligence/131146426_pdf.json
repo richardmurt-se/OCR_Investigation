@@ -1,0 +1,3878 @@
+{
+  "filename": "131146426.pdf",
+  "invoice": {
+    "client_name": "STRT LGT CNRCALDERPARKDR",
+    "client_address": "1 60 Denmark Street\nKEW VIC 3101",
+    "seller_name": "AGL Sales Pty Limited",
+    "seller_address": "",
+    "invoice_number": "",
+    "invoice_date": "30/09/2020",
+    "due_date": "20/10/2020"
+  },
+  "items": [
+    {
+      "description": "Opening Balance",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "121 735.10",
+      "category": null
+    },
+    {
+      "description": "Payment Received",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "107 339.16",
+      "category": null
+    },
+    {
+      "description": "Usage and Supply Charges (see over for details)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "27 659.96",
+      "category": null
+    },
+    {
+      "description": "Total Other Charges (see over for details)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 058.78",
+      "category": null
+    },
+    {
+      "description": "Current Charges (including GST of $2610.82)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "28 718.74",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "139.22",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "137.43",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "419.83",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "160.06",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "256.41",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "185.69",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 115.14",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "546.84",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 579.31",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "323.93",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 222.56",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "206.17",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "799.57",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "98.51",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "103.42",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "152.01",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "58.36",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 143.70",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "279.71",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 124.80",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "99.34",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 220.49",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "General Usage 338.768 kWh @",
+      "quantity": "",
+      "unit_price": "0.21",
+      "total_price": "70.32",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "54.00",
+      "category": null
+    },
+    {
+      "description": "LGC 338.768 kWh @",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "3.55",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "12.65",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.78",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.04",
+      "category": null
+    },
+    {
+      "description": "Peak 302.723 kWh @",
+      "quantity": "",
+      "unit_price": "0.22",
+      "total_price": "67.94",
+      "category": null
+    },
+    {
+      "description": "Off peak 678.796 kWh @ $0.130273",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "88.42",
+      "category": null
+    },
+    {
+      "description": "LGC 981.519 kWh @",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "10.31",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "21.98",
+      "category": null
+    },
+    {
+      "description": "Off peak",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.98",
+      "category": null
+    },
+    {
+      "description": "Peak",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.75",
+      "category": null
+    },
+    {
+      "description": "LGC\nSupply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.11",
+      "category": null
+    },
+    {
+      "description": "General Usage 1006.388 kWh @",
+      "quantity": "",
+      "unit_price": "0.19",
+      "total_price": "190.88",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "67.07",
+      "category": null
+    },
+    {
+      "description": "LGC 1006.388 kWh @",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "10.57",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "25.44",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2.12",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.12",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.75",
+      "category": null
+    },
+    {
+      "description": "General Usage 330.474 kWh @",
+      "quantity": "",
+      "unit_price": "0.21",
+      "total_price": "68.61",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "54.00",
+      "category": null
+    },
+    {
+      "description": "LGC 330.474 kWh @",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "3.47",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "12.50",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.76",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.04",
+      "category": null
+    },
+    {
+      "description": "General Usage 1625.285 kWh @",
+      "quantity": "",
+      "unit_price": "0.21",
+      "total_price": "337.41",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "54.00",
+      "category": null
+    },
+    {
+      "description": "LGC 1625.285 kWh @ $0.01051",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "17.07",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "38.16",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "3.75",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.19",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.60",
+      "category": null
+    },
+    {
+      "description": "General Usage 1076.497 kWh @",
+      "quantity": "",
+      "unit_price": "0.19",
+      "total_price": "204.18",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "67.07",
+      "category": null
+    },
+    {
+      "description": "LGC 1076.497 kWh @",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "11.31",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "26.72",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2.27",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.13",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.75",
+      "category": null
+    },
+    {
+      "description": "General Usage 638.483 kWh @",
+      "quantity": "",
+      "unit_price": "0.20",
+      "total_price": "126.76",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "19.48",
+      "category": null
+    },
+    {
+      "description": "General Usage 470.464 kWh @",
+      "quantity": "",
+      "unit_price": "0.18",
+      "total_price": "85.56",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "13.94",
+      "category": null
+    },
+    {
+      "description": "LGC 1108.947 kWh @",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "11.07",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "6.18",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "23.91",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "4.33",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.23",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.68",
+      "category": null
+    },
+    {
+      "description": "General Usage 5629.659 kWh @",
+      "quantity": "",
+      "unit_price": "0.20",
+      "total_price": "1 117.33",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "34.71",
+      "category": null
+    },
+    {
+      "description": "LGC 5629.659 kWh @",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "59.17",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "111.15",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "12.41",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.66",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.39",
+      "category": null
+    },
+    {
+      "description": "General Usage 0 kWh @ $0.181863",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "62.72",
+      "category": null
+    },
+    {
+      "description": "LGC 0 kWh @ $0.01051",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "6.73",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.70",
+      "category": null
+    },
+    {
+      "description": "Peak 1524.266 kWh @ $0.297693",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "453.76",
+      "category": null
+    },
+    {
+      "description": "Off peak 3688.263 kWh @ $0.138743",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "511.72",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "48.11",
+      "category": null
+    },
+    {
+      "description": "LGC 5212.529 kWh @ $0.01051",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "54.78",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "98.15",
+      "category": null
+    },
+    {
+      "description": "Off peak",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "5.69",
+      "category": null
+    },
+    {
+      "description": "Peak",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "5.04",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.61",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.53",
+      "category": null
+    },
+    {
+      "description": "Peak 1476.83 kWh @ $0.297693",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "439.64",
+      "category": null
+    },
+    {
+      "description": "Off peak 3104.868 kWh @ $0.138743\nSupply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "430.77",
+      "category": null
+    },
+    {
+      "description": "LGC 4581.698 kWh @ $0.01051",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "48.15",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "88.91",
+      "category": null
+    },
+    {
+      "description": "Peak",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "4.88",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.54",
+      "category": null
+    },
+    {
+      "description": "General Usage 209.104 kWh @",
+      "quantity": "",
+      "unit_price": "0.18",
+      "total_price": "38.03",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "62.72",
+      "category": null
+    },
+    {
+      "description": "LGC 209.104 kWh @",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "2.19",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "10.39",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.42",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.02",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.70",
+      "category": null
+    },
+    {
+      "description": "Peak 463.967 kWh @",
+      "quantity": "",
+      "unit_price": "0.30",
+      "total_price": "138.12",
+      "category": null
+    },
+    {
+      "description": "Off peak 932.624 kWh @ $0.138743",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "129.39",
+      "category": null
+    },
+    {
+      "description": "LGC 1396.591 kWh @",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "14.67",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "31.05",
+      "category": null
+    },
+    {
+      "description": "Peak",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.53",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.16",
+      "category": null
+    },
+    {
+      "description": "General Usage 766.195 kWh @",
+      "quantity": "",
+      "unit_price": "0.20",
+      "total_price": "152.06",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "34.71",
+      "category": null
+    },
+    {
+      "description": "LGC 766.195 kWh @",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "8.05",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "18.74",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.69",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.09",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.39",
+      "category": null
+    },
+    {
+      "description": "General Usage 747.416 kWh @ $0.189673",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "141.76",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "67.07",
+      "category": null
+    },
+    {
+      "description": "LGC 747.416 kWh @ $0.01051",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "7.85",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "20.73",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.58",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.09",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.75",
+      "category": null
+    },
+    {
+      "description": "General Usage 555.919 kWh @",
+      "quantity": "",
+      "unit_price": "0.26",
+      "total_price": "143.04",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "45.94",
+      "category": null
+    },
+    {
+      "description": "LGC 555.919 kWh @ $0.01051",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "5.84",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "18.74",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.59",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.06",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.51",
+      "category": null
+    },
+    {
+      "description": "General Usage 1009 kWh @",
+      "quantity": "",
+      "unit_price": "0.26",
+      "total_price": "259.63",
+      "category": null
+    },
+    {
+      "description": "Next 3310.403 kWh @",
+      "quantity": "",
+      "unit_price": "0.29",
+      "total_price": "973.09",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "45.94",
+      "category": null
+    },
+    {
+      "description": "LGC 4319.403 kWh @",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "45.40",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "121.40",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "13.70",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.50",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.51",
+      "category": null
+    },
+    {
+      "description": "General Usage 347.172 kWh @",
+      "quantity": "",
+      "unit_price": "0.19",
+      "total_price": "65.85",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "67.07",
+      "category": null
+    },
+    {
+      "description": "LGC 347.172 kWh @",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "3.64",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "13.45",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.73",
+      "category": null
+    },
+    {
+      "description": "LGC\ncharge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.04",
+      "category": null
+    },
+    {
+      "description": "General Usage 3605.589 kWh @",
+      "quantity": "",
+      "unit_price": "0.20",
+      "total_price": "715.61",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "34.71",
+      "category": null
+    },
+    {
+      "description": "LGC 3605.589 kWh @",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "37.90",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "72.70",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "7.95",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.42",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.39",
+      "category": null
+    },
+    {
+      "description": "General Usage 1009 kWh @",
+      "quantity": "",
+      "unit_price": "0.26",
+      "total_price": "259.63",
+      "category": null
+    },
+    {
+      "description": "Next 1135.904 kWh @",
+      "quantity": "",
+      "unit_price": "0.29",
+      "total_price": "333.89",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "45.94",
+      "category": null
+    },
+    {
+      "description": "LGC 2144.904 kWh @",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "22.54",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "61.21",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "6.59",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.25",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.51",
+      "category": null
+    },
+    {
+      "description": "Peak 134.29 kWh @ $0.248743",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "33.40",
+      "category": null
+    },
+    {
+      "description": "Off peak 292.119 kWh @ $0.131813",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "38.50",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "LGC 426.409 kWh @ $0.01051",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "4.48",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "14.12",
+      "category": null
+    },
+    {
+      "description": "Off peak",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.43",
+      "category": null
+    },
+    {
+      "description": "Peak",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.37",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.05",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "General Usage 306.864 kWh @",
+      "quantity": "",
+      "unit_price": "0.18",
+      "total_price": "56.44",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "27.50",
+      "category": null
+    },
+    {
+      "description": "LGC 306.864 kWh @",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "3.22",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "8.95",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.63",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.04",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.31",
+      "category": null
+    },
+    {
+      "description": "General Usage 434.29 kWh @",
+      "quantity": "",
+      "unit_price": "0.21",
+      "total_price": "90.16",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "54.00",
+      "category": null
+    },
+    {
+      "description": "LGC 434.29 kWh @",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "4.55",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "14.55",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.00",
+      "category": null
+    },
+    {
+      "description": "LGC\ncharge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.05",
+      "category": null
+    },
+    {
+      "description": "General Usage 875.986 kWh @",
+      "quantity": "",
+      "unit_price": "0.21",
+      "total_price": "181.85",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "54.00",
+      "category": null
+    },
+    {
+      "description": "LGC 875.986 kWh @",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "9.21",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "23.31",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2.02",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.10",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.60",
+      "category": null
+    },
+    {
+      "description": "General Usage 551.773 kWh @",
+      "quantity": "",
+      "unit_price": "0.21",
+      "total_price": "114.54",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "54.00",
+      "category": null
+    },
+    {
+      "description": "LGC 551.773 kWh @",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "5.80",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "16.88",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.27",
+      "category": null
+    },
+    {
+      "description": "LGC\ncharge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.06",
+      "category": null
+    },
+    {
+      "description": "General Usage 169.707 kWh @",
+      "quantity": "",
+      "unit_price": "0.19",
+      "total_price": "32.19",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "67.07",
+      "category": null
+    },
+    {
+      "description": "LGC 169.707 kWh @ $0.01051",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.78",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "10.22",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.36",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.02",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.75",
+      "category": null
+    },
+    {
+      "description": "General Usage 274.537 kWh @",
+      "quantity": "",
+      "unit_price": "0.20",
+      "total_price": "54.48",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "34.71",
+      "category": null
+    },
+    {
+      "description": "LGC 274.537 kWh @ $0.01051",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2.88",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "9.40",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.61",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.03",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.39",
+      "category": null
+    },
+    {
+      "description": "General Usage 507.054 kWh @",
+      "quantity": "",
+      "unit_price": "0.20",
+      "total_price": "100.63",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "34.71",
+      "category": null
+    },
+    {
+      "description": "LGC 507.054 kWh @",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "5.32",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "13.82",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.12",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.06",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.39",
+      "category": null
+    },
+    {
+      "description": "General Usage 58.875 kWh @ $0.198473",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.68",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "34.71",
+      "category": null
+    },
+    {
+      "description": "LGC 58.875 kWh @ $0.01051",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.62",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "5.31",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.13",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.01",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.39",
+      "category": null
+    },
+    {
+      "description": "General Usage 355.792 kWh @",
+      "quantity": "",
+      "unit_price": "0.19",
+      "total_price": "67.47",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "67.07",
+      "category": null
+    },
+    {
+      "description": "LGC 355.792 kWh @",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "3.73",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "13.60",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.75",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.04",
+      "category": null
+    },
+    {
+      "description": "General Usage 24.701 kWh @ $0.189673",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "4.68",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "67.07",
+      "category": null
+    },
+    {
+      "description": "LGC 24.701 kWh @ $0.01051",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.25",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "7.58",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.05",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.75",
+      "category": null
+    },
+    {
+      "description": "General Usage 1009 kWh @",
+      "quantity": "",
+      "unit_price": "0.26",
+      "total_price": "259.63",
+      "category": null
+    },
+    {
+      "description": "Next 3214.957 kWh @",
+      "quantity": "",
+      "unit_price": "0.29",
+      "total_price": "945.04",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "45.94",
+      "category": null
+    },
+    {
+      "description": "LGC 4223.957 kWh @ $0.01051",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "44.39",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "118.76",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "13.39",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.49",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.51",
+      "category": null
+    },
+    {
+      "description": "General Usage 536.968 kWh @ $0.189673",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "101.84",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "67.07",
+      "category": null
+    },
+    {
+      "description": "LGC 536.968 kWh @ $0.01051",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "5.64",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "16.90",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.13",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.06",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.75",
+      "category": null
+    },
+    {
+      "description": "General Usage 5252.309 kWh @",
+      "quantity": "",
+      "unit_price": "0.20",
+      "total_price": "1 042.44",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "34.71",
+      "category": null
+    },
+    {
+      "description": "LGC 5252.309 kWh @",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "55.20",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "103.98",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.58",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.61",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.39",
+      "category": null
+    },
+    {
+      "description": "General Usage 837.966 kWh @ $0.181863",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "152.39",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "62.72",
+      "category": null
+    },
+    {
+      "description": "LGC 837.966 kWh @ $0.01051",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "8.80",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "21.38",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.69",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.10",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.70",
+      "category": null
+    },
+    {
+      "description": "General Usage 780.514 kWh @ $0.257323",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "200.84",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "45.94",
+      "category": null
+    },
+    {
+      "description": "LGC 780.514 kWh @ $0.01051",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "8.20",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "24.22",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2.23",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.09",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.51",
+      "category": null
+    },
+    {
+      "description": "General Usage 544.898 kWh @",
+      "quantity": "",
+      "unit_price": "0.26",
+      "total_price": "140.21",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "45.94",
+      "category": null
+    },
+    {
+      "description": "LGC 544.898 kWh @",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "5.72",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "18.48",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.56",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.06",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.51",
+      "category": null
+    },
+    {
+      "description": "Peak 2029.194 kWh @ $0.221023",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "448.49",
+      "category": null
+    },
+    {
+      "description": "Off peak 4565.124 kWh @ $0.117513",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "536.46",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "49.54",
+      "category": null
+    },
+    {
+      "description": "LGC 6594.318 kWh @ $0.01051",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "69.30",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "101.37",
+      "category": null
+    },
+    {
+      "description": "Off peak",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "5.96",
+      "category": null
+    },
+    {
+      "description": "Peak",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "4.98",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.77",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.55",
+      "category": null
+    },
+    {
+      "description": "General Usage 1270 kWh @ $0.198473",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "252.05",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "10.79",
+      "category": null
+    },
+    {
+      "description": "LGC 1270 kWh @ $0.01051",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "13.34",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "3.53",
+      "category": null
+    },
+    {
+      "description": "GST incl in",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "General Usage 1009 kWh @",
+      "quantity": "",
+      "unit_price": "0.26",
+      "total_price": "259.63",
+      "category": null
+    },
+    {
+      "description": "Next 504.956 kWh @",
+      "quantity": "",
+      "unit_price": "0.29",
+      "total_price": "148.42",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "45.94",
+      "category": null
+    },
+    {
+      "description": "LGC 1513.956 kWh @",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "15.91",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "43.75",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "4.53",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.18",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.51",
+      "category": null
+    },
+    {
+      "description": "Peak 1540.18 kWh @ $0.297693",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "458.49",
+      "category": null
+    },
+    {
+      "description": "Off peak 3643.857 kWh @ $0.138743",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "505.55",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "LGC 5184.037 kWh @ $0.01051",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "54.48",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "97.99",
+      "category": null
+    },
+    {
+      "description": "Off peak",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "5.62",
+      "category": null
+    },
+    {
+      "description": "Peak",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "5.09",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.61",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "Peak 293.905 kWh @",
+      "quantity": "",
+      "unit_price": "0.22",
+      "total_price": "65.96",
+      "category": null
+    },
+    {
+      "description": "Off peak 302.628 kWh @",
+      "quantity": "",
+      "unit_price": "0.13",
+      "total_price": "39.42",
+      "category": null
+    },
+    {
+      "description": "LGC 596.533 kWh @",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "6.26",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "16.97",
+      "category": null
+    },
+    {
+      "description": "Peak",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.73",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.07",
+      "category": null
+    },
+    {
+      "description": "General Usage 772.12 kWh @ $0.181863",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "140.42",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "62.72",
+      "category": null
+    },
+    {
+      "description": "LGC 772.12 kWh @ $0.01051",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "8.11",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "20.24",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.56",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.09",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.70",
+      "category": null
+    },
+    {
+      "description": "General Usage 2207.576 kWh @",
+      "quantity": "",
+      "unit_price": "0.21",
+      "total_price": "458.29",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "54.00",
+      "category": null
+    },
+    {
+      "description": "LGC 2207.576 kWh @",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "23.20",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "49.71",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "5.09",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.26",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.60",
+      "category": null
+    },
+    {
+      "description": "Peak 370.211 kWh @ $0.248743",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "92.08",
+      "category": null
+    },
+    {
+      "description": "Off peak 366.671 kWh @ $0.131813",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "48.32",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "LGC 736.882 kWh @ $0.01051",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "7.74",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "20.63",
+      "category": null
+    },
+    {
+      "description": "Peak",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.02",
+      "category": null
+    },
+    {
+      "description": "Off peak",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.54",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.09",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "General Usage 101.041 kWh @",
+      "quantity": "",
+      "unit_price": "0.19",
+      "total_price": "19.16",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "67.07",
+      "category": null
+    },
+    {
+      "description": "LGC 101.041 kWh @ $0.01051",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.06",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "8.97",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.21",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.01",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.75",
+      "category": null
+    },
+    {
+      "description": "General Usage 247.222 kWh @ $0.189673",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "46.88",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "67.07",
+      "category": null
+    },
+    {
+      "description": "LGC 247.222 kWh @ $0.01051",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2.60",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.63",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.52",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.03",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.75",
+      "category": null
+    },
+    {
+      "description": "General Usage 6941.22 kWh @ $0.207603",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1 441.01",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "54.00",
+      "category": null
+    },
+    {
+      "description": "LGC 6941.22 kWh @ $0.01051",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "72.95",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "143.57",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "16.01",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.81",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.60",
+      "category": null
+    },
+    {
+      "description": "General Usage 608.382 kWh @",
+      "quantity": "",
+      "unit_price": "0.18",
+      "total_price": "110.64",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "62.72",
+      "category": null
+    },
+    {
+      "description": "LGC 608.382 kWh @",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "6.39",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "17.37",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.23",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.07",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.70",
+      "category": null
+    },
+    {
+      "description": "General Usage 2913.476 kWh @",
+      "quantity": "",
+      "unit_price": "0.18",
+      "total_price": "529.85",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "62.72",
+      "category": null
+    },
+    {
+      "description": "LGC 2913.476 kWh @",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "30.61",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "57.68",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "5.89",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.34",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.70",
+      "category": null
+    },
+    {
+      "description": "General Usage 898.767 kWh @ $0.181863",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "163.45",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "62.72",
+      "category": null
+    },
+    {
+      "description": "LGC 898.767 kWh @ $0.01051",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "9.44",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "22.45",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.82",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.10",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.70",
+      "category": null
+    },
+    {
+      "description": "General Usage 1009 kWh @",
+      "quantity": "",
+      "unit_price": "0.26",
+      "total_price": "259.63",
+      "category": null
+    },
+    {
+      "description": "Next 850.16 kWh @",
+      "quantity": "",
+      "unit_price": "0.29",
+      "total_price": "249.90",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "45.94",
+      "category": null
+    },
+    {
+      "description": "LGC 1859.16 kWh @",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "19.54",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "53.31",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "5.66",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.22",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.51",
+      "category": null
+    },
+    {
+      "description": "General Usage 604.455 kWh @",
+      "quantity": "",
+      "unit_price": "0.19",
+      "total_price": "114.64",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "67.07",
+      "category": null
+    },
+    {
+      "description": "LGC 604.455 kWh @ $0.01051",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "6.35",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "18.13",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.27",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.07",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.75",
+      "category": null
+    },
+    {
+      "description": "General Usage 1185.599 kWh @",
+      "quantity": "",
+      "unit_price": "0.21",
+      "total_price": "246.13",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "54.00",
+      "category": null
+    },
+    {
+      "description": "LGC 1185.599 kWh @ $0.01051",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "12.45",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "29.45",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2.73",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.14",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.60",
+      "category": null
+    },
+    {
+      "description": "General Usage 927.496 kWh @",
+      "quantity": "",
+      "unit_price": "0.26",
+      "total_price": "238.66",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "45.94",
+      "category": null
+    },
+    {
+      "description": "LGC 927.496 kWh @",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "9.75",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "27.80",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2.65",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.11",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.51",
+      "category": null
+    },
+    {
+      "description": "General Usage 197.049 kWh @",
+      "quantity": "",
+      "unit_price": "0.19",
+      "total_price": "37.37",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "67.07",
+      "category": null
+    },
+    {
+      "description": "LGC 197.049 kWh @",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "2.07",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "10.72",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.42",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.02",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.75",
+      "category": null
+    },
+    {
+      "description": "General Usage 1033.915 kWh @",
+      "quantity": "",
+      "unit_price": "0.19",
+      "total_price": "196.10",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "67.07",
+      "category": null
+    },
+    {
+      "description": "LGC 1033.915 kWh @",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "10.86",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "25.95",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2.18",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.12",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.75",
+      "category": null
+    },
+    {
+      "description": "General Usage 5161.883 kWh @",
+      "quantity": "",
+      "unit_price": "0.20",
+      "total_price": "1 024.49",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "34.71",
+      "category": null
+    },
+    {
+      "description": "LGC 5161.883 kWh @ $0.01051",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "54.25",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "102.26",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.38",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.60",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.39",
+      "category": null
+    },
+    {
+      "description": "General Usage 255.019 kWh @",
+      "quantity": "",
+      "unit_price": "0.20",
+      "total_price": "50.61",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "34.71",
+      "category": null
+    },
+    {
+      "description": "LGC 255.019 kWh @",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "2.67",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "9.03",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.56",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.03",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.39",
+      "category": null
+    },
+    {
+      "description": "General Usage 5619.794 kWh @",
+      "quantity": "",
+      "unit_price": "0.20",
+      "total_price": "1 115.37",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "34.71",
+      "category": null
+    },
+    {
+      "description": "LGC 5619.794 kWh @",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "59.06",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "110.96",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "12.39",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.66",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.39",
+      "category": null
+    },
+    {
+      "description": "General Usage 539.713 kWh @ $0.257323",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "138.88",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "45.94",
+      "category": null
+    },
+    {
+      "description": "LGC 539.713 kWh @ $0.01051",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "5.67",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "18.36",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "1.54",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.06",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.51",
+      "category": null
+    },
+    {
+      "description": "General Usage 834.219 kWh @",
+      "quantity": "",
+      "unit_price": "0.26",
+      "total_price": "214.65",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "45.94",
+      "category": null
+    },
+    {
+      "description": "LGC 834.219 kWh @",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "8.77",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "25.52",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "2.39",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.10",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.51",
+      "category": null
+    },
+    {
+      "description": "Peak 2401.33 kWh @",
+      "quantity": "",
+      "unit_price": "0.28",
+      "total_price": "665.72",
+      "category": null
+    },
+    {
+      "description": "Off peak 5418.949 kWh @",
+      "quantity": "",
+      "unit_price": "0.14",
+      "total_price": "736.34",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "48.11",
+      "category": null
+    },
+    {
+      "description": "LGC 7820.279 kWh @",
+      "quantity": "",
+      "unit_price": "0.01",
+      "total_price": "82.19",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "143.18",
+      "category": null
+    },
+    {
+      "description": "Off peak",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "8.18",
+      "category": null
+    },
+    {
+      "description": "Peak",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "7.40",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.91",
+      "category": null
+    },
+    {
+      "description": "Demand",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.35",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.53",
+      "category": null
+    },
+    {
+      "description": "General Usage 1009 kWh @",
+      "quantity": "",
+      "unit_price": "0.26",
+      "total_price": "259.63",
+      "category": null
+    },
+    {
+      "description": "Next 6206.745 kWh @",
+      "quantity": "",
+      "unit_price": "0.29",
+      "total_price": "1 824.48",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "45.94",
+      "category": null
+    },
+    {
+      "description": "LGC 7215.745 kWh @ $0.01051",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "75.83",
+      "category": null
+    },
+    {
+      "description": "Energy Accounting Services",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "11.35",
+      "category": null
+    },
+    {
+      "description": "GST incl in above charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "201.56",
+      "category": null
+    },
+    {
+      "description": "General Usage",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "23.16",
+      "category": null
+    },
+    {
+      "description": "LGC",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.84",
+      "category": null
+    },
+    {
+      "description": "Supply charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.51",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "25.42",
+    "discount": "",
+    "total": "28 718.74"
+  },
+  "payment_instructions": {
+    "due_date": "20/10/2020",
+    "bank_name": "[DocumentField(value_type=dictionary, value={'BPayBillerCode': DocumentField(value_type=string, value='33837', content=33837, bounding_regions=[BoundingRegion(page_number=2, polygon=[Point(x=3.9089, y=9.0899), Point(x=4.2486, y=9.095), Point(x=4.2486, y=9.2015), Point(x=3.9089, y=9.2015)])], spans=[DocumentSpan(offset=2361, length=5)], confidence=0.984), 'BPayReference': DocumentField(value_type=string, value='00 8824 9081', content=00 8824 9081, bounding_regions=[BoundingRegion(page_number=2, polygon=[Point(x=3.5388, y=9.2332), Point(x=4.2738, y=9.2261), Point(x=4.275, y=9.3409), Point(x=3.5399, y=9.348)])], spans=[DocumentSpan(offset=2503, length=12)], confidence=0.992)}, content=None, bounding_regions=[], spans=[], confidence=0.995), DocumentField(value_type=dictionary, value={'PostBillpayBillerCode': DocumentField(value_type=string, value='3201', content=3201, bounding_regions=[BoundingRegion(page_number=2, polygon=[Point(x=1.4601, y=10.1546), Point(x=1.7288, y=10.1546), Point(x=1.7339, y=10.2661), Point(x=1.4652, y=10.2712)])], spans=[DocumentSpan(offset=2697, length=4)], confidence=0.892), 'PostBillpayReference': DocumentField(value_type=string, value='00 8824 9081', content=00 8824 9081, bounding_regions=[BoundingRegion(page_number=2, polygon=[Point(x=1.019, y=10.2864), Point(x=1.7643, y=10.2864), Point(x=1.7643, y=10.4081), Point(x=1.019, y=10.4081)])], spans=[DocumentSpan(offset=2740, length=12)], confidence=0.849)}, content=None, bounding_regions=[], spans=[], confidence=0.995)]",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 28.232,
+  "file_size_bytes": 961216
+}

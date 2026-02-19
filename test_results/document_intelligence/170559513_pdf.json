@@ -1,0 +1,70 @@
+{
+  "filename": "170559513.pdf",
+  "invoice": {
+    "client_name": "WALGREENS CO C/O ECOVA, INC. - MS 3047",
+    "client_address": "PO BOX 182107\nCOLUMBUS OH 43218-2107",
+    "seller_name": "Autoridad de Acueductos y Alcantarillados",
+    "seller_address": "P.O. BOX 70101, SAN JUAN, PR 00936-8101",
+    "invoice_number": "203371268968",
+    "invoice_date": "23/10/2024",
+    "due_date": "13/11/2024"
+  },
+  "items": [
+    {
+      "description": "Balance Anterior",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "950.44",
+      "category": null
+    },
+    {
+      "description": "Pagos",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "950.44",
+      "category": null
+    },
+    {
+      "description": "Cargos",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "793.78",
+      "category": null
+    },
+    {
+      "description": "Cargo base",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "135.32",
+      "category": null
+    },
+    {
+      "description": "Bloque 1",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "651.00",
+      "category": null
+    },
+    {
+      "description": "Bloque 2",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "7.46",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "793.78"
+  },
+  "payment_instructions": {
+    "due_date": "13/11/2024",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 10.23,
+  "file_size_bytes": 612799
+}

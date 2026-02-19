@@ -1,0 +1,49 @@
+{
+  "filename": "137464520.pdf",
+  "invoice": {
+    "client_name": "FEDEX GROUND PACKAGE\nCO/ ENGIE INSIGHT",
+    "client_address": "PO BOX 2440\nSPOKANE WA 99210",
+    "seller_name": "@home\nENERGY",
+    "seller_address": "500 Regent Street P.O. Box 250\nSudbury ON P3E 4P1",
+    "invoice_number": "",
+    "invoice_date": "15/07/2021",
+    "due_date": "05/08/2021"
+  },
+  "items": [
+    {
+      "description": "Equipment Rental\nLocation d'équipment\nJuly 15, 2021 - October 14, 2021 (91 days · jours)",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "37.37",
+      "category": null
+    },
+    {
+      "description": "Payment - Thank You/Paiement reçu, merci - May 3, 2021",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "42.23",
+      "category": null
+    },
+    {
+      "description": "Water Heater Rental/Location chauffe-eau\nde\nHarmonisée",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "37.37",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "42.23",
+    "tax": "4.86",
+    "discount": "",
+    "total": "42.23"
+  },
+  "payment_instructions": {
+    "due_date": "05/08/2021",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 13.064,
+  "file_size_bytes": 147588
+}

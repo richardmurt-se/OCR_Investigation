@@ -1,0 +1,56 @@
+{
+  "filename": "124890784.pdf",
+  "invoice": {
+    "client_name": "MASTERBRAND CABINETS, INC",
+    "client_address": "118 LEXINGTON PKWY\nLEXINGTON NC 27295-8524",
+    "seller_name": "EnergyUnited.",
+    "seller_address": "PO Box 1831. Statesville, NC 28687-1831.",
+    "invoice_number": "",
+    "invoice_date": "19/12/2019",
+    "due_date": "16/01/2020"
+  },
+  "items": [
+    {
+      "description": "Energy Charges",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "19 079.92",
+      "category": null
+    },
+    {
+      "description": "",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    },
+    {
+      "description": "M26-5AHP:P40-5 159:OH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "24.11",
+      "category": null
+    },
+    {
+      "description": "K126-5AHP: 159 OH",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "19.81",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "24 673.87",
+    "tax": "1 727.17",
+    "discount": "",
+    "total": "26 037.09"
+  },
+  "payment_instructions": {
+    "due_date": "16/01/2020",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 9.879,
+  "file_size_bytes": 63867
+}

@@ -1,0 +1,8 @@
+{
+  "filename": "055_unusual_format_sidebar.jpeg",
+  "model_name": "glm-ocr",
+  "raw_text": "INVOICE\n\nINVOICE NO\nINV/247501\n\nISSUE DATE\n03/09/2025\n\nDEE DATE\n02/14/2026\n\nSUBTARY\nSubtotal 9 917.69\nTax 991.77\nDiscount -495.88\n\nTOTAL 10 413.58\n\nBANK\nKeith-Brown Bank\n\nACCOUNT\nHWGE74499119122777\n\nFROM\nCurtis-Adams\n8833 Scott Islands Apt. 716\nEast Herbertview, FL 03414\n\nTO\nJohnson, Kelly and Bailey\n643 Gibson Branch Apt. 067\nNorth Rebeccaton, AR 65932\n\nLINE ITEMS\n\n01 Focused heuristic process improvement x9.00 1 431.63\n02 Profit-focused 3rdgeneration forecast x5.00 91.75\n03 Diverse radical software x2.00 388.86\n04 Organized next generation focus group x5.00 1 969.75\n05 Switchable logistical policy x10.00 3 826.40\n06 Business-focused optimizing database x10.00 2 209.30\n\nNote: Payment is due upon receipt. Please reference invoice number INV/247501 on all correspondence.",
+  "processing_time_seconds": 46.735,
+  "file_size_bytes": 73790,
+  "success": true
+}

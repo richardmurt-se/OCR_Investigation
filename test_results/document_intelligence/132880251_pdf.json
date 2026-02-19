@@ -1,0 +1,91 @@
+{
+  "filename": "132880251.pdf",
+  "invoice": {
+    "client_name": "CHURCH OF JESUS CHRIST",
+    "client_address": "PO BOX 182764\nCOLUMBUS OH 43218-2764",
+    "seller_name": "Black Hills Energy",
+    "seller_address": "PO BOX 6001\nRAPID CITY SD 57709-6001",
+    "invoice_number": "",
+    "invoice_date": "31/12/2020",
+    "due_date": "15/01/2021"
+  },
+  "items": [
+    {
+      "description": "Gas Service",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "373.02",
+      "category": null
+    },
+    {
+      "description": "Fees/Adjustments",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-10.31",
+      "category": null
+    },
+    {
+      "description": "Customer Charge",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "26.45",
+      "category": null
+    },
+    {
+      "description": "Commodity 545 therms",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "91.74",
+      "category": null
+    },
+    {
+      "description": "PGA 545 therms",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "227.70",
+      "category": null
+    },
+    {
+      "description": "Gas Hedge Factor 545 therms",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "0.00",
+      "category": null
+    },
+    {
+      "description": "WNA 545 therms",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "4.70",
+      "category": null
+    },
+    {
+      "description": "AVTS 545 therms",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "-1.56",
+      "category": null
+    },
+    {
+      "description": "GSRS\nFranchise Fee 545 therms",
+      "quantity": "",
+      "unit_price": "",
+      "total_price": "",
+      "category": null
+    }
+  ],
+  "subtotal": {
+    "subtotal": "",
+    "tax": "",
+    "discount": "",
+    "total": "362.71"
+  },
+  "payment_instructions": {
+    "due_date": "15/01/2021",
+    "bank_name": "",
+    "account_number": "",
+    "payment_method": ""
+  },
+  "processing_time_seconds": 7.591,
+  "file_size_bytes": 112114
+}

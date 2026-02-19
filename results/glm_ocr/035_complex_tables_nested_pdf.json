@@ -1,0 +1,8 @@
+{
+  "filename": "035_complex_tables_nested.pdf",
+  "model_name": "glm-ocr",
+  "raw_text": "Barnes, Morales and Stevens\n615 Tara Roads Apt. 269 | West Jennifer, WV 37865\n\nNo: 56098395\nDate: 08/26/2024\n\nBILL TO:\nDavis Group\nPSC 5024, Box 0709\nAPO AE 20466\n\nSHIP TO:\nDavis Group\nPSC 5024, Box 0709\nAPO AE 20466\n\n# SKU Description & Details Category Qty Unit Tax Total\n1 SKU-01000 Right-sized modular benchmark | Model: Ehb-1626, Serial: 8011122191 Services 10.00 466.40 10% 4 664.00\n   Spec: Wide Note\n   Model: MXL-0100 Standard\n   Serial: 9H00010000 Verified\n\n2 SKU-02000 Cross-group homogeneous strategy | Model: Mow-2807, Serial: 5384151900 Consulting 4.00 14.77 10% 59.08\n   Spec: Wide Note\n   Model: MXL-02000 Standard\n   Serial: 9H000030000 Verified\n\n3 SKU-03000 Seamless cohesive projection - 80X32B, 5\" display Services 5.00 188.94 10% 934.70\n   Spec: Wide Note\n   Model: MXL-03000 Standard\n   Serial: 9H000030000 Verified\n\nSection Subtotal:\n5 657.78\nTax (10%): 565.78\nShipping: 0.00\nTOTAL DUE 6 223.56\n\nPayment: Paul-Olwen Financial | Account: HUKV75518130769748",
+  "processing_time_seconds": 33.867,
+  "file_size_bytes": 142161,
+  "success": true
+}
